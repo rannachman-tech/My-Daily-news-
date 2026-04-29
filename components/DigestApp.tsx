@@ -9,10 +9,9 @@ import { Hero } from "./Hero";
 import { TopicFilter } from "./TopicFilter";
 import { NewsCard } from "./NewsCard";
 import { Footer } from "./Footer";
-import { ALL_TOPIC_IDS } from "@/lib/topics";
 
 const DEFAULT_PREFS: Prefs = {
-  topics: ALL_TOPIC_IDS,
+  topics: [],
   theme: "system",
   window: "24h",
   hideRead: false,
@@ -37,12 +36,12 @@ export function DigestApp({ feed }: Props) {
   }, [prefs, hydrated]);
 
   const filtered = useMemo(() => {
-    const selected = new Set(prefs.topics);
+    const topicFilter = new Set(prefs.topics);
+    const filterActive = topicFilter.size > 0;
     return feed.clusters
-      .filter((c) => selected.has(c.topic))
+      .filter((c) => (filterActive ? topicFilter.has(c.topic) : true))
       .filter((c) => withinWindow(c.published_at, prefs.window))
       .sort((a, b) => {
-        // primary: weight desc, secondary: recency desc
         if (b.weight !== a.weight) return b.weight - a.weight;
         return new Date(b.published_at).getTime() - new Date(a.published_at).getTime();
       });
@@ -51,20 +50,12 @@ export function DigestApp({ feed }: Props) {
   const heroClusters = filtered.slice(0, 5);
   const gridClusters = filtered;
 
-  function toggleTopic(topic: TopicId) {
-    setPrefs((p: Prefs) => {
-      const set = new Set(p.topics);
-      if (set.has(topic)) set.delete(topic);
-      else set.add(topic);
-      // never allow zero topics — fall back to all
-      const next = set.size === 0 ? ALL_TOPIC_IDS : Array.from(set);
-      return { ...p, topics: next };
-    });
+  function setTopics(topics: TopicId[]) {
+    setPrefs((p: Prefs) => ({ ...p, topics }));
   }
 
   function setTheme(theme: Prefs["theme"]) {
     setPrefs((p: Prefs) => ({ ...p, theme }));
-    // apply immediately
     const resolved =
       theme === "system"
         ? window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -85,21 +76,20 @@ export function DigestApp({ feed }: Props) {
         theme={prefs.theme}
         onThemeChange={setTheme}
       />
-
       <main className="flex-1 w-full">
-        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 pb-16">
           {heroClusters.length > 0 && <Hero clusters={heroClusters} />}
 
-          <div className="mt-8 sm:mt-10 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
-            <TopicFilter selected={prefs.topics} onToggle={toggleTopic} />
+          <div className="mt-10 sm:mt-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b border-border pb-4">
+            <TopicFilter selected={prefs.topics} onChange={setTopics} />
             <WindowToggle value={prefs.window} onChange={setWindow} />
           </div>
 
-          <div className="mt-6">
+          <div className="mt-8">
             {gridClusters.length === 0 ? (
               <EmptyState />
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-10">
                 {gridClusters.map((c) => (
                   <NewsCard key={c.id} cluster={c} />
                 ))}
@@ -108,7 +98,6 @@ export function DigestApp({ feed }: Props) {
           </div>
         </div>
       </main>
-
       <Footer generatedAt={feed.generated_at} />
     </div>
   );
@@ -127,20 +116,20 @@ function WindowToggle({
     { id: "week", label: "Week" },
   ];
   return (
-    <div className="inline-flex items-center rounded-lg border border-border bg-surface p-0.5 self-start sm:self-auto">
+    <div className="inline-flex items-center gap-px rounded-md bg-surface-2 p-0.5 self-start sm:self-auto">
       {opts.map((o) => (
         <button
           key={o.id}
           type="button"
           onClick={() => onChange(o.id)}
-          className={`focus-ring px-3 py-1 text-xs font-medium rounded-md transition-colors ${
+          className={`focus-ring px-2.5 py-1 text-[11px] font-mono tracking-wide rounded-[5px] transition-all ${
             value === o.id
-              ? "bg-surface-2 text-fg"
+              ? "bg-bg text-fg shadow-[0_0_0_1px_rgb(var(--border))]"
               : "text-fg-muted hover:text-fg"
           }`}
           aria-pressed={value === o.id}
         >
-          {o.label}
+          {o.label.toUpperCase()}
         </button>
       ))}
     </div>
@@ -149,10 +138,10 @@ function WindowToggle({
 
 function EmptyState() {
   return (
-    <div className="rounded-xl border border-border bg-surface p-10 text-center">
+    <div className="py-20 text-center">
       <p className="text-fg font-medium">Nothing in this window.</p>
       <p className="mt-1 text-sm text-fg-muted">
-        Try expanding the time range or selecting more topics.
+        Try a wider time range or different topics.
       </p>
     </div>
   );
