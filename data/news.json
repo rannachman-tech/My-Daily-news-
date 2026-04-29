@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-04-29T18:59:17.871Z",
+  "generated_at": "2026-04-29T23:14:37.095Z",
   "clusters": [
+    {
+      "id": "evt_3b093133ea338c7b",
+      "topic": "politics",
+      "headline": "Ukraine asks Israel to seize grain ship",
+      "summary": "Ukraine asks Israel to seize a vessel. The vessel is carrying grain allegedly stolen by Russia.",
+      "published_at": "2026-04-29T20:32:11.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenNVcWppel9qd3FwREwtZkM5SjZkTnUyY2FEWGtEdmpyRjhydk1jVjlweHJXWXhsM3BNTUt3X0VlUDNraWRtUkRRS051aGR0RUtRLW5YTGU5Um5PRTV1SGNHOEtJeEdVUG5fTTZmVmpldm1YRjBvZU9mdm9zRi1Pa2lnSEpmVGRhaFZ3Tm82RWVyTWVVamhNYzhXRFpfVS03OGZ6ZWtDZTZfLXMtRHhRRkVVSWZ0SW42X0wyeERnSEM3UQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.892
+    },
+    {
+      "id": "evt_50e4667edafb2f1a",
+      "topic": "crypto",
+      "headline": "Celsius founder banned from crypto",
+      "summary": "Alex Mashinsky reaches $10 million settlement. He is banned from the crypto industry.",
+      "published_at": "2026-04-29T19:39:10.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/366077/celsius-founder-alex-mashinsky-banned-crypto-industry-10m-ftc-settlement",
+          "homepage": "https://decrypt.co"
+        },
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399421/celsius-founder-alex-mashinsky-hit-4-7-billion-ftc-judgement-lifetime-crypto-ban",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.87,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/06/celsius-alex-mashinsky-decrypt-style-scaled-gID_7.jpg"
+    },
     {
       "id": "evt_72fe74956463c89e",
       "topic": "politics",
@@ -46,15 +89,15 @@
       "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/1432b3fbaef870296b2ce91a31bbd2c6d5678548-4240x2832.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_68a121995191cda1",
+      "id": "evt_016096dd214f2155",
       "topic": "finance",
-      "headline": "Fed holds rates steady",
-      "summary": "Fed holds rates steady. Highest dissent since 1992.",
-      "published_at": "2026-04-29T18:55:57.000Z",
+      "headline": "Microsoft forecasts $190B spending",
+      "summary": "Microsoft forecasts $190 billion spending. The spending is for 2026 capital.",
+      "published_at": "2026-04-29T23:11:34.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+          "url": "https://cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
@@ -62,185 +105,420 @@
       "weight": 0.779
     },
     {
-      "id": "evt_306eea9d557c167e",
+      "id": "evt_e1a79bb3a3526f64",
+      "topic": "finance",
+      "headline": "Alphabet stock gains",
+      "summary": "Alphabet's stock rose. Earnings beat projections.",
+      "published_at": "2026-04-29T23:04:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/why-alphabets-stock-is-the-standout-gainer-on-big-techs-monster-earnings-day-bb49b193?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://images.mktw.net/im-86637311"
+    },
+    {
+      "id": "evt_c87efc64ce12b9d7",
       "topic": "ai",
-      "headline": "Anthropic bug causes charge",
-      "summary": "Anthropic bug causes extra charge. Refund refused.",
-      "published_at": "2026-04-29T18:54:31.000Z",
+      "headline": "Microsoft Copilot users",
+      "summary": "Microsoft Copilot has users. Engagement is growing.",
+      "published_at": "2026-04-29T23:02:23.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/anthropics/claude-code/issues/53262",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_b41c8d1a7daf32ae",
-      "topic": "politics",
-      "headline": "Supreme Court Ruling",
-      "summary": "The Supreme Court weakened a landmark law. It aids GOP efforts.",
-      "published_at": "2026-04-29T16:27:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObnEzUUZrQWdtSXNpcEVTVDk0bUg1b1ZBNFRRZ1doYzBnYjkxdUtCanJGMC1LM0NsS0oxdFlEM2ZyTW1EZHZJczF5QkJNQ25pdzB1NURyZnZPWHp6TDVLX3ViNXgtS0c5bEZmNUlxR3NoY1pJWFhrLXdHb0NGY3BSSExvSEZkdGFaMF9tQkxUNG9odmVETGFNVldWeE1oYkRqOVZTRXhUaW5xSVdyYzVKczBYRVlaLW1iYzNQU1BMelJzOUE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_978b353129809747",
-      "topic": "finance",
-      "headline": "Comey Indicted",
-      "summary": "James Comey was indicted. He plans to challenge it.",
-      "published_at": "2026-04-29T18:53:02.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/james-comey-trump-threat-indictment-seashells.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_650cd73f464cb19e",
-      "topic": "finance",
-      "headline": "Powell to Stay",
-      "summary": "Jerome Powell will stay on as Fed governor. He called Trump criticism unprecedented.",
-      "published_at": "2026-04-29T18:52:16.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_0e8237705b17300a",
-      "topic": "politics",
-      "headline": "UK Laws Risk",
-      "summary": "UK laws may overreach. Watchdog warns against targeting activist groups.",
-      "published_at": "2026-04-29T18:51:01.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_460c8cab1ecaaa46",
-      "topic": "finance",
-      "headline": "Wall Street extends losses",
-      "summary": "Wall Street extends losses. Fed decision impacts market.",
-      "published_at": "2026-04-29T18:49:38.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/wall-street-futures-mixed-ahead-of-big-tech-earnings-fed-meeting-4644012",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0K5_L.jpg"
-    },
-    {
-      "id": "evt_aefbb6a7d9b662cd",
-      "topic": "finance",
-      "headline": "US core capital goods orders rise",
-      "summary": "US core capital goods orders increase. AI spending drives growth.",
-      "published_at": "2026-04-29T18:49:21.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/us-core-capital-goods-orders-blow-past-expectations-in-march-4645055",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0Y5_L.jpg"
-    },
-    {
-      "id": "evt_e35f5361b3ec80fb",
-      "topic": "finance",
-      "headline": "Opendoor Technologies filing",
-      "summary": "Opendoor Technologies files Form 13G. Filing made on April 29.",
-      "published_at": "2026-04-29T18:49:00.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-13g-opendoor-technologies-inc-for-29-april-93CH-4646574",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_4b189f792ad71a24",
-      "topic": "finance",
-      "headline": "King Charles visits New York",
-      "summary": "King Charles visited New York. He commemorated 9/11 victims.",
-      "published_at": "2026-04-29T18:48:54.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/king-charles-visits-new-york-to-commemorate-911-victims-4646348",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1BM_L.jpg"
-    },
-    {
-      "id": "evt_23788a16722d01be",
-      "topic": "finance",
-      "headline": "Pershing Square fund debuts",
-      "summary": "Pershing Square fund shares dropped. The debut was highly anticipated.",
-      "published_at": "2026-04-29T18:48:35.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/ackmans-pershing-square-new-fund-set-to-list-in-hotly-anticipated-debut-4644320",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0PU_L.jpg"
-    },
-    {
-      "id": "evt_c85e8e319d5c0889",
-      "topic": "business",
-      "headline": "Biogen revenue grows",
-      "summary": "Biogen's growth products lifted revenue. Macro uncertainty had no impact.",
-      "published_at": "2026-04-29T18:48:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHBWYk1QZ3RMWXo2R1lzYlExQV9DRWUwR3FENldqRldYQVdqVENhX0RDbXI1RDFjcWlibUdBdU9JSGZKTU9DdFFJT2JLaU8tbGJZMHNtVTdwaTZjRWRvR0tzeEpmZFh4cVc0Z2dWZnRKMjlHUGtPZGRpcWRYVzBBUmNwclpfYmFjdXc?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it",
+          "homepage": "https://techcrunch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775
+    },
+    {
+      "id": "evt_8a9005572b2c103f",
+      "topic": "finance",
+      "headline": "Family financial dilemma",
+      "summary": "A family faces a dilemma. Mother-in-law is homeless.",
+      "published_at": "2026-04-29T23:00:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://images.mktw.net/im-82049067"
+    },
+    {
+      "id": "evt_70b180d98c48e6c8",
+      "topic": "politics",
+      "headline": "Meta Updates Forecast",
+      "summary": "Meta updates forecast. Shares fall due to legal scrutiny.",
+      "published_at": "2026-04-29T22:58:29.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_9b5d7e1ca5854756",
+      "topic": "politics",
+      "headline": "Qualcomm Stock Rises",
+      "summary": "Qualcomm rises on hopes. Data-center chip push boosts stock.",
+      "published_at": "2026-04-29T22:57:54.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGpONE1haEd0UUVsM194YnJ2amVZckQ4MFRuWnh3VndVRG5KWTc5QXlMS016bmJDZUV3b1NZV0tTZ2dpRG9rOFJXaUs0VlMwLUFYSE1Bc1M4M0xGUlQ2R3F5U2dtd1RRM2ZIcXdhSVUwS2kxMnZXM01pbk1NLW1oZ3ZkeFFzV0h0Rk94SkNtQjZCbEVsTHBJaF9uV2FVNWhXOVp2Uy1KZVUxTmhwdmxvRzcyYnpzdkVJU2phRUhJQW5jNGZhTjVv?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_e41413f354077b24",
+      "topic": "finance",
+      "headline": "Amazon Earnings",
+      "summary": "Amazon earnings beat. Cloud growth is strong.",
+      "published_at": "2026-04-29T22:57:06.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_89be6d6144057087",
+      "topic": "crypto",
+      "headline": "Bitcoin CEOs Discuss Future",
+      "summary": "CEOs discuss Bitcoin's future. They share their vision.",
+      "published_at": "2026-04-29T22:52:50.000Z",
+      "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/strategy-and-blockstream-bitcoins-future",
+          "homepage": "https://bitcoinmagazine.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-3.51.20-PM.png"
+    },
+    {
+      "id": "evt_fb90aa424cb339e9",
+      "topic": "finance",
+      "headline": "Bakkt COO Sells Stock",
+      "summary": "Bakkt COO sells stock. Amount is $21,473.",
+      "published_at": "2026-04-29T22:51:49.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/insider-trading-news/bakkt-coo-nicholas-baes-sells-21473-in-stock-93CH-4647416",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg"
+    },
+    {
+      "id": "evt_a15c211f13ca0002",
+      "topic": "crypto",
+      "headline": "Morgan Stanley on Bitcoin",
+      "summary": "Morgan Stanley executive talks Bitcoin. Adoption is still early.",
+      "published_at": "2026-04-29T22:50:30.000Z",
+      "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin",
+          "homepage": "https://bitcoinmagazine.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-3.46.14-PM.png"
+    },
+    {
+      "id": "evt_8434dc4b3a9b5ec4",
+      "topic": "politics",
+      "headline": "Amazon Tops Cloud Expectations",
+      "summary": "Amazon's cloud business exceeds expectations. Shares rise due to strong AI demand.",
+      "published_at": "2026-04-29T22:49:44.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_f6c084e602454ba0",
+      "topic": "politics",
+      "headline": "Oil Price Rises",
+      "summary": "Oil price rises above $120. Uncertainty over Middle East war affects crude oil price.",
+      "published_at": "2026-04-29T22:49:19.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg"
+    },
+    {
+      "id": "evt_262532e759206292",
+      "topic": "finance",
+      "headline": "Anthropic Funding Round",
+      "summary": "Anthropic considers new funding. Valuation may exceed $900 billion.",
+      "published_at": "2026-04-29T22:48:33.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-bloomberg-news-reports-4647415",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1PS_L.jpg"
+    },
+    {
+      "id": "evt_2cbd22f95fc6eb4b",
+      "topic": "finance",
+      "headline": "Bancorp Files Form 144",
+      "summary": "Bancorp filed a form. It was filed on April 29.",
+      "published_at": "2026-04-29T22:48:24.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-144-bancorp-for-29-april-93CH-4647414",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg"
+    },
+    {
+      "id": "evt_74b022bd928a9c0d",
+      "topic": "finance",
+      "headline": "Etsy Files Form 144",
+      "summary": "Etsy filed a form. It was filed on April 29.",
+      "published_at": "2026-04-29T22:48:18.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-144-etsy-inc-for-29-april-93CH-4647413",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg"
+    },
+    {
+      "id": "evt_29f65eaf42130d95",
+      "topic": "finance",
+      "headline": "Climb Bio Files Form 13D",
+      "summary": "Climb Bio filed a form. It was filed on April 29.",
+      "published_at": "2026-04-29T22:48:17.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13da-climb-bio-for-29-april-93CH-4647412",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_ff826af1284044e8",
+      "topic": "finance",
+      "headline": "XMax Inc Files Form S-3",
+      "summary": "XMax Inc filed Form S-3. The filing was made on 29 April.",
+      "published_at": "2026-04-29T22:48:15.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-s3-xmax-inc-for-29-april-93CH-4647411",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg"
+    },
+    {
+      "id": "evt_991c30a7f1e577b2",
+      "topic": "finance",
+      "headline": "First Industrial Files Form 13G",
+      "summary": "First Industrial Realty Trust filed Form 13G. The filing was made on 29 April.",
+      "published_at": "2026-04-29T22:46:21.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13g-first-industrial-realty-trust-inc-for-29-april-93CH-4647410",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_2643c823098e9ea5",
+      "topic": "finance",
+      "headline": "GEO Group Files Form 13G",
+      "summary": "GEO Group Inc filed Form 13G. The filing was made on 29 April.",
+      "published_at": "2026-04-29T22:45:45.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13g-geo-group-incthe-for-29-april-93CH-4647409",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_f181333220b8c3e5",
+      "topic": "finance",
+      "headline": "Exxon Mobil 13G Filing",
+      "summary": "Exxon Mobil files form 13G. The filing is for April 29.",
+      "published_at": "2026-04-29T22:45:32.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13g-exxon-mobil-corp-for-29-april-93CH-4647408",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_68decd6f3e47a22a",
+      "topic": "finance",
+      "headline": "Cramer on Tech Stocks",
+      "summary": "Jim Cramer discusses tech stocks. A shortage is needed for them to rally.",
+      "published_at": "2026-04-29T22:45:30.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_1c94cd369e290f44",
+      "topic": "finance",
+      "headline": "Glacier Bancorp 13G",
+      "summary": "Glacier Bancorp files form 13G. The filing is for April 29.",
+      "published_at": "2026-04-29T22:45:29.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13g-glacier-bancorp-inc-for-29-april-93CH-4647407",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_e257259a74f55eba",
+      "topic": "crypto",
+      "headline": "Dorsey, Jarecki Team Up",
+      "summary": "Jack Dorsey and Eugene Jarecki collaborate. They bring a Julian Assange documentary.",
+      "published_at": "2026-04-29T22:43:41.000Z",
+      "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-jack-dorsey-eugene-jarecki",
+          "homepage": "https://bitcoinmagazine.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-3.42.23-PM-scaled.png"
+    },
+    {
+      "id": "evt_0769f3ef77524bff",
+      "topic": "ai",
+      "headline": "Monero Transactions",
+      "summary": "View transactions sent. Search Monero blocks.",
+      "published_at": "2026-04-29T22:41:37.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_8a7cf1196de99182",
+      "topic": "business",
+      "headline": "Brazil Cuts Rates",
+      "summary": "Brazil's Central Bank cuts. Next move is unclear.",
+      "published_at": "2026-04-29T22:41:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1JMU52MVRGN0VQLWNFaEo2T2RscmlzdDdLdWI3N0p6b1hvRGdrb2VxekhGMm9TVWNreGZGOFZGdGZFNEpMZ0ZFbmpWcU5fRmdTS2k3cVFzUGY3aTQ1Mkk1NVNDTVlWZ3l4UmR3UUpJbV9QTG9ZMVJYakJDX05zdTFwMy1LaDJBZWpkQXRpRjN4YTVISnFjWS1BMm5MS0IwNk8wbW8tb3NrMmV4M1Y1NUdpbzdsRDNJMnNFRQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_33d268caf5511ced",
+      "topic": "finance",
+      "headline": "Qualcomm Shares Rise",
+      "summary": "Qualcomm shares rose. CEO comments boosted stock.",
+      "published_at": "2026-04-29T22:35:57.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
     },
     {
       "id": "evt_1c9c3b9bada9b796",
@@ -260,577 +538,85 @@
       "image_url": "https://images.mktw.net/im-40821138"
     },
     {
-      "id": "evt_83620f2afbb99f9c",
+      "id": "evt_d78ac3bd534216ad",
       "topic": "politics",
-      "headline": "King Charles in NY",
-      "summary": "King Charles III visits NY. He honors 9/11 victims.",
-      "published_at": "2026-04-29T18:47:00.000Z",
+      "headline": "Carney Review",
+      "summary": "Canada's prime minister reviewed. Foreign policy was refocused.",
+      "published_at": "2026-04-29T22:33:16.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JDcTM3d0xGVTZwUW1rRUlyeTdEaE0yZ05zYk5qMWozS3lMT0YyVDZ3ZTE2aXlNbngtdm9DMFNjdl9MY3dvcmtQQm9KNFlqU01hVUJWOXVVa3RQZlVwcmNwZ3RzZUpOeFYwd1V6QTVCWWIwVjNhYk1LMVdFZHFpYklOMmNfS2JYTEhSN2puVTlYVDVRcklqdE91eGNKSEFS?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.763
     },
     {
-      "id": "evt_159994fb6733755b",
+      "id": "evt_2f78afb336ea9c35",
       "topic": "finance",
-      "headline": "Privia Health update",
-      "summary": "Privia Health update. No details given.",
-      "published_at": "2026-04-29T18:46:19.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-13g-privia-health-group-inc-for-29-april-93CH-4646573",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_2d78e816bce79a67",
-      "topic": "finance",
-      "headline": "Noble Corp PLC Filing",
-      "summary": "Noble Corp PLC filed a Form 13G. The filing was made on 29 April.",
-      "published_at": "2026-04-29T18:46:06.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-13g-noble-corp-plc-for-29-april-93CH-4646572",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_3b94afb02287a887",
-      "topic": "finance",
-      "headline": "West Tower Group Filing",
-      "summary": "West Tower Group filed a Form 13F. The filing was made on 29 April.",
-      "published_at": "2026-04-29T18:45:48.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-13f-west-tower-group-for-29-april-93CH-4646570",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_b3f1def6bbce42ae",
-      "topic": "finance",
-      "headline": "Trump Talks to Iran",
-      "summary": "Trump is talking to Iran by phone. The call's details are not specified.",
-      "published_at": "2026-04-29T18:45:46.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/trump-says-talking-to-iran-by-phone-93CH-4646569",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg"
-    },
-    {
-      "id": "evt_2aed70d60187ad64",
-      "topic": "politics",
-      "headline": "Comey Charged",
-      "summary": "Comey faces charges. He posted a threatening message.",
-      "published_at": "2026-04-29T18:40:39.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e34/live/becbd370-43fa-11f1-b55d-0f258dce1735.jpg"
-    },
-    {
-      "id": "evt_38928a6a69a737fb",
-      "topic": "business",
-      "headline": "Tusker Minerals",
-      "summary": "Tusker Minerals cash flow. Annual report available.",
-      "published_at": "2026-04-29T18:40:27.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VExoZlQzZ3JOQ0lMYWVMeDJCYWN4cmlhdGFKdld0SHlWcTN2dGZmRFFzTU93Mmg5VDJieWRuTEtlQkxwU0xleXJ3bTB2Qkk0TjQtUUVWdy1WWlVNdVIyckRNTXVsQ0pEMEV5U2FydEdiNHN3WExKWk5UVDk?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_2252d5663dadd67b",
-      "topic": "finance",
-      "headline": "PayPal Restructures",
-      "summary": "PayPal restructures Venmo. Seeks growth and buyers.",
-      "published_at": "2026-04-29T18:38:40.000Z",
+      "headline": "Alphabet Ups Capex",
+      "summary": "Alphabet increased capex. Cloud revenue is booming.",
+      "published_at": "2026-04-29T22:32:26.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html",
+          "url": "https://cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
           "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_c89b14981f0d62de",
-      "topic": "ai",
-      "headline": "Parallel Web Systems valued at $2B",
-      "summary": "Parallel Web Systems hits $2B valuation. The AI startup raised $100 million.",
-      "published_at": "2026-04-29T18:33:05.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_c373b3146c744359",
-      "topic": "politics",
-      "headline": "Democrats Confront Hegseth",
-      "summary": "Democrats confront Hegseth. It's their first meeting since the Iran war started.",
-      "published_at": "2026-04-29T16:06:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGJSeEdBOGh3a2ZZMWp6eDVTQ1hDS2FxdW50NGFkaHgyc19jbDU2d1ZwZm1tRHlUbGxZLW94UmlHQnNlck5LRUpubE9xbHlhU1NkTDB4eW45QkdCUllFaUQ4TlNfUzVLUlB6SXNhZ19hc04tUDlTWDBIUE8yTGlPYkVTdkZTa1lTN2JfcU45dVd3NjNIcFBrTDJ4dTJ1LXR1U0dVdXhMZW1YNDg?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_b696e89b4ce6f489",
-      "topic": "crypto",
-      "headline": "KuCoin EU hires AML chief",
-      "summary": "KuCoin EU hires new AML chief. This is after Austria's ban on new business.",
-      "published_at": "2026-04-29T18:32:59.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/kucoin-eu-hires-new-aml-chief-after-austria-ban-on-new-business-under-mica",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0dpdmluZy1PZmYtb2ZmaWNlLUIuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg"
-    },
-    {
-      "id": "evt_eb652cff6919c561",
-      "topic": "crypto",
-      "headline": "White House considers Anthropic",
-      "summary": "White House weighs reinstating Anthropic. This is amid Pentagon restrictions.",
-      "published_at": "2026-04-29T18:32:34.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg"
-    },
-    {
-      "id": "evt_c93f969509400cd5",
-      "topic": "business",
-      "headline": "Supreme Court Limits Voting Districts",
-      "summary": "The Supreme Court has limited the use of race in drawing voting districts. This decision affects voting district boundaries.",
-      "published_at": "2026-04-29T18:31:39.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTE1vNHRzLUxuMmRCSGdCb1FGUDJUTkxxbF91TVdUUTRVVi1hbTFUVjNISk1PTWU4RHliU1NIMExLWFRqUGQ2YTc4UGY0eXNZZ1Vxd2lNT2xyWE03MjVqSXlURmUtenNteW9iVVFMMGt4Q0N1NkNhbHZpTUVUcVBMNGVBMnRrMnQwZkFTYjRUTFBUelg2Z1Fhc21WUGhvM3B6Y2Q1UkZfZnRucEl1MHlJ?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_9d0624df99546e1a",
-      "topic": "business",
-      "headline": "Treasury Yields Rise",
-      "summary": "Treasury yields rise. This is ahead of Fed decision.",
-      "published_at": "2026-04-29T16:20:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkdFVTJNODBtWHNEdkRMSV9MT3U5d2tJUV9QZ1labnpSNnZERW5TbEdJclY5MjNsRTV4aWUyOHo1SVdEeUpIMEtLWU83NHIwd29SZy1IQ2JaeXFLWkdsalZfVVd2VDRXcmhCZmpFNGpSUmtkTkUxQTA3bjZFX1hNTS1tSzF1QkV2VXFfUXVXSVd2amhhMVlsVnVPMHRUdl80QnBZ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_c76960ed2dc2c4e6",
-      "topic": "crypto",
-      "headline": "JPMorgan Blockchain Chief",
-      "summary": "JPMorgan's new blockchain chief warns tokenization does not equal liquidity. He believes the technology can replace legacy systems.",
-      "published_at": "2026-04-29T18:29:12.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/04/29/jpmorgan-s-new-blockchain-chief-warns-that-tokenization-does-not-equal-liquidity",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/6ffcdf5b6830f4d5c76c506f25f2e94f89eeb7dc-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_49b3ddf8078f3b49",
-      "topic": "politics",
-      "headline": "US War in Iran Costs",
-      "summary": "The US war in Iran has cost $25 billion so far. A Pentagon official reported this cost.",
-      "published_at": "2026-04-29T18:29:09.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pxNmpQTG80bzB6MDFrTi1IcHBXZEZEc2hoNEc5bTZ2cFllZ3ExcWZYSzVaVGJmbGVra0plRDFVdlUxX0VDM0hxSGdiTzE1M3hXaXg4allzazM4SllWUkU3RDBBZVg4YTRaRzZLVkhqS3VlSE50blp1UVpOdGt1VWNzVmpseGtmdXY5SFJxLWJBcWZpWFllMGJ1dVpJUmtQbVJXVF9ndFNVc2VENmk3ZjRkbUpJQQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_3fc9593cfddac79a",
-      "topic": "politics",
-      "headline": "Zambia Faces US Trade Deadline",
-      "summary": "Zambia must decide on US mineral access. Deadline is April 30.",
-      "published_at": "2026-04-29T18:28:10.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/2026/4/29/is-the-us-forcing-zambia-to-trade-minerals-for-lives?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_e0093229ab2a8508",
-      "topic": "politics",
-      "headline": "China Demotes Financial Head",
-      "summary": "Li Yunze is demoted. Sources confirm the move.",
-      "published_at": "2026-04-29T18:27:39.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkwtbVRGVXJqeFZiOGtkd2ZueV9tRThXRnpLem9fd2RrYWkyUEhkOWdPSnBBMWpYbEJ0MGtnR2ViSks2WnNiMDRrYXRFdTg4eVhZRWV5NnpqYXlMRnhfbGlqNFdBTXBYaFJLMy1mVzB2dV9BemZ5N1NBckNDREdTQlMxQWgwQnZLMzVrVWlOOHpXMFRsRlVtYjY3S0lIQ2FMaXhabXRPUExKdElNOGZDU252VVAza1E?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_5d3ded2889f6888a",
-      "topic": "politics",
-      "headline": "Senegal HIV Patients Fear Arrest",
-      "summary": "HIV patients skip treatment. Anti-LGBTQ crackdown is the reason.",
-      "published_at": "2026-04-29T18:25:50.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXpjWDRTUXJaUGM1dnFfbEloXzZ6d1ZPNUFQdzhjZ1F4dVdRLV9uMlBiQjE2OWlrZ0tPR3AwMDV0YzloQWhzVC1oN0gtdjZ5T2ZKVkxIV3QzNlplU1pQQUs3b1VOVEZ1eXpxTWFqclFRRW05R1dyMEJpNmd6RkdRSThKd2VWSmZzZnJlbzBBSWt1aVVHcHJMNjZtcFQ4MnF0MEt1bFZrTW5tdTAyVGRQQWU3RVluYXEyT3lUNFdqaVdGZXc?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_9c1aeed29fc391da",
-      "topic": "politics",
-      "headline": "US Fed Holds Rates Steady",
-      "summary": "The US Fed held interest rates steady. Rates remain at 3.5-3.75 percent.",
-      "published_at": "2026-04-29T18:22:29.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/4/29/us-fed-holds-rates-steady-in-powells-final-meeting-as-fed-chair?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_25ae552aaa58d968",
-      "topic": "business",
-      "headline": "KPMG Layoffs",
-      "summary": "KPMG is laying off staff. 4% of US advisory workforce will be cut.",
-      "published_at": "2026-04-29T18:22:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjh3NzRiYXlLaFVMcDBTbVJGY1ppaWcwYk5SZE1PSzJFS1c3dk1qVTBiSnJ6MXJRSEhZMXlGTGVWc3VPZDV0Vm8yTFN6YURMaWdKZGZzVDZlSjVVd2VFTlQxWVlxcjRpX2NQVGRJUm04TWJSMjNCSEpGN3ZEaHd3VnpEd3JRRF9XMkNZNw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_385537b8050fbe68",
-      "topic": "finance",
-      "headline": "Shake Shack Challenges McRib",
-      "summary": "Shake Shack has a new sandwich. It may rival the McRib.",
-      "published_at": "2026-04-29T18:20:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/can-shake-shacks-new-sandwich-challenge-the-mcrib-one-of-the-most-celebrated-items-in-fast-food-history-f991a4b2?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://images.mktw.net/im-16106663"
-    },
-    {
-      "id": "evt_02e17e834669c516",
-      "topic": "crypto",
-      "headline": "Crypto Inflection Point",
-      "summary": "Crypto's future is decided. Wall Street and Washington are involved.",
-      "published_at": "2026-04-29T18:15:00.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/opinion/2026/04/29/the-tokenization-of-everything-is-no-longer-a-theory",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/a595d17e0b2cc90463f21d7f0eb5cea283714d79-5000x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_59408850632c98f7",
-      "topic": "business",
-      "headline": "PVH Dividend",
-      "summary": "PVH Corp declares dividend. Quarterly cash payout announced.",
-      "published_at": "2026-04-29T18:15:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmxxSWh6bHpPSmhNelhYRUNJUVlZQ3hsT0M1SG5aR0xrYkhMQ2NFT3pHTHRiRVVnaWxqSzV2bTM2SjZ0aGlFUlVlVWNvUFhKaHJwTVY2Y01Zb005WVNlWHVOZV93andyVHN5WE5LUjhpX2h0N25NQTdySjI5SldYVXluWF9xcWRVb2RyZ3hER0dhclVYVENUZHRiY3IwNUVZVGtJMEdB?oc=5",
-          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
       "weight": 0.762
     },
     {
-      "id": "evt_92b5a0c2a186e4f1",
-      "topic": "crypto",
-      "headline": "Crypto Prices Dip",
-      "summary": "Bitcoin and Ethereum prices drop. Fed holds rates steady.",
-      "published_at": "2026-04-29T18:14:42.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/06/J-Powell-1-gID_7.png"
-    },
-    {
-      "id": "evt_6b383218d0d54919",
+      "id": "evt_1c9045eb1c8509a5",
       "topic": "politics",
-      "headline": "Fed Keeps Rate Unchanged",
-      "summary": "The Federal Reserve kept its key rate unchanged. Four officials dissented.",
-      "published_at": "2026-04-29T18:14:00.000Z",
+      "headline": "Mexican officials accused",
+      "summary": "Mexican officials accused of aiding drug trafficking. A US indictment has been issued.",
+      "published_at": "2026-04-29T22:26:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01LUUZwSy1jQUlDM3JaSVhKX1dBRU9qOWNuV3BORFVkaXlqNWlsZUEzUkJHcTh6ajBMRVFRbFhtRUNQa1JFWEdwWVNpNmZvOVZXVW5sbmF5Z0hrakdMaUV6Y293RGIxSGRxQ21FVG44M0hNM3lHUGhKNXYzb3lQNlYwZnozVE0wTFJRTTBLcy02b1JxV1VTaTlxcTBwanE3MGNubTJ2dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcktFRXhpMlRaNVhIZmdUNWNPZE1Wa1hIQ3JEYXNvT1N3TGVJNUV1U19UcExiQ1NNLXBVeEM2ZEIxcldMVHRkR1E1Q1ZuOUpieTFRUnRxSFB6X3lhWlRaQmZ2VGJnYS0tUk5vc0h6ck1KT2Y2Q0ZENmlLNkJRTHRYQzFheERLWTZ3VXR5dDBxNkZJZw?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.761
+      "weight": 0.76
     },
     {
-      "id": "evt_812bf4a634194c87",
-      "topic": "ai",
-      "headline": "Copy Fail",
-      "summary": "Copy fail reported. Details at copy.fail.",
-      "published_at": "2026-04-29T18:13:53.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://copy.fail",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_7c27dfba356e9cc7",
-      "topic": "politics",
-      "headline": "Families Sue OpenAI",
-      "summary": "Families sue OpenAI. The lawsuit is in a US court.",
-      "published_at": "2026-04-29T18:13:20.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_584676afdd639cbd",
-      "topic": "finance",
-      "headline": "Pershing Square IPO",
-      "summary": "Pershing Square starts trading. The IPO tests a new investment vision.",
-      "published_at": "2026-04-29T16:32:01.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_e34bc0b576ab488c",
+      "id": "evt_e2a55b7bf0b959ef",
       "topic": "business",
-      "headline": "CPKC Director Elections",
-      "summary": "CPKC announces director election results. The results are now available.",
-      "published_at": "2026-04-29T18:09:00.000Z",
+      "headline": "Powell stays on Fed",
+      "summary": "Powell to remain on Fed Board. Citing legal pressure from Trump.",
+      "published_at": "2026-04-29T22:23:00.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmlsLWI4VFF6cHo4LTE2V0hXTUdmSEpRblhnY1RLQnhTNV9ORDVkNEN2bXFPaTRnS0NSTWNrczllWjloLV9Hd1Vsa2NQOVl3d2V4U3VUNXN6aVJzc0U3aVA5am4tM0FTNEhpWFEtc3ZMU1g0b3VBVWVlYjZCYmdVWmVJUFBTNGpXQ1g4bU54eFB6ZHlQYUZsSg?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_568cfc1c51449d74",
-      "topic": "politics",
-      "headline": "Russia Victory Parade",
-      "summary": "Russia holds Victory Day parade. No military equipment will be used.",
-      "published_at": "2026-04-29T18:08:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWVva3VGdFZVM1E1dGJpZUdUZmFjcjh2VlQ1TEhtcVZZVGJIdmU3U01pZk1ZQ19tY0ZEZUZlc2wyMzZacVExQTlreXYydmhLYy1RMThjbzFJb2hhU3cta2dzakl2c2J6QUVqZk14QWw1TklRWDRicGhNUFRRa2xQUElBRzFTMm5oSTVpczRR?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_befed8cc9353f562",
-      "topic": "politics",
-      "headline": "Porsche Profit Falls",
-      "summary": "Porsche profit falls. Middle East issues contribute to decline.",
-      "published_at": "2026-04-29T18:05:46.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1BjbXV1Y2Nfa1RRVXpDNUVHRFF5dG1vZWJka0JSWDFYd1h4RndWVFI1Ul9tamh0SWJaS0NqVUxKNG5xLU9jNWMwdENyOFRjTTBoQW14T2lRWjhxRVJaT1BqSHNlMUFOMWhGSDI0R19BQ3RtWktkQWNkMlRBeDNSWkZJNFk2OWJmYjFIemNKNnltZGVRZ05nUXQ0V1BJRDE5eDRnSlJSbmx0ckhmbXdPQ01mTUlJRGQyWUF1dmhCbk9RbzA?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.758
     },
     {
-      "id": "evt_161564589a4af0cf",
-      "topic": "finance",
-      "headline": "Fed Holds Rates Steady",
-      "summary": "Fed keeps interest rates steady. Affects credit cards and loans.",
-      "published_at": "2026-04-29T18:03:19.000Z",
+      "id": "evt_5f55a1985279cb0f",
+      "topic": "crypto",
+      "headline": "Bitcoin price stalls",
+      "summary": "Bitcoin recovery stalls. Fed holds interest rates due to uncertainty.",
+      "published_at": "2026-04-29T22:22:54.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/fed-interest-rates-april.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east",
+          "homepage": "https://cointelegraph.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_ee0e8f54eea34f8d",
-      "topic": "ai",
-      "headline": "Musk v Altman Trial",
-      "summary": "Musk v Altman trial underway. Evidence revealed in court.",
-      "published_at": "2026-04-29T18:03:05.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_c71f700201b0fc4c",
-      "topic": "ai",
-      "headline": "Howdy Streaming Service",
-      "summary": "Howdy has 1M subscribers. Most keep their subscriptions.",
-      "published_at": "2026-04-29T18:02:20.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-1152x648.jpg"
+      "weight": 0.758,
+      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3N0b3AlMjByZWd1bGF0aW9uJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg"
     },
     {
       "id": "evt_93619791e7eaf757",
@@ -850,153 +636,379 @@
       "image_url": "https://images.mktw.net/im-91829718"
     },
     {
-      "id": "evt_75247462834e2a1b",
-      "topic": "crypto",
-      "headline": "Senator on Clarity Act",
-      "summary": "Senator Thom Tillis. The act is ready.",
-      "published_at": "2026-04-29T18:00:54.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/news-analysis/2026/04/29/u-s-senator-holding-cards-on-clarity-act-s-next-move-says-it-s-ready-to-get-to-hearing",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/dcfc91ca7c57af4f7e08933d29c6f9a716b83ad6-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_8cb700cb79fde59e",
-      "topic": "business",
-      "headline": "Fed Holds Rates",
-      "summary": "Fed decision. Rates are steady.",
-      "published_at": "2026-04-29T18:00:01.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3hQTWZKOWwtUHFibjVudnd2d3dmYW1mbTFDTFZYMXMzWmJBQUpaU21CcEFnZGNXM05ONWVTakV5ZnRUNkNtY1lMQXNwaEtGZVQxamJrV0YwY3JqRUQzUXVWVk9PTmxYNGlSY01VUHBXTnl5RWQ4MnIzZXR4MGwxSVM4X2l1VXd3Q2NOd3p6UnZZODlYdXYwVG51aEswTjhpMHZId3VB?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755
-    },
-    {
-      "id": "evt_b64d948611a7b905",
-      "topic": "crypto",
-      "headline": "Realmint Launches",
-      "summary": "Realmint launched. It helps retail investors access RWAs.",
-      "published_at": "2026-04-29T18:00:00.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/press-releases/realmint-launches-to-give-retail-investors-a-smarter-way-into-rwas",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3ByJTIwKDEpLTIuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg"
-    },
-    {
-      "id": "evt_f1affb5a88103542",
-      "topic": "finance",
-      "headline": "Wingstop Sales",
-      "summary": "Wingstop sales dropped. Higher gas prices affected sales.",
-      "published_at": "2026-04-29T17:59:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-chicken-wing-trade-keeps-collapsing-and-wall-street-is-left-seeking-a-wingstop-bottom-a196d821?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://images.mktw.net/im-319999"
-    },
-    {
-      "id": "evt_f1d7377674181a35",
-      "topic": "crypto",
-      "headline": "Fed Rates Unchanged",
-      "summary": "Fed left rates unchanged. Powell's last meeting as chairman occurred.",
-      "published_at": "2026-04-29T17:58:52.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/04/29/fed-leaves-rates-unchanged-at-jerome-powell-s-final-meeting-as-chairman",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/a8b0294681d701ff63dfefa2abe481a467fe1c19-5501x3667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_a41bb6ea4952397d",
-      "topic": "finance",
-      "headline": "Hegseth Testifies",
-      "summary": "Hegseth testifies about war. Lawmakers question the costs.",
-      "published_at": "2026-04-29T16:10:59.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/iran-war-hegseth-caine-house-congress.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_3a7b68842a790a62",
+      "id": "evt_82c8b09433c2252f",
       "topic": "politics",
-      "headline": "US Supreme Court",
-      "summary": "US Supreme Court decision. Voting Rights Act impacted.",
-      "published_at": "2026-04-29T17:56:18.000Z",
+      "headline": "Trump Talks Iran Blockade",
+      "summary": "Trump holds talks on Iran blockade. He urges Tehran to reach a deal.",
+      "published_at": "2026-04-29T22:21:17.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0ZWblFwczhPUFBaZTgxS2c1RjloLU1IVEUtV25UQTlndGtnZkxLaXBPSjczdTQ2TWZ2cUYxZE04T0x5UkZxRkNReFY5bjQtcGhUeEE1SzViSkFOYm9vcF9EcG44YzFDWEpHYWVLTUYxRFFRdlF6Q2ptd1RIbWV0bjZRQkQ0aU1MLW16OFItbGhhdURZM01FTEhIcVlsWDZaNWNQdXROQnNwTmVzeEUwbWx1WGg4ekswQWItMU9xWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXN0aG5nUkg5TEU5emxCMG9TYjFfRm1mVmp3WFM5Q1hkOGtWbVlxSG45QXBtcXRjb1JfMGE1bjk4SW1Qbk1qRkVvUmdtNmpiRnJQU1hiSXRxeURIbTZrdEtZUnhXdjNDYVY5UWdnaDdUQ29qbFpDdlQxVXlmOTZFN2ljTUFwcWJtc0NuNW5CQTF6alhndnRKcWU1THJrNVctaHlsMGNSQ1k3ejJ0TEdkcFlsZ3ZTaXBsamJsckdxZTBMeXdL?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.754
+      "weight": 0.758
     },
     {
-      "id": "evt_485f0d21f56dabc8",
+      "id": "evt_ab346396f57552ff",
+      "topic": "ai",
+      "headline": "Google Cloud Revenue",
+      "summary": "Google Cloud revenue tops $20B. Growth was capacity-constrained.",
+      "published_at": "2026-04-29T22:20:48.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_aaddb30713fb8ec5",
       "topic": "finance",
-      "headline": "Starbucks CEO Plan",
-      "summary": "Starbucks CEO has a plan. Margin recovery expected.",
-      "published_at": "2026-04-29T17:54:44.000Z",
+      "headline": "LIV Golf Funding Ends",
+      "summary": "Saudi Arabia's PIF ends LIV Golf funding. Alternatives will be evaluated.",
+      "published_at": "2026-04-29T22:17:56.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/04/29/the-next-leg-of-starbucks-story-and-how-brian-niccol-plans-to-get-there.html",
+          "url": "https://cnbc.com/2026/04/29/saudi-pif-to-end-funding-liv-golf.html",
           "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.756
+    },
+    {
+      "id": "evt_fd6f07e88beee089",
+      "topic": "politics",
+      "headline": "Chipotle Sales Rise",
+      "summary": "Chipotle reports surprise quarterly sales rise. Menu refresh lifts demand.",
+      "published_at": "2026-04-29T22:16:45.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2NGN0xiRFlfRnNEY2VSdEVZODFLTTE2dEdBOUJ5U0dOcWtaekVIU3ZNcWVuaHJjV3VrdnJyTGN6SVZnQ3I3eDFtY0M4eTJUU2dGQjJMWmFWaHhta2JMVmJOSmd4Z3RCby1iTXpkSTFiNHd0RTBoeERDM05TUktQWk52ajByQWJ6MFRYTXhuWnAwY21qRnJDQzUwNmRvX0Y4TnJ3Tk43NDA2dmc?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.756
+    },
+    {
+      "id": "evt_d3da012f9ea0d9d7",
+      "topic": "finance",
+      "headline": "Intel Stock",
+      "summary": "Intel stock hype. Analysts drive shares higher.",
+      "published_at": "2026-04-29T22:16:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/is-the-intel-stock-hype-overdone-how-to-make-sense-of-the-latest-big-move-a88a6953?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.756,
+      "image_url": "https://images.mktw.net/im-66024535"
+    },
+    {
+      "id": "evt_88ecb9b90a689a56",
+      "topic": "crypto",
+      "headline": "AI Trade",
+      "summary": "Google and Microsoft crush Q1 estimates. AI business grows.",
+      "published_at": "2026-04-29T22:14:49.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/stock-chart-gID_7.jpg"
+    },
+    {
+      "id": "evt_4a35a44d857d8b12",
+      "topic": "crypto",
+      "headline": "Tether Proposes Merger",
+      "summary": "Tether proposes a merger. Combines bitcoin services.",
+      "published_at": "2026-04-29T22:12:53.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.754,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/e19d147b8e74f849b254f6992db93a609c32d382-6720x4480.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_3e32419ba385c165",
+      "topic": "crypto",
+      "headline": "Zcash ETF Volume",
+      "summary": "Zcash ETF volume doubles. ZEC supply hits record.",
+      "published_at": "2026-04-29T22:11:03.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399264/zcash-etf-volume-doubles-zec-shielded-supply-record-highs",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.754,
+      "image_url": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-800x450.jpg"
+    },
+    {
+      "id": "evt_ae4f07c96a016b97",
+      "topic": "finance",
+      "headline": "Lululemon Loses Cool",
+      "summary": "Lululemon loses its appeal. Founder criticizes brand.",
+      "published_at": "2026-04-29T22:11:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/lululemon-has-lost-its-cool-and-is-stuck-with-customers-who-only-follow-generic-athletic-brands-founder-says-2e7caae4?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.753,
+      "image_url": "https://images.mktw.net/im-90754217"
+    },
+    {
+      "id": "evt_4885aabf3789bc8d",
+      "topic": "politics",
+      "headline": "King Charles visits US",
+      "summary": "King Charles III visits the US. He is on a 4-day trip.",
+      "published_at": "2026-04-29T22:11:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0VMelk5YXB3RHlnNDdfYjBDWW1WTUFoWE00YmFZNFhjUFUtUURnRTFrd1lVSlBiZm9RcUR4N1B4dzF1TFFlMDZ3YWdZcndXYmRVbW1JdkNUZnF5QUREdU5nRkRiUW04RzlJZHNOVDg0Qmx3bndZTGtnUUNFMXdFMW0tTE1uR0VzYmRqRWxaXzQtLU1YcWUyeGJkVk40STlzMVFXbFIyV2c1bXBN?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.753
     },
     {
-      "id": "evt_642dabf6117a18a6",
-      "topic": "crypto",
-      "headline": "Bitcoin Undervalued",
-      "summary": "Bitcoin is undervalued. Bear market phase ending.",
-      "published_at": "2026-04-29T17:54:33.000Z",
+      "id": "evt_4de0a3b917bc6a84",
+      "topic": "politics",
+      "headline": "US troops in Germany",
+      "summary": "The US may reduce troops in Germany. A review is underway.",
+      "published_at": "2026-04-29T22:08:52.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/more-than-70-of-institutions-and-non-institutions-respondents-see-bitcoin-as-undervalued-coinbase",
-          "homepage": "https://cointelegraph.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRS12VkljLVlMZnlMcTdzSWpBR1ZYa2xMcGlEWjdQSGZwem0ybl9WU0tfUkNndHdrXy1mN2xlUzEwSGhOd3BQTlFJaDhLelkyeXFCMElySVUyMGlVZ0daeEpPckxUUFhFS0ZFSzZKS1M1dFVBN0t3MHpoVko5alh2M2JiWldqX3BaaFFwQ19JLTRKVWtXNVRyWWhFbFlUOVU1aHZ3WEJ1ZlVGUWlCVGlz?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.753,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2NyeXB0byUyMGZpYXQlMjBtaXJyb3IlMjBuZXclMjBkb2xsYXIuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg"
+      "weight": 0.753
+    },
+    {
+      "id": "evt_7c27dfba356e9cc7",
+      "topic": "politics",
+      "headline": "Families Sue OpenAI",
+      "summary": "Families sue OpenAI. The lawsuit is in a US court.",
+      "published_at": "2026-04-29T18:13:20.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_6b383218d0d54919",
+      "topic": "politics",
+      "headline": "Fed Keeps Rate Unchanged",
+      "summary": "The Federal Reserve kept its key rate unchanged. Four officials dissented.",
+      "published_at": "2026-04-29T18:14:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01LUUZwSy1jQUlDM3JaSVhKX1dBRU9qOWNuV3BORFVkaXlqNWlsZUEzUkJHcTh6ajBMRVFRbFhtRUNQa1JFWEdwWVNpNmZvOVZXVW5sbmF5Z0hrakdMaUV6Y293RGIxSGRxQ21FVG44M0hNM3lHUGhKNXYzb3lQNlYwZnozVE0wTFJRTTBLcy02b1JxV1VTaTlxcTBwanE3MGNubTJ2dw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_653316d55fa271b8",
+      "topic": "politics",
+      "headline": "Iran soccer officials",
+      "summary": "Iranian soccer officials claim inappropriate behavior. They may miss a meeting.",
+      "published_at": "2026-04-29T22:01:15.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3VSeUtPcnhDNGxTakFYc3g3WWp2YWptcjJRdE1JUnhOUF90czJqa2d6Y28wNTBxdnk3LU5DWk5Ibi1HbFdXazBjcUlFNmlwYTNBRDUyTEpyY0IySEp3WmQ1QkFZYUJWZFFVYU9WTzlzOHdPS3lIQmQzT2NmaEJSbzBoQlNicUYwRVZJdFlReTBNRjE4RjNlTFduXzFnZnhTb2RTdGtfZUdGZVRMdTBBcWJ6NGF3cFFubVF3eFduSWU2WlUy?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.749
+    },
+    {
+      "id": "evt_ed80a3c6f2dcdda2",
+      "topic": "finance",
+      "headline": "Ford's Profit Jumps",
+      "summary": "Ford's profit increases. Outlook raised.",
+      "published_at": "2026-04-29T22:01:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.749,
+      "image_url": "https://images.mktw.net/im-27320533"
+    },
+    {
+      "id": "evt_0a48efbf6fa7038d",
+      "topic": "ai",
+      "headline": "Grindr Wins WHCD",
+      "summary": "Grindr wins WHCD party. General atmosphere.",
+      "published_at": "2026-04-29T22:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/column/920845/grindr-whcd-party-2026",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.749,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2273020723.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_99a84c673904b918",
+      "topic": "politics",
+      "headline": "Oil Majors Eye Canada",
+      "summary": "Oil majors eye Canada. Middle East upheaval.",
+      "published_at": "2026-04-29T21:59:54.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGczV2Y4OEFTQUJ2c1FYSUFHSGZtVjlyX3gyV2pqakpybVRRM2htLU91cDhUb2Z3aVNwQUVHMlNRVV9TUnp5THVtT1MtVm45UFY5eWQ3UHRwX1JQS2l0V3BObUtSaEI1NGFfUm5lTDJ3OEZFTk92eXlYaFVUbkt5cUlZTFNBUFh6bDliSjU1M1M4YUpzTWZ6ZjItM191b25PMkhCdUxkZ21tVFBEVmV4QXVVTWo1WHZVVHdWcEdn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.749
+    },
+    {
+      "id": "evt_de7dd6d7cbe450e6",
+      "topic": "politics",
+      "headline": "Israel Intercepts Gaza Aid Boats",
+      "summary": "Israel intercepts Gaza-bound aid boats. Vessels are being stopped by Israeli military.",
+      "published_at": "2026-04-29T21:59:08.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.749
+    },
+    {
+      "id": "evt_a076c8ac46c02ba4",
+      "topic": "ai",
+      "headline": "Germany Tops Ammunition Production",
+      "summary": "Germany is now the largest ammunition producer. It has surpassed the US.",
+      "published_at": "2026-04-29T21:58:46.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.748
+    },
+    {
+      "id": "evt_4746f6dfff4ec507",
+      "topic": "politics",
+      "headline": "London Stabbing Attack",
+      "summary": "Two Jewish men stabbed in London. Police treat the attack as terrorism.",
+      "published_at": "2026-04-29T21:57:01.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTjVRMFFwelBKRFNSbzZCaU9PV2h6dGMwel9hd2JfOUFRZFJIRmMwcHNlM19ORzB6NkdRNDdyWkxqQnRhMUxTZ3g2YkczTTkzY05JZEV4UFZDUmVZdFdVejltVDlxQlBpVVNBcFBXZFlEblZWbTdaSUNHQmlNZHZPWFlyNWV3UkZ4emFZakNXRUpnY0N6dzVGbVZTRXlEM2c5eTB5WjhTRG1uZlNZaWdrT2lORWE1U2Jr?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.748
+    },
+    {
+      "id": "evt_e47d144e066ce216",
+      "topic": "politics",
+      "headline": "Warsh Clears Senate Hurdle",
+      "summary": "Warsh clears key hurdle. He moves toward Senate confirmation.",
+      "published_at": "2026-04-29T21:55:42.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTc4N2pNZW5LVWxNeDRXRVhfN21mNjZNcUFES1Q4QlZUVE9rRjJ0WkxkOWY0RVl0WS1GSV9RU2xkWl9FWDFKMEVPN2I0ejA2SXlzUXpVMG83Rkh2Z0xneU11NFliUFJqaHlUaW9XRHlNaHBPRG1IUnBSU0x6VUdfd09oZjd5aF83ZGV0dHJfVmxiZDQ4M0FGbjE5SXdMRWNiQzF0WTVTUTdnR2U4SDVRRnFB?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.747
+    },
+    {
+      "id": "evt_c4917bf79153bd97",
+      "topic": "politics",
+      "headline": "Musk Accuses Lawyer",
+      "summary": "Musk accuses lawyer. He claims trickery on the stand.",
+      "published_at": "2026-04-29T21:52:23.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3V0enU0V28zQlNvSkJMZTNDVFVWZUk3VzljRWNzRWJBSkwtalg2MlJpTnBHUm4waU13V24zYkd3ZWVNQ2hTbkxseGt6UDkxWUNLMFliVjhqckJXN3diRF96Z3NYZmE5QmZiRFpFSW9RNVpiM3FFRjl6WFY5WE9nLWtKQ2hKYmRlZEhhMy1kV3M3VWVyOS1xcld3NVI2elk3X0pWVmhEQUllS2djdzNvaFpxS2tfVGpaTy1SV2FWVC1tYXNKdHBfMkpyMG0?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.746
+    },
+    {
+      "id": "evt_63917524d70fd17e",
+      "topic": "politics",
+      "headline": "Singer D4vd Charged",
+      "summary": "Singer charged with murder. He allegedly silenced a teen.",
+      "published_at": "2026-04-29T21:52:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDZwbFEyekxyVkdscV9aaGlxdk5tbS1xcWVIc1ZOZGF0UWFLQjJuclFiNXNfc0xmTjFPZ2dzMmdFOUVDRUtCZDZzYWZZUG5RWWVlemU3OUR1N2pWT1Q2X0h1WURYTUw5WTNJTmZ4cjVPWUl1QkhhYlhsdWYwRXJUTXBCdFhsYl90UVo0cjZ1UWcwN1d2ZlNUUWwtMDllZw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.746
     }
   ]
 }
