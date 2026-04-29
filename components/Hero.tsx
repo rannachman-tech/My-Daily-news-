@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import type { NewsCluster } from "@/lib/types";
 import { TOPIC_BY_ID } from "@/lib/topics";
 import { timeAgo } from "@/lib/time";
+import { TopicGlyph } from "./TopicGlyph";
 
 const ROTATE_MS = 6000;
 
@@ -85,13 +86,15 @@ export function Hero({ clusters }: Props) {
       onKeyDown={onKey}
       tabIndex={0}
     >
-      <div className={`grid ${showImage ? "md:grid-cols-2" : "grid-cols-1"}`}>
-        {showImage && (
-          <a href={primary?.url} target="_blank" rel="noopener noreferrer" className="focus-ring relative block aspect-[16/9] md:aspect-auto md:min-h-[340px] bg-surface-2 overflow-hidden" aria-label={active.headline}>
+      <div className="grid md:grid-cols-2">
+        <a href={primary?.url} target="_blank" rel="noopener noreferrer" className="focus-ring relative block aspect-[16/9] md:aspect-auto md:min-h-[340px] bg-surface-2 overflow-hidden" aria-label={active.headline}>
+          {showImage ? (
             <img key={active.id} src={active.image_url} alt="" loading="eager" decoding="async" className="absolute inset-0 h-full w-full object-cover transition-transform duration-700" onError={() => setImgFailed((s) => ({ ...s, [active.id]: true }))} />
-            <div className="md:hidden absolute inset-0 bg-gradient-to-t from-bg/40 to-transparent" aria-hidden />
-          </a>
-        )}
+          ) : (
+            <TopicGlyph topic={active.topic} variant="hero" />
+          )}
+          <div className="md:hidden absolute inset-0 bg-gradient-to-t from-bg/40 to-transparent" aria-hidden />
+        </a>
 
         <div className="p-6 sm:p-8 flex flex-col justify-between min-h-[260px]">
           <div className="flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.18em] text-fg-subtle">
@@ -102,7 +105,7 @@ export function Hero({ clusters }: Props) {
           </div>
 
           <div key={active.id} className={`mt-4 ${reduced ? "" : "animate-hero-in"}`}>
-            <h2 className={`leading-[1.1] font-semibold tracking-[-0.025em] text-fg ${showImage ? "text-[24px] sm:text-[30px]" : "text-[28px] sm:text-[40px]"}`}>
+            <h2 className="text-[24px] sm:text-[30px] leading-[1.1] font-semibold tracking-[-0.025em] text-fg">
               {primary ? (
                 <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">{active.headline}</a>
               ) : (
