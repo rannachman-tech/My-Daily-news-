@@ -94,8 +94,6 @@ export function Hero({ clusters }: Props) {
         <div key={active.id} className={reduced ? "" : "animate-hero-in"}>
           <h2 className="text-[28px] sm:text-[40px] leading-[1.05] font-semibold tracking-[-0.025em] text-fg max-w-4xl">
             {primary ? (
-              
-      {primary ? (
               <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">
                 {active.headline}
               </a>
