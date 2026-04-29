@@ -34,14 +34,10 @@ export function NewsCard({ cluster }: Props) {
       </div>
       <h3 className="text-[18px] leading-[1.25] font-semibold tracking-[-0.01em] text-fg">
         {primary ? (
-          
-            href={primary.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="focus-ring rounded-sm transition-colors group-hover:text-accent"
-          >
+          <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm transition-colors group-hover:text-accent">
             <span
-              className="bg-[length:0%_1px] bg-no-repeat bg-bottom group-hover:bg-[length:100%_1px] transition-[background-size] duration-300"
+              
+            className="bg-[length:0%_1px] bg-no-repeat bg-bottom group-hover:bg-[length:100%_1px] transition-[background-size] duration-300"
               style={{ backgroundImage: `linear-gradient(${topic?.hue}, ${topic?.hue})` }}
             >
               {cluster.headline}
