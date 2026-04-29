@@ -30,6 +30,8 @@ export interface NewsCluster {
   sources: NewsSourceLink[];
   source_count: number;
   weight: number;
+    /** Optional featured image URL extracted from RSS feeds. */
+  image_url?: string;
 }
 
 export interface NewsFeed {
