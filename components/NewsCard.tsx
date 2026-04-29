@@ -12,38 +12,49 @@ interface Props {
 export function NewsCard({ cluster }: Props) {
   const topic = TOPIC_BY_ID[cluster.topic];
   const primary = cluster.sources[0];
+  const ageMs = Date.now() - new Date(cluster.published_at).getTime();
+  const isFresh = ageMs < 60 * 60 * 1000;
 
   return (
-    <article className="group rounded-xl border border-border bg-surface p-4 sm:p-5 transition-colors hover:border-border-strong flex flex-col gap-3 animate-fade-in">
-      <div className="flex items-center justify-between text-[11px]">
-        <span className="inline-flex items-center rounded-full border border-border bg-surface-2 px-2 py-0.5 font-medium text-fg-muted">
+    <article className="group relative flex flex-col gap-3 animate-fade-in">
+      <div className="flex items-center justify-between text-[11px] font-mono uppercase tracking-wider">
+        <span className="inline-flex items-center gap-1.5 text-fg-muted">
+          <span className="h-1.5 w-1.5 rounded-full" style={{ backgroundColor: topic?.hue ?? "currentColor" }} aria-hidden />
           {topic?.shortLabel ?? cluster.topic}
         </span>
-        <span className="font-mono text-fg-subtle">
+        <span className="inline-flex items-center gap-1.5 text-fg-subtle">
+          {isFresh && (
+            <span className="relative inline-flex h-1.5 w-1.5" aria-label="Breaking">
+              <span className="absolute inset-0 rounded-full opacity-50 animate-ping" style={{ backgroundColor: topic?.hue ?? "currentColor" }} />
+              <span className="relative inline-flex h-1.5 w-1.5 rounded-full" style={{ backgroundColor: topic?.hue ?? "currentColor" }} />
+            </span>
+          )}
           {timeAgo(cluster.published_at)}
         </span>
       </div>
-
-      <h3 className="text-[17px] leading-snug font-semibold tracking-tight text-fg">
+      <h3 className="text-[18px] leading-[1.25] font-semibold tracking-[-0.01em] text-fg">
         {primary ? (
-          <a
+          
             href={primary.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="focus-ring rounded-sm group-hover:text-accent transition-colors"
+            className="focus-ring rounded-sm transition-colors group-hover:text-accent"
           >
-            {cluster.headline}
+            <span
+              className="bg-[length:0%_1px] bg-no-repeat bg-bottom group-hover:bg-[length:100%_1px] transition-[background-size] duration-300"
+              style={{ backgroundImage: `linear-gradient(${topic?.hue}, ${topic?.hue})` }}
+            >
+              {cluster.headline}
+            </span>
           </a>
         ) : (
           cluster.headline
         )}
       </h3>
-
-      <p className="text-[13.5px] leading-relaxed text-fg-muted line-clamp-3">
+      <p className="text-[13.5px] leading-[1.55] text-fg-muted line-clamp-3">
         {cluster.summary}
       </p>
-
-      <div className="mt-auto pt-2">
+      <div className="mt-1">
         <SourcePills sources={cluster.sources} max={3} />
       </div>
     </article>
