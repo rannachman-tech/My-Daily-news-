@@ -21,25 +21,20 @@ export function Header({ generatedAt, theme, onThemeChange }: Props) {
   }, [generatedAt]);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-bg/80 backdrop-blur-md">
+    <header className="sticky top-0 z-40 border-b border-border bg-bg/85 backdrop-blur-md">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="h-14 flex items-center justify-between gap-4">
-          <div className="flex items-center gap-3 min-w-0">
-            <Wordmark />
-            <span
-              className="hidden sm:inline-block h-4 w-px bg-border"
-              aria-hidden
-            />
-            <span className="hidden sm:inline text-sm text-fg-muted truncate">
-              {date}
-            </span>
-          </div>
-
-          <div className="flex items-center gap-2">
+          <Wordmark />
+          <div className="flex items-center gap-3">
+            {date && (
+              <span className="hidden md:inline text-[11px] font-mono uppercase tracking-wider text-fg-muted">
+                {date}
+              </span>
+            )}
             {updated && (
-              <span className="hidden sm:inline-flex items-center gap-1.5 rounded-full border border-border bg-surface px-2.5 py-1 text-[11px] font-mono text-fg-muted">
-                <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-                Updated {updated}
+              <span className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-mono uppercase tracking-wider text-fg-subtle">
+                <span className="h-1 w-1 rounded-full bg-emerald-500" />
+                {updated}
               </span>
             )}
             <ThemeToggle value={theme} onChange={onThemeChange} />
@@ -52,17 +47,17 @@ export function Header({ generatedAt, theme, onThemeChange }: Props) {
 
 function Wordmark() {
   return (
-    <a
-      href="/"
-      className="focus-ring flex items-center gap-2 rounded-md"
-      aria-label="Daily Digest home"
-    >
-      <span className="inline-flex items-center justify-center h-7 w-7 rounded-md bg-fg text-bg text-[12px] font-bold tracking-tight">
+    <a href="/" className="focus-ring flex items-center gap-2 rounded-md" aria-label="Daily Digest home">
+      <span
+        className="inline-flex items-center justify-center h-6 w-6 rounded-[7px] text-[11px] font-bold tracking-tight"
+        style={{
+          background: "linear-gradient(135deg, rgb(var(--fg)) 0%, rgb(var(--fg-muted)) 100%)",
+          color: "rgb(var(--bg))",
+        }}
+      >
         D
       </span>
-      <span className="text-[15px] font-semibold tracking-tight">
-        Daily Digest
-      </span>
+      <span className="text-[14px] font-semibold tracking-[-0.01em]">Daily Digest</span>
     </a>
   );
 }
