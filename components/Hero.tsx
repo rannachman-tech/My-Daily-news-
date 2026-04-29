@@ -16,6 +16,7 @@ export function Hero({ clusters }: Props) {
   const [paused, setPaused] = useState(false);
   const [reduced, setReduced] = useState(false);
   const [tick, setTick] = useState(0);
+  const [imgFailed, setImgFailed] = useState<Record<string, boolean>>({});
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
@@ -70,12 +71,13 @@ export function Hero({ clusters }: Props) {
   const active = clusters[index];
   const topic = TOPIC_BY_ID[active.topic];
   const primary = active.sources[0];
+  const showImage = Boolean(active.image_url) && !imgFailed[active.id];
 
   return (
     <section
       aria-roledescription="carousel"
       aria-label="Top stories"
-      className="group relative"
+      className="group relative rounded-2xl border border-border bg-surface overflow-hidden"
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocus={() => setPaused(true)}
@@ -83,35 +85,39 @@ export function Hero({ clusters }: Props) {
       onKeyDown={onKey}
       tabIndex={0}
     >
-      <div className="flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.18em] text-fg-subtle mb-3">
-        <span className="h-1 w-1 rounded-full" style={{ backgroundColor: topic?.hue ?? "currentColor" }} aria-hidden />
-        Top stories
-        <span className="text-fg-subtle">{"·"}</span>
-        <span>{topic?.label ?? active.topic}</span>
-      </div>
+      <div className={`grid ${showImage ? "md:grid-cols-2" : "grid-cols-1"}`}>
+        {showImage && (
+          <a href={primary?.url} target="_blank" rel="noopener noreferrer" className="focus-ring relative block aspect-[16/9] md:aspect-auto md:min-h-[340px] bg-surface-2 overflow-hidden" aria-label={active.headline}>
+            <img key={active.id} src={active.image_url} alt="" loading="eager" decoding="async" className="absolute inset-0 h-full w-full object-cover transition-transform duration-700" onError={() => setImgFailed((s) => ({ ...s, [active.id]: true }))} />
+            <div className="md:hidden absolute inset-0 bg-gradient-to-t from-bg/40 to-transparent" aria-hidden />
+          </a>
+        )}
 
-      <div className="relative min-h-[180px] sm:min-h-[200px]">
-        <div key={active.id} className={reduced ? "" : "animate-hero-in"}>
-          <h2 className="text-[28px] sm:text-[40px] leading-[1.05] font-semibold tracking-[-0.025em] text-fg max-w-4xl">
-            {primary ? (
-              <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">
-                {active.headline}
-              </a>
-            ) : (
-              active.headline
-            )}
-          </h2>
-          <p className="mt-4 text-[14px] sm:text-[15px] leading-relaxed text-fg-muted max-w-2xl line-clamp-3">
-            {active.summary}
-          </p>
+        <div className="p-6 sm:p-8 flex flex-col justify-between min-h-[260px]">
+          <div className="flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.18em] text-fg-subtle">
+            <span className="h-1 w-1 rounded-full" style={{ backgroundColor: topic?.hue ?? "currentColor" }} aria-hidden />
+            Top stories
+            <span className="text-fg-subtle">{"·"}</span>
+            <span>{topic?.label ?? active.topic}</span>
+          </div>
+
+          <div key={active.id} className={`mt-4 ${reduced ? "" : "animate-hero-in"}`}>
+            <h2 className={`leading-[1.1] font-semibold tracking-[-0.025em] text-fg ${showImage ? "text-[24px] sm:text-[30px]" : "text-[28px] sm:text-[40px]"}`}>
+              {primary ? (
+                <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">{active.headline}</a>
+              ) : (
+                active.headline
+              )}
+            </h2>
+            <p className="mt-3 text-[14px] leading-relaxed text-fg-muted line-clamp-3">{active.summary}</p>
+          </div>
+
           <div className="mt-5 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] font-mono uppercase tracking-wider">
             <span className="text-fg-subtle">{timeAgo(active.published_at)}</span>
             {active.sources.slice(0, 4).map((s) => (
               <span key={s.url} className="inline-flex items-center gap-2">
-               <span className="text-fg-subtle" aria-hidden>{"·"}</span>
-                <a href={s.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">
-                  {s.name}
-                </a>
+                <span className="text-fg-subtle" aria-hidden>{"·"}</span>
+                <a href={s.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">{s.name}</a>
               </span>
             ))}
             {active.sources.length > 4 && (
@@ -122,31 +128,14 @@ export function Hero({ clusters }: Props) {
       </div>
 
       {clusters.length > 1 && (
-        <div className="mt-8 flex items-center gap-2">
+        <div className="px-6 sm:px-8 pb-6 flex items-center gap-2">
           {clusters.map((c, i) => {
             const isActive = i === index;
             const isPast = i < index;
             return (
-              <button
-                key={c.id}
-                type="button"
-                onClick={() => go(i)}
-                aria-label={`Go to story ${i + 1}`}
-                aria-current={isActive}
-                className="focus-ring relative flex-1 h-px hover:h-0.5 transition-all"
-              >
+              <button key={c.id} type="button" onClick={() => go(i)} aria-label={`Go to story ${i + 1}`} aria-current={isActive} className="focus-ring relative flex-1 h-px hover:h-0.5 transition-all">
                 <span className="absolute inset-0 bg-border" />
-                <span
-                  key={`fill-${c.id}-${tick}-${paused ? "p" : "r"}`}
-                  className="absolute inset-y-0 left-0 bg-fg"
-                  style={{
-                    width: isActive ? "100%" : isPast ? "100%" : "0%",
-                    animation:
-                      isActive && !paused && !reduced
-                        ? `hero-fill ${ROTATE_MS}ms linear forwards`
-                        : undefined,
-                  }}
-                />
+                <span key={`fill-${c.id}-${tick}-${paused ? "p" : "r"}`} className="absolute inset-y-0 left-0 bg-fg" style={{ width: isActive ? "100%" : isPast ? "100%" : "0%", animation: isActive && !paused && !reduced ? `hero-fill ${ROTATE_MS}ms linear forwards` : undefined }} />
               </button>
             );
           })}
