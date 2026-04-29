@@ -59,15 +59,8 @@ export function Footer({ generatedAt }: Props) {
                   </p>
                   <ul className="space-y-1">
                     {list.map((s) => (
-                      <li key={s.id}>
-                        
-                          href={s.homepage}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors"
-                        >
-                          {s.name}
-                        </a>
+                    <li key={s.id}>
+                        <a href={s.homepage} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">{s.name}</a>
                       </li>
                     ))}
                   </ul>
