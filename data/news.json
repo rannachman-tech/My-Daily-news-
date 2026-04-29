@@ -1,232 +1,980 @@
 {
-  "generated_at": "2026-04-29T11:00:00Z",
+  "generated_at": "2026-04-29T14:24:43.352Z",
   "clusters": [
     {
-      "id": "evt_seed_001",
-      "topic": "ai",
-      "headline": "OpenAI rolls out GPT-5.5 with native voice and longer context",
-      "summary": "OpenAI released GPT-5.5 with a native voice mode and a 2M-token context window, available first to ChatGPT Pro and API Tier 4 users. Pricing on the API drops roughly 20% versus GPT-5 for equivalent inputs.",
-      "published_at": "2026-04-29T08:12:00Z",
-      "sources": [
-        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/openai-gpt-5-5/", "homepage": "https://techcrunch.com" },
-        { "name": "The Verge", "url": "https://www.theverge.com/2026/4/29/openai-gpt-5-5", "homepage": "https://www.theverge.com" },
-        { "name": "Ars Technica", "url": "https://arstechnica.com/ai/2026/04/openai-gpt-5-5/", "homepage": "https://arstechnica.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com/technology/openai-gpt-55-2026-04-29/", "homepage": "https://www.reuters.com" }
-      ],
-      "source_count": 4,
-      "weight": 0.97
-    },
-    {
-      "id": "evt_seed_002",
+      "id": "evt_fd20a1e6efab5863",
       "topic": "finance",
-      "headline": "Fed holds rates steady, signals one more cut before year-end",
-      "summary": "The FOMC kept the benchmark rate in the 4.00–4.25% range and softened forward guidance, with the dot plot now implying a single 25bp cut by December. Treasury yields fell across the curve and the dollar weakened.",
-      "published_at": "2026-04-29T18:30:00Z",
+      "headline": "MercadoLibre CEO",
+      "summary": "MercadoLibre CEO discusses loan-book sales. Venezuela expansion is played down.",
+      "published_at": "2026-04-29T14:06:42.000Z",
       "sources": [
-        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/29/fed-decision.html", "homepage": "https://www.cnbc.com" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/fed-holds", "homepage": "https://www.bloomberg.com" },
-        { "name": "MarketWatch", "url": "https://www.marketwatch.com/story/fed-decision-2026-04-29", "homepage": "https://www.marketwatch.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com/markets/us/fed-decision-2026-04-29/", "homepage": "https://www.reuters.com" },
-        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/fed-decision-april-2026", "homepage": "https://www.wsj.com" }
-      ],
-      "source_count": 5,
-      "weight": 0.99
-    },
-    {
-      "id": "evt_seed_003",
-      "topic": "crypto",
-      "headline": "Bitcoin tops $138K as spot ETF inflows hit fresh record",
-      "summary": "Bitcoin briefly traded above $138,000 after spot BTC ETFs absorbed $1.4B of net inflows on Tuesday, the largest single-day total since launch. BlackRock's IBIT accounted for over half the flow.",
-      "published_at": "2026-04-29T05:45:00Z",
-      "sources": [
-        { "name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/04/29/btc-ath", "homepage": "https://www.coindesk.com" },
-        { "name": "The Block", "url": "https://www.theblock.co/post/btc-ath-138k", "homepage": "https://www.theblock.co" },
-        { "name": "Decrypt", "url": "https://decrypt.co/2026/04/29/bitcoin-138k", "homepage": "https://decrypt.co" }
-      ],
-      "source_count": 3,
-      "weight": 0.91
-    },
-    {
-      "id": "evt_seed_004",
-      "topic": "politics",
-      "headline": "EU agrees framework on AI liability after marathon Brussels session",
-      "summary": "Member states reached a provisional deal on the AI Liability Directive, giving consumers a clearer path to sue developers and deployers of high-risk systems. Final adoption is expected before the summer recess.",
-      "published_at": "2026-04-29T02:10:00Z",
-      "sources": [
-        { "name": "BBC World", "url": "https://www.bbc.com/news/world-europe-2026-04-29-ai-liability", "homepage": "https://www.bbc.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com/world/europe/eu-ai-liability-deal-2026-04-29/", "homepage": "https://www.reuters.com" },
-        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/eu-ai-deal", "homepage": "https://www.aljazeera.com" }
-      ],
-      "source_count": 3,
-      "weight": 0.86
-    },
-    {
-      "id": "evt_seed_005",
-      "topic": "ai",
-      "headline": "Anthropic launches Claude on-prem appliance for regulated industries",
-      "summary": "Anthropic unveiled a hardware appliance bundling Claude models with its safety stack, aimed at banks, hospitals, and government agencies that can't ship data off premises. Pricing starts in the high six figures annually.",
-      "published_at": "2026-04-29T07:25:00Z",
-      "sources": [
-        { "name": "Reuters", "url": "https://www.reuters.com/technology/anthropic-onprem-2026-04-29/", "homepage": "https://www.reuters.com" },
-        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/anthropic-on-prem/", "homepage": "https://techcrunch.com" }
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/mercadolibre-ceo-flags-loanbook-sales-plays-down-venezuela-expansion-4645589",
+          "homepage": "https://www.investing.com"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-ceo-flags-loan-book-140343403.html",
+          "homepage": "https://finance.yahoo.com"
+        }
       ],
       "source_count": 2,
-      "weight": 0.78
+      "weight": 0.952
     },
     {
-      "id": "evt_seed_006",
-      "topic": "business",
-      "headline": "Nvidia reports record quarter, lifts guidance on data-center demand",
-      "summary": "Nvidia posted Q1 revenue of $48.2B, beating estimates by $1.7B, and raised its Q2 outlook citing sustained AI infrastructure spend. Shares rose 6% in extended trading.",
-      "published_at": "2026-04-28T20:05:00Z",
+      "id": "evt_9717cb1265d219e2",
+      "topic": "crypto",
+      "headline": "Paul Tudor Jones",
+      "summary": "Paul Tudor Jones calls bitcoin a hedge. He warns of overvalued stocks.",
+      "published_at": "2026-04-29T13:36:01.000Z",
       "sources": [
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-28/nvidia-q1", "homepage": "https://www.bloomberg.com" },
-        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/28/nvidia-earnings.html", "homepage": "https://www.cnbc.com" },
-        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/nvidia-q1-2026", "homepage": "https://www.wsj.com" },
-        { "name": "Financial Times", "url": "https://www.ft.com/content/nvidia-q1-2026", "homepage": "https://www.ft.com" }
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399374/paul-tudor-jones-bitcoin-inflation-hedge",
+          "homepage": "https://www.theblock.co"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
+          "homepage": "https://www.coindesk.com"
+        }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "weight": 0.94
     },
     {
-      "id": "evt_seed_007",
+      "id": "evt_d7059614def90280",
       "topic": "crypto",
-      "headline": "SEC drops appeal in Ripple case, ending five-year saga",
-      "summary": "The Securities and Exchange Commission filed to dismiss its remaining appeal against Ripple Labs, leaving the 2023 ruling that XRP is not a security on secondary markets effectively final. XRP rallied 12% on the news.",
-      "published_at": "2026-04-29T13:40:00Z",
+      "headline": "Robinhood Q1",
+      "summary": "Robinhood's Q1 earnings miss. Crypto revenue and volume fall.",
+      "published_at": "2026-04-29T04:22:36.000Z",
       "sources": [
-        { "name": "CoinDesk", "url": "https://www.coindesk.com/policy/2026/04/29/sec-ripple", "homepage": "https://www.coindesk.com" },
-        { "name": "The Block", "url": "https://www.theblock.co/post/sec-ripple-dropped", "homepage": "https://www.theblock.co" },
-        { "name": "Cointelegraph", "url": "https://cointelegraph.com/news/sec-drops-ripple-appeal", "homepage": "https://cointelegraph.com" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/sec-ripple", "homepage": "https://www.bloomberg.com" }
-      ],
-      "source_count": 4,
-      "weight": 0.93
-    },
-    {
-      "id": "evt_seed_008",
-      "topic": "finance",
-      "headline": "Yen weakens past 162 per dollar, BOJ steps up jawboning",
-      "summary": "The yen slipped past 162 to the dollar overnight, prompting Japan's finance ministry to warn it would 'take all necessary actions' against speculative moves. Markets are pricing in only a small chance of a near-term rate hike.",
-      "published_at": "2026-04-29T01:15:00Z",
-      "sources": [
-        { "name": "Reuters", "url": "https://www.reuters.com/markets/asia/yen-162-2026-04-29/", "homepage": "https://www.reuters.com" },
-        { "name": "Financial Times", "url": "https://www.ft.com/content/yen-162-2026", "homepage": "https://www.ft.com" },
-        { "name": "Investing.com", "url": "https://www.investing.com/news/forex-news/yen-162-2026", "homepage": "https://www.investing.com" }
-      ],
-      "source_count": 3,
-      "weight": 0.84
-    },
-    {
-      "id": "evt_seed_009",
-      "topic": "science",
-      "headline": "MIT team demonstrates room-temperature superconductivity in thin film",
-      "summary": "Researchers at MIT report a copper-hydride thin film that exhibits zero electrical resistance up to 22°C at modest pressures. Independent labs are racing to replicate; results posted to arXiv await peer review.",
-      "published_at": "2026-04-28T22:00:00Z",
-      "sources": [
-        { "name": "Nature", "url": "https://www.nature.com/articles/d41586-026-01234-7", "homepage": "https://www.nature.com" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260428200000.htm", "homepage": "https://www.sciencedaily.com" },
-        { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/2026/04/28/superconductor-mit/", "homepage": "https://www.technologyreview.com" }
-      ],
-      "source_count": 3,
-      "weight": 0.82
-    },
-    {
-      "id": "evt_seed_010",
-      "topic": "ai",
-      "headline": "Google releases Gemini 3 Ultra, opens free tier to developers",
-      "summary": "Google launched Gemini 3 Ultra with reasoning improvements and multimodal generation, plus a developer free tier of 1,500 requests per day. Benchmarks show parity with GPT-5 on coding and lead on long-context tasks.",
-      "published_at": "2026-04-29T15:00:00Z",
-      "sources": [
-        { "name": "The Verge", "url": "https://www.theverge.com/2026/4/29/gemini-3-ultra", "homepage": "https://www.theverge.com" },
-        { "name": "Ars Technica", "url": "https://arstechnica.com/ai/2026/04/gemini-3-ultra/", "homepage": "https://arstechnica.com" },
-        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/gemini-3-ultra/", "homepage": "https://techcrunch.com" }
-      ],
-      "source_count": 3,
-      "weight": 0.88
-    },
-    {
-      "id": "evt_seed_011",
-      "topic": "business",
-      "headline": "Amazon to spin off AWS, source says, unlocking $1.5T valuation",
-      "summary": "Amazon's board has approved an in-principle plan to spin off AWS as a standalone listed company, according to a person familiar with the matter. The move would create one of the largest listed pure-play cloud businesses.",
-      "published_at": "2026-04-29T11:30:00Z",
-      "sources": [
-        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/amazon-aws-spin-off-2026", "homepage": "https://www.wsj.com" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/amazon-aws-spinoff", "homepage": "https://www.bloomberg.com" }
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/robinhoods-prediction-market-drives-q1-revenue-as-crypto-takes-a-back-seat",
+          "homepage": "https://cointelegraph.com"
+        },
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399274/robinhoods-q1-crypto-revenue-and-trading-volume-fall-nearly-50",
+          "homepage": "https://www.theblock.co"
+        }
       ],
       "source_count": 2,
-      "weight": 0.79
+      "weight": 0.709
     },
     {
-      "id": "evt_seed_012",
-      "topic": "crypto",
-      "headline": "Ethereum Pectra+ upgrade ships, slashes L2 fees by 40%",
-      "summary": "The Pectra+ hard fork activated on mainnet without incident, lowering blob data costs and bringing average L2 fees on Arbitrum and Base under one cent. Validator participation held steady at 99.6%.",
-      "published_at": "2026-04-29T04:20:00Z",
+      "id": "evt_c2d24508fe2f7bdd",
+      "topic": "finance",
+      "headline": "Yum Brands Tops Earnings",
+      "summary": "Yum Brands earnings exceeded estimates. Taco Bell's sales grew 8%.",
+      "published_at": "2026-04-29T14:23:18.000Z",
       "sources": [
-        { "name": "Decrypt", "url": "https://decrypt.co/2026/04/29/eth-pectra-plus", "homepage": "https://decrypt.co" },
-        { "name": "Cointelegraph", "url": "https://cointelegraph.com/news/eth-pectra-plus-live", "homepage": "https://cointelegraph.com" },
-        { "name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/technical/eth-pectra-plus", "homepage": "https://bitcoinmagazine.com" }
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/yum-brands-yum-q1-2026-earnings.html",
+          "homepage": "https://www.cnbc.com"
+        }
       ],
-      "source_count": 3,
-      "weight": 0.81
+      "source_count": 1,
+      "weight": 0.779
     },
     {
-      "id": "evt_seed_013",
+      "id": "evt_fe6686e6c942a4e7",
       "topic": "politics",
-      "headline": "UN Security Council passes Gaza reconstruction resolution",
-      "summary": "A resolution authorizing a multilateral reconstruction fund for Gaza passed 13-0 with two abstentions. The fund will be administered jointly by the UN, World Bank, and a regional Arab oversight board.",
-      "published_at": "2026-04-29T17:50:00Z",
+      "headline": "France Advises Exit",
+      "summary": "France urged citizens to leave Mali. Rebel attacks prompted the warning.",
+      "published_at": "2026-04-29T14:18:03.000Z",
       "sources": [
-        { "name": "BBC World", "url": "https://www.bbc.com/news/world-middle-east-2026-04-29-unsc", "homepage": "https://www.bbc.com" },
-        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/unsc-gaza-resolution", "homepage": "https://www.aljazeera.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com/world/unsc-gaza-2026-04-29/", "homepage": "https://www.reuters.com" },
-        { "name": "AP News", "url": "https://apnews.com/article/unsc-gaza-resolution-2026", "homepage": "https://apnews.com" }
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
       ],
-      "source_count": 4,
-      "weight": 0.92
+      "source_count": 1,
+      "weight": 0.777
     },
     {
-      "id": "evt_seed_014",
-      "topic": "science",
-      "headline": "WHO confirms first effective oral vaccine for malaria",
-      "summary": "The World Health Organization endorsed an oral malaria vaccine that showed 78% efficacy against severe disease in a 14,000-child trial across four African countries. Rollout via Gavi is scheduled for Q3.",
-      "published_at": "2026-04-29T09:00:00Z",
-      "sources": [
-        { "name": "Nature", "url": "https://www.nature.com/articles/d41586-026-01401-2", "homepage": "https://www.nature.com" },
-        { "name": "New Scientist", "url": "https://www.newscientist.com/article/2026-04-29-malaria-oral", "homepage": "https://www.newscientist.com" },
-        { "name": "BBC World", "url": "https://www.bbc.com/news/health-2026-04-29-malaria-vaccine", "homepage": "https://www.bbc.com" }
-      ],
-      "source_count": 3,
-      "weight": 0.85
-    },
-    {
-      "id": "evt_seed_015",
+      "id": "evt_0324e32ffdd45788",
       "topic": "finance",
-      "headline": "S&P 500 closes at record after soft inflation print",
-      "summary": "The S&P 500 finished up 1.1% at a fresh all-time high after core PCE came in at 2.3% YoY, slightly below consensus. Tech and consumer discretionary led; small caps lagged.",
-      "published_at": "2026-04-28T20:00:00Z",
+      "headline": "Unknown Stock Surges",
+      "summary": "A stock rose 600%. It has a $1.6B defense backlog.",
+      "published_at": "2026-04-29T14:15:36.000Z",
       "sources": [
-        { "name": "MarketWatch", "url": "https://www.marketwatch.com/story/sp-500-record-2026-04-28", "homepage": "https://www.marketwatch.com" },
-        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/28/markets-close.html", "homepage": "https://www.cnbc.com" },
-        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/sp-500-record-2026-04-28", "homepage": "https://finance.yahoo.com" }
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unknown-stock-600-1-6b-141536132.html",
+          "homepage": "https://finance.yahoo.com"
+        }
       ],
-      "source_count": 3,
-      "weight": 0.83
+      "source_count": 1,
+      "weight": 0.776
     },
     {
-      "id": "evt_seed_016",
-      "topic": "ai",
-      "headline": "EU's AI Office proposes mandatory model cards for foundation models above 10^25 FLOPs",
-      "summary": "The European AI Office published a draft technical standard requiring detailed model cards, evaluation results, and red-team summaries for any foundation model trained above the 10^25 FLOP threshold. Industry consultation runs until June.",
-      "published_at": "2026-04-29T10:15:00Z",
+      "id": "evt_acc17f17ddc58e1e",
+      "topic": "finance",
+      "headline": "Burry Buys Software Stocks",
+      "summary": "Michael Burry invests in software. Two stocks are recommended.",
+      "published_at": "2026-04-29T14:15:31.000Z",
       "sources": [
-        { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/2026/04/29/eu-ai-office-model-cards/", "homepage": "https://www.technologyreview.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com/technology/eu-ai-office-2026-04-29/", "homepage": "https://www.reuters.com" }
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-bought-beaten-software-141531821.html",
+          "homepage": "https://finance.yahoo.com"
+        }
       ],
-      "source_count": 2,
-      "weight": 0.74
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_f00044558eae2d93",
+      "topic": "finance",
+      "headline": "Starbucks Raises Outlook",
+      "summary": "Starbucks raises outlook. Sales increased 6.2%.",
+      "published_at": "2026-04-29T14:14:17.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_5c6f252fba4882e6",
+      "topic": "finance",
+      "headline": "Trading Apps Decline",
+      "summary": "Robinhood and others decline. Stocks fell sharply.",
+      "published_at": "2026-04-29T14:13:43.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-tumbles-11-webull-drops-141343142.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_87d500e09cc4ebb9",
+      "topic": "finance",
+      "headline": "LaFleur Acquires McKenzie",
+      "summary": "LaFleur signs agreement. Acquiring McKenzie East in Canada.",
+      "published_at": "2026-04-29T14:13:15.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/lafleur-signs-agreement-acquire-mckenzie-141315482.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_b6ec05a3778e0075",
+      "topic": "finance",
+      "headline": "TSMC Stock",
+      "summary": "TSMC stock broke out. Still looks inexpensive.",
+      "published_at": "2026-04-29T14:13:10.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-broke-yet-stock-141310352.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_373a077daa9786a1",
+      "topic": "finance",
+      "headline": "New Home Construction",
+      "summary": "Construction jumps. Real-estate slump continues.",
+      "published_at": "2026-04-29T14:13:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/construction-on-new-homes-jumps-to-a-15-month-high-but-the-real-estate-slump-isnt-over-32c3e336?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_50f45acebd95621a",
+      "topic": "finance",
+      "headline": "US Airfare Rises",
+      "summary": "US airlines raise fares. Travelers keep booking.",
+      "published_at": "2026-04-29T14:12:57.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/28/airlines-fares-fuel.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_357ba8e9e27cb447",
+      "topic": "finance",
+      "headline": "Garmin Q1 Earnings",
+      "summary": "Garmin Q1 earnings beat. Fitness wearable sales drive growth.",
+      "published_at": "2026-04-29T14:12:16.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/garmin-q1-2026-earnings-beat-141216334.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_cf095e19c69439d6",
+      "topic": "finance",
+      "headline": "Regeneron Q1 Results",
+      "summary": "Regeneron Q1 earnings beat. Shares slide despite results.",
+      "published_at": "2026-04-29T14:12:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/regeneron-shares-slide-despite-q1-141200998.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_1199f284b1d7dc83",
+      "topic": "politics",
+      "headline": "Mugabe's son to be deported",
+      "summary": "Mugabe's son to be deported. He was arrested in February.",
+      "published_at": "2026-04-29T14:09:59.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_3659a3e1515aec57",
+      "topic": "finance",
+      "headline": "Teva's growth strategy",
+      "summary": "Teva's new strategy succeeds. No details given.",
+      "published_at": "2026-04-29T14:08:21.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/teva-stock-teva-pharmaceutical-earnings-q1-2026/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_2c9a0c51f1b5dbfd",
+      "topic": "ai",
+      "headline": "Osmose keyboard",
+      "summary": "Osmose keyboard now cheaper. Available in two sizes.",
+      "published_at": "2026-04-29T14:07:53.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_697f98e1fb6f0d31",
+      "topic": "finance",
+      "headline": "ADP Q3 earnings",
+      "summary": "ADP Q3 earnings beat expectations. Stock rises.",
+      "published_at": "2026-04-29T14:07:04.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-adp-q3-2026-beats-expectations-stock-rises-93CH-4645590",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_c1b5187aa91a60aa",
+      "topic": "ai",
+      "headline": "Apple loses bid",
+      "summary": "Apple lost bid to pause App Store changes. Case heads to Supreme Court.",
+      "published_at": "2026-04-29T14:06:58.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_07f3ac8c40ad4c54",
+      "topic": "finance",
+      "headline": "GE HealthCare Q1",
+      "summary": "GE HealthCare Q1 earnings. Stock drops.",
+      "published_at": "2026-04-29T14:06:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-ge-healthcare-q1-2026-sees-stock-drop-amid-margin-pressures-93CH-4645588",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_67c5569870fbc8c3",
+      "topic": "finance",
+      "headline": "Cognizant Q1 earnings",
+      "summary": "Cognizant Q1 earnings beat forecast. Stock price dips.",
+      "published_at": "2026-04-29T14:06:41.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-cognizant-q1-2026-beats-eps-forecast-stock-dips-93CH-4645587",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_852693bd15b7368e",
+      "topic": "finance",
+      "headline": "Northern Oil Q1 earnings",
+      "summary": "Northern Oil Q1 revenue misses forecast. Earnings call transcript released.",
+      "published_at": "2026-04-29T14:06:40.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-northern-oil--gas-q1-2026-revenue-misses-forecast-93CH-4645586",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_4151175e046a9826",
+      "topic": "finance",
+      "headline": "Orion Group Q1 earnings",
+      "summary": "Orion Group beats Q1 expectations. Earnings call transcript available.",
+      "published_at": "2026-04-29T14:06:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-orion-group-holdings-beats-q1-2026-expectations-93CH-4645584",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_6ac13761c8bccdea",
+      "topic": "finance",
+      "headline": "Verisk Analytics Q1 earnings",
+      "summary": "Verisk Analytics Q1 earnings surpass expectations. The company reported strong financial results.",
+      "published_at": "2026-04-29T14:06:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-verisk-analytics-q1-2026-earnings-surpass-expectations-93CH-4645583",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_d6d7ea7a0fad0a5b",
+      "topic": "finance",
+      "headline": "Vita Coco Q1 earnings",
+      "summary": "Vita Coco Q1 earnings beat forecasts. The company's stock price increased.",
+      "published_at": "2026-04-29T14:06:16.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-vita-cocos-q1-2026-beats-forecasts-stock-soars-93CH-4645581",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_7bbb99cfefe8561c",
+      "topic": "finance",
+      "headline": "Property tax spike",
+      "summary": "A Montana couple faces a 107% property tax increase. The hike may force them to leave their home.",
+      "published_at": "2026-04-29T14:05:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/montana-couple-built-dream-home-140500703.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_648f34c33945b59f",
+      "topic": "finance",
+      "headline": "UAE Leaves OPEC",
+      "summary": "UAE left OPEC. This sparks questions.",
+      "published_at": "2026-04-29T14:04:55.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/uae-opec-exit-oil-iran-war.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_4fa3eb171eea561e",
+      "topic": "crypto",
+      "headline": "Wall Street at Consensus",
+      "summary": "Wall Street attends Consensus. It's not just to watch.",
+      "published_at": "2026-04-29T14:04:08.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/opinion/2026/04/29/wall-street-is-coming-to-consensus-miami-and-it-s-not-just-to-watch",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_04e7cd650445e1e8",
+      "topic": "finance",
+      "headline": "Garmin Q1 Results",
+      "summary": "Garmin beats Q1 goals. Outlook remains.",
+      "published_at": "2026-04-29T14:04:01.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/garmin-stock-grmn-q1-2026-earnings/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_18dbcef726329dfe",
+      "topic": "ai",
+      "headline": "AI Federation Proposal",
+      "summary": "A federation of forges is proposed. No further details.",
+      "published_at": "2026-04-29T14:00:59.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.tangled.org/federation",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_96be9c451e04eee9",
+      "topic": "ai",
+      "headline": "Earth AI Expansion",
+      "summary": "Earth AI is expanding. It's vertically integrating.",
+      "published_at": "2026-04-29T14:00:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_17a856e223a35098",
+      "topic": "finance",
+      "headline": "Government Waste Increase",
+      "summary": "Government waste rose 13%. Budget cuts are planned.",
+      "published_at": "2026-04-29T14:00:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/government-waste-fraud-and-abuse-rose-13-last-year-despite-musk-and-doge-saying-theyd-cut-1-trillion-from-the-budget-346c4d18?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_61299d96ac9d016c",
+      "topic": "business",
+      "headline": "First Student Named TIME100",
+      "summary": "First Student is on TIME100 list. It is influential.",
+      "published_at": "2026-04-29T14:00:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUl6cHdJOFFScGFaNTJ1MElPWE0wTGZfYlB1NXlWcEp0NnNHRkdrUFVWdnpEWndxN20wWUZtclFIWmhfOWktRUxCT0Fqclo2d2FacVFLQW8zS3F6bnNxZDJidE5Sa3c5RFQwNUFKcjVGYS13TGJyVUhVdkpZajgydFY3b2c0TW5kYlNDalAwcjdnLXRCaC1HQw?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_dbe41e1d10eff495",
+      "topic": "crypto",
+      "headline": "Crypto Needs Long Term",
+      "summary": "Crypto needs long term value. No hype is required.",
+      "published_at": "2026-04-29T13:59:19.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/coindesk-news/2026/04/29/stellar-s-cmo-says-crypto-must-ditch-hype-and-get-rich-slow-to-win-mainstream-trust",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_7815664be1e345c4",
+      "topic": "politics",
+      "headline": "Strike Kills Rescue",
+      "summary": "Strike killed workers. Five people died.",
+      "published_at": "2026-04-29T13:59:09.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_192eb36b4634750b",
+      "topic": "finance",
+      "headline": "Avis Stock Plunges",
+      "summary": "Avis stock drops. Wider profit loss reported.",
+      "published_at": "2026-04-29T13:58:15.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/volatile-avis-stock-plunges-on-wider-than-expected-profit-loss-135815449.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_bd047391f037965c",
+      "topic": "ai",
+      "headline": "Oracle AI Pivot",
+      "summary": "Oracle pivots to AI. Unique approach taken.",
+      "published_at": "2026-04-29T13:57:16.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_32b0013f33f81c24",
+      "topic": "business",
+      "headline": "UAE Exits OPEC",
+      "summary": "UAE exits OPEC. Impact on oil discussed.",
+      "published_at": "2026-04-29T13:55:08.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWJmc25BSnVJVVNaV3JQNmxFYU8zR3dGRXhkcGFQNDJMX091SGxXQ2xJWGJTMlRfQjAtNnVuemdpdzRkS01VdW12TnFYN1RfZ1RCdFBCQVJfblBGSTNIUS11VEJuNmdHRXZBOTBWeldDcS1QU0lRR2RPUmRuaTBDUDBlTV9ibGFiZ3NPbXVEcmdzcVA0WDZjbE5LbFY3ODEzM3NOMW9vVTRSeVJMSERrWmoybk0?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_d921bce9e2b9a9db",
+      "topic": "crypto",
+      "headline": "Squads raises $18m",
+      "summary": "Squads raised $18m. The funding is for its stablecoin platform.",
+      "published_at": "2026-04-29T13:55:02.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399386/solana-ventures-squads-funding-stablecoin-altitude",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_fa3c613ffba2d7af",
+      "topic": "finance",
+      "headline": "AbbVie stock falls",
+      "summary": "AbbVie stock fell. Negative sentiment persists.",
+      "published_at": "2026-04-29T13:54:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/abbvie-stock-abbvie-earnings-q1-2026/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_eff5f91c599c5f02",
+      "topic": "finance",
+      "headline": "Gold bear trade",
+      "summary": "A gold bear trade occurred. It happened before the Fed decision.",
+      "published_at": "2026-04-29T13:54:07.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/a-million-dollar-gold-bear-emerges-ahead-of-the-fed-decision.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_895179ca586f0490",
+      "topic": "business",
+      "headline": "Starbucks Sales Top Estimates",
+      "summary": "Starbucks' quarterly sales exceeded expectations. Strong US sales drove the rebound.",
+      "published_at": "2026-04-29T13:52:06.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGF3d3c4NkJkbVRpSkRYZ0hDMjF6MzdybE1VbWJBVzl6SkN5SHBXZFhacU90QmV6M0UtbTdnSm1lLUpLbnhCR0lQRTlWM2MyRF9SZzNlbVBxdnBoM0syQlhKRmp6YmJ4bl9tQnZ5am9YZ2l2eEhHa2FQaDhWZ0JiQno0Q1JxSVhPWG5MdnNRa3pTLVNWdUZCT3pYc1NZQWNHUzNtNmh1M1Z5LTFvWHJPMw?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_568cfc1c51449d74",
+      "topic": "politics",
+      "headline": "Russia Holds Parade",
+      "summary": "Russia will hold a Victory Day parade. It will be without military equipment.",
+      "published_at": "2026-04-29T13:52:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWVva3VGdFZVM1E1dGJpZUdUZmFjcjh2VlQ1TEhtcVZZVGJIdmU3U01pZk1ZQ19tY0ZEZUZlc2wyMzZacVExQTlreXYydmhLYy1RMThjbzFJb2hhU3cta2dzakl2c2J6QUVqZk14QWw1TklRWDRicGhNUFRRa2xQUElBRzFTMm5oSTVpczRR?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_a78910442d35a5c1",
+      "topic": "politics",
+      "headline": "US Stocks Tick Lower",
+      "summary": "US stocks declined. Higher oil prices contributed to the decline.",
+      "published_at": "2026-04-29T13:51:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXE4ZnR2TDVqSWNOQ2lHVVZia0ZucW9QNVRMT1pONWtsVXZySGhGSDdYYTlqbEkwTTZ5cG9hNzlIUGt1N1U4bjhCZ1BCdldzei04VXlvTXhIdURvdDdUM3pkYUxOLXNCckhoQjBZekJYWDhlZG5iWld2bGFJeTBmU2hYZk5SNU02WkxET1Jvek93RFAwZS1JM0cwcldfejRl?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_43bbd1897c6fd1f6",
+      "topic": "finance",
+      "headline": "Fake Stablecoins Rise",
+      "summary": "Hong Kong sees fake stablecoins. They are on the rise.",
+      "published_at": "2026-04-29T13:50:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-sees-rise-fake-135000568.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_6af1b4a7880eeb82",
+      "topic": "finance",
+      "headline": "Dow Slips Ahead",
+      "summary": "Dow slips before Fed decision. Robinhood sinks on earnings.",
+      "published_at": "2026-04-29T13:49:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-powell-robinhood-stock/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_97f1c0e887d07154",
+      "topic": "finance",
+      "headline": "Free Tax Tool",
+      "summary": "Free IRS tax tool available. Not for everyone, experts say.",
+      "published_at": "2026-04-29T13:47:02.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/tax-withholding-2026.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_2511837b5da06b96",
+      "topic": "business",
+      "headline": "US Core Capital Goods Orders Surge",
+      "summary": "US core capital goods orders rose. The increase was the largest since 2020.",
+      "published_at": "2026-04-29T13:46:43.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmZLZTBFZjZHcS1xZGpMT1F5OWRVZDhiVVNxcXVQSDd3TERVTXhLLVZNT1pER1pzWEdsZE1BcnZ1TVdCajhhN1VVcVFKdWNVZThZZEF2dHNqZFhBWXVUbm9iMEEzZHNwcTFocDFhNGJOQW9zUHRkaEc3NXpoNUY0UGJ2cmctWW9vSHFoeld2ZWpiRzhEZlZ6UlRNRzNwWWRWNllfaXlmd045TXM3cGlld1pHeHQ?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_716aff5f1180c638",
+      "topic": "crypto",
+      "headline": "Bitcoin Price Capped",
+      "summary": "Bitcoin's price is capped. A sell wall is limiting its growth.",
+      "published_at": "2026-04-29T13:44:51.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/365942/bitcoins-upside-capped-by-82k-sell-wall-as-uaes-opec-exit-triggers-risk-sell-off",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_4dd23fcd200c3caf",
+      "topic": "finance",
+      "headline": "Refinancing Car Loan",
+      "summary": "Refinancing a car loan is possible. Bad credit can make it harder.",
+      "published_at": "2026-04-29T13:44:49.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/refinance-car-loan-bad-credit-152222860.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_f684e9212ca08ffa",
+      "topic": "finance",
+      "headline": "Silicon Motion Sales Double",
+      "summary": "Silicon Motion's sales doubled. Stock price increased.",
+      "published_at": "2026-04-29T13:43:19.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/simo-stock-silicon-motion-q1-2026-earnings/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_af09aba0a3d0633e",
+      "topic": "finance",
+      "headline": "Fed Meeting",
+      "summary": "Fed meeting with key questions. Powell passes torch.",
+      "published_at": "2026-04-29T13:40:23.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/federal-reserve-meeting-jerome-powell-passes-torch-kevin-warsh-sp500/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.762
+    },
+    {
+      "id": "evt_a65bed8c135cac99",
+      "topic": "finance",
+      "headline": "UPS Closures",
+      "summary": "UPS to close facilities. 27 closures in 2026.",
+      "published_at": "2026-04-29T13:40:20.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ups-close-27-additional-parcel-134020058.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.762
+    },
+    {
+      "id": "evt_ecce0b1d95d7f39a",
+      "topic": "finance",
+      "headline": "Amazon Earnings Preview",
+      "summary": "Amazon's earnings are previewed. AI momentum is in focus.",
+      "published_at": "2026-04-29T13:37:38.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/amazon-stock-q1-2026-earnings-preview/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_93e989aaf97b53cf",
+      "topic": "finance",
+      "headline": "UK Drugmakers Profit",
+      "summary": "UK drugmakers see profit bump. AstraZeneca and GSK beat expectations.",
+      "published_at": "2026-04-29T13:35:59.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/29/astrazeneca-gsk-q1-earnings-stock-sales-profit-trump-mfn-pharma.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_0da2f892e42899b0",
+      "topic": "finance",
+      "headline": "T-Mobile Earnings Call",
+      "summary": "T-Mobile discusses Q1 earnings. Cable TV acquisition is denied.",
+      "published_at": "2026-04-29T13:34:52.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/tmobile-stock-tmus-tmobile-earnings-q12026/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_6cc2d34fd5b501ca",
+      "topic": "finance",
+      "headline": "Investor Bets On Copper",
+      "summary": "Renaud Saleur invests in copper. He looks past politics.",
+      "published_at": "2026-04-29T13:34:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/why-this-soros-alum-is-betting-on-copper-and-cables-over-ai-chips-283e22ca?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_321d4d31ccf782d0",
+      "topic": "finance",
+      "headline": "SoFi Lending Records",
+      "summary": "SoFi sets lending records. Stock falls.",
+      "published_at": "2026-04-29T13:33:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/sofi-just-set-a-slew-of-lending-records-but-heres-why-its-stock-is-falling-4c7801a6?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_a76dee9daa630cee",
+      "topic": "crypto",
+      "headline": "DeFi Circuit Breakers",
+      "summary": "DeFi builders debate circuit breakers. They discuss vulnerabilities.",
+      "published_at": "2026-04-29T13:32:33.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/andre-cronje-says-defi-is-no-longer-defi-as-builders-debate-circuit-breakers",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
     }
   ]
 }
