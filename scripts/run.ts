@@ -1,6 +1,6 @@
-import { writeFileSync, mkdirSync, existsSync, readFileSync } from "node:fs";
-import { resolve, dirname } from "node:path";
-import { createHash } from "node:crypto";
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from "fs";
+import { resolve, dirname } from "path";
+import { createHash } from "crypto";
 import { fetchAll } from "./fetch";
 import { clusterArticles, pickCanonicalHeadline } from "./cluster";
 import { summarizeClusters } from "./summarize";
