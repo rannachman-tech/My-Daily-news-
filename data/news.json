@@ -1,0 +1,232 @@
+{
+  "generated_at": "2026-04-29T11:00:00Z",
+  "clusters": [
+    {
+      "id": "evt_seed_001",
+      "topic": "ai",
+      "headline": "OpenAI rolls out GPT-5.5 with native voice and longer context",
+      "summary": "OpenAI released GPT-5.5 with a native voice mode and a 2M-token context window, available first to ChatGPT Pro and API Tier 4 users. Pricing on the API drops roughly 20% versus GPT-5 for equivalent inputs.",
+      "published_at": "2026-04-29T08:12:00Z",
+      "sources": [
+        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/openai-gpt-5-5/", "homepage": "https://techcrunch.com" },
+        { "name": "The Verge", "url": "https://www.theverge.com/2026/4/29/openai-gpt-5-5", "homepage": "https://www.theverge.com" },
+        { "name": "Ars Technica", "url": "https://arstechnica.com/ai/2026/04/openai-gpt-5-5/", "homepage": "https://arstechnica.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com/technology/openai-gpt-55-2026-04-29/", "homepage": "https://www.reuters.com" }
+      ],
+      "source_count": 4,
+      "weight": 0.97
+    },
+    {
+      "id": "evt_seed_002",
+      "topic": "finance",
+      "headline": "Fed holds rates steady, signals one more cut before year-end",
+      "summary": "The FOMC kept the benchmark rate in the 4.00–4.25% range and softened forward guidance, with the dot plot now implying a single 25bp cut by December. Treasury yields fell across the curve and the dollar weakened.",
+      "published_at": "2026-04-29T18:30:00Z",
+      "sources": [
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/29/fed-decision.html", "homepage": "https://www.cnbc.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/fed-holds", "homepage": "https://www.bloomberg.com" },
+        { "name": "MarketWatch", "url": "https://www.marketwatch.com/story/fed-decision-2026-04-29", "homepage": "https://www.marketwatch.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com/markets/us/fed-decision-2026-04-29/", "homepage": "https://www.reuters.com" },
+        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/fed-decision-april-2026", "homepage": "https://www.wsj.com" }
+      ],
+      "source_count": 5,
+      "weight": 0.99
+    },
+    {
+      "id": "evt_seed_003",
+      "topic": "crypto",
+      "headline": "Bitcoin tops $138K as spot ETF inflows hit fresh record",
+      "summary": "Bitcoin briefly traded above $138,000 after spot BTC ETFs absorbed $1.4B of net inflows on Tuesday, the largest single-day total since launch. BlackRock's IBIT accounted for over half the flow.",
+      "published_at": "2026-04-29T05:45:00Z",
+      "sources": [
+        { "name": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/04/29/btc-ath", "homepage": "https://www.coindesk.com" },
+        { "name": "The Block", "url": "https://www.theblock.co/post/btc-ath-138k", "homepage": "https://www.theblock.co" },
+        { "name": "Decrypt", "url": "https://decrypt.co/2026/04/29/bitcoin-138k", "homepage": "https://decrypt.co" }
+      ],
+      "source_count": 3,
+      "weight": 0.91
+    },
+    {
+      "id": "evt_seed_004",
+      "topic": "politics",
+      "headline": "EU agrees framework on AI liability after marathon Brussels session",
+      "summary": "Member states reached a provisional deal on the AI Liability Directive, giving consumers a clearer path to sue developers and deployers of high-risk systems. Final adoption is expected before the summer recess.",
+      "published_at": "2026-04-29T02:10:00Z",
+      "sources": [
+        { "name": "BBC World", "url": "https://www.bbc.com/news/world-europe-2026-04-29-ai-liability", "homepage": "https://www.bbc.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/europe/eu-ai-liability-deal-2026-04-29/", "homepage": "https://www.reuters.com" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/eu-ai-deal", "homepage": "https://www.aljazeera.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.86
+    },
+    {
+      "id": "evt_seed_005",
+      "topic": "ai",
+      "headline": "Anthropic launches Claude on-prem appliance for regulated industries",
+      "summary": "Anthropic unveiled a hardware appliance bundling Claude models with its safety stack, aimed at banks, hospitals, and government agencies that can't ship data off premises. Pricing starts in the high six figures annually.",
+      "published_at": "2026-04-29T07:25:00Z",
+      "sources": [
+        { "name": "Reuters", "url": "https://www.reuters.com/technology/anthropic-onprem-2026-04-29/", "homepage": "https://www.reuters.com" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/anthropic-on-prem/", "homepage": "https://techcrunch.com" }
+      ],
+      "source_count": 2,
+      "weight": 0.78
+    },
+    {
+      "id": "evt_seed_006",
+      "topic": "business",
+      "headline": "Nvidia reports record quarter, lifts guidance on data-center demand",
+      "summary": "Nvidia posted Q1 revenue of $48.2B, beating estimates by $1.7B, and raised its Q2 outlook citing sustained AI infrastructure spend. Shares rose 6% in extended trading.",
+      "published_at": "2026-04-28T20:05:00Z",
+      "sources": [
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-28/nvidia-q1", "homepage": "https://www.bloomberg.com" },
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/28/nvidia-earnings.html", "homepage": "https://www.cnbc.com" },
+        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/nvidia-q1-2026", "homepage": "https://www.wsj.com" },
+        { "name": "Financial Times", "url": "https://www.ft.com/content/nvidia-q1-2026", "homepage": "https://www.ft.com" }
+      ],
+      "source_count": 4,
+      "weight": 0.94
+    },
+    {
+      "id": "evt_seed_007",
+      "topic": "crypto",
+      "headline": "SEC drops appeal in Ripple case, ending five-year saga",
+      "summary": "The Securities and Exchange Commission filed to dismiss its remaining appeal against Ripple Labs, leaving the 2023 ruling that XRP is not a security on secondary markets effectively final. XRP rallied 12% on the news.",
+      "published_at": "2026-04-29T13:40:00Z",
+      "sources": [
+        { "name": "CoinDesk", "url": "https://www.coindesk.com/policy/2026/04/29/sec-ripple", "homepage": "https://www.coindesk.com" },
+        { "name": "The Block", "url": "https://www.theblock.co/post/sec-ripple-dropped", "homepage": "https://www.theblock.co" },
+        { "name": "Cointelegraph", "url": "https://cointelegraph.com/news/sec-drops-ripple-appeal", "homepage": "https://cointelegraph.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/sec-ripple", "homepage": "https://www.bloomberg.com" }
+      ],
+      "source_count": 4,
+      "weight": 0.93
+    },
+    {
+      "id": "evt_seed_008",
+      "topic": "finance",
+      "headline": "Yen weakens past 162 per dollar, BOJ steps up jawboning",
+      "summary": "The yen slipped past 162 to the dollar overnight, prompting Japan's finance ministry to warn it would 'take all necessary actions' against speculative moves. Markets are pricing in only a small chance of a near-term rate hike.",
+      "published_at": "2026-04-29T01:15:00Z",
+      "sources": [
+        { "name": "Reuters", "url": "https://www.reuters.com/markets/asia/yen-162-2026-04-29/", "homepage": "https://www.reuters.com" },
+        { "name": "Financial Times", "url": "https://www.ft.com/content/yen-162-2026", "homepage": "https://www.ft.com" },
+        { "name": "Investing.com", "url": "https://www.investing.com/news/forex-news/yen-162-2026", "homepage": "https://www.investing.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.84
+    },
+    {
+      "id": "evt_seed_009",
+      "topic": "science",
+      "headline": "MIT team demonstrates room-temperature superconductivity in thin film",
+      "summary": "Researchers at MIT report a copper-hydride thin film that exhibits zero electrical resistance up to 22°C at modest pressures. Independent labs are racing to replicate; results posted to arXiv await peer review.",
+      "published_at": "2026-04-28T22:00:00Z",
+      "sources": [
+        { "name": "Nature", "url": "https://www.nature.com/articles/d41586-026-01234-7", "homepage": "https://www.nature.com" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260428200000.htm", "homepage": "https://www.sciencedaily.com" },
+        { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/2026/04/28/superconductor-mit/", "homepage": "https://www.technologyreview.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.82
+    },
+    {
+      "id": "evt_seed_010",
+      "topic": "ai",
+      "headline": "Google releases Gemini 3 Ultra, opens free tier to developers",
+      "summary": "Google launched Gemini 3 Ultra with reasoning improvements and multimodal generation, plus a developer free tier of 1,500 requests per day. Benchmarks show parity with GPT-5 on coding and lead on long-context tasks.",
+      "published_at": "2026-04-29T15:00:00Z",
+      "sources": [
+        { "name": "The Verge", "url": "https://www.theverge.com/2026/4/29/gemini-3-ultra", "homepage": "https://www.theverge.com" },
+        { "name": "Ars Technica", "url": "https://arstechnica.com/ai/2026/04/gemini-3-ultra/", "homepage": "https://arstechnica.com" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/2026/04/29/gemini-3-ultra/", "homepage": "https://techcrunch.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.88
+    },
+    {
+      "id": "evt_seed_011",
+      "topic": "business",
+      "headline": "Amazon to spin off AWS, source says, unlocking $1.5T valuation",
+      "summary": "Amazon's board has approved an in-principle plan to spin off AWS as a standalone listed company, according to a person familiar with the matter. The move would create one of the largest listed pure-play cloud businesses.",
+      "published_at": "2026-04-29T11:30:00Z",
+      "sources": [
+        { "name": "Wall Street Journal", "url": "https://www.wsj.com/articles/amazon-aws-spin-off-2026", "homepage": "https://www.wsj.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-29/amazon-aws-spinoff", "homepage": "https://www.bloomberg.com" }
+      ],
+      "source_count": 2,
+      "weight": 0.79
+    },
+    {
+      "id": "evt_seed_012",
+      "topic": "crypto",
+      "headline": "Ethereum Pectra+ upgrade ships, slashes L2 fees by 40%",
+      "summary": "The Pectra+ hard fork activated on mainnet without incident, lowering blob data costs and bringing average L2 fees on Arbitrum and Base under one cent. Validator participation held steady at 99.6%.",
+      "published_at": "2026-04-29T04:20:00Z",
+      "sources": [
+        { "name": "Decrypt", "url": "https://decrypt.co/2026/04/29/eth-pectra-plus", "homepage": "https://decrypt.co" },
+        { "name": "Cointelegraph", "url": "https://cointelegraph.com/news/eth-pectra-plus-live", "homepage": "https://cointelegraph.com" },
+        { "name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/technical/eth-pectra-plus", "homepage": "https://bitcoinmagazine.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.81
+    },
+    {
+      "id": "evt_seed_013",
+      "topic": "politics",
+      "headline": "UN Security Council passes Gaza reconstruction resolution",
+      "summary": "A resolution authorizing a multilateral reconstruction fund for Gaza passed 13-0 with two abstentions. The fund will be administered jointly by the UN, World Bank, and a regional Arab oversight board.",
+      "published_at": "2026-04-29T17:50:00Z",
+      "sources": [
+        { "name": "BBC World", "url": "https://www.bbc.com/news/world-middle-east-2026-04-29-unsc", "homepage": "https://www.bbc.com" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/4/29/unsc-gaza-resolution", "homepage": "https://www.aljazeera.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/unsc-gaza-2026-04-29/", "homepage": "https://www.reuters.com" },
+        { "name": "AP News", "url": "https://apnews.com/article/unsc-gaza-resolution-2026", "homepage": "https://apnews.com" }
+      ],
+      "source_count": 4,
+      "weight": 0.92
+    },
+    {
+      "id": "evt_seed_014",
+      "topic": "science",
+      "headline": "WHO confirms first effective oral vaccine for malaria",
+      "summary": "The World Health Organization endorsed an oral malaria vaccine that showed 78% efficacy against severe disease in a 14,000-child trial across four African countries. Rollout via Gavi is scheduled for Q3.",
+      "published_at": "2026-04-29T09:00:00Z",
+      "sources": [
+        { "name": "Nature", "url": "https://www.nature.com/articles/d41586-026-01401-2", "homepage": "https://www.nature.com" },
+        { "name": "New Scientist", "url": "https://www.newscientist.com/article/2026-04-29-malaria-oral", "homepage": "https://www.newscientist.com" },
+        { "name": "BBC World", "url": "https://www.bbc.com/news/health-2026-04-29-malaria-vaccine", "homepage": "https://www.bbc.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.85
+    },
+    {
+      "id": "evt_seed_015",
+      "topic": "finance",
+      "headline": "S&P 500 closes at record after soft inflation print",
+      "summary": "The S&P 500 finished up 1.1% at a fresh all-time high after core PCE came in at 2.3% YoY, slightly below consensus. Tech and consumer discretionary led; small caps lagged.",
+      "published_at": "2026-04-28T20:00:00Z",
+      "sources": [
+        { "name": "MarketWatch", "url": "https://www.marketwatch.com/story/sp-500-record-2026-04-28", "homepage": "https://www.marketwatch.com" },
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/04/28/markets-close.html", "homepage": "https://www.cnbc.com" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/sp-500-record-2026-04-28", "homepage": "https://finance.yahoo.com" }
+      ],
+      "source_count": 3,
+      "weight": 0.83
+    },
+    {
+      "id": "evt_seed_016",
+      "topic": "ai",
+      "headline": "EU's AI Office proposes mandatory model cards for foundation models above 10^25 FLOPs",
+      "summary": "The European AI Office published a draft technical standard requiring detailed model cards, evaluation results, and red-team summaries for any foundation model trained above the 10^25 FLOP threshold. Industry consultation runs until June.",
+      "published_at": "2026-04-29T10:15:00Z",
+      "sources": [
+        { "name": "MIT Tech Review", "url": "https://www.technologyreview.com/2026/04/29/eu-ai-office-model-cards/", "homepage": "https://www.technologyreview.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com/technology/eu-ai-office-2026-04-29/", "homepage": "https://www.reuters.com" }
+      ],
+      "source_count": 2,
+      "weight": 0.74
+    }
+  ]
+}

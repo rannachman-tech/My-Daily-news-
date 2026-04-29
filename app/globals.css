@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light theme — high-end neutral palette */
+    --bg: 250 250 250;
+    --surface: 255 255 255;
+    --surface-2: 248 248 248;
+    --border: 229 229 229;
+    --border-strong: 212 212 212;
+    --fg: 10 10 10;
+    --fg-muted: 102 102 102;
+    --fg-subtle: 153 153 153;
+    --accent: 0 102 255;
+    --accent-hover: 0 82 204;
+
+    --font-sans: "Geist", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    --font-mono: "Geist Mono", "JetBrains Mono", "SF Mono", Menlo, monospace;
+  }
+
+  html.dark {
+    --bg: 10 10 10;
+    --surface: 17 17 17;
+    --surface-2: 22 22 22;
+    --border: 31 31 31;
+    --border-strong: 51 51 51;
+    --fg: 245 245 245;
+    --fg-muted: 153 153 153;
+    --fg-subtle: 110 110 110;
+    --accent: 59 130 246;
+    --accent-hover: 96 165 250;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-bg text-fg font-sans;
+    font-feature-settings: "ss01", "cv01", "cv11";
+  }
+
+  ::selection {
+    background: rgb(var(--accent) / 0.25);
+    color: rgb(var(--fg));
+  }
+
+  /* Skeleton shimmer */
+  .skeleton {
+    background: linear-gradient(
+      90deg,
+      rgb(var(--surface-2)) 0%,
+      rgb(var(--border)) 50%,
+      rgb(var(--surface-2)) 100%
+    );
+    background-size: 200% 100%;
+    @apply animate-shimmer;
+  }
+
+  /* Subtle scrollbar in dark mode */
+  html.dark ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  html.dark ::-webkit-scrollbar-track {
+    background: rgb(var(--bg));
+  }
+  html.dark ::-webkit-scrollbar-thumb {
+    background: rgb(var(--border));
+    border-radius: 8px;
+  }
+  html.dark ::-webkit-scrollbar-thumb:hover {
+    background: rgb(var(--border-strong));
+  }
+}
+
+/* Focus ring */
+@layer utilities {
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-bg;
+  }
+}
