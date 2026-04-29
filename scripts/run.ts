@@ -93,7 +93,10 @@ async function main() {
     // weight = source_count * recency-decay
     const ageHrs = (Date.now() - latest) / 3_600_000;
     const recency = Math.max(0, 1 - ageHrs / HOURS_BACK);
-    const weight = Math.min(1, sourceCount * 0.18 + recency * 0.6);
+const weight = Math.min(1, sourceCount * 0.18 + recency * 0.6);
+
+    // First available image across the cluster's articles
+    const image_url = c.articles.find((a) => a.image)?.image;
 
     return {
       id: cid,
@@ -104,9 +107,8 @@ async function main() {
       sources,
       source_count: sourceCount,
       weight: Number(weight.toFixed(3)),
+      ...(image_url ? { image_url } : {}),
     };
-  });
-
   const feed: NewsFeed = {
     generated_at: new Date().toISOString(),
     clusters: finalClusters,
