@@ -1,9 +1,8 @@
 "use client";
 
 import type { ThemeMode, TimeWindow, TopicId } from "./types";
-import { ALL_TOPIC_IDS } from "./topics";
 
-const KEY = "daily-news-prefs:v1";
+const KEY = "daily-news-prefs:v2";
 
 export interface Prefs {
   topics: TopicId[];
@@ -14,7 +13,7 @@ export interface Prefs {
 }
 
 const DEFAULT_PREFS: Prefs = {
-  topics: ALL_TOPIC_IDS,
+  topics: [],
   theme: "system",
   window: "24h",
   hideRead: false,
@@ -38,7 +37,6 @@ export function savePrefs(prefs: Prefs): void {
   try {
     window.localStorage.setItem(KEY, JSON.stringify(prefs));
   } catch {
-    // ignore quota / privacy mode failures
   }
 }
 
@@ -47,8 +45,5 @@ export function getInitialTheme(): "light" | "dark" {
   const prefs = loadPrefs();
   if (prefs.theme === "light") return "light";
   if (prefs.theme === "dark") return "dark";
-  // system
-  return window.matchMedia?.("(prefers-color-scheme: dark)").matches
-    ? "dark"
-    : "light";
+  return window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
