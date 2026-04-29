@@ -108,7 +108,8 @@ const weight = Math.min(1, sourceCount * 0.18 + recency * 0.6);
       source_count: sourceCount,
       weight: Number(weight.toFixed(3)),
       ...(image_url ? { image_url } : {}),
-    });
+    };
+  });
   const feed: NewsFeed = {
     generated_at: new Date().toISOString(),
     clusters: finalClusters,
