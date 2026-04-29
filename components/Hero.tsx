@@ -95,11 +95,8 @@ export function Hero({ clusters }: Props) {
           <h2 className="text-[28px] sm:text-[40px] leading-[1.05] font-semibold tracking-[-0.025em] text-fg max-w-4xl">
             {primary ? (
               
-                href={primary.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="focus-ring rounded-sm hover:text-accent transition-colors"
-              >
+      {primary ? (
+              <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">
                 {active.headline}
               </a>
             ) : (
@@ -113,13 +110,8 @@ export function Hero({ clusters }: Props) {
             <span className="text-fg-subtle">{timeAgo(active.published_at)}</span>
             {active.sources.slice(0, 4).map((s) => (
               <span key={s.url} className="inline-flex items-center gap-2">
-                <span className="text-fg-subtle" aria-hidden>{"·"}</span>
-                
-                  href={s.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors"
-                >
+               <span className="text-fg-subtle" aria-hidden>{"·"}</span>
+                <a href={s.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">
                   {s.name}
                 </a>
               </span>
