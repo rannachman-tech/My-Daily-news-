@@ -14,18 +14,28 @@ export interface Prefs {
 
 const DEFAULT_PREFS: Prefs = {
   topics: [],
-  theme: "system",
+  theme: "light",
   window: "24h",
   hideRead: false,
   readIds: [],
 };
 
+function detectSystemTheme(): ThemeMode {
+  if (typeof window === "undefined") return "light";
+  return window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
 export function loadPrefs(): Prefs {
   if (typeof window === "undefined") return DEFAULT_PREFS;
   try {
     const raw = window.localStorage.getItem(KEY);
-    if (!raw) return DEFAULT_PREFS;
+    if (!raw) {
+      return { ...DEFAULT_PREFS, theme: detectSystemTheme() };
+    }
     const parsed = JSON.parse(raw);
+    if (parsed.theme === "system" || !parsed.theme) {
+      parsed.theme = detectSystemTheme();
+    }
     return { ...DEFAULT_PREFS, ...parsed };
   } catch {
     return DEFAULT_PREFS;
@@ -36,14 +46,5 @@ export function savePrefs(prefs: Prefs): void {
   if (typeof window === "undefined") return;
   try {
     window.localStorage.setItem(KEY, JSON.stringify(prefs));
-  } catch {
-  }
-}
-
-export function getInitialTheme(): "light" | "dark" {
-  if (typeof window === "undefined") return "dark";
-  const prefs = loadPrefs();
-  if (prefs.theme === "light") return "light";
-  if (prefs.theme === "dark") return "dark";
-  return window.matchMedia?.("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  } catch {}
 }
