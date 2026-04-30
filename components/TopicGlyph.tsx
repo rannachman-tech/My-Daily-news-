@@ -32,8 +32,9 @@ export function TopicGlyph({ topic, variant = "card" }: Props) {
       <div className="absolute inset-0 flex items-center justify-center">
         <Icon color={hue} size={variant === "hero" ? 96 : 64} />
       </div>
-      <div className="absolute bottom-3 right-3 text-[10px] font-mono uppercase tracking-[0.18em]" style={{ color: hue, opacity: 0.7 }}>
-        {t?.label ?? topic}
+   {/* Topic label, bottom-right — subtle */}
+      <div className="absolute bottom-2 right-2 text-[9px] font-mono uppercase tracking-[0.15em]" style={{ color: hue, opacity: 0.4 }}>
+        {t?.shortLabel ?? topic}
       </div>
     </div>
   );
