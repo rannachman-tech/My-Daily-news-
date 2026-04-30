@@ -1,10 +1,35 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL || "https://my-daily-news-one.vercel.app";
+
 export const metadata: Metadata = {
-  title: "Daily Digest — Your morning news, in one place",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "Daily Digest — Your morning news, in one place",
+    template: "%s · Daily Digest",
+  },
   description:
-    "A clean, free daily news digest aggregating AI, finance, crypto, politics, business, and science from the world's best free sources.",
+    "A free, fast daily news digest covering AI, finance, crypto, politics, business, and science. Refreshed every two hours.",
+  applicationName: "Daily Digest",
+  openGraph: {
+    title: "Daily Digest",
+    description: "Your morning news, in one place.",
+    url: "/",
+    siteName: "Daily Digest",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Daily Digest",
+    description: "Your morning news, in one place.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export const viewport: Viewport = {
@@ -14,7 +39,6 @@ export const viewport: Viewport = {
   ],
 };
 
-// Inline script that sets the theme class before paint to avoid FOUC.
 const themeScript = `
 (function() {
   try {
@@ -31,6 +55,7 @@ const themeScript = `
   } catch (e) {}
 })();
 `;
+
 export default function RootLayout({
   children,
 }: {
