@@ -35,8 +35,6 @@ export function Footer({ generatedAt }: Props) {
             <Link href="/about" className="focus-ring rounded-sm hover:text-fg transition-colors">
               About
             </Link>
-            <span className="mx-2 text-fg-subtle">{"·"}</span>
-            <span>No ads, no tracking</span>
             {updated && (
               <>
                 <span className="mx-2 text-fg-subtle">{"·"}</span>
@@ -72,15 +70,8 @@ export function Footer({ generatedAt }: Props) {
                   </p>
                   <ul className="space-y-1">
                     {list.map((s) => (
-                      <li key={s.id}>
-                        
-                          href={s.homepage}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors"
-                        >
-                          {s.name}
-                        </a>
+                    <li key={s.id}>
+                        <a href={s.homepage} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">{s.name}</a>
                       </li>
                     ))}
                   </ul>
