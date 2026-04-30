@@ -69,11 +69,17 @@ function setTheme(theme: Prefs["theme"]) {
           {heroClusters.length > 0 && <Hero clusters={heroClusters} />}
         </div>
 
-        <div className="sticky top-14 z-30 bg-bg/85 backdrop-blur-md border-y border-border">
+<div className="sticky top-14 z-30 bg-bg/85 backdrop-blur-md border-y border-border">
           <div className="mx-auto max-w-6xl">
             <div className="flex items-center gap-3 px-4 sm:px-6 lg:px-8 py-3">
-              <div className="flex-1 min-w-0 overflow-x-auto scrollbar-hide">
-                <TopicFilter selected={prefs.topics} onChange={setTopics} />
+              <div className="relative flex-1 min-w-0">
+                <div className="overflow-x-auto scrollbar-hide">
+                  <TopicFilter selected={prefs.topics} onChange={setTopics} />
+                </div>
+                <div
+                  aria-hidden
+                  className="pointer-events-none absolute top-0 right-0 bottom-0 w-10 bg-gradient-to-l from-bg to-transparent"
+                />
               </div>
               <WindowToggle value={prefs.window} onChange={setWindow} />
             </div>
