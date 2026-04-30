@@ -12,7 +12,7 @@ import { Footer } from "./Footer";
 
 const DEFAULT_PREFS: Prefs = {
   topics: [],
-  theme: "system",
+  theme: "light",
   window: "24h",
   hideRead: false,
   readIds: [],
