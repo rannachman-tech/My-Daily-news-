@@ -18,9 +18,7 @@ const DEFAULT_PREFS: Prefs = {
   readIds: [],
 };
 
-interface Props {
-  feed: NewsFeed;
-}
+interface Props { feed: NewsFeed; }
 
 export function DigestApp({ feed }: Props) {
   const [prefs, setPrefs] = useState<Prefs>(DEFAULT_PREFS);
@@ -56,12 +54,9 @@ export function DigestApp({ feed }: Props) {
 
   function setTheme(theme: Prefs["theme"]) {
     setPrefs((p: Prefs) => ({ ...p, theme }));
-    const resolved =
-      theme === "system"
-        ? window.matchMedia("(prefers-color-scheme: dark)").matches
-          ? "dark"
-          : "light"
-        : theme;
+    const resolved = theme === "system"
+      ? window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
+      : theme;
     document.documentElement.classList.toggle("dark", resolved === "dark");
   }
 
@@ -73,14 +68,14 @@ export function DigestApp({ feed }: Props) {
     <div className="min-h-screen flex flex-col">
       <Header generatedAt={feed.generated_at} theme={prefs.theme} onThemeChange={setTheme} />
       <main className="flex-1 w-full">
-        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 pb-16">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 pb-8">
           {heroClusters.length > 0 && <Hero clusters={heroClusters} />}
         </div>
 
-        <div className="sticky top-14 z-30 -mt-4 bg-bg/85 backdrop-blur-md border-y border-border">
-          <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-            <div className="py-3 flex items-center gap-3 overflow-x-auto sm:overflow-visible">
-              <div className="flex-1 min-w-0 overflow-x-auto sm:overflow-visible -mx-4 px-4 sm:mx-0 sm:px-0">
+        <div className="sticky top-14 z-30 bg-bg/85 backdrop-blur-md border-y border-border">
+          <div className="mx-auto max-w-6xl">
+            <div className="flex items-center gap-3 px-4 sm:px-6 lg:px-8 py-3">
+              <div className="flex-1 min-w-0 overflow-x-auto scrollbar-hide">
                 <TopicFilter selected={prefs.topics} onChange={setTopics} />
               </div>
               <WindowToggle value={prefs.window} onChange={setWindow} />
@@ -92,7 +87,7 @@ export function DigestApp({ feed }: Props) {
           {gridClusters.length === 0 ? (
             <EmptyState />
           ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-4 md:gap-y-8">
+            <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 lg:gap-5">
               {gridClusters.map((c) => (
                 <NewsCard key={c.id} cluster={c} />
               ))}
