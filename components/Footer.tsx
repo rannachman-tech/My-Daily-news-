@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { SOURCES } from "@/lib/sources";
 import { TOPICS } from "@/lib/topics";
 import { formatLocalTime } from "@/lib/time";
@@ -20,11 +21,22 @@ export function Footer({ generatedAt }: Props) {
   return (
     <footer className="mt-auto border-t border-border">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-8">
+        <p className="mb-5 text-[11px] leading-relaxed text-fg-subtle max-w-3xl">
+          For informational purposes only. Daily Digest aggregates publicly
+          available headlines from third-party publishers and is not affiliated
+          with them. Nothing on this site constitutes financial, investment,
+          legal, or tax advice.
+        </p>
+
         <div className="flex items-baseline justify-between gap-4 flex-wrap">
           <p className="text-[12px] text-fg-muted">
             <span className="font-semibold text-fg">Daily Digest</span>
             <span className="mx-2 text-fg-subtle">{"·"}</span>
-            <span>Free, no-ads, no-tracking</span>
+            <Link href="/about" className="focus-ring rounded-sm hover:text-fg transition-colors">
+              About
+            </Link>
+            <span className="mx-2 text-fg-subtle">{"·"}</span>
+            <span>No ads, no tracking</span>
             {updated && (
               <>
                 <span className="mx-2 text-fg-subtle">{"·"}</span>
@@ -46,6 +58,7 @@ export function Footer({ generatedAt }: Props) {
             </span>
           </button>
         </div>
+
         {open && (
           <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-x-6 gap-y-5 text-[12px] animate-fade-in">
             {TOPICS.map((t) => {
@@ -59,8 +72,15 @@ export function Footer({ generatedAt }: Props) {
                   </p>
                   <ul className="space-y-1">
                     {list.map((s) => (
-                    <li key={s.id}>
-                        <a href={s.homepage} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors">{s.name}</a>
+                      <li key={s.id}>
+                        
+                          href={s.homepage}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="focus-ring rounded-sm text-fg-muted hover:text-fg transition-colors"
+                        >
+                          {s.name}
+                        </a>
                       </li>
                     ))}
                   </ul>
