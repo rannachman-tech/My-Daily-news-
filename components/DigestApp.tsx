@@ -52,12 +52,9 @@ export function DigestApp({ feed }: Props) {
     setPrefs((p: Prefs) => ({ ...p, topics }));
   }
 
-  function setTheme(theme: Prefs["theme"]) {
+function setTheme(theme: Prefs["theme"]) {
     setPrefs((p: Prefs) => ({ ...p, theme }));
-    const resolved = theme === "system"
-      ? window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
-      : theme;
-    document.documentElement.classList.toggle("dark", resolved === "dark");
+    document.documentElement.classList.toggle("dark", theme === "dark");
   }
 
   function setWindow(w: Prefs["window"]) {
