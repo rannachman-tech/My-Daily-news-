@@ -8,9 +8,7 @@ import { TopicGlyph } from "./TopicGlyph";
 
 const ROTATE_MS = 6000;
 
-interface Props {
-  clusters: NewsCluster[];
-}
+interface Props { clusters: NewsCluster[]; }
 
 export function Hero({ clusters }: Props) {
   const [index, setIndex] = useState(0);
@@ -57,16 +55,9 @@ export function Hero({ clusters }: Props) {
   }
 
   function onKey(e: React.KeyboardEvent) {
-    if (e.key === "ArrowLeft") {
-      e.preventDefault();
-      go(index - 1);
-    } else if (e.key === "ArrowRight") {
-      e.preventDefault();
-      go(index + 1);
-    } else if (e.key === " ") {
-      e.preventDefault();
-      setPaused((p) => !p);
-    }
+    if (e.key === "ArrowLeft") { e.preventDefault(); go(index - 1); }
+    else if (e.key === "ArrowRight") { e.preventDefault(); go(index + 1); }
+    else if (e.key === " ") { e.preventDefault(); setPaused((p) => !p); }
   }
 
   const active = clusters[index];
@@ -75,19 +66,9 @@ export function Hero({ clusters }: Props) {
   const showImage = Boolean(active.image_url) && !imgFailed[active.id];
 
   return (
-    <section
-      aria-roledescription="carousel"
-      aria-label="Top stories"
-      className="group relative rounded-2xl border border-border bg-surface overflow-hidden"
-      onMouseEnter={() => setPaused(true)}
-      onMouseLeave={() => setPaused(false)}
-      onFocus={() => setPaused(true)}
-      onBlur={() => setPaused(false)}
-      onKeyDown={onKey}
-      tabIndex={0}
-    >
-      <div className="grid md:grid-cols-2">
-        <a href={primary?.url} target="_blank" rel="noopener noreferrer" className="focus-ring relative block aspect-[16/9] md:aspect-auto md:min-h-[340px] bg-surface-2 overflow-hidden" aria-label={active.headline}>
+    <section aria-roledescription="carousel" aria-label="Top stories" className="group relative rounded-2xl border border-border bg-surface overflow-hidden" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)} onFocus={() => setPaused(true)} onBlur={() => setPaused(false)} onKeyDown={onKey} tabIndex={0}>
+      <div className="grid md:grid-cols-[1.1fr_1fr]">
+        <a href={primary?.url} target="_blank" rel="noopener noreferrer" className="focus-ring relative block aspect-[16/9] md:aspect-auto md:min-h-[260px] bg-surface-2 overflow-hidden" aria-label={active.headline}>
           {showImage ? (
             <img key={active.id} src={active.image_url} alt="" loading="eager" decoding="async" className="absolute inset-0 h-full w-full object-cover transition-transform duration-700" onError={() => setImgFailed((s) => ({ ...s, [active.id]: true }))} />
           ) : (
@@ -96,7 +77,7 @@ export function Hero({ clusters }: Props) {
           <div className="md:hidden absolute inset-0 bg-gradient-to-t from-bg/40 to-transparent" aria-hidden />
         </a>
 
-        <div className="p-6 sm:p-8 flex flex-col justify-between min-h-[260px]">
+        <div className="p-5 sm:p-7 md:p-8 flex flex-col gap-3">
           <div className="flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.18em] text-fg-subtle">
             <span className="h-1 w-1 rounded-full" style={{ backgroundColor: topic?.hue ?? "currentColor" }} aria-hidden />
             Top stories
@@ -104,18 +85,18 @@ export function Hero({ clusters }: Props) {
             <span>{topic?.label ?? active.topic}</span>
           </div>
 
-          <div key={active.id} className={`mt-4 ${reduced ? "" : "animate-hero-in"}`}>
-            <h2 className="text-[24px] sm:text-[30px] leading-[1.1] font-semibold tracking-[-0.025em] text-fg">
+          <div key={active.id} className={reduced ? "" : "animate-hero-in"}>
+            <h2 className="text-[22px] sm:text-[26px] md:text-[28px] leading-[1.15] font-semibold tracking-[-0.025em] text-fg line-clamp-3">
               {primary ? (
                 <a href={primary.url} target="_blank" rel="noopener noreferrer" className="focus-ring rounded-sm hover:text-accent transition-colors">{active.headline}</a>
               ) : (
                 active.headline
               )}
             </h2>
-            <p className="mt-3 text-[14px] leading-relaxed text-fg-muted line-clamp-3">{active.summary}</p>
+            <p className="mt-2.5 text-[13.5px] sm:text-[14px] leading-relaxed text-fg-muted line-clamp-2 md:line-clamp-3">{active.summary}</p>
           </div>
 
-          <div className="mt-5 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] font-mono uppercase tracking-wider">
+          <div className="mt-auto flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] font-mono uppercase tracking-wider">
             <span className="text-fg-subtle">{timeAgo(active.published_at)}</span>
             {active.sources.slice(0, 4).map((s) => (
               <span key={s.url} className="inline-flex items-center gap-2">
@@ -131,7 +112,7 @@ export function Hero({ clusters }: Props) {
       </div>
 
       {clusters.length > 1 && (
-        <div className="px-6 sm:px-8 pb-6 flex items-center gap-2">
+        <div className="px-5 sm:px-7 md:px-8 pb-4 flex items-center gap-2">
           {clusters.map((c, i) => {
             const isActive = i === index;
             const isPast = i < index;
