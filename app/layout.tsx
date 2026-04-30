@@ -18,13 +18,12 @@ export const viewport: Viewport = {
 const themeScript = `
 (function() {
   try {
-    var prefs = JSON.parse(localStorage.getItem('daily-news-prefs:v1') || '{}');
-    var mode = prefs.theme || 'system';
-    var resolved = mode;
-    if (mode === 'system' || !mode) {
-      resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    var prefs = JSON.parse(localStorage.getItem('daily-news-prefs:v2') || '{}');
+    var mode = prefs.theme;
+    if (!mode || mode === 'system') {
+      mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     }
-    if (resolved === 'dark') {
+    if (mode === 'dark') {
       document.documentElement.classList.add('dark');
     } else {
       document.documentElement.classList.remove('dark');
@@ -32,7 +31,6 @@ const themeScript = `
   } catch (e) {}
 })();
 `;
-
 export default function RootLayout({
   children,
 }: {
