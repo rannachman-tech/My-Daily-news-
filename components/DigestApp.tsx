@@ -71,31 +71,33 @@ export function DigestApp({ feed }: Props) {
 
   return (
     <div className="min-h-screen flex flex-col">
-      <Header
-        generatedAt={feed.generated_at}
-        theme={prefs.theme}
-        onThemeChange={setTheme}
-      />
+      <Header generatedAt={feed.generated_at} theme={prefs.theme} onThemeChange={setTheme} />
       <main className="flex-1 w-full">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 pb-16">
           {heroClusters.length > 0 && <Hero clusters={heroClusters} />}
+        </div>
 
-          <div className="mt-10 sm:mt-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b border-border pb-4">
-            <TopicFilter selected={prefs.topics} onChange={setTopics} />
-            <WindowToggle value={prefs.window} onChange={setWindow} />
-          </div>
-
-          <div className="mt-8">
-            {gridClusters.length === 0 ? (
-              <EmptyState />
-            ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-10">
-                {gridClusters.map((c) => (
-                  <NewsCard key={c.id} cluster={c} />
-                ))}
+        <div className="sticky top-14 z-30 -mt-4 bg-bg/85 backdrop-blur-md border-y border-border">
+          <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+            <div className="py-3 flex items-center gap-3 overflow-x-auto sm:overflow-visible">
+              <div className="flex-1 min-w-0 overflow-x-auto sm:overflow-visible -mx-4 px-4 sm:mx-0 sm:px-0">
+                <TopicFilter selected={prefs.topics} onChange={setTopics} />
               </div>
-            )}
+              <WindowToggle value={prefs.window} onChange={setWindow} />
+            </div>
           </div>
+        </div>
+
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pt-6 pb-16">
+          {gridClusters.length === 0 ? (
+            <EmptyState />
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-4 md:gap-y-8">
+              {gridClusters.map((c) => (
+                <NewsCard key={c.id} cluster={c} />
+              ))}
+            </div>
+          )}
         </div>
       </main>
       <Footer generatedAt={feed.generated_at} />
@@ -103,32 +105,16 @@ export function DigestApp({ feed }: Props) {
   );
 }
 
-function WindowToggle({
-  value,
-  onChange,
-}: {
-  value: Prefs["window"];
-  onChange: (w: Prefs["window"]) => void;
-}) {
+function WindowToggle({ value, onChange }: { value: Prefs["window"]; onChange: (w: Prefs["window"]) => void }) {
   const opts: { id: Prefs["window"]; label: string }[] = [
     { id: "12h", label: "12h" },
     { id: "24h", label: "24h" },
     { id: "week", label: "Week" },
   ];
   return (
-    <div className="inline-flex items-center gap-px rounded-md bg-surface-2 p-0.5 self-start sm:self-auto">
+    <div className="flex-shrink-0 inline-flex items-center gap-px rounded-md bg-surface-2 p-0.5">
       {opts.map((o) => (
-        <button
-          key={o.id}
-          type="button"
-          onClick={() => onChange(o.id)}
-          className={`focus-ring px-2.5 py-1 text-[11px] font-mono tracking-wide rounded-[5px] transition-all ${
-            value === o.id
-              ? "bg-bg text-fg shadow-[0_0_0_1px_rgb(var(--border))]"
-              : "text-fg-muted hover:text-fg"
-          }`}
-          aria-pressed={value === o.id}
-        >
+        <button key={o.id} type="button" onClick={() => onChange(o.id)} className={`focus-ring px-2.5 py-1 text-[11px] font-mono tracking-wide rounded-[5px] transition-all ${value === o.id ? "bg-bg text-fg shadow-[0_0_0_1px_rgb(var(--border))]" : "text-fg-muted hover:text-fg"}`} aria-pressed={value === o.id}>
           {o.label.toUpperCase()}
         </button>
       ))}
@@ -140,9 +126,7 @@ function EmptyState() {
   return (
     <div className="py-20 text-center">
       <p className="text-fg font-medium">Nothing in this window.</p>
-      <p className="mt-1 text-sm text-fg-muted">
-        Try a wider time range or different topics.
-      </p>
+      <p className="mt-1 text-sm text-fg-muted">Try a wider time range or different topics.</p>
     </div>
   );
 }
