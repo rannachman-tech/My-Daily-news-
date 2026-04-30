@@ -39,6 +39,6 @@ export interface NewsFeed {
   clusters: NewsCluster[];
 }
 
-export type ThemeMode = "light" | "dark" | "system";
+export type ThemeMode = "light" | "dark";
 
 export type TimeWindow = "12h" | "24h" | "week";
