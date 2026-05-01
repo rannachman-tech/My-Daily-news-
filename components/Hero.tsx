@@ -117,7 +117,7 @@ const safeIndex = index < clusters.length ? index : 0;
             const isActive = i === index;
             const isPast = i < index;
             return (
-              <button key={c.id} type="button" onClick={() => go(i)} aria-label={`Go to story ${i + 1}`} aria-current={isActive} className="focus-ring relative flex-1 h-px hover:h-0.5 transition-all">
+              <button key={c.id} type="button" onClick={() => go(i)} aria-label={`Go to story ${i + 1}`} aria-current={isActive ? "true" : undefined} className="focus-ring relative flex-1 h-px hover:h-0.5 transition-all">
                 <span className="absolute inset-0 bg-border" />
                 <span key={`fill-${c.id}-${tick}-${paused ? "p" : "r"}`} className="absolute inset-y-0 left-0 bg-fg" style={{ width: isActive ? "100%" : isPast ? "100%" : "0%", animation: isActive && !paused && !reduced ? `hero-fill ${ROTATE_MS}ms linear forwards` : undefined }} />
               </button>
