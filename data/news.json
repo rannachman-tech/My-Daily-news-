@@ -1,11 +1,118 @@
 {
-  "generated_at": "2026-05-01T07:54:06.106Z",
+  "generated_at": "2026-05-01T14:33:24.781Z",
   "clusters": [
     {
-      "id": "evt_a2de2c381b4b44bf",
+      "id": "evt_f62fd6abb210679d",
+      "topic": "finance",
+      "headline": "Trump Signs Retirement Plan Order",
+      "summary": "Trump signed an order. It creates retirement plans.",
+      "published_at": "2026-05-01T14:14:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-signs-order-create-retirement-200700656.html",
+          "homepage": "https://finance.yahoo.com"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/trump-to-sign-order-creating-retirement-plans-for-workers-who-lack-them-c7f33603?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.957,
+      "image_url": "https://media.zenfs.com/en/marketwatch_hosted_869/bd53a57352bc75386a6807ec33cfb084"
+    },
+    {
+      "id": "evt_49229a18ed3ae04d",
+      "topic": "crypto",
+      "headline": "Senators Quiz Tether Loan",
+      "summary": "Senators quiz Tether. Loan was to a family trust.",
+      "published_at": "2026-05-01T13:31:27.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/366312/senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childrens-trust",
+          "homepage": "https://decrypt.co"
+        },
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399660/senators-warren-wyden-press-tether-commerce-secretary-lutnick-loan-family-trust",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.951,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/05/howard-lutnick-decrypt-style-gID_7.jpg"
+    },
+    {
+      "id": "evt_cada8d8a243b67d6",
       "topic": "politics",
-      "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+      "headline": "Gaza Aid Flotilla Intercepted",
+      "summary": "Israel intercepted vessels. They were taken to Crete.",
+      "published_at": "2026-05-01T13:21:44.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGpnQlROeFRtQXdhQ0ZrYzVRLWx5MTg0R1gxVEtqX2M3bHQ1LWZLQXJJT1pvMFJoRkg2OUpxUG44UkJ0Q1FOamhSME9GVXNkdHFTMUpUamRmcjE5dFA3dFp5elBLUGFWWUR6QmJQMXdiXzRQNmFNUm1nUXpmLXM5R1RTQnNIQ3JXY2prcGhfTmNuS0UzSldkb3FadWE0NnF6ZFVOVDlPTEpiUGRIWVgwaThlOHNjdw?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.95
+    },
+    {
+      "id": "evt_b329a76bde2fd30a",
+      "topic": "ai",
+      "headline": "OpenAI restricts Cyber access",
+      "summary": "OpenAI limits access to Cyber. It will roll out to critical cyber defenders.",
+      "published_at": "2026-05-01T10:28:12.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too",
+          "homepage": "https://news.ycombinator.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.926
+    },
+    {
+      "id": "evt_6e3d376f7acaf484",
+      "topic": "politics",
+      "headline": "Iran threatens US response",
+      "summary": "Iran vows a long response. Diplomatic efforts have hit an impasse.",
+      "published_at": "2026-05-01T07:32:57.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjVNVmMxVmlmYk9ic3V2RkNRTFlHWkFuZVdrSVlsX1FSSV8ybnM4TmNRWHF1UW5aOGdjOW5OUmhoVHdBOWZ0akMzUUdPdW9heDhpenUwNTlEYU9uWHZJcDNrMnY4R0RTQ3Q5Q2M2WUtuN2M3MVpQVFNQTG5GamZYNW9TXzhMQmw4OER6SlJUMnVSQThhbG5aOEYtTWlNMkd5TmRyOWhULUdrYXg4cnpQaGt6SXlQX1ZCZXNr?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.902
+    },
+    {
+      "id": "evt_8b4296151495899e",
+      "topic": "politics",
+      "headline": "Suu Kyi to house arrest",
+      "summary": "Aung San Suu Kyi is moved. She has been in detention since 2021.",
       "published_at": "2026-05-01T04:11:53.000Z",
       "sources": [
         {
@@ -17,311 +124,44 @@
           "name": "AP News",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDlXcEhlUXdfOFd6RmtmNTNGa2plMktlQXcyVGpEeFJRTDNKTFNmQVdOMHVrVDg2TU9Cc2lnMGpGZVhDSFIyS3g3ZXN5ZXlTZXh3VWdXQ19Fd2wxRzZHTFN0dkRobFRPakxBaThZQnpFaXdSMDVQOVdFSzl4bGppMTlfbUxYbnc2V2Vzamxua2s2NFBmeDFv?oc=5",
           "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.874,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f6/live/fc5303a0-4538-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "id": "evt_542b2ac43aca072a",
+      "topic": "politics",
+      "headline": "Britney Spears Charged",
+      "summary": "Britney Spears charged with driving under influence. Facing one misdemeanour count.",
+      "published_at": "2026-04-30T22:08:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHZZSFRYMWU3M1E2cHdVSi1PaDkybmtmd1FGeXVyOXRwVUQ1VzNBNXVtLUlXSHJvd1dDMHFrTEl0SlJtcmg5bmVZbUlZa1JFWlZrMlhpdUNLNWs3eGI0bjhoVHpIQktlZXpMdHRUSHpGSzhGcjQ3UVQ0anZ2bU1JMUU1ZWJIRnd3LTFzU3poTlk5NUE?oc=5",
+          "homepage": "https://apnews.com"
         },
         {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2w1VkhJYnVTQzZhdXp0NTdxOExNN053Vkk5VE1COGt5OVZaOUhVOEdwWEExUVNyZjBtdG9UWER3cXpfenRweVVpT2VHMkJJanRCTllvenZGZWxqQk5xcVR3YmZZRkZqekU5MFNJMk9IODdmS3Z3Wlg4ajVYN1luUUhQeXJ6cURXcFoyZW1Td3AyZlk5REdvNWsyU1ZKMDZDeXE2dG93eDRuZHM0LVE5V25jc1NrdFJLbHFCQXl3?oc=5",
-          "homepage": "https://www.reuters.com/world"
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
-      "source_count": 3,
-      "weight": 1,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg"
+      "source_count": 2,
+      "weight": 0.823,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/0b236240-4529-11f1-ac78-2112837ce2aa.jpg"
     },
     {
-      "id": "evt_cded7b2a9fb60939",
-      "topic": "crypto",
-      "headline": "Bithumb scores a legal win in South Korea as six-month suspension is lifted by local judge",
-      "summary": "South Korea's financial watchdog imposed a $24.6 million fine on Bithumb and partial suspension that came into effect last month.",
-      "published_at": "2026-05-01T07:41:24.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/2e7d334bb1f703ff5b0643840f44918d12dc05cc-1500x837.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_ad8b8a607211b6cf",
+      "id": "evt_5355a4d2c91c0e07",
       "topic": "finance",
-      "headline": "Australia Japan Markets",
-      "summary": "Australia and Japan markets climb. Investors look past fears.",
-      "published_at": "2026-05-01T06:53:19.000Z",
+      "headline": "Oil Prices Fall",
+      "summary": "Oil prices fall. Iran sends peace proposal.",
+      "published_at": "2026-05-01T14:29:59.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/05/01/asia-markets-today-asx-200-nikkei-225-labor-day-live-updates.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_990f51230b5b143b",
-      "topic": "science",
-      "headline": "Why drinking more water didn’t prevent kidney stones",
-      "summary": "Kidney stones are notoriously painful—and frustratingly common, with many people facing repeat episodes. A massive new study tested whether a high-tech hydration program—complete with smart water bottles, reminders, coaching, and even financial incentives—could help people drink ",
-      "published_at": "2026-05-01T07:36:18.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/04/260429102034.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_1c2c5896b629d914",
-      "topic": "business",
-      "headline": "Janus Henderson GCC Bonds - Net Asset Value(s) – Company Announcement - Financial Times",
-      "summary": "Janus Henderson GCC Bonds - Net Asset Value(s) – Company Announcement Financial Times",
-      "published_at": "2026-05-01T07:34:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2F4Y3RjeUFVbVJQWVIyUTAyVnBlRUoyN0lFUWtTSDJHdUxKSG1Ga3JsV3FYVjdWLVQwMFRNdDBBUk1FdWhqYU9zeXVLX0tuTEJIa3RmNHVBVkJhVENaOEFxSjZoVkNKano0Z3V1VC1qTHRlX0xscHV6eG93eUUtU1Utb0hOc0t0Tnh3OTZ6STlGZ0VJ?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_df59c59a15ac05df",
-      "topic": "finance",
-      "headline": "Japan signs first $2.2 billion loan under $550 billion US investment pledge",
-      "summary": "Japan signs first $2.2 billion loan under $550 billion US investment pledge",
-      "published_at": "2026-05-01T07:31:17.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/japan-signs-first-22-billion-loan-under-550-billion-us-investment-pledge-4652063",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM40292_L.jpg"
-    },
-    {
-      "id": "evt_136154f32dfc488f",
-      "topic": "finance",
-      "headline": "Harley-Davidson recalls around 88,000 motorcycles over Airbox Baseplate issue, NHTSA says",
-      "summary": "Harley-Davidson recalls around 88,000 motorcycles over Airbox Baseplate issue, NHTSA says",
-      "published_at": "2026-05-01T07:30:57.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/harleydavidson-recalls-around-88000-motorcycles-over-airbox-baseplate-issue-nhtsa-says-4652061",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM40294_L.jpg"
-    },
-    {
-      "id": "evt_a439fd12a7a2c347",
-      "topic": "finance",
-      "headline": "Neopool Wins Mining Pool of the Year at Blockchain Life Awards 2026",
-      "summary": "Neopool Wins Mining Pool of the Year at Blockchain Life Awards 2026",
-      "published_at": "2026-05-01T07:30:41.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/press-releases/neopool-wins-mining-pool-of-the-year-at-blockchain-life-awards-2026-4652060",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg"
-    },
-    {
-      "id": "evt_1fee66bdf5092686",
-      "topic": "finance",
-      "headline": "Standard Chartered pivots to June ECB hike from no hike in 2006 outlook",
-      "summary": "Standard Chartered pivots to June ECB hike from no hike in 2006 outlook",
-      "published_at": "2026-05-01T07:30:40.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/standard-chartered-pivots-to-june-ecb-hike-from-no-hike-in-2006-outlook-4652059",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4026X_L.jpg"
-    },
-    {
-      "id": "evt_71a875fe673d0d95",
-      "topic": "finance",
-      "headline": "Earnings call transcript: Pebblebrook Hotel Trust beats Q1 2026 forecasts with strong performance",
-      "summary": "Earnings call transcript: Pebblebrook Hotel Trust beats Q1 2026 forecasts with strong performance",
-      "published_at": "2026-05-01T07:28:54.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-pebblebrook-hotel-trust-beats-q1-2026-forecasts-with-strong-performance-93CH-4652056",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_afe3c810f54ee7b3",
-      "topic": "finance",
-      "headline": "Wall St futures tick up after record highs; Apple earnings, Iran conflict in focus",
-      "summary": "Wall St futures tick up after record highs; Apple earnings, Iran conflict in focus",
-      "published_at": "2026-05-01T07:28:08.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/wall-st-futures-edge-up-after-record-highs-apple-earnings-iran-conflict-in-focus-4651837",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEF1P0WJ_M.jpg"
-    },
-    {
-      "id": "evt_ae55faeac2570ddd",
-      "topic": "finance",
-      "headline": "Northern Electric suspends preference shares from trading",
-      "summary": "Northern Electric suspends preference shares from trading",
-      "published_at": "2026-05-01T07:26:51.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/northern-electric-suspends-preference-shares-from-trading-93CH-4652055",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_f14055b49ff5b0b4",
-      "topic": "finance",
-      "headline": "Earnings call transcript: Unum Group Q1 2026 beats forecasts, stock surges",
-      "summary": "Earnings call transcript: Unum Group Q1 2026 beats forecasts, stock surges",
-      "published_at": "2026-05-01T07:26:24.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-unum-group-q1-2026-beats-forecasts-stock-surges-93CH-4652054",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_779f496fe7215720",
-      "topic": "finance",
-      "headline": "Morgan Stanley upgrades Caterpillar stock rating on strong results",
-      "summary": "Morgan Stanley upgrades Caterpillar stock rating on strong results",
-      "published_at": "2026-05-01T07:25:42.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/morgan-stanley-upgrades-caterpillar-stock-rating-on-strong-results-93CH-4652053",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_104d995e035e6f33",
-      "topic": "finance",
-      "headline": "Ford recalls about 180,000 vehicles over loose bolt in front seat frame, NHTSA says",
-      "summary": "Ford recalls about 180,000 vehicles over loose bolt in front seat frame, NHTSA says",
-      "published_at": "2026-05-01T07:24:23.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/ford-recalls-about-180000-vehicles-over-loose-bolt-in-front-seat-frame-nhtsa-says-4652048",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4028W_L.jpg"
-    },
-    {
-      "id": "evt_d402970a543968dd",
-      "topic": "crypto",
-      "headline": "Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine",
-      "summary": "STRC’s volume weighted average price of $99.76 for April kept the dividend steady for a third consecutive month.",
-      "published_at": "2026-05-01T07:01:47.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/05/01/strategy-keeps-strc-dividend-at-11-5-as-stock-logs-first-monthly-gain-in-nine",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/3efa9d7cc7ee03df475afd9c52faf9fea428454f-2130x1736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_1a7a3677db59d70d",
-      "topic": "business",
-      "headline": "Uber Will Let You Book Hotels, Too, in Deal With Expedia - WSJ",
-      "summary": "Uber Will Let You Book Hotels, Too, in Deal With Expedia WSJ",
-      "published_at": "2026-05-01T07:00:49.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQW9jNXBzRldLckFPYmZPWTVqcW8xb0ZRRFhFWHF4X3FHeWhRSUlEdHBDbWlQaE9vUnJJbTFQTUFScXVreEUzTGNGd0k1V2tQbVVFY3BDZjQtX2ZXMUNLdDNURGZfbTNhSC05TWMxS3czWERpRFFBQnpvQ3N0SjQyN01aMW8xUlZTS0RGbVotOUpZZTM1NG5v?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_2700fbbfedb874de",
-      "topic": "finance",
-      "headline": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
-      "summary": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
-      "published_at": "2026-05-01T07:00:01.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_6b853caa20215ca8",
-      "topic": "finance",
-      "headline": "Japan Airlines Robot Trial",
-      "summary": "Japan Airlines trials robots. Labor shortages are a challenge.",
-      "published_at": "2026-05-01T06:58:26.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+          "url": "https://cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
@@ -329,130 +169,483 @@
       "weight": 0.78
     },
     {
-      "id": "evt_fa66ef35c5aa2058",
-      "topic": "crypto",
-      "headline": "Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant",
-      "summary": "Futures drove up Bitcoin's price in April while spot demand declined, which CryptoQuant warned has historically preceded extended price declines.",
-      "published_at": "2026-05-01T06:53:44.000Z",
+      "id": "evt_17d91e60edebfe36",
+      "topic": "ai",
+      "headline": "Xteink E-Readers",
+      "summary": "Xteink e-readers lose feature. Devices have clunky firmware.",
+      "published_at": "2026-05-01T14:24:54.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant",
-          "homepage": "https://cointelegraph.com"
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/921552/xteink-x3-x4-e-reader-third-party-crosspoint-firmware-usb-blocked",
+          "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwbWFya2V0c1BybyUyMG9uZS1zdG9wJTIwaW5zdGl0dXRpb25hbC1ncmFkZSUyMGNyeXB0byUyMGludGVsbGlnZW5jZSUyMGRhc2hib2FyZCUyMEJpdGNvaW4uanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg"
+      "weight": 0.779,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xteink3_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_092e98d6a201bb57",
-      "topic": "crypto",
-      "headline": "Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD",
-      "summary": "The Bitcoin FUD-stopping tool cites over 22 peer-reviewed research papers to address common misconceptions about Bitcoin.",
-      "published_at": "2026-05-01T06:51:37.000Z",
+      "id": "evt_e0fb2e89cd763bf1",
+      "topic": "finance",
+      "headline": "AI-Proof Jobs",
+      "summary": "Jobs resistant to AI require physical presence. They offer specialized training.",
+      "published_at": "2026-05-01T14:24:00.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bitcoiner-launches-the-bitcoin-evidence-base-to-stamp-out-fud",
-          "homepage": "https://cointelegraph.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL1doYXQlMjBpcyUyMFRpbmtlcmluZyUyMGluJTIwQml0Y29pbiUyMENvcmUlRTIlODAlOTlzJTIwVG9vbGJveCUyQyUyMERldmVsb3BlcnMlMjBEaXZ1bGdlLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg"
+      "weight": 0.779,
+      "image_url": "https://images.mktw.net/im-24069435"
     },
     {
-      "id": "evt_01d1afbf5cf316d3",
-      "topic": "crypto",
-      "headline": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
-      "summary": "Carrot's total value locked has collapsed 93% in a month, from $28 million to $1.99 million, leaving the protocol financially unable to continue.",
-      "published_at": "2026-05-01T06:48:08.000Z",
+      "id": "evt_37305e83931d95a2",
+      "topic": "finance",
+      "headline": "Atlassian Stock Rises",
+      "summary": "Atlassian's stock rose 20%. The company showed strong cloud growth.",
+      "published_at": "2026-05-01T14:21:31.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwVGhlJTIwcGVyZmVjdCUyMHN0b3JtJTIwRGVGaSUyMGhhY2tzJTIwd2lsbCUyMGFkdmFuY2UlMjB0aGUlMjBjcnlwdG8lMjBzZWN0b3IlMjBtb3ZpbmclMjBmb3J3YXJkLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg"
-    },
-    {
-      "id": "evt_5d08618be9aff7b3",
-      "topic": "politics",
-      "headline": "Suu Kyi to meet lawyers",
-      "summary": "Myanmar ex-leader Suu Kyi will meet her lawyers. She is currently detained.",
-      "published_at": "2026-05-01T04:15:00.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckpnZHVQUVkxdHJhaTI4bjlIbjlRUlNSZUY4cG5abzdZUGx1SGZzUjFmZGtFWTZCVHFEbjdqZ0k1Ry03ZW5nTkw4aDFNS2FqZXgyLWQ3T01IRGNOSkpoS0J2MHJMTGZ0ZjF0Sk53eG9kcWt3MHFrcWRtUmRrZXZ1YnZPa2ZZX3Q5Tm03dWYwUW5WTVlXdlRVeTl2bjVUN09SM3dYRWdhYmJJV250RVFWM0FIOE1UWVVsdXc?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_5be7196ba5ca036a",
-      "topic": "politics",
-      "headline": "Russia Attacks Ukraine",
-      "summary": "Russia attacks Ukraine. One killed, several injured.",
-      "published_at": "2026-05-01T06:42:10.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778
     },
     {
-      "id": "evt_47bbf1c01d4ee7a4",
-      "topic": "ai",
-      "headline": "It’s Toasted",
-      "summary": "Article URL: https://yadin.com/notes/toasted/ Comments URL: https://news.ycombinator.com/item?id=47971830 Points: 23 # Comments: 10",
-      "published_at": "2026-05-01T06:34:54.000Z",
+      "id": "evt_211c228e011dab92",
+      "topic": "finance",
+      "headline": "Utf Stock High",
+      "summary": "Utf stock hit a 52-week high. It reached $27.33.",
+      "published_at": "2026-05-01T14:19:49.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://yadin.com/notes/toasted",
-          "homepage": "https://news.ycombinator.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/utf-stock-hits-52week-high-at-2733-93CH-4653598",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "id": "evt_5131cce246b6dc22",
-      "topic": "politics",
-      "headline": "Ukraine's robot soldiers",
-      "summary": "Ukraine uses robot soldiers. AI may make battlefield decisions.",
-      "published_at": "2026-05-01T06:29:29.000Z",
+      "id": "evt_4c2bb63afb7f1e00",
+      "topic": "finance",
+      "headline": "Montanaro Seeks Buyback",
+      "summary": "Montanaro UK Smaller Companies seeks share buyback authority. This is a finance event.",
+      "published_at": "2026-05-01T14:19:42.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/montanaro-uk-smaller-companies-seeks-share-buyback-authority-93CH-4653597",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_23608c160e23ad76",
+      "topic": "finance",
+      "headline": "Fidelis Hits High",
+      "summary": "Fidelis Insurance Holdings stock hits all-time high. The stock reached 21.43 USD.",
+      "published_at": "2026-05-01T14:19:38.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/fidelis-insurance-holdings-stock-hits-alltime-high-at-2143-usd-93CH-4653596",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_0175c6db7f06cdbd",
+      "topic": "finance",
+      "headline": "Private Credit Maturity",
+      "summary": "Private credit borrowers face maturity walls. The walls are further out.",
+      "published_at": "2026-05-01T14:19:09.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/for-private-credit-borrowers-big-maturity-walls-are-further-out-4653565",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402N8_L.jpg"
+    },
+    {
+      "id": "evt_a60a2b0877f3b624",
+      "topic": "finance",
+      "headline": "RBC Rates LyondellBasell",
+      "summary": "RBC Capital reiterates stock rating. LyondellBasell beats Q1 expectations.",
+      "published_at": "2026-05-01T14:19:05.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/rbc-capital-reiterates-lyondellbasell-stock-rating-on-q1-beat-93CH-4653595",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_0944fe2ceadb1205",
+      "topic": "finance",
+      "headline": "Bernstein Cuts Hershey Target",
+      "summary": "Bernstein cuts Hershey stock target. Muted Q2 outlook cited.",
+      "published_at": "2026-05-01T14:18:55.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/bernstein-cuts-hershey-stock-price-target-on-muted-q2-outlook-93CH-4653594",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_b3576f08cf112edf",
+      "topic": "finance",
+      "headline": "Immigrant Dies in Custody",
+      "summary": "Cuban immigrant dies in ICE custody. Notice sent to US lawmakers.",
+      "published_at": "2026-05-01T14:18:52.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/general-news/cuban-immigrant-died-in-ice-custody-in-georgia-notice-to-us-lawmakers-says-4653576",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402NK_L.jpg"
+    },
+    {
+      "id": "evt_72fd53dd54ac822a",
+      "topic": "finance",
+      "headline": "Man Sentenced to Death",
+      "summary": "A man was sentenced to death. He killed four children.",
+      "published_at": "2026-05-01T14:18:38.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/uganda-court-sentences-man-to-death-for-killing-four-young-children-at-nursery-school-4650613",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1HF_L.jpg"
+    },
+    {
+      "id": "evt_7f4b8280d576f81f",
+      "topic": "finance",
+      "headline": "Roblox Shares Drop",
+      "summary": "Roblox shares fell. The company faces lawsuits.",
+      "published_at": "2026-05-01T14:18:16.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_287d2704129ce309",
+      "topic": "finance",
+      "headline": "JMAC Enterprises Filing",
+      "summary": "JMAC filed a form. It was for May 1.",
+      "published_at": "2026-05-01T14:15:55.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-13f-jmac-enterprises-llc-for-1-may-93CH-4653591",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_69bc354985fd4929",
+      "topic": "politics",
+      "headline": "Carter Initiative Helps Habitat",
+      "summary": "Habitat for Humanity is developing a new Atlanta community. The Carters' initiative is helping.",
+      "published_at": "2026-05-01T14:13:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmxQam1hU2tZMjZEVHkzd1RJZTRpQlFvWC1DRHhwUkpfd3l6TFRnWm9aampSdHRJallzNjBQc01qOTJFcHN3Z3Z4OVNZRGxEekRrbW9hS1FwM2NzbGFQUElhcFRwTmVXX2loQ1Z3YmZLSFdobUVYLUl0LTRGN2J1N2dtTk0xR3gxMlI1OGRGZC1ZLXQtTXB5d2V5azZTSGV5QmdtVkZDcHBsT1M1WTFFYg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_d7a217c2fd340c10",
+      "topic": "crypto",
+      "headline": "Fun Raises $72 Million",
+      "summary": "Fun powers crypto deposits and withdrawals. It raised $72 million.",
+      "published_at": "2026-05-01T14:12:45.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://www.tbstat.com/wp/uploads/2019/04/Multicoin-Capital-map-796x450.jpg"
+    },
+    {
+      "id": "evt_5e38fa415d2393c0",
+      "topic": "crypto",
+      "headline": "Dogecoin Mining Firm Goes Public",
+      "summary": "A Dogecoin mining firm plans to go public. Dogecoin hits a 2-month high.",
+      "published_at": "2026-05-01T14:12:08.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Doge4-gID_7.png"
+    },
+    {
+      "id": "evt_5ae3be5eeb29eaaf",
+      "topic": "finance",
+      "headline": "Starboard targets Lamb Weston",
+      "summary": "Starboard targets Lamb Weston. Details are limited.",
+      "published_at": "2026-05-01T14:11:27.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/activist-investor-starboard-tightens-noose-134627721.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/just_food_692/0710ad5d634e4b78c51174bd394a5e63"
+    },
+    {
+      "id": "evt_8b5ef8d58937fed3",
+      "topic": "finance",
+      "headline": "US manufacturing grows",
+      "summary": "US manufacturing expands. Inflation is a concern.",
+      "published_at": "2026-05-01T14:11:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/embattled-u-s-manufacturers-show-their-metal-grow-fourth-month-in-a-row-despite-iran-war-8c79a878?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-08307984"
+    },
+    {
+      "id": "evt_85083c2140b46dc2",
+      "topic": "finance",
+      "headline": "Retirement savings concern",
+      "summary": "Individual seeks retirement advice. Has $3.5 million saved.",
+      "published_at": "2026-05-01T14:10:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-26047630"
+    },
+    {
+      "id": "evt_d95a79066640c48e",
+      "topic": "ai",
+      "headline": "Pentagon Partners With AI Firms",
+      "summary": "Pentagon partners with AI firms. Excludes Anthropic due to risk.",
+      "published_at": "2026-05-01T14:09:56.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_fce49f1218bbfc49",
+      "topic": "finance",
+      "headline": "Boston Beer Updates Profit",
+      "summary": "Boston Beer updates profit guidance. Cites litigation costs.",
+      "published_at": "2026-05-01T14:09:24.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boston-beer-narrows-profit-guidance-140924948.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/just_drinks_442/8e43beec5b4b2ca3212e3e012dd00adf"
+    },
+    {
+      "id": "evt_260ac553a901393f",
+      "topic": "ai",
+      "headline": "Mothers Day Gift Guide",
+      "summary": "Guide for Mothers Day gifts. Features practical gadgets.",
+      "published_at": "2026-05-01T14:09:03.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268437_The_Verges_2026_Mothers_Day_gift_guide_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_0d13a68921fcc388",
+      "topic": "finance",
+      "headline": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
+      "summary": "Sen. Chris Coons demanded answers on H200 chips sales to China after Commerce Secretary Howard Lutnick and the Nvidia CEO Jensen Huang give differing answers.",
+      "published_at": "2026-05-01T14:08:32.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/05/01/nvidia-chips-jensen-huang-h200-lutnick-chris-coons.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_5c361892711cfa2f",
+      "topic": "finance",
+      "headline": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+      "summary": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+      "published_at": "2026-05-01T14:07:37.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776
     },
     {
-      "id": "evt_c208dea706244ba9",
+      "id": "evt_42f51fd02ed84ebf",
+      "topic": "science",
+      "headline": "You don’t need intense workouts to build muscle, new study reveals",
+      "summary": "Building muscle doesn’t have to mean exhausting workouts or soreness. Researchers found that slow, controlled “lowering” movements can boost strength more efficiently while requiring less effort. Even five minutes a day of simple exercises like chair squats or wall push-ups can m",
+      "published_at": "2026-05-01T14:07:35.000Z",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/05/260501052830.htm",
+          "homepage": "https://www.sciencedaily.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_8924ec28d4192968",
+      "topic": "business",
+      "headline": "Apple Strong Forecast",
+      "summary": "Apple delivers strong forecast. Weathering shortages.",
+      "published_at": "2026-05-01T14:03:23.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemRKR1ozRkk0dzFLUGJDbUVmbmJicHpQQWR6cmkyc1BRSGEteUNxelY4TVBUWDZJRW1vdE9wSXM0Q0hVQnAzeDZVUUdrdFM5WldRbXF3YS1KUDJ4dkFUS2w5Y1E5NjhUTWpZTlpqYndvVXB0MEc5dkt6YXJHZXVzeUg1ZF9UVUdhV05hbDlfZzg4RGNNWjV4amtoMWQ0R0lYQXhuWk1Sd2FTZWUyNThPOQ?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_0d014b03f93959cb",
+      "topic": "finance",
+      "headline": "Kreston Launches GLG",
+      "summary": "Kreston launches GLG. Coordinates legal services.",
+      "published_at": "2026-05-01T14:01:38.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/kreston-launches-glg-coordinate-legal-140138114.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/international_accounting_bulletin_542/fbe81eb42d46b03a86565891b55ff3db"
+    },
+    {
+      "id": "evt_fd9e969b61ae99f2",
+      "topic": "business",
+      "headline": "Silicon Valley School",
+      "summary": "Silicon Valley parents broke school. Brightest parents failed.",
+      "published_at": "2026-05-01T14:00:48.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjFPR2tsZEh0NVBzUkdudTFpSW1WSm1oWC1tWkJrcGNmamRxbnhZLUVFZlFIMzV2U0NLYW80RGE2ekFKSkFqUXRPNUZ3VXd3TEtLVTMtSm5lOURQcko3bzdUYzd1bUpXUmFLWi12Uk5CTkVVbWFKaHhMMnUwM2poY2dRZVRnU2s3UG1WbDdxeE51S05kQ2VEV3k3eXFHa0NQUFR6VW9HNmJWYjA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_2b66101d528f3087",
       "topic": "politics",
-      "headline": "Gaza workers struggle",
-      "summary": "Gaza's economy collapses. Workers take perilous jobs.",
-      "published_at": "2026-05-01T06:21:31.000Z",
+      "headline": "Benfica’s Mourinho says no contact with Real Madrid about manager’s job",
+      "summary": "Ex-Real Madrid coach Jose Mourinho linked with a return to Spanish giants to replace Alvaro Arbeloa.",
+      "published_at": "2026-05-01T14:00:38.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
+          "url": "https://aljazeera.com/sports/2026/5/1/benficas-mourinho-says-no-contact-with-real-madrid-about-managers-job?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
@@ -460,536 +653,381 @@
       "weight": 0.775
     },
     {
-      "id": "evt_81ba83d09014ded7",
+      "id": "evt_b0a59e272c823093",
       "topic": "ai",
-      "headline": "Mac supply issues",
-      "summary": "Mac Studio and Mac Mini in short supply. Constraints to last months.",
-      "published_at": "2026-05-01T06:20:33.000Z",
+      "headline": "My $5K smart bed needs to shut the hell up",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. I take my beauty rest seriously. So seriously that,",
+      "published_at": "2026-05-01T14:00:00.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months",
-          "homepage": "https://news.ycombinator.com"
+          "name": "The Verge",
+          "url": "https://theverge.com/column/921654/optimizer-eight-sleep-ai-summaries-health-wellness",
+          "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.775,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25666305/247315_Eight_Sleep_Pod_4_Ultra_AKrales_0113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_8bde96682d0b26b3",
-      "topic": "politics",
-      "headline": "May Day Demonstrations",
-      "summary": "May Day demonstrations occur. Workers face rising energy costs.",
-      "published_at": "2026-05-01T04:28:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzRmcnZqMWRfUDZQUjVCZEVlUDdRSVBBeUFTMWc4aWJpSmZRaFRXWF9xNkJNRGpYVFgxdC1kX29NaWF2dld1NmJJX0c4WEhsaUtQcG9xMmcxajRjOXZEV1owVEhsdVZvTzhqa25SUE9tampVZ3JTYlFNNkcyNVFSQ3VyamUzX2ZVZ3RVc3o5Zy04WmlPT2Nra0VRSEVyajdZRWpQdTA3VTFnTGpWcWJwSkR3?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_de3ec547fe97d0e4",
-      "topic": "politics",
-      "headline": "Man charged with attempted murder after stabbings of Jewish men in London - AP News",
-      "summary": "Man charged with attempted murder after stabbings of Jewish men in London AP News",
-      "published_at": "2026-05-01T06:11:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc250ODExbWNCaFp5WVVYR183bXFRcWlPbDZYdWJYLVFLMXBWOVd2NDFKMksxa0JpbER4NVFMWGNENkNTUEllYXp5eUQ3a0xweWEyRTdrNDhWUmlkcFQzN1FKblVReVY2ZEptd3hYdVMwZml6aklzc3Rpd3dVVUZMSzJCX0w2MU4tTWc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_402a8a133d655999",
-      "topic": "politics",
-      "headline": "Somalia piracy rises",
-      "summary": "Piracy rises off Somalia. Multiple vessels hijacked.",
-      "published_at": "2026-05-01T06:10:45.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_aeec86147159e7bf",
-      "topic": "politics",
-      "headline": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US - AP News",
-      "summary": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US AP News",
-      "published_at": "2026-05-01T06:10:14.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbEIzbDF1MDZBOEVXLVdneXJYalNrSVF0bUg1UmlpMTkzanhEa0p6TXI3LUVhdGVKYUZkRU43OEc3cFR3cEM1QzFLQXZPbFNNZTlLSFkwakdRUHpOcWNUenB2UkM2ZUllai1mOEphaWxGT0RtVGpZcEh1RXE2VkpYS0Y1Nml3c3FjSGEwN29VSEVFUG5uWkZNX3kwckxIbi1F?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_e485dd432a8d6ea7",
-      "topic": "business",
-      "headline": "Yen Rally At Risk",
-      "summary": "Yen rally may fade. Intervention is needed.",
-      "published_at": "2026-05-01T06:08:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2lfaTN2OENLZF9YMnVVaGpKaGhBQjF6X20wbjB2dTNtWkd0VWZyQ0l2YmloRGJUV3BvLW9LQ0Y3eFEzcG43OGhpUFFIRXRqd0VDVks3Qm5Sd2RzcDRNd0FrM0lna2NXd2xpUDl5QU1iSDFSbjVsbDF4bm1JNnE2UmkySFAyV2JKcnppbVZGRTJpLWpBcXZTRWViTl9oTjVyX3AxSTBlZFFLMk51RWc4VUdB?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_8f9bbd9c3ac9ad13",
-      "topic": "business",
-      "headline": "Gold Steady as Dollar Weakens on Reports of Yen Intervention - Bloomberg.com",
-      "summary": "Gold Steady as Dollar Weakens on Reports of Yen Intervention Bloomberg.com",
-      "published_at": "2026-05-01T06:05:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEd5YWU4enhTajEzeTRYc2JUbXVVQy1ENDN4MWNXQjJGcWhsN29hQ09aeDFGbUtFbUNaaElRNnR5blhNZk9jclpXd3lsNU9oOWRXQVl5bGUtTjBLSGFhVWhGV1BtUkFlR0FNLVN4bW5CZzRfQlBPbmUwcUh1SVhEdUttT0tlWkpiUkl2d1E5VWE1T0NMdTVCOFpncGJCOG1ENmFrZkJtU3E5ZG5T?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_2c2d6b09f8c01829",
-      "topic": "politics",
-      "headline": "Sabalenka avoids Madrid Open virus scare and Osaka upset. Gauff and Rybakina lose - AP News",
-      "summary": "Sabalenka avoids Madrid Open virus scare and Osaka upset. Gauff and Rybakina lose AP News",
-      "published_at": "2026-05-01T06:00:30.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkNZN1BoVXcyR2IwcWNrR1lVdDVpd3JVZF9RNHptR2dkNFA3cHN1SEd6SXNnd3lxLTM2djJDR2w3aGx1SWQwVlNqUTZ5cHU2Tmt2WnI5N3NObTJmcEVCY1NGVGVxdklTbUdQR202SDRuX3FTX2FzeGZDSktLb0tZWjNFZVdGUXZfa1NuUkVnQlNtc2gwbm1razFhajk0N2M?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_d346b65eaa52ec8b",
-      "topic": "business",
-      "headline": "S&P 500 and Nasdaq Futures Rise, Yen Pares Gain: Markets Wrap - Bloomberg.com",
-      "summary": "S&P 500 and Nasdaq Futures Rise, Yen Pares Gain: Markets Wrap Bloomberg.com",
-      "published_at": "2026-05-01T06:00:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_2e1a3f3f62130f4f",
-      "topic": "business",
-      "headline": "Moonpig Group Share Transaction",
-      "summary": "Moonpig Group Plc announces a transaction. The company is buying its own shares.",
-      "published_at": "2026-05-01T06:00:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGR0TkR6a0U4UFlLcHlaZVMxQVJGd0xXWE1wM3h2dThmVjF3eVhGQ2NJOEJKa01uUThSRTMyX3hYcDV5OWRxUEJKNHdDdXI5c01BX3ozZElvbzBUS2JZMkFsTGtKWGpKOGZyd0dnNTlBallCaElSZkU1eFl0Z0NQTzE4dUVnUUJ6Q0Rzcmk5c19DOWhE?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_0a6e7698f07c1c5f",
-      "topic": "business",
-      "headline": "BlackRock Voting Rights",
-      "summary": "BlackRock World Mining Trust Plc announces total voting rights. The company discloses its voting rights.",
-      "published_at": "2026-05-01T06:00:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1BXdWNlYmxFcXBlbUxGU3FOdDJCdXV4czJ1amoxbWhySzE2RzBhbHRUcEdqbGRETDI1NG5EeDU2V0p4RjY1cEVydERGTjZWd2NHTEtBcmtINGVpcTg4TTlZYmVZYTZpSk0tM2l3YTQzd3ZnV0lZc2pqUUtDYzNxR2MtXzYzSXNwYlk3QVBnNlk3cHRv?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_f2727bd116bff0fe",
-      "topic": "politics",
-      "headline": "NBA Playoffs",
-      "summary": "NBA teams compete. Celtics-76ers heads for Game 7.",
-      "published_at": "2026-05-01T05:50:23.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_58e7b80443f5058e",
-      "topic": "business",
-      "headline": "US-China Bike Track",
-      "summary": "US and China built a bike track. 10,000 soldiers were involved.",
-      "published_at": "2026-05-01T05:44:45.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGJ0X1ZSaFBZVzlLdl84YnVGdkhMMHF1SzdPcl9WSkV3bTA1WEtua2tBUXJIaDZhNWZzTXNYSUtFc25IZWprc2RtTHRqaDlzT3c2NUFtVjVibm9qQ0d4YUdOX0F2UFZMUGMwZEZ5MGNKN2FYajMwN1JEdjlOUlRJQTBjZnZUWDBCOFBTS1Q3XzJBTUNKdFNKdWZRMlhvY3B2ejJGbmIxNmVfM09lcVd2U3dpbnhibDBG?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_68b5b4accba89cc4",
-      "topic": "politics",
-      "headline": "Iran-US Tensions",
-      "summary": "Iran-US tensions rise. War may resume.",
-      "published_at": "2026-05-01T05:37:11.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_6e025b7192508778",
-      "topic": "crypto",
-      "headline": "Bitcoin Surges",
-      "summary": "Bitcoin price surged. Traders took profit.",
-      "published_at": "2026-05-01T05:34:10.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2Rlc2slMjBvZmZpY2UlMjB0cmFkZXIlMjBiaXRjb2luJTIwKDEpLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg"
-    },
-    {
-      "id": "evt_14455015e379f1ba",
-      "topic": "business",
-      "headline": "Canadian Retail Sales Improve Ahead of Expected Squeeze - WSJ",
-      "summary": "Canadian Retail Sales Improve Ahead of Expected Squeeze WSJ",
-      "published_at": "2026-05-01T05:29:44.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3NyaThJR3ZPQVVjSXNXSUNIUnY3WUc2d1gtOUQxeXdHY0JFQzQtZThOellpS3pwc1drNFhMd0ViVzNLVE9IdGJQcllDcWQtVzZhcTRGZjlPc040dkdrVU5PVWRHVnUtd2pVVVFsdS1ra2VUcXF3Mms1d3c1bVc0dmlSTkM1d3Z5NkZYemhMV2ZWZWlLbEZIOTN5TlZ3WWhhcGw3Qg?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.76
-    },
-    {
-      "id": "evt_87cc1dd6685b2b51",
-      "topic": "business",
-      "headline": "Slugger Hits Home Runs",
-      "summary": "A slugger hits home runs. He also strikes out.",
-      "published_at": "2026-05-01T05:26:44.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm5RVVVCNnVSQ1ByN29mVXZqZ2I1cnMtYlVxRkNsdmF1SlN4a2JmeDdqcmxWekY3OW9GZTBTN2dVdlFIcjJETXQyZWNSaHRkNDliR3o2RVVVNzVETWp0d2I1NExNNnlIVGF6ZVdRUVB0eFJRLU5kb3Q3MzJjWS1MZGtHWlBFWjFIZUJwQkh5T0xZSTdTTXpabkJn?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_eea960539a0c9a53",
-      "topic": "politics",
-      "headline": "Iran to Play in US",
-      "summary": "Iran will play in the US. FIFA made the decision.",
-      "published_at": "2026-05-01T05:22:40.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/5/1/trump-backs-fifa-letting-iran-play-at-world-cup-in-us?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_5ccb7eab31ffd6e1",
-      "topic": "politics",
-      "headline": "Boston Red Sox fire manager Alex Cora and 5 coaches - AP News",
-      "summary": "Boston Red Sox fire manager Alex Cora and 5 coaches AP News",
-      "published_at": "2026-05-01T05:16:07.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmU4QXJXbWlWbi1HNXpyamlGTUgzZG50Z05JM0VXbEF3WUVoWlhjWDZ5QUVfYUlpMjZBYUpZZnMwSk5jQjZfSF9kMXdTbDRMUTVrejVjNGRXWkNmWExURDlEcmNDcGROTkNCdFZ3d203dFRBRXoyQUxWVV8tM092WkM5bHVIYmVpT2hpRlVwY1dnanVK?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
-    },
-    {
-      "id": "evt_e1463c753db8dbb0",
-      "topic": "crypto",
-      "headline": "RWA market grows",
-      "summary": "Tokenized RWA market grows. Market capitalization rose to $15 billion.",
-      "published_at": "2026-05-01T05:16:02.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwSG93JTIwdG8lMjB0b2tlbml6ZSUyMHlvdXIlMjBidXNpbmVzcyUyMGVxdWl0eSUyMFJXQS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg"
-    },
-    {
-      "id": "evt_aae6387e01172ab5",
-      "topic": "politics",
-      "headline": "‘Mormon Wives’ star Taylor Frankie Paul and ex-partner ordered to stay 100 feet apart - AP News",
-      "summary": "‘Mormon Wives’ star Taylor Frankie Paul and ex-partner ordered to stay 100 feet apart AP News",
-      "published_at": "2026-05-01T02:15:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXB1S2RnM3o5Q1JJa0I0WlpuREFWTFZrXzhKcjdmNjZqMFVKWjN4dVZWY3QxMGhOVDJESjVVMmY0SE1tcExIb3VjNWY0ZkM3aXB6enpzTUtOcFdDb1MxRDdEdTgtTkpCSzZLaGhPaVoxN184NUppcUdWb1JXSmJSb1ZQUFlYUFdONHNrNHZZQzFGbDRNVG01RDlyNHQ4Uk9aNHlXVEFKYWE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.74
-    },
-    {
-      "id": "evt_9a90d4cc61c79198",
-      "topic": "science",
-      "headline": "Your gut takes a “double hit” from stress and late-night eating",
-      "summary": "Chronic stress is already tough on your gut—but new research suggests late-night eating could make things even worse. Scientists analyzing thousands of people found that those under high stress who also ate a large portion of their calories after 9 p.m. were far more likely to su",
-      "published_at": "2026-05-01T05:07:42.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/04/260429102026.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_b955d86b8bd5a0b3",
-      "topic": "business",
-      "headline": "Dow slips",
-      "summary": "Dow slips due to conflict. Oil touches wartime highs.",
-      "published_at": "2026-05-01T04:40:02.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUFTaTVYVDduYjRVS09YZ3JvaTd0S09xS3I4TVZ6MWRFWmgxN0pqVlZKWW9wQURjNFdrenlFcXFWMlRZemNoTG50aFdEWk9oWDgtelFaOThtcVJQdDhsVGtHRnJzWU5KdkNwb2d2c01yUWFCY3hQYkNqRlV0S0VyTmFBdTZVZzNzazdEbjZ3?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_3a40e79907aa97e8",
-      "topic": "science",
-      "headline": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
-      "summary": "Scientists have uncovered a surprising new layer of complexity in Cannabis, identifying dozens of previously unknown compounds—including the first-ever evidence of rare molecules called flavoalkaloids in its leaves. These compounds, prized for their potential health benefits, wer",
-      "published_at": "2026-05-01T04:36:05.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/05/260501002156.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.752
-    },
-    {
-      "id": "evt_1b65b94b9f090d53",
-      "topic": "politics",
-      "headline": "Earnings news",
-      "summary": "Morning Bid discusses earnings. Reuters reports on the news.",
-      "published_at": "2026-05-01T04:42:45.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUDVsZ0dWeXJQejJ3MkNHMTA3WWpfV0ZtTGJHZWVoQ3JLLVZrTEdrTW52cE1JNTZYRmlSMFpGSXpWNDhCS3FsZU1SRW9ndi10aFl6OU9wd3Z3VGozZHhlVnVNLWZDU2N5QzdlbWxqdl9tX2tLSTBzVS15WkpXRUk?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_bd4c33feb287ec8e",
+      "id": "evt_e31a24762b365b35",
       "topic": "finance",
-      "headline": "China EV Price War",
-      "summary": "China's EV price war escalates. Firms add AI features.",
-      "published_at": "2026-05-01T04:19:25.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
-    },
-    {
-      "id": "evt_c76a876c8db9bdf2",
-      "topic": "politics",
-      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News",
-      "published_at": "2026-05-01T04:09:36.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.749
-    },
-    {
-      "id": "evt_0bd11ca39619b8f6",
-      "topic": "politics",
-      "headline": "Australian town unrest",
-      "summary": "A man was arrested for murder. The arrest sparked unrest.",
-      "published_at": "2026-05-01T04:08:19.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e4c26360-44da-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "id": "evt_ff8d2aaf208dd9d7",
-      "topic": "politics",
-      "headline": "Banksy new sculpture",
-      "summary": "Banksy unveiled a sculpture. It shows a man blinded by a flag.",
-      "published_at": "2026-05-01T04:08:11.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/5/1/new-banksy-sculpture-appears-to-show-politician-blinded-by-his-own-flag?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_4fde29209d24519b",
-      "topic": "business",
-      "headline": "German, Spanish Inflation Reach Multiyear Highs - WSJ",
-      "summary": "German, Spanish Inflation Reach Multiyear Highs WSJ",
-      "published_at": "2026-05-01T04:04:02.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGtQOXhXeEROUC1nX1hyUkRDVjl5eDJaRm8yV1JpMnlYSG5yRWtUSXJTZUV1bkN3VWNBZmxBNDBOLVE1d1hySHM2dkJ1S0RBanE1Q0oyaG9Ibmx4RlBHanRSQUNIdEswWFR0Ny1LSWFTLUVRUzlFUkNoWFhMS01ndzIwcTlaaXhfRUxhTS1wMGxyTTE1bXFGSm1lNEg5Tm1vaURuTHBzOFp4RzhGMXotLUx5VHlIMXc3ZHdVdkZ1c3NqUQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_5f88a3c36497e201",
-      "topic": "politics",
-      "headline": "Republicans say they will defer to Trump on Iran war despite arrival of 60-day deadline - AP News",
-      "summary": "Republicans say they will defer to Trump on Iran war despite arrival of 60-day deadline AP News",
-      "published_at": "2026-05-01T04:04:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnFWeUFBb2NydGNmWVJKd19uZDdxUlZidUdCbWNCUGtWS3V1QnZYbEl1Z2FOWHFQcE0wYmRrWkFXOXhjNFpSTFhmLVM1ejZCeF9tU1pwUnpyTk5FbVAxTmY3dU95R2ViS2FIUUxFaHhZYWFqRHVDZTk3M2FSLUJWVDVkNWNRNmpLVElLRWc0NUtaTnhKUHo2VkpDZXBmc2lGWXNLVjVpRlR1UjltYmhsSzlIbmhaTnM?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_b0791b17e5b1000b",
-      "topic": "finance",
-      "headline": "The S&P 500’s newest member is this under-the-radar software stock",
-      "summary": "Veeva Systems’ stock is soaring upon news that it will soon join the benchmark index.",
-      "published_at": "2026-05-01T04:02:00.000Z",
+      "headline": "How a screw-up by Social Security cost widows and widowers over $50 million",
+      "summary": "Thousands have been short-changed of their Social Security payments as a result of blunders by the Social Security Administration",
+      "published_at": "2026-05-01T13:59:00.000Z",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-s-p-500s-newest-member-is-this-under-the-radar-software-stock-b828bd5e?mod=mw_rss_topstories",
+          "url": "https://marketwatch.com/story/how-a-screw-up-by-social-security-cost-widows-and-widowers-over-50-million-77651ba7?mod=mw_rss_topstories",
           "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://images.mktw.net/im-19926869"
+      "weight": 0.775,
+      "image_url": "https://images.mktw.net/im-702030"
     },
     {
-      "id": "evt_9ddfd6b4ca526ea7",
+      "id": "evt_9e8bfee7b7b6f156",
+      "topic": "finance",
+      "headline": "Why it’s time for ‘sell in May and go away’ to die",
+      "summary": "One of the most popular pieces of conventional investing wisdom couldn’t be more misguided, according to a recent analysis from Bloomberg Intelligence.",
+      "published_at": "2026-05-01T13:57:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/why-its-time-for-sell-in-may-and-go-away-to-die-30a9f311?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://images.mktw.net/im-90750863"
+    },
+    {
+      "id": "evt_be02e7a3ea43453d",
+      "topic": "finance",
+      "headline": "Can GLP-1s curb alcohol use? A new study says the drugs can reduce heavy drinking.",
+      "summary": "A “gold standard” trial found that semaglutide helped reduce drinking in people with obesity who sought out treatment for alcohol-use disorder.",
+      "published_at": "2026-05-01T13:57:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/can-glp-1s-curb-alcohol-use-a-new-study-says-the-drugs-can-reduce-heavy-drinking-39de87c1?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://images.mktw.net/im-66737327"
+    },
+    {
+      "id": "evt_c99d3a6a8b6e83e5",
+      "topic": "politics",
+      "headline": "Moderna tops revenue estimates on stronger international COVID vaccine sales - Reuters",
+      "summary": "Moderna tops revenue estimates on stronger international COVID vaccine sales Reuters",
+      "published_at": "2026-05-01T13:52:27.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUWZZQlZGVHd3b1JGc2JuWkg5bWE2NEZLMDNxYkJhVWVRR012NjdHVUI2b3BoMlZEN0FZT19ELWY4cHpHaGhjY2d1NFlfNzNfX3lIb1ctUHZFcVBqZlh6VVIzN2Y2VmVfZzNOVVpuYmV0QTBGcTJBUm1uLWotZUMwSzliNEk4eFA1SU9NMDkya1UzSHZ5YzdBOUFrMG1HcTdhVUFCOUdyenpaUUpVN3V6c3J2VGZhZlRoYTJzV1NmeFZaSk43UnJLQlE3R19ieVJ0X2k4cm9VVDRIdVZNdnVkSXlJMA?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_6dc307c91feca828",
+      "topic": "finance",
+      "headline": "Software stocks are finally priced for a comeback, this veteran strategist says. He’s buying.",
+      "summary": "Fundstrat managing partner and head of research Tom Lee says investors are underestimating how strong software companies will rise to the AI challenge.",
+      "published_at": "2026-05-01T13:51:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/heres-why-software-stocks-are-finally-priced-for-a-comeback-and-this-veteran-strategist-is-buying-17c9e765?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://images.mktw.net/im-20808139"
+    },
+    {
+      "id": "evt_be2b395fb90b8588",
       "topic": "business",
-      "headline": "Has taste in music been hijacked? - Financial Times",
-      "summary": "Has taste in music been hijacked? Financial Times",
-      "published_at": "2026-05-01T04:01:37.000Z",
+      "headline": "BlackRock Smaller Companies Trust Plc - Portfolio Update - Financial Times",
+      "summary": "BlackRock Smaller Companies Trust Plc - Portfolio Update Financial Times",
+      "published_at": "2026-05-01T13:51:00.000Z",
       "sources": [
         {
           "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RT0VEa3RKZjdtUk5MM3lESUtyRDNBV19YbE5fS2VUS1h2RDA4Y0VXSGNvdjRoeGtmcGdhSDVXeE41cUphbXdTVVlOYW40c3dwU19fSGpZblZrZlRZMDFjRGhndlNMcHF5YWlxYXR0ak8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0UtYTdFdkNpNHZlZ1lKMURmb1FWdm9UUldVYXBxMDJiYVgzcnpxOUxpX1prWG8tZ3ExN3l6ZmRfcEZjZFVXV1c1dmZtV0tSTGVpV1hqUlhOSEpGSGVBdENMNVBXZURiYzR0SVZiS0V4UFpseE5kNy1Ea0ZyM2xoQ0kteTZHTXY0bF9OMmRzeWxPTVht?oc=5",
           "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.748
+      "weight": 0.774
+    },
+    {
+      "id": "evt_81d9c5b0d6211b6d",
+      "topic": "politics",
+      "headline": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook - Reuters",
+      "summary": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook Reuters",
+      "published_at": "2026-05-01T13:50:08.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdk5ZUGZOM1ZEeVhva3ZsTEVadW1OWFMzcU16Mkdfb3p1VUZ1WTJkeE9VYU9wdkctVkp0UGc4YkNST3BWWWFzTkpsQ0wyeWIzTklPUnlQTnRnT1l1MVpkMktJbG9DSmZYc2JUX1V1S1NnUFh1dXY1bkpqOUJQaDRsaUVlU09HQVViZ01EYk5vcjBrRHFjd1ItREtHZ1Q1a2NjcmptX3ZSaUVua1hWQVJJald1NHd1R3ZJWndkNUJR?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_b9f1bf0dda47a684",
+      "topic": "politics",
+      "headline": "Israeli authorities taking 2 activists who led a Gaza-bound flotilla to Israel for questioning - AP News",
+      "summary": "Israeli authorities taking 2 activists who led a Gaza-bound flotilla to Israel for questioning AP News",
+      "published_at": "2026-05-01T13:47:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmRJZ25CanNpTmhYQ2xsMFlpa0pBdHZEOGsxeWVwLV9kRnlsdVFyRXRGNkl3c0xXaTdrRUt2Tm5yZ00xUTh1aHFlczFoMkthNWRmYXRDcWctWW9LWkVfS0hSay1EMk1NdHB2SzlJbHZsZS1FSWI3N1BSRGtvZ1BaX0xDWXc1S1NPUXd6M1NyNA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_a9ca50a70144bc08",
+      "topic": "business",
+      "headline": "AI Investor Coatue Joins Data Center Frenzy With New Venture to Buy Land - WSJ",
+      "summary": "AI Investor Coatue Joins Data Center Frenzy With New Venture to Buy Land WSJ",
+      "published_at": "2026-05-01T13:46:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0pjSXhJMmY2anI3U1BlRGV6cExHdFVIYVFybTVXLVA2TnBPbmhjdmU5V05RU3VpQXppSmtBanBYaS1ma05lZGZkQ0w1TlRzNW55MEdnSjJLcVdGRDd5dDNNeEFfUW1fcUhSTVV3T0lzWWxseFRnend1WllPMmNnd3AyMjdCWTNqVnBQYWdYRFNuQXRTTnIxRENsZE1Bc18yb1BZRGlwS0EwQkhHeHc?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_4e7471d15b8f6d79",
+      "topic": "finance",
+      "headline": "Video shows Cole Allen scouting hotel, storming checkpoint in alleged Trump assassination attempt",
+      "summary": "U.S. Attorney Jeanine Pirro said there's no evidence that a Secret Service officer shot at the Washington Hilton was the victim of friendly fire.",
+      "published_at": "2026-05-01T13:45:24.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/04/30/cole-allen-video-trump-attempted-assassination-pirro.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_c91f3e74dca74b49",
+      "topic": "politics",
+      "headline": "Apple shares rise on strong quarterly sales in run-up to CEO change - Reuters",
+      "summary": "Apple shares rise on strong quarterly sales in run-up to CEO change Reuters",
+      "published_at": "2026-05-01T13:42:07.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUi13eVhDdk1wLTRlV3pQb3JOV0tWbE9EQXdSQ0MySGEyRzJWdC1QYVFlSDUyRnZBQ2tNVHRJa0RPQTRlWm9UamhsdFRETXdMZXc3ajRidnNTR2V6WW1UTldUV2NKVUxYUFFDcHYwYzdMSE5jNkZhVHBVcTRWNXdJLUJoc2RrcFZ3c2lkNTBLa3ZiWEs2eVZDbDNVU2tiYzkyUXIwcGJ1QXJiZVk5aW8tdTVxQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_7fcaa46821ac1fe9",
+      "topic": "finance",
+      "headline": "Twilio’s stock is soaring. The software group says its AI-voice tool is seeing ‘unprecedented demand.’",
+      "summary": "The software company’s stock rose about 23% in a boost to the sector that has been dragged down over concerns about artificial intelligence.",
+      "published_at": "2026-05-01T13:41:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/twilios-stock-is-soaring-the-company-says-its-because-of-unprecedented-demand-for-one-ai-function-a171d089?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://images.mktw.net/im-834499"
+    },
+    {
+      "id": "evt_a51b645f49036a58",
+      "topic": "business",
+      "headline": "Pacific Assets Trust plc - Net Asset Value(s) – Company Announcement - Financial Times",
+      "summary": "Pacific Assets Trust plc - Net Asset Value(s) – Company Announcement Financial Times",
+      "published_at": "2026-05-01T13:41:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1RKSFpldi16Q2draWpfZmFCQTNIN2NZdy1Eb0dmLXJUOHJVMzdJdjYtZ1IteFBySXFzMnpoQ0JackRMN0tIVS1obERuT2xMRVVkLVB6aXgzeGRLSXd0T0JBWVZtTmtfQ3pEQVhDN0NlQjVYUUtpckFQU1ZjS3NZcE5QaG9JLVpZWFFGVnlmU2VxLUQ0?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_e3f2c3d833158514",
+      "topic": "politics",
+      "headline": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
+      "summary": "PIF said on Thursday that it would cut funding of LIV Golf at end of 2026 ​season.",
+      "published_at": "2026-05-01T13:36:24.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_a101d7b49ef440b3",
+      "topic": "politics",
+      "headline": "Iran sends proposal for negotiations with US to mediator Pakistan - Reuters",
+      "summary": "Iran sends proposal for negotiations with US to mediator Pakistan Reuters",
+      "published_at": "2026-05-01T13:35:20.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXFST3AwNjc5YVJPejQtWGdQNDY1QWY0Y0g4ODl6UzZSbmRKcnVNOW1vVUpZREw0a1pfWUFLYnFDUlJjd2wweUhiWkZrLXByUC1hTDBlaVBJYVlSNkdWV2FiVjRhVFh6eUJJMWx1MXlhbllaUWQtbFRiR1IxNEI0NVo5QklSSmJscjRXQTRaM0wzTVVvTlpycG01cW9aNzJBMGJsNjRONGh0U1JrcXFSZ3RMUVNZdVNyMW9ocEVyNnQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_ec3975c9366839a9",
+      "topic": "business",
+      "headline": "Form 8.3 - The Vanguard Group, Inc.: Schroders plc – Company Announcement - Financial Times",
+      "summary": "Form 8.3 - The Vanguard Group, Inc.: Schroders plc – Company Announcement Financial Times",
+      "published_at": "2026-05-01T13:34:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1l3aUdLaVNIQVdGNVJQWEV0alVpbWwwRzBtM3VjMXlwaUxWLW50WFZreWxwZ3BzQnVOaFBpTEJYOHhmZ3YzamxBNGhCVkhhR3ctbEI1ODk4Ykk3OGlSU1YxNmgzaV9mZUVPb1l0MTBZNzR2MkVXVFFTaDZtNm9tWENkNG5hQWZlMWtSVkN0VUdFZGEyalR4ZXNTeUhwRndlRHNfYjdTN3FaTms?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_3425d251d5b7d8b0",
+      "topic": "politics",
+      "headline": "Yen jolt - Reuters",
+      "summary": "Yen jolt Reuters",
+      "published_at": "2026-05-01T13:33:32.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TV1JLcHdCTVpmM0RKVzJFNnd3T0JINmR1OVpUTnBrRzl6TVMwaTd1QnhrbE44dDdubVpmbEZjblBuRGMtMzVqajZUSkVhcWV4WEpDcndoSE5WNEFtWkJBbndOcjdUamVpQ0daOUdKbnotbnlIZjZPWmU3X2ZIQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_220597e6938ef690",
+      "topic": "ai",
+      "headline": "Elon Musk had a bad week in court",
+      "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he",
+      "published_at": "2026-05-01T13:33:15.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_7639ff4b0d3be210",
+      "topic": "politics",
+      "headline": "SNAPSHOT Wall St opens higher after best month in years - Reuters",
+      "summary": "SNAPSHOT Wall St opens higher after best month in years Reuters",
+      "published_at": "2026-05-01T13:32:02.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzVzVFFXRWp6X1Q3cmU4VDNDalVDYms5ZXhYaWkxUjVmYml5T0htOExManp3eDg0LUptOHd2SG9pVE9qTWR0Q3hETUFlR3UtQ3hKM0tZUDU2REp2clR2Y0dteVFHS05Tam9IMHlWbV9ZVEZlSFo1dDl3YnZVblhPZzdOVVpKa2N4UkVkNXNEc25LTi1zVlhRcG1ycDFWZVktVmZjV3dZbkt5WEU?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_8d6be172bbc03e8f",
+      "topic": "finance",
+      "headline": "Google, SpaceX and OpenAI are being tapped to make the U.S. an ‘AI-first fighting force’",
+      "summary": "Those companies, along with four others, have agreed to make their AI available for classified use by the Pentagon.",
+      "published_at": "2026-05-01T13:32:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/google-spacex-and-openai-are-being-tapped-to-make-the-u-s-an-ai-first-fighting-force-3c1245ac?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://images.mktw.net/im-92127690"
+    },
+    {
+      "id": "evt_9cd3d5ea3ec3bd93",
+      "topic": "crypto",
+      "headline": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+      "summary": "The figure implies a sharp increase in the bitcoin price.",
+      "published_at": "2026-05-01T13:31:53.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_4355ce910e676b8e",
+      "topic": "politics",
+      "headline": "Prosecutors say suspect in missing students' killings asked ChatGPT about disposing of a body - AP News",
+      "summary": "Prosecutors say suspect in missing students' killings asked ChatGPT about disposing of a body AP News",
+      "published_at": "2026-05-01T13:30:37.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZURXbldKdGZOTlZUUHNWb0VFSVZBejVQelBqdEk2LVdfd3lHV3VuM0s2UXVlSk9fOU5fNTVTMERNQkpsbXpHTS0zdUloWS1fdHNhX1ViWTZNbjdwbENQY3BfTWVSMVlCcjdVaXotS3JKaXh2ZlJUQW42eThmYXZBSGU0VXFTU25CTU1yN2Z4S3NfODZ6T01zSmtYbTl3dTkwLWJMWDNvQQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
     }
   ]
 }
