@@ -6,7 +6,7 @@ import { clusterArticles, pickCanonicalHeadline } from "./cluster";
 import { summarizeClusters } from "./summarize";
 import type { NewsCluster, NewsFeed, NewsSourceLink } from "../lib/types";
 
-const HOURS_BACK = 24;
+const HOURS_BACK = 168;
 const MAX_CLUSTERS = 60;
 const OUT_PATH = resolve(process.cwd(), "data/news.json");
 
