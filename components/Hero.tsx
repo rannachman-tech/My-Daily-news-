@@ -59,12 +59,12 @@ export function Hero({ clusters }: Props) {
     else if (e.key === "ArrowRight") { e.preventDefault(); go(index + 1); }
     else if (e.key === " ") { e.preventDefault(); setPaused((p) => !p); }
   }
-
-  const active = clusters[index];
+const safeIndex = index < clusters.length ? index : 0;
+  const active = clusters[safeIndex];
+  if (!active) return null;
   const topic = TOPIC_BY_ID[active.topic];
   const primary = active.sources[0];
   const showImage = Boolean(active.image_url) && !imgFailed[active.id];
-
   return (
     <section aria-roledescription="carousel" aria-label="Top stories" className="group relative rounded-2xl border border-border bg-surface overflow-hidden" onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)} onFocus={() => setPaused(true)} onBlur={() => setPaused(false)} onKeyDown={onKey} tabIndex={0}>
       <div className="grid md:grid-cols-[1.1fr_1fr]">
