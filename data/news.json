@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-03T07:31:13.614Z",
+  "generated_at": "2026-05-03T11:08:00.934Z",
   "clusters": [
+    {
+      "id": "evt_7f46ec7ee1e16320",
+      "topic": "politics",
+      "headline": "Man Charged With Murder",
+      "summary": "A man is charged with murder. He will appear in court.",
+      "published_at": "2026-05-03T07:34:26.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/5/3/man-charged-over-murder-of-australian-indigenous-girl-that-sparked-riots?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.93,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg"
+    },
     {
       "id": "evt_4746f37ea1b3bcf2",
       "topic": "politics",
@@ -43,49 +65,6 @@
       "source_count": 2,
       "weight": 0.9,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ab/live/95599500-45b1-11f1-9a0a-fdd816042d08.jpg"
-    },
-    {
-      "id": "evt_47f12a32f5600512",
-      "topic": "finance",
-      "headline": "Social Security investment comparison",
-      "summary": "Comparison of Social Security investment. Hypothetical $4 million outcome.",
-      "published_at": "2026-05-02T21:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/numbers-don-t-lie-had-094800385.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.872,
-      "image_url": "https://images.mktw.net/im-06454902"
-    },
-    {
-      "id": "evt_53bd5557affffccc",
-      "topic": "politics",
-      "headline": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
-      "summary": "Studies show extreme rain has become more frequent in country, as Pernambuco and Paraiba states again battered.",
-      "published_at": "2026-05-02T19:59:25.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeE5DMFFYYnNEdTFoREctMDRlQWxWX0pQcUQwbDJGVnE5ejZldXVja3BVSUs5aGlKbVg2Zk4yMTRUSzJVTUFyYkRfSnlWdlgyQVV5Nm05YnhhTkhuS2pxYmV3MUxNeVdQempuRHRDaUdYYkhkeVVxN1QxcDdsaE1jM3FYT0FXdENKMzZ3QXRVOF91M09CLXh2WTNpMW80TjByZnlOX19ITjdVWGJpMGJyV2xTb1p0THotNWdnVzRTM0prZ1d1RHc?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.942
     },
     {
       "id": "evt_8ab79ba8e2f12090",
@@ -132,84 +111,263 @@
       "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/931e20dc1e2cb33c8ec322651d45005f7f61d0ed-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_d17fb8af45bfdca9",
-      "topic": "politics",
-      "headline": "NHL News",
-      "summary": "NHL news and scores. Latest updates available.",
-      "published_at": "2026-05-03T07:28:16.000Z",
+      "id": "evt_8d46f090b24825c3",
+      "topic": "finance",
+      "headline": "Cancer Patient Wait",
+      "summary": "A patient waits for a scan. Patients die waiting.",
+      "published_at": "2026-05-03T11:06:00.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78,
+      "image_url": "https://images.mktw.net/im-54293842"
+    },
+    {
+      "id": "evt_a81894d6d3546cda",
+      "topic": "finance",
+      "headline": "Berkshire Meeting",
+      "summary": "Greg Abel spoke at meeting. Warren Buffett was present.",
+      "published_at": "2026-05-03T11:04:43.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/05/03/berkshire-annual-meeting-greg-abel-rules-out-break-up-stressing-continuity-with-buffett.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.78
     },
     {
-      "id": "evt_abf09a52162e65db",
-      "topic": "politics",
-      "headline": "Golf News",
-      "summary": "Golf news. Latest updates available.",
-      "published_at": "2026-05-03T07:28:16.000Z",
+      "id": "evt_7a9ff5e4eea252d9",
+      "topic": "business",
+      "headline": "Iran War Impact",
+      "summary": "The Iran war may affect global markets. Its impact is being discussed.",
+      "published_at": "2026-05-03T11:00:05.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSG1HQlZYMWw1bkNTeXlXY0dnT21ZSTc0Q3pmZjJoMk16dVNtTDUwN284ckZhTVI4d3Z5ZnpuSjFzZUhEdEpJZEszeXdOWDIzNHJnWlI5WC00OTBLdFVfR3FheHRIUjFVSnM4VzRCWWk?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.779
     },
     {
-      "id": "evt_9ffa4ff036e3610e",
+      "id": "evt_39152bcda6af0c8e",
       "topic": "politics",
-      "headline": "Formula One",
-      "summary": "Formula One news. Latest updates available.",
-      "published_at": "2026-05-03T07:28:16.000Z",
+      "headline": "Joe Biden",
+      "summary": "Joe Biden is in the news. No details are given.",
+      "published_at": "2026-05-03T10:49:31.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VU0YyT2UzVlNWWUIxaTZhMTg0c2JuTUZXTEs0bkZZd1U2MjVLZTBUa19YR3VUOUlpNTdTQ0tBanE3QUx1TjlVRDdB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.777
     },
     {
-      "id": "evt_16304d8522abe94a",
-      "topic": "politics",
-      "headline": "Iran War",
-      "summary": "Iran is at war. Conflict is ongoing.",
-      "published_at": "2026-05-03T07:28:15.000Z",
+      "id": "evt_b77dfcf55cadd9da",
+      "topic": "business",
+      "headline": "Carbon Levy Talks",
+      "summary": "US is delaying carbon levy talks. Global shipping is affected.",
+      "published_at": "2026-05-03T10:46:26.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LcVVSWmloU1RZSEJJamM1UDE4ZlRSc3QybTBfYTlON0t3V3lLT2xZSXR2eG1ac1l6NzlGSVRKREUxZFJwN1huTjJJQ2ZBZzAzTnBqeVJ2Vm94ZzluRTkxeEhZVjNoX1djZmRHcjQ2Qnc?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.777
     },
     {
-      "id": "evt_7868f03c4314a0ff",
+      "id": "evt_42b478f1392b29be",
+      "topic": "business",
+      "headline": "How Modi Is Ditching Indian Protectionism in Favor of Free Trade - Bloomberg.com",
+      "summary": "How Modi Is Ditching Indian Protectionism in Favor of Free Trade Bloomberg.com",
+      "published_at": "2026-05-02T13:45:52.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk1qQUhRM3oxY3IwbmJ4SkZGM0xDbXZJLWxLNnpMaXlMYnhWMkZDWE9UbFc1SXVNTzhUOXJhY2h1RDlncXA3VklpMkxiampxd2FnWU5QMnp5UWhEWTRaSUR2UWV5RUc3dTRrS2h0MVBRRWlFNWxJM1I0bG9tc1ZQYldDYnlQWEpUOVVzZ0FtV1ZmYXlNTTN4YTVxYko0OFdRMk9xMU9CbTNNaXFkUUtkX2dQSGJpT0xrMjVUWGJxdVRfZ2hTM0Rib2xSaw?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_c76a876c8db9bdf2",
       "topic": "politics",
-      "headline": "Stanley Cup",
-      "summary": "Stanley Cup news. Hockey tournament.",
-      "published_at": "2026-05-03T07:28:15.000Z",
+      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News",
+      "published_at": "2026-05-03T07:22:37.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CSnVDSEppdkliZndwUWxSYUEyb1VOeVBudFFhZ2gyZzRFZFY1WWRMUzhXTnJtZUt1WUhJLS12X2l0OVZYOUhzbFVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.779
+    },
+    {
+      "id": "evt_6bd0fec1408b0a0c",
+      "topic": "business",
+      "headline": "Yard Landscaping",
+      "summary": "Landscape a yard. Different budgets.",
+      "published_at": "2026-05-03T10:43:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDh6VDVZSXpwOGxtZFA1ci0xZm5hWFNUSUU2bS1oa19jTEhCRWF3ZEp2UExmTl9rakJPNExKeWEyX2lRaGRXN0lTc3M1eVc4a2E2UlprRURYb0Jyc0dkeWVJa3NiSzIzM1RPUVNkWE9mU2Jfek9pNjNGb1BOLWU1TC05YTlnS25DaWZXZFBud1hLa3pkQlR3?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_e2b6ab337e2fdd51",
+      "topic": "politics",
+      "headline": "California",
+      "summary": "California news. AP News.",
+      "published_at": "2026-05-03T10:39:08.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_8bd87c5fa8e057ff",
+      "topic": "finance",
+      "headline": "ADNOC Awards",
+      "summary": "ADNOC awards. Drives growth.",
+      "published_at": "2026-05-03T10:38:56.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/adnoc-to-give-55-billion-in-project-awards-for-20262028-to-drive-growth-4654828",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEDAC0GA_M.jpg"
+    },
+    {
+      "id": "evt_a8c526888fe3be92",
+      "topic": "business",
+      "headline": "Planet Launches Three Additional High-Resolution Pelican Satellites – Company Announcement - Financial Times",
+      "summary": "Planet Launches Three Additional High-Resolution Pelican Satellites – Company Announcement Financial Times",
+      "published_at": "2026-05-03T10:37:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUNsUHN0ckJSVW9SQWNiMWJQM1ZvNjlodE1Kbnh5bjkteDF0OFVwVGsxZnJWV3RPWHR3RkJXamtSd0xGQ1k0OG9qMTMzQlprSTRGbEw2T213SmFHSzBTMkZTcmlZZmlZZXd2ZjdUX3ZEalBLQXFjWUQ5NmJmamV2dEdfbkROYzk4RFdyTFYtQzU2ZGFuQlhhZnIybVNOOEFFZGxfY3Zn?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_d8636d2cfa43097a",
+      "topic": "politics",
+      "headline": "Strait of Hormuz blockade and other major naval sieges in modern times",
+      "summary": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
+      "published_at": "2026-05-03T10:36:49.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_7dbfb4ed077b8352",
+      "topic": "politics",
+      "headline": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+      "summary": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+      "published_at": "2026-05-03T10:35:13.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_9617e32ac8c10cc8",
+      "topic": "politics",
+      "headline": "After Maduro",
+      "summary": "Keeping the Revolution alive - After Maduro’s capture, we followed the people fighting to bring him back",
+      "published_at": "2026-05-03T10:33:01.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/people-power/2026/5/3/after-maduro?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_bfd5089d507f1e46",
+      "topic": "finance",
+      "headline": "As Clarence Thomas hits a milestone, his conservative stamp on US Supreme Court endures",
+      "summary": "As Clarence Thomas hits a milestone, his conservative stamp on US Supreme Court endures",
+      "published_at": "2026-05-03T10:30:25.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/as-clarence-thomas-hits-a-milestone-his-conservative-stamp-on-us-supreme-court-endures-4654825",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4203B_L.jpg"
+    },
+    {
+      "id": "evt_1d39b9a8fa6d2878",
+      "topic": "politics",
+      "headline": "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
+      "summary": "Ben-Gvir celebrated his 50th birthday with a cake referencing the newly-passed death penalty for Palestinian detainees.",
+      "published_at": "2026-05-03T10:29:07.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/5/3/ben-gvir-celebrates-birthday-with-cake-decorated-with-death-penalty-noose?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
     },
     {
       "id": "evt_80cd7abf968d1ca5",
@@ -228,20 +386,20 @@
       "weight": 0.78
     },
     {
-      "id": "evt_25aa1ae7b6e4ec01",
+      "id": "evt_40fc9819aa80b299",
       "topic": "politics",
-      "headline": "Donald Trump - AP News",
-      "summary": "Donald Trump AP News",
-      "published_at": "2026-05-03T07:25:07.000Z",
+      "headline": "Auto Racing - AP News",
+      "summary": "Auto Racing AP News",
+      "published_at": "2026-05-03T07:16:46.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.778
     },
     {
       "id": "evt_be47e3a5b2598749",
@@ -260,31 +418,48 @@
       "weight": 0.779
     },
     {
-      "id": "evt_0e7c8871ea448795",
+      "id": "evt_5a563d737319936c",
       "topic": "politics",
-      "headline": "District of Columbia - AP News",
-      "summary": "District of Columbia AP News",
-      "published_at": "2026-05-03T07:25:04.000Z",
+      "headline": "Pete Hegseth - AP News",
+      "summary": "Pete Hegseth AP News",
+      "published_at": "2026-05-03T10:24:20.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MDExVnFuRDQzamVlSVlCVFNibExOMVlkZXBGMEdKMWxhendWNHRpWktDLWtpNlRjYjkwclhGSGUwX0NXank0dlFJT0NveGlldnBfREVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.774
     },
     {
-      "id": "evt_c76a876c8db9bdf2",
+      "id": "evt_c5a7e7a6ac125d5b",
+      "topic": "finance",
+      "headline": "Berkshire shareholders like Greg Abel, but following Warren Buffett is tough",
+      "summary": "Berkshire shareholders like Greg Abel, but following Warren Buffett is tough",
+      "published_at": "2026-05-03T10:18:26.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/berkshire-shareholders-like-greg-abel-but-following-warren-buffett-is-tough-4654827",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4203A_L.jpg"
+    },
+    {
+      "id": "evt_e00fa8ac76dd50a8",
       "topic": "politics",
-      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News",
-      "published_at": "2026-05-03T07:22:37.000Z",
+      "headline": "Texas - AP News",
+      "summary": "Texas AP News",
+      "published_at": "2026-05-03T07:20:55.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10bnA2UDhzd2JCUU9oNUNpSDhhSlhZcmUwYko1ckxUeHA0NjZ5TE55Q0VVSURBc1NOVmd1YVJNRG5PQQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -308,68 +483,53 @@
       "weight": 0.779
     },
     {
-      "id": "evt_e00fa8ac76dd50a8",
+      "id": "evt_dfe2089002f08657",
       "topic": "politics",
-      "headline": "Texas - AP News",
-      "summary": "Texas AP News",
-      "published_at": "2026-05-03T07:20:55.000Z",
+      "headline": "Asia Pacific - AP News",
+      "summary": "Asia Pacific AP News",
+      "published_at": "2026-05-03T10:16:31.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10bnA2UDhzd2JCUU9oNUNpSDhhSlhZcmUwYko1ckxUeHA0NjZ5TE55Q0VVSURBc1NOVmd1YVJNRG5PQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hYnJISVNvSkVKTlRfbE9YUFJGSWpTUmxIci1JaFBwSVpRVVdLZ091bWVBUld0VENhWDV4cXBVdFllSjI4YkgxWmFKVQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.773
     },
     {
-      "id": "evt_9258a833ab662ffb",
+      "id": "evt_937ad14b1ad27976",
       "topic": "politics",
-      "headline": "Latin American News | Latest Latin American News - AP News",
-      "summary": "Latin American News | Latest Latin American News AP News",
-      "published_at": "2026-05-03T07:20:49.000Z",
+      "headline": "Nigeria summons South African envoy over attacks on its nationals",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "published_at": "2026-05-03T10:16:01.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.773,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d7b/live/aa73d6a0-46d6-11f1-a1bb-13ca62b3ded8.jpg"
     },
     {
-      "id": "evt_40fc9819aa80b299",
-      "topic": "politics",
-      "headline": "Auto Racing - AP News",
-      "summary": "Auto Racing AP News",
-      "published_at": "2026-05-03T07:16:46.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_95e940bda7935569",
+      "id": "evt_edaabeed040efdb2",
       "topic": "business",
-      "headline": "EgyptAir Takes Delivery of First Boeing 737 MAX Jet – Company Announcement - Financial Times",
-      "summary": "EgyptAir Takes Delivery of First Boeing 737 MAX Jet – Company Announcement Financial Times",
-      "published_at": "2026-05-03T07:15:00.000Z",
+      "headline": "Josh Brown’s ‘HALO’ Stocks Strategy: Investing in What AI Can’t Replicate - WSJ",
+      "summary": "Josh Brown’s ‘HALO’ Stocks Strategy: Investing in What AI Can’t Replicate WSJ",
+      "published_at": "2026-05-03T10:11:30.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdG82dHV5ZE1KSGNiRFJQdXVLTXhPMHNQTmZUZ21xUVZMMnpZTm5JbjVTemlWT0F0cjhHcWItT0pLTVluc3Z2ZWtPR2IxZmQ1MGhtNG9QSjk5cmVOSE1SbTc5SG9JMWdmS2wyb0hXamZKSEFqekc5ZG9aTHpncVNfLXBhNm9xTERQX0E0SXNqM2s0THF6d3BMZA?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaVNYVzZYWDF3Y1IwYmZwaTBPbHJuSDJsZDYwMlJpNWNRTXM1RFhOWW5VUmVFZ21DUnpXdzVYblhXVnJTaVhyTzZLLVdqM1hxRDZTQndVQUE2aU1uNm1ucXhicmFKS2QwYkFlTFl1bUgzVFZIRDFWQkxDSzlMUUZkT21uRHp4U0ZNT09iaG9jMHVRTElPalplbkVBeXRzN3hpdDVlSERXVnc5N2FheWRELWdWUDh0Q0J4YWktQ24yLW5kYkt4ZFhNZ3dWSmEtTGp5R3g4eGd0dHMxSkZpV3VIODQ1UVZRSDRhRXFLSjBteFU?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778
+      "weight": 0.772
     },
     {
       "id": "evt_dbf06332b3db4c15",
@@ -388,6 +548,22 @@
       "weight": 0.777
     },
     {
+      "id": "evt_66e64c629867f5ba",
+      "topic": "politics",
+      "headline": "Immigration - AP News",
+      "summary": "Immigration AP News",
+      "published_at": "2026-05-03T10:11:08.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
       "id": "evt_b7590336af6226d6",
       "topic": "politics",
       "headline": "Europe News | Breaking European News Today - AP News",
@@ -404,20 +580,21 @@
       "weight": 0.777
     },
     {
-      "id": "evt_8a63de154be427e4",
-      "topic": "politics",
-      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
-      "published_at": "2026-05-03T07:02:09.000Z",
+      "id": "evt_bed9197d389b1744",
+      "topic": "finance",
+      "headline": "How redistricting and the Supreme Court have cut voters out of US House races",
+      "summary": "How redistricting and the Supreme Court have cut voters out of US House races",
+      "published_at": "2026-05-03T10:06:55.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/politics-news/how-redistricting-and-the-supreme-court-have-cut-voters-out-of-us-house-races-4654826",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.772,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4203C_L.jpg"
     },
     {
       "id": "evt_61df1dd6ac92f3eb",
@@ -436,572 +613,395 @@
       "weight": 0.779
     },
     {
-      "id": "evt_b3fcf012ed78f18b",
+      "id": "evt_2a6e74f8a6675ebc",
+      "topic": "business",
+      "headline": "Francisco Partners in talks to buy payments company Moneris - Financial Times",
+      "summary": "Francisco Partners in talks to buy payments company Moneris Financial Times",
+      "published_at": "2026-05-03T10:00:05.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvcTZXS2swaXk4bHNiTVJkUXBkXzUybG1UWmt2TFU0ZDVPOURBU2FfUC1kSFZHTlNZYzhONWx2cTRSZ2dtb2MycUtpczZnVndzejl6eExUaHBkb2dIVFphQmFNdWNkUGpIaElCdWVlYy0?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_0317495a2e23e4ab",
       "topic": "finance",
-      "headline": "Emerging markets hit record highs as AI boom and oil exports offset war risks",
-      "summary": "Emerging markets hit record highs as AI boom and oil exports offset war risks",
-      "published_at": "2026-05-03T07:00:29.000Z",
+      "headline": "Mortgage and refinance interest rates today, May 3, 2026: Looking back at April rates to see what's ahead",
+      "summary": "Mortgage and refinance interest rates today, May 3, 2026: Looking back at April rates to see what's ahead",
+      "published_at": "2026-05-03T10:00:00.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/emerging-markets-hit-record-highs-as-ai-boom-and-oil-exports-offset-war-risks-4654812",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-3-2026-100000908.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.771,
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3"
     },
     {
-      "id": "evt_72ad31678b9781f3",
-      "topic": "politics",
-      "headline": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
-      "summary": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
-      "published_at": "2026-05-03T06:57:44.000Z",
+      "id": "evt_307670707b0d70e4",
+      "topic": "finance",
+      "headline": "HELOC and home equity loan rates Sunday, May 3, 2026: Lenders doing more to compete for your home equity business",
+      "summary": "HELOC and home equity loan rates Sunday, May 3, 2026: Lenders doing more to compete for your home equity business",
+      "published_at": "2026-05-03T10:00:00.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-may-3-2026-100000238.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b5b/live/00cc1880-43a0-11f1-a886-afa88c1499c0.jpg"
+      "weight": 0.771,
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47"
     },
     {
-      "id": "evt_0aa18f1414c27217",
+      "id": "evt_32eeb23c31f89d9a",
+      "topic": "finance",
+      "headline": "Best CD rates today, May 3, 2026 (lock in up to 4.05% APY)",
+      "summary": "Best CD rates today, May 3, 2026 (lock in up to 4.05% APY)",
+      "published_at": "2026-05-03T10:00:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-may-3-2026-100000890.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0"
+    },
+    {
+      "id": "evt_86b50ca7ceeea9e6",
+      "topic": "finance",
+      "headline": "Best high-yield savings interest rates today, May 3, 2026 (Earn up to 4.1% APY)",
+      "summary": "Best high-yield savings interest rates today, May 3, 2026 (Earn up to 4.1% APY)",
+      "published_at": "2026-05-03T10:00:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-may-3-2026-100000656.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3"
+    },
+    {
+      "id": "evt_3dc352b81d9d0d86",
+      "topic": "finance",
+      "headline": "Best money market account rates today, May 3, 2026 (best account provides 4.01% APY)",
+      "summary": "Best money market account rates today, May 3, 2026 (best account provides 4.01% APY)",
+      "published_at": "2026-05-03T10:00:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-may-3-2026-100000150.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc"
+    },
+    {
+      "id": "evt_c70aeb961c20b1d9",
+      "topic": "business",
+      "headline": "Tariffs’ Messy Reality: The Cost-of-Living Election | Part 1: Ohio - WSJ",
+      "summary": "Tariffs’ Messy Reality: The Cost-of-Living Election | Part 1: Ohio WSJ",
+      "published_at": "2026-05-03T10:00:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUWRGbnNHNFctWXJRTHhheFFaOG5sMkxrNlg1Qkl3MTREbmZ1blNFNlR5Uk9vd093b0FlQnJSd1cySDZabDVEem9JeVhiZXQwbWY3Z0dxNUxKMTFxUk9BSnROQmFGSzl1OGVNMmhuYTF3RzFRWjdPTW1yVkFpR0ZEYVVZWjBEdjA5NWFMVlFua1JieF9nYlNFak5fdktOSHhZdjJRd0RFY3ZFVVlJQWoxbWx3ZjZGa2FFVkNXV0FaV29LTnhpdGFfam1UY1FQNmZjbzlEVg?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_00610f0bc5b189e5",
+      "topic": "business",
+      "headline": "HORMUZ TRACKER: Traffic Halts as Trump Weighs Iran’s New Offer - Bloomberg.com",
+      "summary": "HORMUZ TRACKER: Traffic Halts as Trump Weighs Iran’s New Offer Bloomberg.com",
+      "published_at": "2026-05-03T09:58:15.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjFQZFhzY2ZOWmtfc0hhMkJqcFJCMGZxa1ZOSEllX2YzM1RhdFFtOWNpZ2I1WnNGbWUzLUUzeF9IOGd3QmNGTWxwNGFWVElaNWVNd1FNVWRaT0ZjSGUta3ZZM2c0cF9aTzdORHhTckw0WlRGZmR5dWxmWm1kMUl0N1dtMXVGVXNyckJwd052NmdwQ3BBZTktX1M1YXZCeG91c19aeUkzUi12SGZ0XzJQSXVB?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_7ba1cacce776eb32",
       "topic": "politics",
-      "headline": "China blocks US sanctions against five ‘teapot’ refineries",
-      "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
-      "published_at": "2026-05-03T06:57:42.000Z",
+      "headline": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "summary": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
+      "published_at": "2026-05-03T09:57:31.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.77
     },
     {
-      "id": "evt_4f660a17c6ea192e",
+      "id": "evt_fe6b9d2e68fb1754",
       "topic": "politics",
-      "headline": "Shakira follows Madonna and Lady Gaga in giving a huge free concert on Copacabana Beach - AP News",
-      "summary": "Shakira follows Madonna and Lady Gaga in giving a huge free concert on Copacabana Beach AP News",
-      "published_at": "2026-05-03T06:40:00.000Z",
+      "headline": "NCAA Women's Bracket | March Madness Bracket - AP News",
+      "summary": "NCAA Women's Bracket | March Madness Bracket AP News",
+      "published_at": "2026-05-03T09:57:28.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnBod0pCSndHNmdHVERSaGNEMWJpa3RhNzEzZ3hzRmkzOW5aak1OOVNaaG13NEdROEdMVjJJNERfS3FJa3E0cmp2WmVZVDRrd0RtQkxDSERJdGYzZlJ0cUlDWmVVV2taUEFFLUFFeFVwejRVQ1c2b1AwbG9lUG56N2ppU1F2ODdLUW9oVldn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KeFhwNml2X2FuZUwzY21EbXM2aFhUekVGcnZfbzZscGR1OGpnZXlsSnlsOF9acnB1UDFkbG1nX1R2bkljN2x1ckpnaDd2c2lIVmZ3TlBR?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773
+      "weight": 0.77
     },
     {
-      "id": "evt_bca879ec2a9f3f2b",
-      "topic": "politics",
-      "headline": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
-      "summary": "President William Lai Ching-te says he met King Mswati III and signed trade agreements.",
-      "published_at": "2026-05-03T06:36:26.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_1185d1e04dbebb35",
-      "topic": "ai",
-      "headline": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 6 # Comments: 2",
-      "published_at": "2026-05-03T06:33:38.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://acai.sh/blog/specsmaxxing",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_4f704e167e2d7960",
+      "id": "evt_1d464cb604174177",
       "topic": "finance",
-      "headline": "Madrid prepared to fight for ECB influence as de Guindos departs",
-      "summary": "Madrid prepared to fight for ECB influence as de Guindos departs",
-      "published_at": "2026-05-03T06:33:33.000Z",
+      "headline": "AI could take capex to $1Tn in CY27",
+      "summary": "AI could take capex to $1Tn in CY27",
+      "published_at": "2026-05-03T09:55:09.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/madrid-prepared-to-fight-for-ecb-influence-as-de-guindos-departs-4654811",
+          "url": "https://investing.com/news/economy-news/ai-could-take-capex-to-1tn-in-cy27-4654824",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC2J0IW_M.jpg"
-    },
-    {
-      "id": "evt_61360614ba5715fd",
-      "topic": "politics",
-      "headline": "In Yemen, Starlink internet brings opportunities – for some",
-      "summary": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen's digital workforce.",
-      "published_at": "2026-05-03T06:21:44.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
       "weight": 0.77
     },
     {
-      "id": "evt_42b478f1392b29be",
-      "topic": "business",
-      "headline": "How Modi Is Ditching Indian Protectionism in Favor of Free Trade - Bloomberg.com",
-      "summary": "How Modi Is Ditching Indian Protectionism in Favor of Free Trade Bloomberg.com",
-      "published_at": "2026-05-02T13:45:52.000Z",
+      "id": "evt_a4eed5295e8be582",
+      "topic": "finance",
+      "headline": "Reclusive Turkmenistan shows signs of cautiously opening up",
+      "summary": "Reclusive Turkmenistan shows signs of cautiously opening up",
+      "published_at": "2026-05-03T09:54:25.000Z",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk1qQUhRM3oxY3IwbmJ4SkZGM0xDbXZJLWxLNnpMaXlMYnhWMkZDWE9UbFc1SXVNTzhUOXJhY2h1RDlncXA3VklpMkxiampxd2FnWU5QMnp5UWhEWTRaSUR2UWV5RUc3dTRrS2h0MVBRRWlFNWxJM1I0bG9tc1ZQYldDYnlQWEpUOVVzZ0FtV1ZmYXlNTTN4YTVxYko0OFdRMk9xMU9CbTNNaXFkUUtkX2dQSGJpT0xrMjVUWGJxdVRfZ2hTM0Rib2xSaw?oc=5",
-          "homepage": "https://www.bloomberg.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/commodities-news/reclusive-turkmenistan-shows-signs-of-cautiously-opening-up-4654823",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773
+      "weight": 0.77,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4102M_L.jpg"
     },
     {
-      "id": "evt_3e0fec806a6de326",
+      "id": "evt_2c293ca679c92b3d",
       "topic": "politics",
-      "headline": "Teen F1 leader Antonelli takes Miami pole as race start time changed",
-      "summary": "Threat of heavy rainstorm in Miami causes organisers to move up race start time to 17:00 GMT on Sunday.",
-      "published_at": "2026-05-03T06:16:07.000Z",
+      "headline": "Voters will judge Trump on the economy - how is it doing?",
+      "summary": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
+      "published_at": "2026-05-03T09:52:06.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/5/3/teen-f1-leader-antonelli-takes-miami-pole-as-race-start-time-changed?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.77
+      "weight": 0.769,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/7ebe8ee0-44d0-11f1-8de1-593a7bb5acaa.jpg"
     },
     {
-      "id": "evt_635d45d1040b1c3e",
-      "topic": "business",
-      "headline": "Oil Tanker Pricing Feud Embroils a Centuries-Old London Market - Bloomberg.com",
-      "summary": "Oil Tanker Pricing Feud Embroils a Centuries-Old London Market Bloomberg.com",
-      "published_at": "2026-05-03T06:04:00.000Z",
+      "id": "evt_c54ef45d4847b8a2",
+      "topic": "politics",
+      "headline": "LIV Golf and Louisiana officials postpone the tour’s New Orleans event - AP News",
+      "summary": "LIV Golf and Louisiana officials postpone the tour’s New Orleans event AP News",
+      "published_at": "2026-05-03T09:50:02.000Z",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHJvTEkzc21IUC1jZXNIQVlqSDB5LUxTbUk3cW45TXp3bGkzejZKS2ExdDN0YmpRODNBbGZ3dnVRTDhwQVBHX2hfNTVuYnQ5NVQwdHFLQk1oQmZhcnhySkpSS0w1RDR0M0k0NG9HMjZZdlRKOHZybXhKbll5MTJ3UHZpdmd1ck91LUdsWWQ5dk5OYkhqazI1THVJaEZuOFpJdlE5X2F0V2tZQVRZNHVtY1EyUQ?oc=5",
-          "homepage": "https://www.bloomberg.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlVS3ZBbHl3MWhqNEt4UDJqTVlwQXlQbGVWU3g5SjVEdEl4TVBaNlhZMnBfNEw5Y2hnRFdRaGM2TmNGUlAtdjN6RVZySk9tNHBoMXk0b2pOWXJMQWotMHdWS2hTamwwMGNFdHlUeXpfR0h5ZUlFYmJOQzZxS21RT2Z4dWxkclFObWx5R01kUS04N2I4?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_1a4595bf9b19eb5b",
+      "topic": "politics",
+      "headline": "U.S. Congress | Latest News & Updates - AP News",
+      "summary": "U.S. Congress | Latest News & Updates AP News",
+      "published_at": "2026-05-03T09:47:47.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50a25Nc3cyeDNMMGlPNEVMU19HcXFkeHI1MkpNb0F4ZmRKVVVuaV9vMm9JU1d0TTBOa3JmWDJSMnMzQ1F4RHc?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_8d3613ff7b3bae07",
+      "topic": "politics",
+      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
+      "summary": "Middle East News | Latest News From The Middle East Today AP News",
+      "published_at": "2026-05-03T09:44:17.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.768
     },
     {
-      "id": "evt_78c56a0eda580327",
-      "topic": "finance",
-      "headline": "Australia pledges A$1.8 billion for Medicare clinics amid widening deficit fears",
-      "summary": "Australia pledges A$1.8 billion for Medicare clinics amid widening deficit fears",
-      "published_at": "2026-05-03T05:57:50.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/australia-pledges-a18-billion-for-medicare-clinics-amid-widening-deficit-fears-4654810",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://i-invdn-com.investing.com/news/sydney_M_1440050604.jpg"
-    },
-    {
-      "id": "evt_32c17b0a70dfa01d",
+      "id": "evt_723ed8face3dcb62",
       "topic": "politics",
-      "headline": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "summary": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "published_at": "2026-05-03T05:52:09.000Z",
+      "headline": "FIFA Women's World Cup 2023 - AP News",
+      "summary": "FIFA Women's World Cup 2023 AP News",
+      "published_at": "2026-05-03T09:40:18.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YVGZsVmhRWUJyRTVzYktNUEJqaGxRcDI3UXhDX0pOZWlxMmtCNFpEREFjQjkxdjZndUNRVU1kQUN3TlJFcUJSX1EtTGhiQ0c0ZHB0RjZnYw?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg"
+      "weight": 0.768
     },
     {
-      "id": "evt_4093a304f5b7414a",
-      "topic": "crypto",
-      "headline": "Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins",
-      "summary": "The efforts of the SEC and CFTC chairmen indicate that the crypto industry will not suffer without the CLARITY Act, according to crypto executive Chris Perkins.",
-      "published_at": "2026-05-03T05:51:03.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0NyeXB0byUyMENvbmZlcmVuY2UlMjAwMDEuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg"
-    },
-    {
-      "id": "evt_acdfe48dd775cdc8",
+      "id": "evt_0616eed72d5690ed",
       "topic": "politics",
-      "headline": "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia",
-      "summary": "Brazil's Prates crushes hometown hero Maddalena in the Perth fight; challenges the winner of Makhachev vs Garry.",
-      "published_at": "2026-05-03T05:32:24.000Z",
+      "headline": "Are Somali pirates on a comeback in 2026?",
+      "summary": "Somali pirates peaked in 2010, vanished by 2013, and are back in 2026.",
+      "published_at": "2026-05-03T09:38:23.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/5/3/carlos-prates-punishes-jack-della-maddalena-at-ufc-fight-night-australia?traffic_source=rss",
+          "url": "https://aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.763
+      "weight": 0.768
     },
     {
-      "id": "evt_79c89a3c3f1e09aa",
+      "id": "evt_a84031edce54365f",
       "topic": "politics",
-      "headline": "Konoshima Chemical -2009/10 group results - Reuters",
-      "summary": "Konoshima Chemical -2009/10 group results Reuters",
-      "published_at": "2026-05-03T05:28:39.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW5xMkVjYnRGUXlKaUQyb0pSMFRNX0Z3TzVTU1FHMzU0TmZPcFNxTFZhVTlydU5QMmlLWE5aSmJGak5qNTl1aU90RU1EeVYzY2pheVRKYmdTVmZjdW1YOUU4V0JLN3BjaE1vQTduVXNoLTg1clVnSkxEcDIxdS1WS3psVHhOaXJoSWZNYzRRVmU4WWFUc0FBcGhlc2hnOW9iRUlINw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_f35bb42584928203",
-      "topic": "finance",
-      "headline": "Taiwan’s “surprise” Africa visit defies Beijing amid rising diplomatic friction",
-      "summary": "Taiwan’s “surprise” Africa visit defies Beijing amid rising diplomatic friction",
-      "published_at": "2026-05-03T05:26:03.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/taiwans-surprise-africa-visit-defies-beijing-amid-rising-diplomatic-friction-4654809",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg"
-    },
-    {
-      "id": "evt_7cb31c6135f6530b",
-      "topic": "politics",
-      "headline": "Cal Raleigh scratched late from Mariners’ lineup - AP News",
-      "summary": "Cal Raleigh scratched late from Mariners’ lineup AP News",
-      "published_at": "2026-05-03T05:24:00.000Z",
+      "headline": "Boston - AP News",
+      "summary": "Boston AP News",
+      "published_at": "2026-05-03T09:34:17.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGFqa3BvdXpjamdSRzkyZy14VmNJVGphU2hJZ1pxcXlIenF2bVlld2QxNTdpOWFBdDdDcEZwUVE1eVNiMng4a0Z6Q05LS1A5NDVOR1RXNWYwMkRzNVRRcWF2U0Z6NFJuVEpfTHJST2pSWnFjMDA0cThTU1hYck9vT0VNOGFETExjUFRETGdQNTV2YlhP?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE85RHF1cEdBaE9Eemx2Nk1SVl95NzZJM3pZWVh0YWJMSW9zSlJtVG9ZOHZwTDU5RjlYZHZIYTJNQkhuXzQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.762
+      "weight": 0.767
     },
     {
-      "id": "evt_343d89310cfb9cc0",
-      "topic": "politics",
-      "headline": "Mexico | Latest News & Updates - AP News",
-      "summary": "Mexico | Latest News & Updates AP News",
-      "published_at": "2026-05-03T05:20:53.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsbDhZRnVyak5fWkhUTkVPUVpNS2p0MUVqal8yalItaTZtLVJYOHNtVDUyT2J1SDhzaF9sSndpZWh0aHc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_ca219b52b81b6e28",
+      "id": "evt_6e5ab4d699deb09f",
       "topic": "business",
-      "headline": "1X80.DE | Eurobank S.A. ADR Annual Balance Sheet - WSJ",
-      "summary": "1X80.DE | Eurobank S.A. ADR Annual Balance Sheet WSJ",
-      "published_at": "2026-05-03T05:06:38.000Z",
+      "headline": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. WSJ",
+      "published_at": "2026-05-03T09:31:01.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnI0eGFiR2NtZWdvOHJLdlhqaEwycHA4THN1WDM2TEVhTDdZeE45dmdkNjBpTVVTSHJaTGxSZVdKdTV2S3RrMVVERDBud1BVQVJUX2lnbkJoanp4cG12Tk1sYUp4YTAwSnZqeng4R1kwMk1neUw5eGlDZWZpdEdRVm1sVG5Rb0FfX1N3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.76
+      "weight": 0.767
     },
     {
-      "id": "evt_63917524d70fd17e",
-      "topic": "politics",
-      "headline": "Prosecutors say singer D4vd stabbed 14-year-old Celeste Rivas Hernandez to death to silence her - AP News",
-      "summary": "Prosecutors say singer D4vd stabbed 14-year-old Celeste Rivas Hernandez to death to silence her AP News",
-      "published_at": "2026-05-03T04:57:25.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDZwbFEyekxyVkdscV9aaGlxdk5tbS1xcWVIc1ZOZGF0UWFLQjJuclFiNXNfc0xmTjFPZ2dzMmdFOUVDRUtCZDZzYWZZUG5RWWVlemU3OUR1N2pWT1Q2X0h1WURYTUw5WTNJTmZ4cjVPWUl1QkhhYlhsdWYwRXJUTXBCdFhsYl90UVo0cjZ1UWcwN1d2ZlNUUWwtMDllZw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_1a1cdf874682e880",
-      "topic": "politics",
-      "headline": "Sunx -2009/10 parent forecast - Reuters",
-      "summary": "Sunx -2009/10 parent forecast Reuters",
-      "published_at": "2026-05-03T04:55:11.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnVZbnhwNVR1WThjZTZ3QTJ4cVFPYlJpWWtfX0N2OElOVXJxSkdRQkdxZnJZV2VDWjVVa2hfeENyVEdmbVVwZHZvazZKbzBiaDg3OWVxUUNpZUFVaXJwOTh2dzZwMWNtZXFSQUdyNk1UT0lBaE5ZYWRPNDVIcG5CdmducVlJU3Jtbi1IanRidw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
-    },
-    {
-      "id": "evt_61562a2d9174fb76",
-      "topic": "politics",
-      "headline": "Israeli military urges residents of multiple towns in southern Lebanon to evacuate amid operations against Hezbollah - Reuters",
-      "summary": "Israeli military urges residents of multiple towns in southern Lebanon to evacuate amid operations against Hezbollah Reuters",
-      "published_at": "2026-05-03T04:52:00.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTVoR1MwYTRKNE1IdmpWZ0NmbE1OQ3p4UmdtTzFaRGxleVNQYWhCZVo4UGdHbmZORENCYXNtMmNZWnNheFlGcnhoZ0xYa3RQbDgwWkxweTlrY2pWZThNU1JYeEl0dWJ1Z1hGOGtkcXNpazVHWHJfWGFqZ1dZNWMzelZPRlpLQlRISk9BZmxsNFhBbS1qRDQ0bzZNazBhWV9iZTdDWGIyU2ZfdklzVTlSZjlnMzZiY0Vuclk3ZHBiaG9kRE9pSmZj?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
-    },
-    {
-      "id": "evt_2a08331fe3e5b115",
-      "topic": "finance",
-      "headline": "Aviation sector braces for $4 billion margin squeeze as jet fuel prices surge",
-      "summary": "Aviation sector braces for $4 billion margin squeeze as jet fuel prices surge",
-      "published_at": "2026-05-03T04:47:39.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/aviation-sector-braces-for-4-billion-margin-squeeze-as-jet-fuel-prices-surge-4654808",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_0abf8e96692171a1",
-      "topic": "politics",
-      "headline": "Hockey - AP News",
-      "summary": "Hockey AP News",
-      "published_at": "2026-05-03T04:44:25.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiT190OG1mbGtQWWpfZnlSSl81THVndl94bW5hMUVrTDJrVll2RWRXTVBwcTFTV3hDb2t5bzlmMnh5S0U?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_f5a841c09beff466",
-      "topic": "politics",
-      "headline": "UPDAATE 1-India's Maruti says higher rates hit auto demand - Reuters",
-      "summary": "UPDAATE 1-India's Maruti says higher rates hit auto demand Reuters",
-      "published_at": "2026-05-03T04:41:24.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDREbU1SQ09JemJtbGJfWVVPa0RobnFMZE51bXBSMXpnend4eW1tb3VrTXpjVnR3WjdSdS1JbjhmanViWElJREJuaHhnMUxhUVY2Z0dDYUsxSlVKU0pJX2ZTWEpybjdXSnVfTjA2U2NiM0hQX29oaDRVMWQzbUNMdW40VnY5dHM3MEdNVTI0TWZVSE9vZWpoOFlzcnRfNmRTdnlZYXR3QmFZWHRLUW5mMnAtNA?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_1a6f39ebe6fb2c2a",
+      "id": "evt_18b36885c41d84f4",
       "topic": "business",
-      "headline": "Taiwan Outfoxes China in Test of Wills Over Tiny African Country - WSJ",
-      "summary": "Taiwan Outfoxes China in Test of Wills Over Tiny African Country WSJ",
-      "published_at": "2026-05-03T04:36:00.000Z",
+      "headline": "Premier Inn Owner Whitbread’s Shares Drop Amid Plan to Sell, Lease Back $2 Billion in Property - WSJ",
+      "summary": "Premier Inn Owner Whitbread’s Shares Drop Amid Plan to Sell, Lease Back $2 Billion in Property WSJ",
+      "published_at": "2026-05-03T09:30:44.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHRvZlBNaFFYM1hwTE5DaG1lSWlJSktCc3p4SU8xdXd4TFRqWjMxZXF1RnF5QjI3NTZ3dTZpZVJIb1V2anQtd2x1R1JCcHJNd1BtWWMxdlpBNmhzX0dmZTVzQV9qTVFuSGhhZGZydERNcENXb0J3b2ZBcG1zRE43UVkxRDVKZXZaWElTa3lKMWxndm5KZEhHOF81Yy1YSFBFVzRLYVVlRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWXlTZzFTQWMtNEVjcDMxWVJhdVBrUmx4UXE2NmtjMTdWczJ1OTRaOUthSVktQ3l4UFpGeWIwZ2pWcjF3M2hNeXNrQTFLazJNM2o3VExaaVNCZHlLSFJDMnJLV2NGVWRrQURIUWEyX21DOTVxTEJBeXBPeWMzb3V5SEpQOVhiSzZwdmJuNWdIX1RDWlAtWTNlX29NVUVPbDVZZFpIUnQwTGdiSmFQVGVjTGNWdzRDdFd0bnlaaV9uUXR6cDJSd0pGTlVBcmh1X2lkSDFqYw?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.756
+      "weight": 0.766
     },
     {
-      "id": "evt_1c20bc362176500f",
-      "topic": "politics",
-      "headline": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-      "summary": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
-      "published_at": "2026-05-03T04:35:26.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_cd331cc160167f0a",
-      "topic": "politics",
-      "headline": "How we reported in -30C temperatures in Canada's Arctic",
-      "summary": "BBC's Nadine Yousif and Eloise Alanna spent five days travelling with the country's military rangers through frostbite and sub-zero temperatures.",
-      "published_at": "2026-05-03T04:30:41.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/videos/cvgz3pnn1ppo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c4/live/e97112c0-4337-11f1-bd52-e755d604ece4.jpg"
-    },
-    {
-      "id": "evt_57e101d23e436615",
-      "topic": "politics",
-      "headline": "SNAPSHOT-Indian stocks, bonds, swaps, rupee at 11:10 a.m. - Reuters",
-      "summary": "SNAPSHOT-Indian stocks, bonds, swaps, rupee at 11:10 a.m. Reuters",
-      "published_at": "2026-05-03T04:26:52.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmZId0FCRDlRUlZ1UVZkT0UxUEU1MEIzNWxBTUkzVzl2V01fOHBWV2tpYlNkM1NhMzhBYjYxNzZZdXZxdmNZWDVya3Q4Si1hdFdBNjB4clg5VENUcktsUTVjU1FxLWhkT0FGY19CamdSRllmNHItRFZJaGQ3S1BQQVc1TlpLeW1FenNXVURaUWozWnY1cjNBMGsxTWZUUWJ3RUhEQnJSSWNnYmM?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.754
-    },
-    {
-      "id": "evt_b4b99b5f40669c14",
-      "topic": "politics",
-      "headline": "Zenrin -2011/12 parent forecast - Reuters",
-      "summary": "Zenrin -2011/12 parent forecast Reuters",
-      "published_at": "2026-05-03T04:14:47.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEdPSjgzb3BpckF6QUFvQmhWSnV2UWxvUDdScWRLQ3gySHBjR0pZd2h0Nm9QdlVHeHpqenpXUkI5M3dwSUZXd1hYcXZULUhBbTFSVkhXazNabGZCR280TUsyTktUUzlkTzZXRkxFSkNWVmRZNENqZktYcEJqdFg0UDRpRmE4NHV6MnBHR2xwTVZ3RWJtREE?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.753
-    },
-    {
-      "id": "evt_6c5e4149c86d098e",
+      "id": "evt_f1048821fae801a6",
       "topic": "business",
-      "headline": "IMF criticises EU governments for ignoring energy subsidy warnings - Financial Times",
-      "summary": "IMF criticises EU governments for ignoring energy subsidy warnings Financial Times",
-      "published_at": "2026-05-03T04:12:14.000Z",
+      "headline": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI - WSJ",
+      "summary": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI WSJ",
+      "published_at": "2026-05-03T09:30:00.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVgzcXNYSFZMUEdJSUpuaWx5TUFnSUpEYlZ1ckZTYW5xbHpXSngzbjdBREZlY0NPMDIxNWRMTFNLVHpNR2dVdm5PcGxVU3lnc29JYjZGQ3d0N3FFa1hQbjJoZ29aVnVVNG84ZVRrTUE3REY2VVdYcGswZHM3elRET01pWTE?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGFmOVlCdlI3OUNJV05uTmViVk5faWpXSElEWkZ6MERXRjRJbmg1RnZ3SWltN1JaaTNKM2dkd085UXNvd1I5TllVeXI2RU1PcUh1MjZyclVGU19qZ3JtTUZ1THQzV2QwcEY1VmhHZWJLd1NlUkoyanM5QTVySFVUWjZGNWJGTm13dVNsTFI5cktBS3hUYy1xTnF4ZkotQ2tqc0VXa0F2Qkd5aHMtbUFGcmN3?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.752
+      "weight": 0.766
     },
     {
-      "id": "evt_7a849f5201c234b6",
-      "topic": "politics",
-      "headline": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-      "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-      "published_at": "2026-05-03T04:09:34.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.752,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be1/live/a8b851f0-463c-11f1-aa14-ad910202f501.jpg"
-    },
-    {
-      "id": "evt_85e373c2779aabb4",
+      "id": "evt_7d5ae62cb40bb259",
       "topic": "business",
-      "headline": "Start-ups challenge Apple over curbs on AI ‘vibe coding’ apps - Financial Times",
-      "summary": "Start-ups challenge Apple over curbs on AI ‘vibe coding’ apps Financial Times",
-      "published_at": "2026-05-03T04:07:30.000Z",
+      "headline": "The Lore of Sam Altman Is Being Tested Like Never Before - WSJ",
+      "summary": "The Lore of Sam Altman Is Being Tested Like Never Before WSJ",
+      "published_at": "2026-05-03T09:30:00.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBM242OHdoQ1kyYm52d0RKTUNFN1hnc0xnUncwYXF1TGRlbHN2UjFZS2gxdDcwYVcwd3NGVUVLMGNNYWVmdWpTNU9fMHhCTW14aE1DX3lQdkVhWkVNc3I0M25qZE5uM3FValAwUnNIQ04?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmxlTDJYOFRIUk80UHB6cWZoSTE5SWdEWktHSTdBNGtaM3BTb05RTGdweVpPUWM3ZlgxLUw0VVFHT0hZbmNNdVBqRmZLc0lzSnFqLXpNQkdQcGM2RDV5UXNLaHFjUTVFOUszV3JwNTVpY01zeERaX2NlbDUwXzctTC03dUQzaVZMd1RPUFhDUDRtREEtMjJVOQ?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.752
+      "weight": 0.766
     },
     {
-      "id": "evt_54ed8315f6d0e358",
+      "id": "evt_526e2c3c02e7f761",
       "topic": "business",
-      "headline": "Britain enters the era of seven-party politics - Financial Times",
-      "summary": "Britain enters the era of seven-party politics Financial Times",
-      "published_at": "2026-05-03T04:07:30.000Z",
+      "headline": "Readers Share Their Advice About Divorce - WSJ",
+      "summary": "Readers Share Their Advice About Divorce WSJ",
+      "published_at": "2026-05-03T09:30:00.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YZlJoMXlJMUdFVzhubUxwcTJubmhhU1FOMjFuUXFHa25VbHNXa1RINVpVc25Fc25iRnExYzF0QWpBbGQzT1B2UkFJbllFZUVnaXlnczZ0WmtCOHVhWlZ6b1ZidXU3NVJMVXJBSXhIYlI?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1oxWThoRGludXkyczkwc1RCYUNOcGl4aXFMYVdPU3dIb3k3MWd0UU9VanA4clNua1RUNlU1OW1JYm9LTVprZVYtLVA4VUhjcmNOM1NnU1Q2MzRkS19PVFpkTlh2cXpzaHR1NkxrcWVnOUNiQVlTdnFSekdoLXlXV1BBNE9ZelY0MDJhZnhDYw?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.752
+      "weight": 0.766
     }
   ]
 }
