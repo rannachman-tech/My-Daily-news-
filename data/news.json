@@ -1,26 +1,48 @@
 {
-  "generated_at": "2026-06-04T04:02:53.081Z",
+  "generated_at": "2026-06-04T09:56:48.462Z",
   "clusters": [
     {
-      "id": "evt_a039636e01afaacf",
+      "id": "evt_7f1d39cc58cfa977",
       "topic": "politics",
-      "headline": "US Imposes New Tariffs",
-      "summary": "US cites forced labor concerns. New tariffs are imposed.",
-      "published_at": "2026-06-03T20:43:54.000Z",
+      "headline": "China Bans NZ Lawmakers",
+      "summary": "China bans NZ lawmakers. They visited Taiwan.",
+      "published_at": "2026-06-04T08:29:29.000Z",
       "sources": [
         {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDdlM2ZsVEQ4RmFKOTBNbWdrZHEwaWpfc0kyOWJkcExOc1V2emFBamZLLW5ySlRoT0NpTnRKYi1FNnE1Y3l6TVZjNzRyTDFQWWlya3NZSXdSRWpSTTJ5azBUWVlvNVZJY2lYMnZsN2k2VWo1V1NGMWxkblRLcE1zTVhNdHdnM1I5bWV4NWljYzBjX201UEtCUjN5Njh4enB4LUxiNzZJOUpOZlQ3VzY0WnEyNFlrOEE2?oc=5",
-          "homepage": "https://www.reuters.com/world"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/4/china-bans-four-new-zealand-lawmakers-over-visit-to-taiwan?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 2,
-      "weight": 0.935
+      "weight": 0.948,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f7/live/174f9600-5fbf-11f1-8bfb-e1d8bc1274bd.jpg"
+    },
+    {
+      "id": "evt_c868be0ada4192ab",
+      "topic": "politics",
+      "headline": "Israel, Lebanon Ceasefire",
+      "summary": "Israel and Lebanon agree. Ceasefire is conditional.",
+      "published_at": "2026-06-04T07:37:33.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZVSDV2aHBYOHM1bjdsRUdfWGFMSzNySlMxNElEaUhvWElEVmdBdnlXd2dKekZsSnB0RHNpbXMzV2o0ZEhESjJGYUlpZjgwT2x5NWEwUHZ0UnB5bV9zOEhFUEROQlJtZkM3LXdGSG9fLTFJa2RnSk40V3ZVWUNnSnRoa0N2STlsYi1aT0JQckpkM05nSml0VA?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.941
     },
     {
       "id": "evt_24fd456e45ccf346",
@@ -45,69 +67,15 @@
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg"
     },
     {
-      "id": "evt_799b440b061a600a",
-      "topic": "crypto",
-      "headline": "George Santos Referred to DOJ, CFTC Over State of the Union Kalshi Trades: Report",
-      "summary": "The pardoned ex-congressman allegedly bet against his own State of the Union appearance while publicly hyping it.",
-      "published_at": "2026-06-03T11:49:41.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/369838/george-santos-referred-to-doj-cftc-over-state-of-the-union-kalshi-trades-report",
-          "homepage": "https://decrypt.co"
-        },
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.884,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/06/george-santos-decrypt-style-gID_7.jpg"
-    },
-    {
-      "id": "evt_52e4764a0689eefa",
-      "topic": "business",
-      "headline": "Boston leads list of best places for foreign businesses in FT-Nikkei ranking - Financial Times",
-      "summary": "Boston leads list of best places for foreign businesses in FT-Nikkei ranking Financial Times",
-      "published_at": "2026-06-04T04:00:03.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQXVrbjR5SlZnRElVRS1yTUI0b19NNGZvdFVPWEp1aGN5VkwzUUUzREhYT2d0cXhDSEpnZmlYb2lCQVQ5bXN1QkVGRkFRZEcwT1pmMG44akozRmszUmFYZlhBTnVJamp4c3RFbWFvNFc?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_a5fadc0d35bb1466",
-      "topic": "finance",
-      "headline": "Asia-Pacific markets fall on renewed Middle East tensions",
-      "summary": "Asia-Pacific markets open lower amid renewed tensions between Iran and the U.S. and worries that the conflict may keep inflation elevated.",
-      "published_at": "2026-06-04T03:59:16.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_d88649b56e9c4eeb",
+      "id": "evt_25aa1ae7b6e4ec01",
       "topic": "politics",
-      "headline": "California U.S. House All-Party Primary Election Live Results 2026 - AP News",
-      "summary": "California U.S. House All-Party Primary Election Live Results 2026 AP News",
-      "published_at": "2026-06-04T03:54:45.000Z",
+      "headline": "Donald Trump",
+      "summary": "No info available. Donald Trump.",
+      "published_at": "2026-06-04T09:53:03.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1U4MVFrOHFMalczaF96T1gxSkNtRjdWaW85T2x3OWRyVTlHOWNvbWxMaWhCLXRVaEY2RXFma3J6ZFp4RTZ5RjNpRzA5NHJwendMa3NOd2RRVTRRd1lOU2xHLVN4UWZTZ1ctc1VtT3FJM1YzVkxmMU13NkZRc2JBSno4SS02UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -115,574 +83,465 @@
       "weight": 0.779
     },
     {
-      "id": "evt_d42616c9cd052cf3",
-      "topic": "ai",
-      "headline": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
-      "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
-      "published_at": "2026-06-04T03:52:15.000Z",
+      "id": "evt_16304d8522abe94a",
+      "topic": "politics",
+      "headline": "Iran War",
+      "summary": "Iran is at war. Details are limited.",
+      "published_at": "2026-06-04T09:53:02.000Z",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise",
-          "homepage": "https://techcrunch.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779
     },
     {
-      "id": "evt_e372189c5c21e79e",
+      "id": "evt_3155b49ec6d37bfd",
+      "topic": "politics",
+      "headline": "LA Mayor Runoff",
+      "summary": "LA Mayor Karen Bass advances. She seeks a second term.",
+      "published_at": "2026-06-04T09:43:03.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclZ5c3QtSjYxNTJOY2JJd2JqMWFKSlBVRktGQXBGakNjeU9FRHotcFVVZEpaMW1fNkF0WnRGV1RWZ0Zqai0yN2dfcjdaaWU4TGQzUjB5R0NmTUxNMWNlTy0tR2ZIZHY5eDR3TUtNZDlucVB5VTFjaWpJV1N6cWhJdF85SFNUZ2o1el81Z1RVMmxCVFZfZHdsZlgzVGt2dw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_baddb2a810911803",
+      "topic": "politics",
+      "headline": "SD Primary",
+      "summary": "South Dakota's primary is upcoming. Expect various outcomes.",
+      "published_at": "2026-06-04T09:43:02.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnBOVlJGck8tUUtDQVAxRGpMWTVxRnJ1dExFc1p1VEJabHVRLUpYN1J6T1V1TmxLbnpXd0k1UXlGSHVfelZDQ1pTYnU5SXpnR01wQm9ISE8wQml2QTN6S3daUWxGY1d2STRsNVhBaV9Sb1dyR1ZNVXdQaF9lSnZERFV1MThuSXM?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_e2b6ab337e2fdd51",
+      "topic": "politics",
+      "headline": "California News",
+      "summary": "California news. AP News reports.",
+      "published_at": "2026-06-04T09:43:01.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_8578c1f8ec0cc06c",
       "topic": "finance",
-      "headline": "Form 424B5 Jade Biosciences Inc For: 3 June",
-      "summary": "Form 424B5 Jade Biosciences Inc For: 3 June",
-      "published_at": "2026-06-04T03:39:20.000Z",
+      "headline": "Broadcom Target Raised",
+      "summary": "RBC raises target. AI demand cited.",
+      "published_at": "2026-06-04T09:40:58.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-424b5-jade-biosciences-inc-for-3-june-93CH-4725642",
+          "url": "https://investing.com/news/analyst-ratings/rbc-capital-raises-broadcom-stock-price-target-on-ai-demand-93CH-4725999",
           "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_854de956393b5988",
+      "topic": "finance",
+      "headline": "Broadcom Target Raised",
+      "summary": "Raymond James raises target. Solid results cited.",
+      "published_at": "2026-06-04T09:40:56.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/raymond-james-raises-broadcom-stock-price-target-on-solid-results-93CH-4725998",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_1c3a02d2015c1f37",
+      "topic": "finance",
+      "headline": "Jefferies raises CrowdStrike stock price target to $750 on AI growth",
+      "summary": "Jefferies raises CrowdStrike stock price target to $750 on AI growth",
+      "published_at": "2026-06-04T09:40:53.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/jefferies-raises-crowdstrike-stock-price-target-to-750-on-ai-growth-93CH-4725996",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_891a140cfc2c3d32",
+      "topic": "finance",
+      "headline": "Analyst optimism lifts Zealand Pharma stock ahead of ADA 2026",
+      "summary": "Analyst optimism lifts Zealand Pharma stock ahead of ADA 2026",
+      "published_at": "2026-06-04T09:40:04.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/analyst-optimism-lifts-zealand-pharma-stock-ahead-of-ada-2026-4725994",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA601YK_M.jpg"
+    },
+    {
+      "id": "evt_eb7efeb4ad77a644",
+      "topic": "finance",
+      "headline": "Nasdaq futures drop amid underwhelming Broadcom earnings, persistent Iran jitters",
+      "summary": "Nasdaq futures drop amid underwhelming Broadcom earnings, persistent Iran jitters",
+      "published_at": "2026-06-04T09:39:35.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/us-stock-futures-dip-as-broadcom-spurs-chip-losses-iran-jitters-persist-4725529",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_3a6a4303e565c5cb",
+      "topic": "finance",
+      "headline": "US equipment, experts arrive at Kenya Ebola facility despite court order, protests",
+      "summary": "US equipment, experts arrive at Kenya Ebola facility despite court order, protests",
+      "published_at": "2026-06-04T09:38:54.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/us-kit-experts-arrive-at-kenya-ebola-facility-despite-court-order-protests-4724947",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM521E5_L.jpg"
+    },
+    {
+      "id": "evt_3932f86f775fb800",
+      "topic": "finance",
+      "headline": "Israel plans major settlement push across occupied West Bank",
+      "summary": "Israel plans major settlement push across occupied West Bank",
+      "published_at": "2026-06-04T09:38:19.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/israel-plans-big-west-bank-settlement-push-many-see-as-illegal-4724354",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM520ZW_L.jpg"
+    },
+    {
+      "id": "evt_e8921969fcbeb315",
+      "topic": "finance",
+      "headline": "Israel strikes in Lebanon despite ceasefire deal",
+      "summary": "Israel strikes in Lebanon despite ceasefire deal",
+      "published_at": "2026-06-04T09:37:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/israel-strikes-in-lebanon-despite-ceasefire-deal-4725991",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM530LQ_L.jpg"
+    },
+    {
+      "id": "evt_8dfc3a80dd587855",
+      "topic": "finance",
+      "headline": "Lebanese President says ceasefire may come into effect within a day of parties’ approval",
+      "summary": "Lebanese President says ceasefire may come into effect within a day of parties’ approval",
+      "published_at": "2026-06-04T09:37:20.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/commodities-news/lebanese-president-says-ceasefire-may-come-into-effect-within-a-day-of-parties-approval-4725990",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM530LP_L.jpg"
+    },
+    {
+      "id": "evt_c76a876c8db9bdf2",
+      "topic": "politics",
+      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+      "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today AP News",
+      "published_at": "2026-06-04T09:37:19.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777
     },
     {
-      "id": "evt_cf6561c66a55b78b",
+      "id": "evt_c2898fbad92e7634",
       "topic": "finance",
-      "headline": "Form 424B5 Mineralys Therapeutics Inc For: 3 June",
-      "summary": "Form 424B5 Mineralys Therapeutics Inc For: 3 June",
-      "published_at": "2026-06-04T03:39:15.000Z",
+      "headline": "Jefferies CEO says firm is not in the SpaceX shorting business",
+      "summary": "Some 23 firms are handling the SpaceX initial public offering, and Jefferies Financial Group is not one of them.",
+      "published_at": "2026-06-04T09:37:00.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-424b5-mineralys-therapeutics-inc-for-3-june-93CH-4725641",
-          "homepage": "https://www.investing.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/jefferies-ceo-says-firm-is-not-in-the-spacex-shorting-business-c78e1c6d?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-39196089"
     },
     {
-      "id": "evt_c1c416f4b4bed799",
-      "topic": "finance",
-      "headline": "Taiwan presses China to confront Tiananmen past",
-      "summary": "Taiwan presses China to confront Tiananmen past",
-      "published_at": "2026-06-04T03:36:29.000Z",
+      "id": "evt_d5ee937ed902c582",
+      "topic": "crypto",
+      "headline": "Arthur Hayes sells entire HYPE and NEAR positions, citing AI IPOs and US midterms",
+      "summary": "Hayes faced backlash from social media users after selling the tokens days after publicly touting them.",
+      "published_at": "2026-06-04T09:36:55.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/taiwan-presses-china-to-confront-tiananmen-past-4725620",
-          "homepage": "https://www.investing.com"
+          "name": "The Block",
+          "url": "https://theblock.co/post/403616/arthur-hayes-sells-hype-near",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://www.tbstat.com/wp/uploads/2018/11/Arthur-Hayes-Bitmex-800x450.jpg"
+    },
+    {
+      "id": "evt_b75dc1d113b02649",
+      "topic": "business",
+      "headline": "Inside America’s Most Dysfunctional Zoo - WSJ",
+      "summary": "Inside America’s Most Dysfunctional Zoo WSJ",
+      "published_at": "2026-06-04T09:31:15.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5NkJBQmJPemlrQ1dwU3U2ZnBXZU9nM3lKRldSMmZ2TWtCYWl2Q2hnTFVqb3B5Z2I5NGthWXNoaS1VR2M4WmU1RGY4Y196Z1JDeThNQzF3MktwRWNGM1FfYVJJQWlyYjF4bmZocEYxcmx5YVdtRXcyWG1TYw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_16d41602e29df6d6",
+      "topic": "ai",
+      "headline": "Amazon develops a warehouse robot workers can speak to",
+      "summary": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as par",
+      "published_at": "2026-06-04T09:31:14.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+          "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5304N_L.jpg"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_5bfb8c873c63b2d2",
+      "id": "evt_9e7569738201d522",
       "topic": "politics",
-      "headline": "US House votes to halt Iran war, in rebuke to Trump",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-      "published_at": "2026-06-03T23:01:07.000Z",
+      "headline": "Nepali Mount Everest guide found alive after being missing for six days",
+      "summary": "Dawa Sherpa was last seen around May 29 descending the mountain, but while he did not reach base camp, his client did.",
+      "published_at": "2026-06-04T09:28:59.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_514a4633ce2e7498",
+      "topic": "politics",
+      "headline": "Blue Origin says rocket explosion spared fuel tanks and key launch pad parts - AP News",
+      "summary": "Blue Origin says rocket explosion spared fuel tanks and key launch pad parts AP News",
+      "published_at": "2026-06-04T09:27:39.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUtHSW5EVFU1a3lCMjRZeU1yWkx3RG9YXzQ3WDUzNE1kWVA4WjBRN2E0YlVFb3Q4dnlGdmlVZVRoV0VLdDltbjV0SldubnlBYURJQTFpYlhzNW1sM0dSTXNnYnh5bXktNk1zYkM3T0tyTTBBOTkyeUtFQURxT0FVNW01bnRKQUVqYjljZzJHMXFjNUpUbXAyNjZ1Tm5WdWdocUhrcmlkMA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_0bc175c3de582e3c",
+      "topic": "finance",
+      "headline": "Partners Group warns it could cap more fund withdrawals after triggering private equity rout",
+      "summary": "Partners Group said it could cap capital withdrawals from more of its funds after a European gating sparked a private equity stock sell-off on Wednesday.",
+      "published_at": "2026-06-04T09:27:37.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/04/partners-group-private-equity-fund-restrictions-investor-redemptions.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_8ce014ed2f9a504f",
+      "topic": "business",
+      "headline": "Partners Group Ready to Cap More Funds as Withdrawals Mount - Bloomberg.com",
+      "summary": "Partners Group Ready to Cap More Funds as Withdrawals Mount Bloomberg.com",
+      "published_at": "2026-06-04T09:24:35.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVF1bXZHWTZscWFkOHR1WTZjUXZMR1JWVENjUWtMUVdLalFLRWQzWjdjX2EwakJrMXFJNTJtZXVlWWk3TG1UM3pTbWhvMEliRzFKZmNXYzBIRFBpeFc3TkVKRWd4cnZ4SGdNUmthWlFUdjBpRVZjSnJoLWJ3XzFEODN0N3hMVmRfM1poYm5NdkxzT3lQZzlrVFUzZ001SkE3bkVGdElDUDFqMUlUMGVoczZ3anQ?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_fa7d6622bed0a4a3",
+      "topic": "politics",
+      "headline": "European shares climb and Asian shares retreat after US stocks pause their record-breaking rally - AP News",
+      "summary": "European shares climb and Asian shares retreat after US stocks pause their record-breaking rally AP News",
+      "published_at": "2026-06-04T09:22:30.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZLR3lZUjlfN3phOENCbElUVUFpVEtpY3FDZG0xZUFPYzJuTjlzT09mQkFaZTZMQU51RmptenpIQk01OUlTdkltUnZEcXNJMXk5X2ZVRXlVQm1LNTdhdThTcE9pTjJJa1l6VFNIYTE4d1pnZ1EyUWplMVpXMXNJRllxX1h1NV9FUXRWSkVnclVvWms?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_4cc3090980265453",
+      "topic": "business",
+      "headline": "Eurozone Retail Sales Fell in April - WSJ",
+      "summary": "Eurozone Retail Sales Fell in April WSJ",
+      "published_at": "2026-06-04T09:22:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFlBd19xSldnSXhjOFFLQUxqMzRZUzBvZi1fbUFSUjhDRm0zU3dVMHJsdW9obUZVUkJzWFhqR2c0NkJxUmw2WDBrUGpvTXJkQXBjOWdjbTFIR2xoTk9xMVRzZUZkNG9RUzZadExUekFLaFFIV3lfcnFxbDRrdm9kbnQ1QktRMjQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_4496fd6098f8ad6e",
+      "topic": "finance",
+      "headline": "My older sister and I co-own a home where my son lives. What happens if she dies?",
+      "summary": "“My son, daughter-in-law and granddaughter live there and take care of utilities, yardwork and maintenance.”",
+      "published_at": "2026-06-04T09:15:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg"
+      "image_url": "https://images.mktw.net/im-17462636"
     },
     {
-      "id": "evt_9c4e3f54615bc9a6",
+      "id": "evt_7307eb12d94a6f27",
       "topic": "politics",
-      "headline": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran - AP News",
-      "summary": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran AP News",
-      "published_at": "2026-06-03T23:24:00.000Z",
+      "headline": "Police warn families of Tiananmen crackdown dead not to visit graves on 37th anniversary - AP News",
+      "summary": "Police warn families of Tiananmen crackdown dead not to visit graves on 37th anniversary AP News",
+      "published_at": "2026-06-04T09:13:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUJLY2FURzR0NU9tVGcxLWNIa0pIZEJYVXg2eFF0NlkyYzI2VU5BcWRoMXd1S19lWjdfck5lVVJPMmRSSU1xVURMYmFqUWR3SEh4MWxOV2JJc2NWZVhWVlJnUmpHeDJKVGF6ZkwtcXQxZm1FMEZ5dXZrX0YxZERmUlVQRWF0cGxlUV9GSDNxS1ZwVVVxdEpaX3FfSHo3b1BudWRwbGxTaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnJsUTRMdEw5R0xkd2VCV2tmSlJXbU9ZSldHbVRZNGJ6c0N4QWRqVmFzTE0zMHIxUGVmeUYwR0xaWFVQTDc0a0JYM2RSUkFDS2FDUFlNR3Z5N256dVA5MU9sbjVfX09xWEMxMF8tT081cHh6U0lNcTc1RkNSUVNleE5oMmpBN3FUNHVDRlNoYzZ0Nkg3SUtRYy1lS2tLM1U5bl9VRER5QQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777
+      "weight": 0.774
     },
     {
-      "id": "evt_00624021ef248d49",
+      "id": "evt_7ffaa187ef8a9472",
       "topic": "politics",
-      "headline": "President Trump says he will nominate Todd Blanche to serve as attorney general - AP News",
-      "summary": "President Trump says he will nominate Todd Blanche to serve as attorney general AP News",
-      "published_at": "2026-06-04T03:35:00.000Z",
+      "headline": "China, US clash over Tiananmen anniversary, Taiwan says face up to history - Reuters",
+      "summary": "China, US clash over Tiananmen anniversary, Taiwan says face up to history Reuters",
+      "published_at": "2026-06-04T09:09:29.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUc1WWtFQlpHWDVsQzZZdlRsSXJTRHBNcVRwWXBOR2tjMmRGanJTQVZ2UGQ3NWZxSER6cENObnVWRkVSSXZZZS1pZnh2TllaTF95YlFRbmIzaTF3c2cxVERJQ09kNFdkSWU4YmpWV2UxYVVkM3pDVFcwSF80REcwN3QzcHI2emdXZlZrTV9LaTl4ZVBGa3RN?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_d7832183213ef79a",
-      "topic": "finance",
-      "headline": "Form 144 MATERION Corp For: 3 June",
-      "summary": "Form 144 MATERION Corp For: 3 June",
-      "published_at": "2026-06-04T03:33:32.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-materion-corp-for-3-june-93CH-4725639",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_0af04ceca1eaeadf",
-      "topic": "finance",
-      "headline": "Form DEF 14A HEALTH CATALYST For: 3 June",
-      "summary": "Form DEF 14A HEALTH CATALYST For: 3 June",
-      "published_at": "2026-06-04T03:33:31.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-def-14a-health-catalyst-for-3-june-93CH-4725638",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_b38f7345c2b5fe4c",
-      "topic": "finance",
-      "headline": "Form 144 WHEELER REAL ESTATE INVESTMENT TRUST For: 3 June",
-      "summary": "Form 144 WHEELER REAL ESTATE INVESTMENT TRUST For: 3 June",
-      "published_at": "2026-06-04T03:33:21.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-wheeler-real-estate-investment-trust-for-3-june-93CH-4725637",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_960ed7f62bdf7e5a",
-      "topic": "finance",
-      "headline": "Form 144 MOHAWK INDUSTRIES INC For: 3 June",
-      "summary": "Form 144 MOHAWK INDUSTRIES INC For: 3 June",
-      "published_at": "2026-06-04T03:33:18.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-mohawk-industries-inc-for-3-june-93CH-4725636",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_2ecadb4ff7b9946c",
-      "topic": "politics",
-      "headline": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again - AP News",
-      "summary": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again AP News",
-      "published_at": "2026-06-04T03:28:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_d3bc29ccc504a496",
-      "topic": "finance",
-      "headline": "Form 144 NETAPP For: 3 June",
-      "summary": "Form 144 NETAPP For: 3 June",
-      "published_at": "2026-06-04T03:24:19.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-netapp-for-3-june-93CH-4725634",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_4aeb08df3f9ec82d",
-      "topic": "finance",
-      "headline": "Form 144 Alpha Metallurgical Resources For: 3 June",
-      "summary": "Form 144 Alpha Metallurgical Resources For: 3 June",
-      "published_at": "2026-06-04T03:24:17.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-alpha-metallurgical-resources-for-3-june-93CH-4725633",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_941e5f1e78898cfe",
-      "topic": "business",
-      "headline": "Flesh-Eating Screwworm Found in Texas Calf, USDA Says - WSJ",
-      "summary": "Flesh-Eating Screwworm Found in Texas Calf, USDA Says WSJ",
-      "published_at": "2026-06-04T03:16:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGpNTjJzb0FTSEZKMUp2T1dZS0RPVWZoN2k3ZDRmRDI1c0ZpalpZUHRvTjg4VHFLNWVONkMyMTgxeVlkMnFkRTdhUjdNdnZJYmlUbjdEY1BlN1kwaXNVUGxBUURtX2RuNnc3SkpaMGpNcjZOellsMGs1Wm1YVjNNeEFpb3hrenpCdEFKTkxtNWs4Y2Qx?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFVKRWhTeWxyMlRvQmtuSWJoWGY5MnpKN0NqRXVNOU1IN0R1OVlvT2FxOXpGUmNraGs3djI4eVhTZG02R08zU3JSdGFrOWVmTGdUVGtnQWJ2NC0zSjBjVXRfSTFkWWlmQVVqZ2p6UXdKaVlMbmduazljUktONHl6N3NCa2ptRHlrbU9feWtCUUhQbms1cEVz?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
       "weight": 0.773
     },
     {
-      "id": "evt_61717bd1a9b2af99",
+      "id": "evt_fd1aec6b83606ab7",
       "topic": "politics",
-      "headline": "South Korea's ruling party wins most races in local elections but loses the crucial Seoul contest - AP News",
-      "summary": "South Korea's ruling party wins most races in local elections but loses the crucial Seoul contest AP News",
-      "published_at": "2026-06-04T03:13:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelphM1JyT1NNbjRNRlM4dlBiWTNvcHlkWDdwdFlMV3J6R0kwbUxxOVNNcGtwLUVZalBSZkpkejMtTnA4VnY2TVF5ZHluY0d1blp4OE5Cdy00bW9XdUZ0WTVSSHV5STI0Ti1iNE5iX3BQWTBfQl9Jb25UZ3lTMDFDRWJVWnQ5ZjJpV0VOUVVDaktVR0t3Y3BpempsaUVrUQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_a2120563a398610d",
-      "topic": "politics",
-      "headline": "UK far-right accused of exploiting killing of Henry Nowak",
-      "summary": "UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.",
-      "published_at": "2026-06-04T02:59:28.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_e155e8b015a6cf07",
-      "topic": "politics",
-      "headline": "China bans four New Zealand MPs over Taiwan visit",
-      "summary": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
-      "published_at": "2026-06-04T02:54:21.000Z",
+      "headline": "Ukraine accused of killing four in occupied Crimea",
+      "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
+      "published_at": "2026-06-04T09:07:06.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f7/live/174f9600-5fbf-11f1-8bfb-e1d8bc1274bd.jpg"
-    },
-    {
-      "id": "evt_49665385f719085b",
-      "topic": "finance",
-      "headline": "SoftBank’s OpenAI bet and rising debt are raising liquidity crunch concerns",
-      "summary": "Analysts warned that the market's renewed optimism on SoftBank is masking mounting balance-sheet risks.",
-      "published_at": "2026-06-04T02:47:13.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_844bec479c37428a",
-      "topic": "politics",
-      "headline": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say - AP News",
-      "summary": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say AP News",
-      "published_at": "2026-06-04T02:47:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNall5NXAyMUZCaFJlYWF2bUwwS2pWNUpzMWRLSGllUjQ2UFg4ellfU1p3WlJWV29HWGp3b25RNElxYWFnTnNtWG1kb0dFQ3dZNG02UW1qc0FUZk9sLTNja1BCcF9wZjdSdjQ5WXREQzFzWGdZaWE5X05sOWdvMm12ODNlclFBRjAxOVJId1g3MHJ1RmwzN0wzSng3VDJvb3FBTnpZN1VZZmo1QQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_b920bd2a213e25a4",
-      "topic": "ai",
-      "headline": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
-      "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
-      "published_at": "2026-06-04T02:46:35.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
-    },
-    {
-      "id": "evt_073dd74e39ed875f",
-      "topic": "ai",
-      "headline": "American capitalism has taken an apocalyptic turn",
-      "summary": "Article URL: https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn Comments URL: https://news.ycombinator.com/item?id=48393043 Points: 18 # Comments: 1",
-      "published_at": "2026-06-04T02:44:40.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_fadd5eff1940a9b7",
-      "topic": "politics",
-      "headline": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
-      "summary": "Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.",
-      "published_at": "2026-06-04T02:38:51.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_2a902368cc95c857",
-      "topic": "crypto",
-      "headline": "Bitmine to launch STRC-style preferred stock offering amid $9.2 billion unrealized ETH losses",
-      "summary": "The company plans to use the net proceeds for general purposes, which may include purchasing additional ETH and expanding staking operations.",
-      "published_at": "2026-06-04T02:38:47.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/403594/bitmine-preferred-stock-offering",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://www.tbstat.com/wp/uploads/2025/07/20250728_BitMine_News_2-800x450.jpg"
-    },
-    {
-      "id": "evt_f52aeb8d9610fbf0",
-      "topic": "politics",
-      "headline": "North Korea unveils a new plant to produce fuel for nuclear weapons - AP News",
-      "summary": "North Korea unveils a new plant to produce fuel for nuclear weapons AP News",
-      "published_at": "2026-06-04T02:37:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXp1c3JXXzRjdVZPSkZaZUFoVVJkYTc3ZExIejNqcHVuc04wUGRzdHNuWVhkVklqeGFjTEV6V05Pdjd5RzczNVJxWmVqT2xqeUtsUFVrNlJ5QnBnOEFQRXBqY2t5XzlVT2tKalhMWGRXNnRRR3BMblZQaGhJd3NpcWxaWHMzMlczSHBPaUJxaDhzT0lablE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_1a7012bfd931868f",
-      "topic": "finance",
-      "headline": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
-      "summary": "The pattern day-trading rule is going away on June 4, but retail investors should understand the risks.",
-      "published_at": "2026-06-04T02:22:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://images.mktw.net/im-73942616"
-    },
-    {
-      "id": "evt_872aed416ac69710",
-      "topic": "crypto",
-      "headline": "Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates",
-      "summary": "Bitcoin Magazine Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates Bitcoin price has tumbled to its lowest level in months Wednesday night, crashing below $62,000 and wiping out a sharp intraday loss of more than $5,300. This post Bitcoin Pri",
-      "published_at": "2026-06-04T02:21:50.000Z",
-      "sources": [
-        {
-          "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-62000-erasing-months-of-recovery-as-sell-off-accelerates",
-          "homepage": "https://bitcoinmagazine.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Plunges-Below-62000-Erasing-Months-of-Recovery-as-Sell-Off-Accelerates.jpg"
-    },
-    {
-      "id": "evt_3033efdd7d7572df",
-      "topic": "finance",
-      "headline": "How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500",
-      "summary": "A “dispersion trade” is being fueled by rising volatility for individual stocks while index volatility is falling — suggesting the risks of a selloff are rising",
-      "published_at": "2026-06-03T22:26:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://images.mktw.net/im-47128099"
-    },
-    {
-      "id": "evt_481188a9448d12c0",
-      "topic": "finance",
-      "headline": "Flesh-eating screwworm is confirmed in the U.S., officials say",
-      "summary": "Flesh-eating screwworm is confirmed in the U.S., officials say",
-      "published_at": "2026-06-04T02:14:45.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/04/flesh-eating-screwworm-is-confirmed-in-the-us-officials-say.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_9bc5b4c2afcc5dc5",
-      "topic": "crypto",
-      "headline": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
-      "summary": "Presto Research says bitcoin's drawdowns this year have coincided with rallies in AI stocks and gold as markets scale back expectations for Fed rate cuts.",
-      "published_at": "2026-06-04T02:13:28.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/bfb4779e9245468a88a2a948bb0e1677ae7e7858-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_9e8b840c0adad911",
-      "topic": "crypto",
-      "headline": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
-      "summary": "Analysts and market observers are saying bitcoin's crash is happening due to traders chasing momentum and rotating out of crypto and into high-flying IPOs and AI stocks.",
-      "published_at": "2026-06-04T02:11:08.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/8b7d0623147cff85d540fc99cb3a31bea034953a-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_3bfe31b2951315bc",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-06-03T20:08:05.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUY2hvZHhoMS15SFZLdi1Ld3dpRlhXdGhJOXRKWUpUWVFXUzFobFVGeDYzbnVJX21uU2l3a0NTREFxeWt3c1lGbk5xOXJEelhKQVVtckczeENTOG9XVjhWWmZ3?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_12b48c5c4df0d642",
-      "topic": "politics",
-      "headline": "Rubio distances himself from Netanyahu’s Gaza plan",
-      "summary": "House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.",
-      "published_at": "2026-06-04T02:04:11.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_fa862eebf1819ba5",
-      "topic": "business",
-      "headline": "The Wall Street Journal's News Archive for June 4, 2026 - WSJ.com - WSJ",
-      "summary": "The Wall Street Journal's News Archive for June 4, 2026 - WSJ.com WSJ",
-      "published_at": "2026-06-04T01:57:20.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1renk5LXJjZVl2TnZOMEJPQmtLdXhxVy1tSzBMdWhLM0VfVXh2MDJWNFBzUnpQdHdIeXBYTVVGRkhPUnVtNEdnLVVVTnh2WmxjSmxYTlNB?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_81809aee200b3368",
-      "topic": "finance",
-      "headline": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers",
-      "summary": "Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure.",
-      "published_at": "2026-06-04T01:54:04.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
+      "weight": 0.773,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba03/live/958b2530-5ff0-11f1-b682-cf91850925ea.jpg"
     },
     {
       "id": "evt_14330266f37b7150",
@@ -701,21 +560,37 @@
       "weight": 0.761
     },
     {
-      "id": "evt_8f3eb0344d74ef4d",
-      "topic": "crypto",
-      "headline": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
-      "summary": "The selloff has triggered demand for protective options plays, pushing the fear gauge higher.",
-      "published_at": "2026-06-04T01:30:53.000Z",
+      "id": "evt_a50b02af53c52970",
+      "topic": "finance",
+      "headline": "Sarah Michelle Gellar and Freddie Prinze Jr. list $10.5 million private enclave in L.A.",
+      "summary": "“Buffy the Vampire Slayer” star Sarah Michelle Gellar and her actor husband, Freddie Prinze Jr., have put their stunning Hamptons-stye Los Angeles home on the market for $10.5 million.",
+      "published_at": "2026-06-04T09:01:00.000Z",
       "sources": [
         {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february",
-          "homepage": "https://www.coindesk.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/sarah-michelle-gellar-and-freddie-prinze-jr-list-10-5-million-private-enclave-in-l-a-3b2d3c8d?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.759,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/cb6d33254ef21db0874c8ef23c8e1d19c29f9be3-2935x1108.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "weight": 0.772,
+      "image_url": "https://images.mktw.net/im-56367116"
+    },
+    {
+      "id": "evt_2fc790bfa297a0b0",
+      "topic": "business",
+      "headline": "Barings Emerging EMEA Opportunities Plc - Net Asset Value(s) – Company Announcement - Financial Times",
+      "summary": "Barings Emerging EMEA Opportunities Plc - Net Asset Value(s) – Company Announcement Financial Times",
+      "published_at": "2026-06-04T08:58:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzdaNXZ0OUNXWWdtNmc0cEJXT0IwZWp4QVJBWlpXV0VxQVFjazhfbGExSG9sNUlScXZacnB5N3VFRHYyRHlUUWhVX09WTXhTRWZXTFk0ZmxULV8xX0t0Yi1Fb0d1RmV2T0VDNmtueVRkUS12YlVTMFZnYnlHamktanY3NG0yZFFGZkxIdWNJNDhkY0xD?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
     },
     {
       "id": "evt_f1859386f9e41c74",
@@ -734,6 +609,332 @@
       "weight": 0.758
     },
     {
+      "id": "evt_5fbe27dc18ff644c",
+      "topic": "ai",
+      "headline": "Uruky Adds Image Search",
+      "summary": "Uruky now offers image search. It has a 2h free trial.",
+      "published_at": "2026-06-04T08:56:10.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://uruky.com/?il=en",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_a4d81b7cb878c595",
+      "topic": "business",
+      "headline": "South Korea Acts",
+      "summary": "South Korea vows action. The won is weakening.",
+      "published_at": "2026-06-04T08:53:00.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2RyZHEzR29oU2ZKRGFJakxSQnNBWVZWb1hCNmNYNGVrSEtuQ2w5VWh5bTJ4UFZObzV2ZktibUstaVdhVnhNaWxmekNieEdCaWxrSDZlZFNwaWxnSmw5RzBaSS14NGxCM1ZVcklrcHZ4WHA3MEN4ZXZFb3RtNU1QNVh2MzZ1U3I2cnI3WG1lQTMtWlJwZG1oYjh3ckxCVDdWSHNmbFZoYU9WWHNOWndHMXJCcWJxNjlPa1l5Q0V6WWc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_a0cc60ccd4564c4e",
+      "topic": "politics",
+      "headline": "Broadcom Revenue Miss",
+      "summary": "Broadcom misses revenue. AI boom bets are clouded.",
+      "published_at": "2026-06-04T08:51:43.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnlCYmFzR2pOMERvd1g1VVJWWFpaa1pNQnpuellqQTNhcnFtWjc5VXFsVXhPRnFPV0VsY3Npcl9nb0dabEtvM3R0ckkyYmxkekxGWE9CZ3ZUWXY3SHRoSTJxbDZDbW1VNFlrd3VyUDhyVjZMTE9NcnJxQ0R1NnZuUElmSDdtMmRzRVJDSXFtdHRfN3BXWEZENWNn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_68e2a114fd7ac622",
+      "topic": "politics",
+      "headline": "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
+      "summary": "Rahman, a career diplomat who held several portfolios at the global body, beats Cyprus’s Ambassador Andreas Kakouris.",
+      "published_at": "2026-06-04T08:50:04.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_03620be7671b6a1a",
+      "topic": "crypto",
+      "headline": "Coinbase, SpaceX, Meta join DOJ anti-scam operation that froze $3.8 million in crypto",
+      "summary": "Private-sector firms joined the DOJ's \"Disruption Week,\" freezing $3.8 million in crypto and disrupting 1.4 million scam-linked accounts.",
+      "published_at": "2026-06-04T08:49:44.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/403608/coinbase-spacex-meta-join-doj-anti-scam-operation-that-froze-3-8-million-in-crypto",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://www.tbstat.com/wp/uploads/2019/06/department-of-justice-800x450.jpg"
+    },
+    {
+      "id": "evt_e41b49ccdbbf6c9f",
+      "topic": "politics",
+      "headline": "Uneasy neighbours: Can three World Cup hosts put differences aside for a month?",
+      "summary": "The tournament comes after a period of fractious relations between the US, Canada and Mexico.",
+      "published_at": "2026-06-04T08:46:23.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e7/live/30c52e40-5fee-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "id": "evt_4b7b5f88c87d48e1",
+      "topic": "ai",
+      "headline": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "summary": "Article URL: https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/ Comments URL: https://news.ycombinator.com/item?id=48395938 Points: 51 # Comments: 18",
+      "published_at": "2026-06-04T08:45:36.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_f52aeb8d9610fbf0",
+      "topic": "politics",
+      "headline": "North Korea unveils a new plant to produce fuel for nuclear weapons - AP News",
+      "summary": "North Korea unveils a new plant to produce fuel for nuclear weapons AP News",
+      "published_at": "2026-06-04T02:37:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXp1c3JXXzRjdVZPSkZaZUFoVVJkYTc3ZExIejNqcHVuc04wUGRzdHNuWVhkVklqeGFjTEV6V05Pdjd5RzczNVJxWmVqT2xqeUtsUFVrNlJ5QnBnOEFQRXBqY2t5XzlVT2tKalhMWGRXNnRRR3BMblZQaGhJd3NpcWxaWHMzMlczSHBPaUJxaDhzT0lablE?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_c66f4f8d90335198",
+      "topic": "politics",
+      "headline": "Video: US House of Representatives votes to block further war on Iran",
+      "summary": "Republican-led US House of Representatives passed a resolution to halt any further push of the war on Iran.",
+      "published_at": "2026-06-04T08:38:42.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_946641bbb85032e5",
+      "topic": "politics",
+      "headline": "World Cup 2026: What are the key dates from the opening match to the final?",
+      "summary": "From must-watch games to the grand finale, here's a list of all the important dates on the 2026 World Cup schedule.",
+      "published_at": "2026-06-04T08:38:21.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/6/4/world-cup-2026-what-are-the-key-dates-from-the-opening-match-to-the-final?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_e9ce5962c56de1cc",
+      "topic": "business",
+      "headline": "Tech’s Biggest Bull Was in Despair. An AI Spree Has Him Back on Top. - WSJ",
+      "summary": "Tech’s Biggest Bull Was in Despair. An AI Spree Has Him Back on Top. WSJ",
+      "published_at": "2026-06-04T08:33:21.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmVzX1NyUWhlVjh6WW9WUmU3djdjcHh1YWVPakdEenhnV0RxTlRRc1REQkFBazY3eTVPNm5zOUVtYVZwaVUwRG9ITzJ6bkNHeUo3ZE1aNlZrMGJVMldTYVNBdGM2MXFnbFdiVGpvMVJPTWM2cTdTX2xTWVoyNWNNaDljQk1LQ1g2Ti1WZ0NHcXB4dFQ4MnRLODlxeE9Ibk8yLXQxM1Nkc0ZETC0zdDdwSg?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_d789eadb86431c3a",
+      "topic": "business",
+      "headline": "Print Edition - WSJ",
+      "summary": "Print Edition WSJ",
+      "published_at": "2026-06-04T08:28:39.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90X3RvU3V5Y1MwYnFKTWROZlJBeTQtMklpZ05Pd1dHd2pKMkw0NEs4a1dSTVpLMFpNTXRIZWw2SzFWbl9OMVlOZVZHVjhDSFZjNDdUTGx3Zk1FQldEMlRaMk9R?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_020a296cc8afa42f",
+      "topic": "business",
+      "headline": "U.S. Tech Futures Slip While Oil Falls on Lebanon Ceasefire - WSJ",
+      "summary": "U.S. Tech Futures Slip While Oil Falls on Lebanon Ceasefire WSJ",
+      "published_at": "2026-06-04T08:22:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkNjMkRkYVBwRldLdXpzbE41QUQ4QVlGT1NTdWJrdkRKQmJlV1N2SkVxS1Zoa1hjM1VGR3pLY3RjM3ZWekhrM05HdDlYT3lZX0lHM3ZCQVlDYXNKUWxNeVUxZ01WUW1yOENCY2dRM01QNHJNdHN1dXhpUnBwRmpQMjM3ZDVCMW01ckxhQUxTRHl6bVdteEJicU5ibGcyOVFlZkdDSA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_7547f75353677884",
+      "topic": "crypto",
+      "headline": "Over $600M in Bitcoin longs liquidated as BTC dips toward $60K",
+      "summary": "Many traders expect Bitcoin to stage a short-term relief bounce toward $70,000, but the broader technical setup remains bearish for BTC.",
+      "published_at": "2026-06-04T08:19:59.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/over-600m-in-bitcoin-longs-liquidated-as-btc-dips-toward-60k",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ibGFja3JvY2staXNzdWVzLXJhcmUtd2FybmluZ2lzLWJpdGNvaW5zLWZ1dHVyZS1hdC1yaXNrLWZyb20tcXVhbnR1bS10ZWNoLmpwZw==.jpg"
+    },
+    {
+      "id": "evt_6f6cb7db9c135a2d",
+      "topic": "finance",
+      "headline": "Another redemption wave is spooking the $2 trillion private-credit market",
+      "summary": "Private-credit woes are back in focus after a pair of l funds limited redemptions in the second quarter",
+      "published_at": "2026-06-04T08:14:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766,
+      "image_url": "https://images.mktw.net/im-07198252"
+    },
+    {
+      "id": "evt_89851f7901b023eb",
+      "topic": "politics",
+      "headline": "Oil falls after Lebanon and Israel agree on a ceasefire - Reuters",
+      "summary": "Oil falls after Lebanon and Israel agree on a ceasefire Reuters",
+      "published_at": "2026-06-04T08:13:38.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjFnWWJPa2JCQmk0aWtNQ0VrdVdDellpTDRJLUk2ckpvcV9GZGdxVEJkNEJmZ25BU3Rwd3NXV0ZmNkNjOEZSdVllSTl1cWx2bVFjVUV0bXBST3RXU01pSGxWb19qVGpsdjFzRHdBYUxablpCZXg2WGdnOUFVN21zRjlzZVBWeUh3YlFzVUdEZEhTanBTNDdFdFZZSV9ubG9qemN1TQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_6e12f5f0e0f2f575",
+      "topic": "politics",
+      "headline": "Brunson scores 30 as Knicks upset Spurs in NBA Finals opener",
+      "summary": "Led by Jalen Brunson, the New York Knicks steal a road win against the San Antonio Spurs in game one of the NBA Finals.",
+      "published_at": "2026-06-04T08:12:02.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_23c3bc35006c0e0b",
+      "topic": "politics",
+      "headline": "Trump to nominate Blanche for attorney general on permanent basis",
+      "summary": "If confirmed by the Senate, Trump's former personal lawyer would become the administration's number one prosecutor.",
+      "published_at": "2026-06-04T08:11:25.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8144/live/dd1d00d0-5fb9-11f1-8032-ed99bad5f9b6.jpg"
+    },
+    {
+      "id": "evt_5892087ee250155f",
+      "topic": "politics",
+      "headline": "Europe's tech 'liberation day'? Computer says not yet - Reuters",
+      "summary": "Europe's tech 'liberation day'? Computer says not yet Reuters",
+      "published_at": "2026-06-04T08:08:40.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanREQmMwZ3pzUlgyZ0RfRkJmUkswQUdQSnJqdnZBeHpxVFZ6VkVocTN1a2FDU2hEdW1Kb3BfWnVzN0xjZVV4NnBSeXhjbGtkSnJGRFpqdVZPNTZYQTZnNEJabkpwZWxSMkRzTXdVOThkNTlNVWU1X1pqQXBRUHVXV1ZWMnRiMDQ3VFdzb1pULUJFc21OUG90c3pVc0tHVnNYX0xTeQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_dfeb29a14c1a3f42",
+      "topic": "politics",
+      "headline": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "summary": "The opposition has called for protests after the president's term in office was extended by a year.",
+      "published_at": "2026-06-04T08:05:33.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5b/live/edefa830-5fe2-11f1-a292-23ac7fbac375.jpg"
+    },
+    {
       "id": "evt_b07d5b1326520acc",
       "topic": "politics",
       "headline": "Gold rises on softer dollar, oil, as markets weigh US-Iran peace optimism - Reuters",
@@ -750,247 +951,52 @@
       "weight": 0.758
     },
     {
-      "id": "evt_e721ee8ded6a7682",
+      "id": "evt_571c39852965ff02",
+      "topic": "politics",
+      "headline": "Caitlin Clark and Stephanie White say all is good while downplaying sideline spat video - AP News",
+      "summary": "Caitlin Clark and Stephanie White say all is good while downplaying sideline spat video AP News",
+      "published_at": "2026-06-04T08:02:08.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdG5GNDU0TC1VS0tPaFExY2djMHptYWhWR2ZfNHZlRGJPbGljdzJkd1p3aDc3TG5xM2tYYXNMb1c3ZDBlMWtxS2xFZk1yU0YyOXpHM2pMTlhyYjk2bFgtWXg3VlhXbzdBeHR3MU9nWWdVeUJ2aXpyU0tDcGJvRkZWcVpybVFXdW9GdXVJc0dQUFJfUQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_6f4369a3d1955d3a",
       "topic": "business",
-      "headline": "Exclusive | Trump Tells Aides He Won’t Resume All-Out War With Iran Unless U.S. Troops Are Killed - WSJ",
-      "summary": "Exclusive | Trump Tells Aides He Won’t Resume All-Out War With Iran Unless U.S. Troops Are Killed WSJ",
-      "published_at": "2026-06-04T01:20:00.000Z",
+      "headline": "Euro Could Fall if Middle East Conflict Persists Ahead of ECB Decision - WSJ",
+      "summary": "Euro Could Fall if Middle East Conflict Persists Ahead of ECB Decision WSJ",
+      "published_at": "2026-06-04T08:02:00.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUUyZkdxT2x4R1V5YlV2eGV3aS03SWlmVnVnZkxRaktRYWFIT29YeHhqZU00U05rT3FYRWdsOGx6ekFWRHgwanpINnpKZ2VCUUNvWnJFX1pRTHp5RXY5TzhKM1l0d1pmSkMyYWRtV21acXVmVEZHenpCV0Z0RlZtTlVjaE5KYV9yNXJNQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGpMX1VONTVMUVkxTFd1eG0zdDk0QUZaaGZVYnBDc01QQ2dzOGNqblk1ZDloSkZjbFdNWGJHSlpjaWtQbzIwYW1CN1dLcUprTDdJaUU3Y1Fxa2F6bXlQQUNpbmwwM2M2OE5QWjQ3R1kxbTNkNTZXOFZCOHJvNUtBN1pSTHJjdEUwT2RfT1hNYkNJWE5KZzA5a3dFUjR6Vi1BdmwxTmQxZG44Q3ljby1SQTMteDZqdw?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.757
+      "weight": 0.764
     },
     {
-      "id": "evt_7896fa418faaffde",
-      "topic": "finance",
-      "headline": "Why we're raising our price target on Broadcom despite its post-earnings sell-off",
-      "summary": "Broadcom's AI business will continue to shine and outpace the conservative forecast.",
-      "published_at": "2026-06-04T01:19:57.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/03/why-were-raising-our-price-target-on-broadcom-despite-sell-off-.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_a548a7e78a0dd04d",
+      "id": "evt_222609d28556a526",
       "topic": "politics",
-      "headline": "Senate Republicans axe $1bn for Trump's new White House ballroom",
-      "summary": "The bill to fund immigration agencies has been delayed by opposition to Trump's 'anti-weaponisation fund'.",
-      "published_at": "2026-06-04T01:18:09.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d1/live/2c466a40-5fa9-11f1-af92-19e0296632ef.jpg"
-    },
-    {
-      "id": "evt_f8cf8c7f71b622d8",
-      "topic": "politics",
-      "headline": "One dead and another injured after train strikes semi-truck in Iowa - AP News",
-      "summary": "One dead and another injured after train strikes semi-truck in Iowa AP News",
-      "published_at": "2026-06-04T01:17:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVE1ZjJ1ZWhkeGZNWjdmUWZYX2N0a053VHlGTDRRTFY3ZTZ1UDVsNFFEV09RTUViWl81Ylh2WVhoNnd6c1UzLXRFMWlQdEhla2Q2Y1R6LXlUVUV2RmlHd1lsYlR2RnF2Y2FQM19tRkRsNjdZSkdKZDdFRm4wY0FqbXJEOXdZZ0hr?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_c04de723c93d8dc8",
-      "topic": "finance",
-      "headline": "CrowdStrike is a buy, just not yet. Here's why",
-      "summary": "On top of the beat-and-raise, CrowdStrike announced a 4-for-1 stock split. But short-term thinkers sold the stock.",
-      "published_at": "2026-06-04T01:16:47.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/03/crowdstrike-is-a-buy-just-not-yet-heres-why.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_deb65e9751dc6f9d",
-      "topic": "politics",
-      "headline": "Nigeria’s second-chance schools: women balancing study and survival",
-      "summary": "Women in northern Nigeria return to school after years out, but must balance childcare, duties and costs.",
-      "published_at": "2026-06-04T01:16:26.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_9c24dbaa033d517d",
-      "topic": "politics",
-      "headline": "Ohio State University reaches $100 million settlement with nearly 300 sex abuse survivors - Reuters",
-      "summary": "Ohio State University reaches $100 million settlement with nearly 300 sex abuse survivors Reuters",
-      "published_at": "2026-06-04T01:14:31.000Z",
+      "headline": "Iran's Khamenei warns against divisions after 'enemy's defeat on battlefield' - Reuters",
+      "summary": "Iran's Khamenei warns against divisions after 'enemy's defeat on battlefield' Reuters",
+      "published_at": "2026-06-04T08:01:22.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWhvNUU5cnhnZ3Q3cHZWRzctaDZHa04zYUM5bk4zUzl2dkNfY0RaUjA1Z1dzYnBLWEFlaV96WUtJeEJra1BMZUZydm1faHBLRnpJZ0MxWVRKNmpzak8ydG00LW1Xd2kybnlPcHp3ZnVLT0lJMlhkN0hGLTdRSmxVWG5tSzBwZ0ktWmxIMUgwYy00SXlWdkd0YzRRZm1pb3lfSFg5cXA4bFlHYTNDUElsWWNTMVJHaW9oWTh6c1RaODU3LWFUV1pKcllqZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdE5VWFZFSlkza1lsbUUwY3RpZmVXaFVVbkNxTGt1Y181VUl0UzEycURWRXdMZEpEVmpjdUl0Tkt3TGhXOVBVdlF6OVMtZkVKdUtiQ2N6aENWQmlTMVQ2cHlRREVzajJZb0Uza2VPOElZSXU3Mi1vNG1mN3hmNHJNR1Z5NXllbHJJTHJESnNmT1pGaGw0T0pib3V2NDhuMUFMLVdvTHhoeE1BaFFHZFZtYXNn?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_d6ccf34c79513323",
-      "topic": "politics",
-      "headline": "China should 'acknowledge the truth' about Tiananmen, Taiwan president says - Reuters",
-      "summary": "China should 'acknowledge the truth' about Tiananmen, Taiwan president says Reuters",
-      "published_at": "2026-06-04T01:11:44.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzdYWXRFeE1kS3FadTFsWGNzOW53ckdoMEZndkFFQ0l2dGR3V2xFdno1QlQ0VlZNLVp3VEtzdjRabktIWmt1ZlhJVkxBeTdfclRnRm1jem95a3VQOTBDSHktS21Zak5jUzBObjhjeEhxRzdZWTdlY1lONVdnT2FJb1BqRWhOZW9mZ3IzYWJsM1M2XzlnR0l6SFJuVTI3eTR6a0JYQ1UySGdHeXhmd3pHRVIteXJWUmc?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_981b00915cbdf986",
-      "topic": "politics",
-      "headline": "Indonesia arrests former nutrition agency head and officials in corruption investigation - AP News",
-      "summary": "Indonesia arrests former nutrition agency head and officials in corruption investigation AP News",
-      "published_at": "2026-06-04T01:09:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSm9sVkpEdFpobHBFeFFoNFpvaTN6Ujk1N1g5cTFxS0ZnTDY1NHc5MTNENGdodk45UjdDeUFaXy1xTGlYektjcGhvOXU2Vlo0LThhSGROOU9MemxfdmFSQU56Tzczb0tDeUZrdm1Fc3hFbzd4TzA2RWFwb1pOemh3SXIxbm9PQzFUd09yRnZac2Qyc2RNcGNsUDFXMVhJQQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.756
-    },
-    {
-      "id": "evt_3b912cad629dee52",
-      "topic": "business",
-      "headline": "Trump's Tariff War",
-      "summary": "Trump's tariff war. Tests a weakened India.",
-      "published_at": "2026-06-03T23:36:11.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFRMaDVfc2ZqNEFQT29MV3NnSkFmaG9wUk5ZN1lBbmZIajI4aVJEdjF0N0hpY2xERnN1TXNlc3J3dTl4RDdGVjVsYi1MT1Z2VzJWT3kwQ0U0UFEtOTdsbmNVa0pMeGJ6R0lCVThJMWozSTZqNmU3SXQ5QzZtLWhfQVc0cmNVOGptbC1FUC1WbDZ3ZWpnR0N5STJn?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_3a4e157baf69b71f",
-      "topic": "politics",
-      "headline": "UK government condemns violence at protest over teen’s stabbing death - AP News",
-      "summary": "UK government condemns violence at protest over teen’s stabbing death AP News",
-      "published_at": "2026-06-04T01:04:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnpJNXdJb1kzRFVnZkJqVDhIbEpHZkRxTnVtS3I4dmV5OTNSRFg1cDJBU28wLTlEaGo1LTJNeloySWhXaE9oZUctTjlBa3paNEo2bVpLWDV4OE10bWphWnFpQXI5S3JtRkZ0UzdISDVjaVpxQmZfVGFSSVhDMmdKdzdkZHM1cE43d0RLZTh2ajdnYzVqQ3RBMGZuaW9VbFV3d0RyV3FLbw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755
-    },
-    {
-      "id": "evt_f736220485bf9057",
-      "topic": "business",
-      "headline": "Goldman Raises Kospi Target to 12000, Upgrades Taiwan to Overweight - WSJ",
-      "summary": "Goldman Raises Kospi Target to 12000, Upgrades Taiwan to Overweight WSJ",
-      "published_at": "2026-06-04T01:04:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM1JGVXNqMnJHWWRPZ1lGcE5oUzVYaXNuM2gzS3A0bnhnQ3JhUWhaN3R0UFhOcG9lSTM5T2JKQjhzTjlVRnh0VG41VGhGanVxMlNiWUg2QlUxclUxVTlMcDd2OWVwYXI1a0xnN2RtbGExMmNGdWJ4VWhIamtnZGhReTRBcGRoNUYtN2FSM3ZlMmUxM3h0?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755
-    },
-    {
-      "id": "evt_7728c8f59e421103",
-      "topic": "politics",
-      "headline": "A lawsuit challenges Hawaii homestead leases limited to those with 50% Hawaiian blood - AP News",
-      "summary": "A lawsuit challenges Hawaii homestead leases limited to those with 50% Hawaiian blood AP News",
-      "published_at": "2026-06-04T01:03:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXNWTnVXT0VBXzJDRlJkTm9xZ2Z2TG0wS3NnMENicTYxUjJ0dTR2RjNVWnhVbG1GUExjSkIzLUI2TFpQb2lzcEtOMThlcGdWVmI4NEd0d05UdjFfdE8ybWFtTlc5VDNVVFd1VzVCY29vVDJGbGZnZEtmam50aFd0NjU2R21kYUVTd094ZlN1dVg?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755
-    },
-    {
-      "id": "evt_7c4d1375b3e76251",
-      "topic": "politics",
-      "headline": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-      "summary": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine.",
-      "published_at": "2026-06-04T01:02:24.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/fd296c40-5fac-11f1-b5ab-a55eacf8090d.jpg"
-    },
-    {
-      "id": "evt_b0ae422f4ddcd698",
-      "topic": "finance",
-      "headline": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
-      "summary": "Quantinuum is pursuing a traditional IPO, whereas many other quantum players have gone the SPAC route.",
-      "published_at": "2026-06-04T00:57:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.754,
-      "image_url": "https://images.mktw.net/im-87360680"
+      "weight": 0.764
     }
   ]
 }
