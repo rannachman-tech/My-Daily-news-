@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-06-06T15:16:44.545Z",
+  "generated_at": "2026-06-06T17:15:08.159Z",
   "clusters": [
+    {
+      "id": "evt_3a0986bafb1c41fc",
+      "topic": "ai",
+      "headline": "Google pays SpaceX $920M/month",
+      "summary": "Google pays SpaceX $920M/month for compute. The deal is due to high demand for Google's AI products.",
+      "published_at": "2026-06-06T11:46:15.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
+          "homepage": "https://news.ycombinator.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.914
+    },
     {
       "id": "evt_32dc5af1c3b4a289",
       "topic": "politics",
@@ -21,28 +42,6 @@
       ],
       "source_count": 2,
       "weight": 0.936
-    },
-    {
-      "id": "evt_56a326ddf091049a",
-      "topic": "politics",
-      "headline": "Man dies in shark attack",
-      "summary": "A man died after a shark attack. He was fishing off Western Australia.",
-      "published_at": "2026-06-06T08:20:50.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.902,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d818/live/6396eb30-617c-11f1-8ac1-371ebc895245.jpg"
     },
     {
       "id": "evt_0257e521fa3b6d4b",
@@ -105,368 +104,232 @@
       "weight": 0.979
     },
     {
-      "id": "evt_7496ff7864aaf544",
-      "topic": "finance",
-      "headline": "Mega-IPOs impact index funds",
-      "summary": "Mega-IPOs may leave index funds behind. Index rules affect winners and losers.",
-      "published_at": "2026-06-06T15:15:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78,
-      "image_url": "https://images.mktw.net/im-59540949"
-    },
-    {
-      "id": "evt_dba890038c399885",
-      "topic": "finance",
-      "headline": "NVIDIA key to data center",
-      "summary": "Jim Cramer calls NVIDIA the heart of data center story. No additional details.",
-      "published_at": "2026-06-06T15:05:58.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-nvidia-heart-150558836.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec"
-    },
-    {
-      "id": "evt_530d52cb34b3f08d",
-      "topic": "finance",
-      "headline": "Jim Cramer on Alphabet",
-      "summary": "Jim Cramer comments on Alphabet. No further details.",
-      "published_at": "2026-06-06T15:05:57.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-alphabet-could-150557833.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1"
-    },
-    {
-      "id": "evt_456ebdc20ef205d7",
-      "topic": "ai",
-      "headline": "Shelbyville Data Center",
-      "summary": "A data center is proposed. The mayor made a comment.",
-      "published_at": "2026-06-06T15:05:00.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_6604d988d4f7323f",
-      "topic": "finance",
-      "headline": "SpaceX IPO",
-      "summary": "SpaceX may go public. Investors are interested.",
-      "published_at": "2026-06-06T15:04:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-create-more-150400213.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/602617b66f0f3117d923db0967deda27"
-    },
-    {
-      "id": "evt_09244554a4322d17",
-      "topic": "business",
-      "headline": "LMEs Create Debt Opportunity",
-      "summary": "LMEs pave way for debt. $165 billion opportunity.",
-      "published_at": "2026-06-06T15:00:01.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbHNKZTYyejFFWjYxSWxjQVhlMjh0ZWRiUVU0eVhYb0NDVHkzc2lSUUF4UzhpX0RISEZPczhiWFFtM3ZpSGdta1plQ1UxQmJlblU5ZjFSVjR0U1BkODZBVWcxSFMxQ3lfS21MdTNYTHFqbVFidmRVOHhNMVIwTWNZWHF1blhzX2R3ejVLWEp6Tm9HM0lDamNKeFJrWktXN2tUM3VHZm1IQzdoeDdGeVI5bGNjZklPVUpKTmNxS2d1b0M1Y2p4MWk1dVZwcXR4UzVEamR4ZlQ1Smd6MHFDUHc?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_37fd1f549145201f",
-      "topic": "ai",
-      "headline": "New Social Apps Emerge",
-      "summary": "New apps offer alternatives. Focus on interests.",
-      "published_at": "2026-06-06T15:00:00.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_5d40218c28a3eec6",
-      "topic": "ai",
-      "headline": "Benn Jordan on Tech",
-      "summary": "Benn Jordan discusses tech. Shifts YouTube focus.",
-      "published_at": "2026-06-06T15:00:00.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/1000033192.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_6d68906d26f424f5",
-      "topic": "crypto",
-      "headline": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "summary": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.",
-      "published_at": "2026-06-06T15:00:00.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/c5d8433cb8991feb405cb67f964737e13634e4b5-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_fe9b43c572caf8e3",
-      "topic": "finance",
-      "headline": "These Are Two of the Hottest Japanese Stocks. Should You Consider a $1,000 Investment?",
-      "summary": "These Are Two of the Hottest Japanese Stocks. Should You Consider a $1,000 Investment?",
-      "published_at": "2026-06-06T14:57:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/two-hottest-japanese-stocks-consider-145700679.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/d0d06568f150d5c804bfd0395ed765de"
-    },
-    {
-      "id": "evt_21cd2e80d58fe1e4",
+      "id": "evt_75af06861981e655",
       "topic": "politics",
-      "headline": "West Ham co-chair Sullivan steps down over 'false' historic allegations - Reuters",
-      "summary": "West Ham co-chair Sullivan steps down over 'false' historic allegations Reuters",
-      "published_at": "2026-06-06T14:53:56.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmNOQk5MMmNYZnd0THZJY0tuWGVXZDFpOVFHUDAweUotSmVaUjdoQXBPN25YTkZPVXRnRDZWMWdZNmJJb2dtdGlrZEE3dURhM0xzRTY5dlMybWdRQUwwVndYSFU0MjBzUmdnVlhBVEZwZ09OOXBXXy1XSGdQcjdrWUZYdHdScGY4WjBBeW92YXhadmJwT2o1bkVFdDJQa3czR3p2Sl84a3k1T0NlRDVLMHFGUGNENThlUW04dE5aNWE?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_d7012727c207ebc8",
-      "topic": "politics",
-      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-      "published_at": "2026-06-06T14:46:20.000Z",
+      "headline": "Ukrainian drones target Russia",
+      "summary": "Ukrainian drones attacked St Petersburg. Residents were urged to stay indoors.",
+      "published_at": "2026-06-06T13:38:07.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg"
+      "weight": 0.779,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png"
     },
     {
-      "id": "evt_25d374e0ef052f06",
-      "topic": "finance",
-      "headline": "The No. 1 Reason to Buy and Hold Walmart Forever Has Virtually Nothing to Do With Its Brick-and-Mortar Stores",
-      "summary": "The No. 1 Reason to Buy and Hold Walmart Forever Has Virtually Nothing to Do With Its Brick-and-Mortar Stores",
-      "published_at": "2026-06-06T14:43:44.000Z",
+      "id": "evt_6eedea75ef7c37b1",
+      "topic": "politics",
+      "headline": "Israeli attack kills Lebanese",
+      "summary": "Israeli attack kills Lebanese general. The incident is under investigation.",
+      "published_at": "2026-06-06T17:12:39.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/no-1-reason-buy-hold-144344084.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/a2ec285a5ecfecdf399e218976944ae5"
+      "weight": 0.78,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png"
     },
     {
-      "id": "evt_ed675d195cca0bcb",
+      "id": "evt_ed0d5d5bb386b982",
       "topic": "finance",
-      "headline": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
-      "summary": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
-      "published_at": "2026-06-06T14:43:00.000Z",
+      "headline": "S&P 500 may decline",
+      "summary": "S&P 500 may decline in June. Upbeat earnings may not rally the market.",
+      "published_at": "2026-06-06T16:53:00.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-sevens-capex-spending-spree-144300091.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/0f65c81c29bd01cc005e7edb41364e4a"
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-280367"
     },
     {
-      "id": "evt_2051ad20b96ee6d3",
+      "id": "evt_9978d0a73a482c4b",
       "topic": "finance",
-      "headline": "US get World Cup prayer as Pope Leo roots for the home team",
-      "summary": "US get World Cup prayer as Pope Leo roots for the home team",
-      "published_at": "2026-06-06T14:42:28.000Z",
+      "headline": "Hegseth Warns Europe",
+      "summary": "Hegseth warns Europe. Faces invasion of ideologies.",
+      "published_at": "2026-06-06T16:48:31.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/us-get-world-cup-prayer-as-pope-leo-roots-for-the-home-team-4729591",
+          "url": "https://investing.com/news/economy-news/hegseth-at-dday-event-says-europe-faces-invasion-of-dangerous-ideologies-4729580",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550AA_L.jpg"
+    },
+    {
+      "id": "evt_bba0e5c0f3aafd65",
+      "topic": "finance",
+      "headline": "Fed Warns of Instability",
+      "summary": "Fed warns of instability. Weakening bank rules.",
+      "published_at": "2026-06-06T16:45:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/feds-barr-warns-that-weakening-bank-rules-courts-financial-instability-4729603",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_d39af4bb21d05e48",
+      "topic": "finance",
+      "headline": "Savings Shortfall",
+      "summary": "Many haven't saved enough. Data confirms shortfall.",
+      "published_at": "2026-06-06T16:44:53.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/57-haven-t-saved-enough-164453636.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/bb4f9ccb8fdf6ee57e27f05997de5868"
+    },
+    {
+      "id": "evt_d744f961be6e3d8e",
+      "topic": "politics",
+      "headline": "Hegseth warns of ideological invasion",
+      "summary": "Hegseth warns of invasion. Europe faces danger.",
+      "published_at": "2026-06-06T16:44:45.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3RDSkpOUzhsc0FkQXZVaHBJQlA2dHVKMDZrNTdjWXhsMmhvNlJ4Nm9TbkMwbjQxcGVBVGxmU0JkenZZTE11ZUxfWW92UTlydVg1b3l4ZG5aVzhvRHkwdzQzMWkxcG5tdURoazFzX0VsaE9kZHZPM1cxVncxbWdRNkR0dzJuM3lIdC12NnVLWWw4cU1rS0JzU2xnNndHVG5oUEdHejlIem1xYS1YSWloc1pKZ0EwZksxRENpNWZuamwwZl9Ndlg5UmJn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_895aa68bf5bd24fd",
+      "topic": "finance",
+      "headline": "Jet orders deferred",
+      "summary": "Deferring jet orders is costly. Middle Eastern carriers affected.",
+      "published_at": "2026-06-06T16:43:02.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/deferring-jet-orders-over-iran-war-would-be-costly-for-middle-eastern-carriers-iata-vp-says-4729602",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550FA_L.jpg"
+    },
+    {
+      "id": "evt_46882ed0c83ceff8",
+      "topic": "finance",
+      "headline": "AI adviser leaves White House",
+      "summary": "Krishnan leaves position. AI policy adviser departs.",
+      "published_at": "2026-06-06T16:42:38.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550C6_L.jpg"
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550FB_L.jpg"
     },
     {
-      "id": "evt_13c1c9d06a14eef5",
+      "id": "evt_fa373e829bae3634",
       "topic": "finance",
-      "headline": "Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip",
-      "summary": "Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip",
-      "published_at": "2026-06-06T14:41:42.000Z",
+      "headline": "Here are 3 forces that drove a whirlwind week for the stock market",
+      "summary": "An avalanche of selling on Friday crushed stocks. It was a dramatic reversal from record highs earlier in the week.",
+      "published_at": "2026-06-06T16:38:29.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/redwire-contract-success-story-ll-144142165.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/728e1ed115695f5aed4e0049626d7f38"
-    },
-    {
-      "id": "evt_a7419ca8d4513ca0",
-      "topic": "finance",
-      "headline": "Which Is the Better Artificial Intelligence (AI) ETF, Roundhill's CHAT or State Street's XLK?",
-      "summary": "Which Is the Better Artificial Intelligence (AI) ETF, Roundhill's CHAT or State Street's XLK?",
-      "published_at": "2026-06-06T14:41:01.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-etf-144101774.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/a234cc3da6368ebdb72ccddb0152e6dd"
-    },
-    {
-      "id": "evt_b74dc345f007a863",
-      "topic": "finance",
-      "headline": "Forget Oklo: Buy This Entrenched High-Yield Utility Giant on the Dip Instead",
-      "summary": "Forget Oklo: Buy This Entrenched High-Yield Utility Giant on the Dip Instead",
-      "published_at": "2026-06-06T14:40:06.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-oklo-buy-entrenched-high-144006893.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/6b53aa1bcf36feb5af5dee0560664a76"
-    },
-    {
-      "id": "evt_95ef660aef03b0eb",
-      "topic": "finance",
-      "headline": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-      "summary": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
-      "published_at": "2026-06-06T14:40:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://images.mktw.net/im-94427601"
-    },
-    {
-      "id": "evt_5a94e3554a9cbcb6",
-      "topic": "politics",
-      "headline": "Israeli strike kills at least five people at wedding in Gaza",
-      "summary": "Casualty toll is expected to increase, reports Al Jazeera's Hani Mahmoud.",
-      "published_at": "2026-06-06T14:38:50.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775
     },
     {
-      "id": "evt_2e40ac6ca47971e5",
+      "id": "evt_0359c498b988d330",
       "topic": "finance",
-      "headline": "Warren Buffett's Berkshire triples stake in newspaper giant",
-      "summary": "Warren Buffett's Berkshire triples stake in newspaper giant",
-      "published_at": "2026-06-06T14:37:00.000Z",
+      "headline": "Soccer-Iraq World Cup striker Hussein questioned for hours at Chicago airport, source says",
+      "summary": "Soccer-Iraq World Cup striker Hussein questioned for hours at Chicago airport, source says",
+      "published_at": "2026-06-06T16:36:50.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/socceriraq-world-cup-striker-hussein-questioned-for-hours-at-chicago-airport-source-says-4729600",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550EZ_L.jpg"
+    },
+    {
+      "id": "evt_a7009edab91a5641",
+      "topic": "finance",
+      "headline": "Pfizer's 6.7% Yield Looks Scary -- but the Dividend Story Is Stronger Than It Seems",
+      "summary": "Pfizer's 6.7% Yield Looks Scary -- but the Dividend Story Is Stronger Than It Seems",
+      "published_at": "2026-06-06T16:35:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-triples-stake-143700601.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pfizers-6-7-yield-looks-163500574.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/2229979bdb58fd6f0c5d6e6515fed7db"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/6e63f11e00f74e1863849f5d23244e9d"
     },
     {
-      "id": "evt_38554fb43af8bc6b",
+      "id": "evt_e67c50d733ecfcd3",
       "topic": "politics",
-      "headline": "Airline chiefs grapple with fuel shock, fare test at Rio summit - Reuters",
-      "summary": "Airline chiefs grapple with fuel shock, fare test at Rio summit Reuters",
-      "published_at": "2026-06-06T12:59:11.000Z",
+      "headline": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title - AP News",
+      "summary": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title AP News",
+      "published_at": "2026-06-06T16:32:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVdzOEVPbFJxNUQ0eFZyNlVPZVJBNG41R0NreDNpeXJBZ3FmenRmdDkyRXpCWUpJcUk1Z3laTDNmaDYwRFRBUTFyWmRUMkJ2VWgwQWd0cjF0Y2p2eEdyVkFPa2RhOXpoWDExRlJnMnp5Vk9UTXFBcFpubjVjaEp0MVp5XzlRY3pWRWIwMWZIMHk3OEFyMHA0YmFEUzNRNFI1RmlmNlhrODY?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_6fb52172e7570730",
+      "topic": "politics",
+      "headline": "Iraq World Cup striker Hussein questioned for hours at Chicago airport, source says - Reuters",
+      "summary": "Iraq World Cup striker Hussein questioned for hours at Chicago airport, source says Reuters",
+      "published_at": "2026-06-06T16:31:16.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGVwQ1pwQzkwRmFFMG1fZDJfSmhUMGZxbmRrR3NnRVUyanJPVFo4YUwxcVdnUDN5ai1WdjVHWEVUcUZVZmdBNzRfeml3OHlFQlE0eW1CeDIyZmVDdXhqNjlmVUtHTDJiM2ZuYWxSdlY0LWVhbVZweEZaSlp5b0RSd2JueVBMODBhUEFlNS15QzkyWWF6QjlmRDduRFI2S2FEcE9iUXdEa0tHdnZpcDNNRg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakFyZ1R0ZmJjN2hIcEtFLVRsU3dBYVZXcmRLT0hjQkd2QUxFZFJuUDdYb2VqU2swZDlZbWVDUEppWmItZFhhLWZ4Wk1kZ3MwcGNkUDY4XzNJdWhfUk9HUF90RzhqaU9lb3loYW9vNkpzZVp4R2EzaW43N3UwS1JYX1ZqLTZVaW0wUmY0VEk5VlMza1E0MU5wT0o5SE1NclI1dEdtOWRyLU5MTEw5WE1faHFMbHYzeHhHYXpScDB6WDhBS2s?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
@@ -474,70 +337,54 @@
       "weight": 0.774
     },
     {
-      "id": "evt_c041fe1a016178cd",
-      "topic": "ai",
-      "headline": "Moving beyond fork() + exec()",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/ Comments URL: https://news.ycombinator.com/item?id=48425528 Points: 7 # Comments: 0",
-      "published_at": "2026-06-06T14:34:20.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_bfc8fba6d83c1792",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-06-06T14:32:44.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03Q0ZBV0ZHMDVqalFmNzB5NEVtajVEeHd2LTlWakI3QjNHcmd2dzMyR1AwaGM4OUxVNWZZVU9rV3dhaTJGU3IwVktCYV9Yd0Rzalp1aUlCTGxId25malBpN3BR?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_bd61859bc1b5f1f2",
+      "id": "evt_68f38e5dd95f7a85",
       "topic": "finance",
-      "headline": "UBS: Gold faces short-term headwinds but structural drivers point to new highs",
-      "summary": "UBS: Gold faces short-term headwinds but structural drivers point to new highs",
-      "published_at": "2026-06-06T14:32:20.000Z",
+      "headline": "They have $3M invested and 2 kids headed to college — retiring at 60 could still be within reach",
+      "summary": "They have $3M invested and 2 kids headed to college — retiring at 60 could still be within reach",
+      "published_at": "2026-06-06T16:30:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/3m-invested-2-kids-headed-163000517.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/moneywise_327/28fe027d5c0fc065595a8e52aa8985f1"
+    },
+    {
+      "id": "evt_edbcd29ca78fddb9",
+      "topic": "crypto",
+      "headline": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
+      "published_at": "2026-06-06T16:30:00.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/cfaf9c075207a73ff2c9f56502c1b48c8c1fc2dc-3754x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_71a28d755f5dbcbf",
+      "topic": "finance",
+      "headline": "Bitcoin rebounds above $60,000 after $1.6 billion liquidation-driven selloff",
+      "summary": "Bitcoin rebounds above $60,000 after $1.6 billion liquidation-driven selloff",
+      "published_at": "2026-06-06T16:29:27.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/ubs-gold-faces-shortterm-headwinds-but-structural-drivers-point-to-new-highs-4729590",
+          "url": "https://investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-16-billion-liquidationdriven-selloff-4729561",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA5T0CX_M.jpg"
-    },
-    {
-      "id": "evt_92b4cb601e0f6439",
-      "topic": "ai",
-      "headline": "82-0 is the best basketball game, to hell with NBA 2K",
-      "summary": "Can you go undefeated? | Screenshot: The Verge 82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you just had free rei",
-      "published_at": "2026-06-06T14:30:00.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/games/944975/82-0-perfect-basketball-stats-game",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-06-at-10.14.26AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "weight": 0.774
     },
     {
       "id": "evt_dd9ac1bbb88d882d",
@@ -556,49 +403,32 @@
       "weight": 0.773
     },
     {
-      "id": "evt_3ed0107ff0610d2f",
-      "topic": "crypto",
-      "headline": "Meet the Guys Still Clinging To the Terra Luna That Do Kwon Abandoned",
-      "summary": "Terra Luna Classic was left behind after an epic collapse almost four years ago. But there’s a community of believers who haven’t given up.",
-      "published_at": "2026-06-06T14:26:03.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/370189/meet-guys-still-clinging-terra-luna-do-kwon",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-praying-sad-hope-gID_7.png"
-    },
-    {
-      "id": "evt_05f4b1bf950a8f87",
+      "id": "evt_b727ab98e019dd2e",
       "topic": "finance",
-      "headline": "'The fastest way to get rich quick is don't': Dave Ramsey's truth bomb for investors. His 3 wealth-building rules",
-      "summary": "'The fastest way to get rich quick is don't': Dave Ramsey's truth bomb for investors. His 3 wealth-building rules",
-      "published_at": "2026-06-06T14:25:00.000Z",
+      "headline": "The Biggest IPOs in History -- and How They Performed",
+      "summary": "The Biggest IPOs in History -- and How They Performed",
+      "published_at": "2026-06-06T16:25:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fastest-way-rich-quick-dont-142500389.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-ipos-history-performed-162500987.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.773,
-      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/e0464613442ee7c609f3c8cb91c79c9c"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/7c2a0dce4916b6d41aef9eb69607b63f"
     },
     {
-      "id": "evt_ef7bcd9a346ef0a9",
+      "id": "evt_e92094330ce0958d",
       "topic": "politics",
-      "headline": "Pope Leo XIV acknowledges stiff competition with Bad Bunny in Spain and weighs in on soccer rivalry - AP News",
-      "summary": "Pope Leo XIV acknowledges stiff competition with Bad Bunny in Spain and weighs in on soccer rivalry AP News",
-      "published_at": "2026-06-06T14:25:00.000Z",
+      "headline": "Israeli Troops Kill Baby",
+      "summary": "Israeli troops killed a baby. The incident occurred in the West Bank.",
+      "published_at": "2026-06-06T16:23:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0s5VEdVZEI2dnJOOTc0dmJnM0tvYWVfaTJrSGVsNDh3MGpwX3VEOWthUkkxSUU2cjlPZFQ5TjI4eUc3Vk9HVXZyM0JsRVdTcGswckRiVDQxR2ZKdGdQZDl0UHQ5QnNqLVpDOFpaTXprMzJzUlN1d2FfV1JBdzF0bWxWcXlEVUZMR1o1RmZnSUctYjBoTEZoeWNKT0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1BudGRLOE9hYTl3RVdDWGRQUGs1TllnMHVDcUhaaklZSkp5d2NndDg3MXEwS3l3WUpfSmd6WTFOM0ZkOS12TjJhVkxMQW16dTNfM3JieENYQUctOFhDT2JtTXFWRDRsQnNWT1dSWllPa2xIdC15RVlmeGU4REJ1Vnl5Z3lIZ2pkNmMtNVQtRWFmaUhvVEVjNTR1bk4?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -606,413 +436,585 @@
       "weight": 0.773
     },
     {
-      "id": "evt_4b61413787c79845",
-      "topic": "politics",
-      "headline": "What Afghanistan’s rotten apples tell us about its non-profit sector",
-      "summary": "Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.",
-      "published_at": "2026-06-06T14:16:56.000Z",
+      "id": "evt_33b4fd405baa5e4a",
+      "topic": "finance",
+      "headline": "Meta AI Products",
+      "summary": "Morgan Stanley identified AI products. These products can help Meta.",
+      "published_at": "2026-06-06T16:22:57.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/morgan-stanley-flags-four-emerging-products-to-turn-meta-into-an-ai-winner-4729599",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_bdd9ddb82dde907e",
+      "topic": "finance",
+      "headline": "AI Investing Strategy",
+      "summary": "There's an investing strategy. It focuses on AI hardware infrastructure.",
+      "published_at": "2026-06-06T16:21:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://images.mktw.net/im-96521635"
+    },
+    {
+      "id": "evt_eb3d2adfbbb4d709",
+      "topic": "finance",
+      "headline": "Buy This AI Stock to Own SpaceX Pre-IPO and Hold It Through the Robotaxi Boom",
+      "summary": "Buy This AI Stock to Own SpaceX Pre-IPO and Hold It Through the Robotaxi Boom",
+      "published_at": "2026-06-06T16:20:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/buy-ai-stock-own-spacex-162000820.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/c5fd0011be753945a49b71cf14e6c710"
+    },
+    {
+      "id": "evt_2e6b9cd639582bcc",
+      "topic": "finance",
+      "headline": "Is Pepe the Next Dogecoin -- or Just Another Meme Coin That Will Fade?",
+      "summary": "Is Pepe the Next Dogecoin -- or Just Another Meme Coin That Will Fade?",
+      "published_at": "2026-06-06T16:19:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/pepe-next-dogecoin-just-another-161900599.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/481a21e9a2c1ecfec5478be04a668295"
+    },
+    {
+      "id": "evt_d9716771748a99fc",
+      "topic": "ai",
+      "headline": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "published_at": "2026-06-06T16:17:21.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai",
+          "homepage": "https://techcrunch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.772
     },
     {
-      "id": "evt_cbbc696d3ef64a28",
-      "topic": "politics",
-      "headline": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors - AP News",
-      "summary": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors AP News",
-      "published_at": "2026-06-06T08:10:00.000Z",
+      "id": "evt_38c743807a560d3d",
+      "topic": "finance",
+      "headline": "Warren Buffett: “People Still Don’t Want to Think It Will Work”",
+      "summary": "Warren Buffett: “People Still Don’t Want to Think It Will Work”",
+      "published_at": "2026-06-06T16:16:43.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXRGdWhrdkFIbnc1VXhoemMydUpyWURDQUNxbGxiX2JFVTVVY1RkZVlnampsNjJxVU9MMC03cmdTN0c4OF9QTTJ2bm0zVmZiWnR4UnFmYXE3NllqYXhKbGxOWnk5MENxNUZMTjAwNDRBaWNKNjhPdkNwRDJHWFk2RHRXdklkSURSTkV6aEVwMEE5aTByTGRkOUt6N1F4bzA?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-people-still-don-161643249.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.764
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/036453f007fb0a2249137024358aa1df"
     },
     {
-      "id": "evt_2f182ff1895387e0",
+      "id": "evt_65be9fb19e44142b",
       "topic": "finance",
-      "headline": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
-      "summary": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
-      "published_at": "2026-06-06T14:12:30.000Z",
+      "headline": "This Midstream ETF Yields 9.4% While Sidestepping K-1 Tax Forms",
+      "summary": "This Midstream ETF Yields 9.4% While Sidestepping K-1 Tax Forms",
+      "published_at": "2026-06-06T16:14:52.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit-4729564",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/midstream-etf-yields-9-4-161452656.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/207fa58450ae25333a4c0144d5ff2834"
+    },
+    {
+      "id": "evt_6bfb6548c52ecc92",
+      "topic": "finance",
+      "headline": "How many employees does Amazon have in 2026? Its workforce explained",
+      "summary": "How many employees does Amazon have in 2026? Its workforce explained",
+      "published_at": "2026-06-06T16:12:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/many-employees-does-amazon-2026-161200281.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.771,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM55081_L.jpg"
+      "image_url": "https://media.zenfs.com/en/thestreet_881/5262f914ab13b4c187672810e2c67368"
     },
     {
-      "id": "evt_6d8e0102f8a4576d",
+      "id": "evt_c320dd577f38ff15",
+      "topic": "finance",
+      "headline": "SCHD’s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks",
+      "summary": "SCHD’s $85 Billion Strategy Now Concentrates 41 Percent of Your Money in Just Ten Stocks",
+      "published_at": "2026-06-06T16:11:45.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-85-billion-strategy-now-161145498.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/05c05d4d10b1667768c40c13a1671549"
+    },
+    {
+      "id": "evt_affd7033e534f3a4",
+      "topic": "crypto",
+      "headline": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
+      "summary": "Bitcoin’s latest oversold RSI mirrors 2020 and February 2026 setups that preceded 50% and 30% rebounds, putting $70K back in focus.",
+      "published_at": "2026-06-06T16:06:54.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctYml0Y29pbi1wcmljZS1jb3VsZC1zcGFyay1iaWdnZXN0LWJyZWFrb3V0LmpwZw==.jpg"
+    },
+    {
+      "id": "evt_a0a83ebbcf2232f0",
+      "topic": "ai",
+      "headline": "4K Blu-rays are three for $33 ahead of Father’s Day",
+      "summary": "Director Damien Chazelle went from La La Land directly into First Man, the latter of which is included in this sale. | Photo by Daniel McFadden / Universal Studios If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at",
+      "published_at": "2026-06-06T16:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/12972341/2493_D030_00395R_GRD.JPG_cmyk_2040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_15ba97e6da891859",
+      "topic": "finance",
+      "headline": "Dycom is building a 49-acre fake town to train unskilled workers for $62K data center jobs",
+      "summary": "Dycom is building a 49-acre fake town to train unskilled workers for $62K data center jobs",
+      "published_at": "2026-06-06T16:00:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/dycom-building-49-acre-fake-160000988.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://media.zenfs.com/en/moneywise_327/d10a15a1aa71d9a56aa03ba7f6aa1206"
+    },
+    {
+      "id": "evt_4d3e2921d85dfe54",
       "topic": "business",
-      "headline": "This WNBA Player Just Got a $1.5 Million Raise. Here’s Why She Still Drives a Buick. - WSJ",
-      "summary": "This WNBA Player Just Got a $1.5 Million Raise. Here’s Why She Still Drives a Buick. WSJ",
-      "published_at": "2026-06-06T14:09:15.000Z",
+      "headline": "Making Sense of America’s Low Fertility Rate - WSJ",
+      "summary": "Making Sense of America’s Low Fertility Rate WSJ",
+      "published_at": "2026-06-06T16:00:00.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbnJSWXBqQnpjcmpKR1RseERlWEhlTWs2Z1E5ZUJuU21uSVVULTBEUlhUQmZVb2kwUGUxUGdWdnlENmhUNlBULWhfdERVUnZ0WEZDNmI5by1vMG1naXpSUFMzWW1QLV9DWVhGUFA2dUFLTXRXdmYxdXlzWDRzVm5ERTQyQVNObXE5SDJLaEwzR2Vndy1oU1RlTzRadWRHalNrcjhfTm9QWkhWOGo2LUthenlVU1RHbjFJRXptYWtzUjBud01ZOU9QRnhiU0VWR3dnaEdnTDIzRHBLdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xR25KNllTM2NJTEd4d2RaeWRxTk1EQWF5emw0RmhubzhYYnU2R2Q2ZTF5RFdiWjdNcE5jUHJRWFVRd1NkOUdReGR3ZmdlVmVheHlzOVZXanBlMlJuZHVHMjVaVTl4TWdDeUpDNThmSmNwU0RxcFlPbQ?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_0bd42225e5a79742",
-      "topic": "business",
-      "headline": "Scientists Sharing Anti-Trump Editorial Kicked Out of Conference - Bloomberg.com",
-      "summary": "Scientists Sharing Anti-Trump Editorial Kicked Out of Conference Bloomberg.com",
-      "published_at": "2026-06-06T14:07:08.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnJ0azNzbHVPSG0wVjduRHBMZm1DMW11WjdFYkd3V1FNYzN1eHIzalgxS241SWRCMG1vUDhncGQ4NDFHZ3JQSUNrV0lpYk1PX3Rod0V6TEh5RnN1Z3dVQWI1STluLVdQRExHWUxObWVmalJHX2tLbUZ2UGE0a3Y2TDk4ZDFwNTdjZm9WMXVMMkFJWEU1WE92WWhMZHNBa09lLUJMRGUxcUdKWTY4M1NPOEhCaVZ1UQ?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
       "weight": 0.77
     },
     {
-      "id": "evt_40e47d54b067d12d",
-      "topic": "business",
-      "headline": "School IB Maths class: What if remote working, not AI, is to blame for weak junior hiring? - Financial Times",
-      "summary": "School IB Maths class: What if remote working, not AI, is to blame for weak junior hiring? Financial Times",
-      "published_at": "2026-06-06T14:07:02.000Z",
+      "id": "evt_2dfab74caeb56822",
+      "topic": "crypto",
+      "headline": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
+      "summary": "Bitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.",
+      "published_at": "2026-06-06T15:59:30.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcEd6Q3hFejUyT05sam9VNW9odFViaXBOZkhCUlFKcHRwQ0d1cmljMFg2MDlyMzFOMzE0Q29qRS1ZdlZCT3k2ZmcyemtRMF9UMzNmTHI4OGVsdmpkNmhRblNES3E2bVhXOUQ5RUg2V0g?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Decrypt",
+          "url": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
+          "homepage": "https://decrypt.co"
         }
       ],
       "source_count": 1,
-      "weight": 0.77
+      "weight": 0.769,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg"
     },
     {
-      "id": "evt_99b5249d3b1b277c",
+      "id": "evt_d77f2e47eab0872c",
+      "topic": "crypto",
+      "headline": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+      "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
+      "published_at": "2026-06-06T15:59:00.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_35964274d0d5b489",
       "topic": "finance",
-      "headline": "The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio",
-      "summary": "Low-volatility stocks give investors a smoother ride — and they are beating the market on a risk-adjusted basis.",
-      "published_at": "2026-06-06T14:01:00.000Z",
+      "headline": "Busted AI budgets at Uber, Microsoft and Nvidia spur hiring — because human workers are cheaper",
+      "summary": "Uber blew its entire 2026 AI budget by April. Here’s why replacing workers with bots backfired.",
+      "published_at": "2026-06-06T15:55:00.000Z",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories",
+          "url": "https://marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
           "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.769,
-      "image_url": "https://images.mktw.net/im-63395271"
+      "image_url": "https://images.mktw.net/im-54898866"
     },
     {
-      "id": "evt_a55583bb1637f150",
-      "topic": "ai",
-      "headline": "Benchmarks in Leipzig",
-      "summary": "Article URL: https://arxiv.org/abs/2606.05818 Comments URL: https://news.ycombinator.com/item?id=48425247 Points: 39 # Comments: 15",
-      "published_at": "2026-06-06T14:00:52.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2606.05818",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_60d139601007a2bd",
-      "topic": "ai",
-      "headline": "Meta made its own AI-generated clickbait news feed",
-      "summary": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | Image: Meta AI Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that popula",
-      "published_at": "2026-06-06T14:00:00.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_d877bd1cf5dce3f6",
+      "id": "evt_a7a5f49f48f859f2",
       "topic": "finance",
-      "headline": "74% of home buyers would consider a 50-year mortgage — experts say making monthly payments would be key",
-      "summary": "74% of home buyers would consider a 50-year mortgage — experts say making monthly payments would be key",
-      "published_at": "2026-06-06T14:00:00.000Z",
+      "headline": "Trump administration and OpenAI discuss potential U.S. equity stake",
+      "summary": "Trump administration and OpenAI discuss potential U.S. equity stake",
+      "published_at": "2026-06-06T15:51:48.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/74-home-buyers-consider-50-140000807.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://media.zenfs.com/en/moneywise_327/06eb73fd41e2a2c96b22244626dfb86b"
-    },
-    {
-      "id": "evt_ed385cf701ae61ff",
-      "topic": "business",
-      "headline": "IPO Stock Strategy",
-      "summary": "IPO stock strategy. Buying IPO stocks.",
-      "published_at": "2026-06-06T14:00:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZWGpnR0lMcDFzbVRlazhCblQ1b0pYVjFfLVlWNG85NS1FYjB1bFRtUUxseTNhQUFRSlJIakF6QUNGWUp2cjlTNXFQdTkzWWlpdWZiYTNMZWNkSkNvd1hraXE1WTlKancxLW9UMjMycUwxNHdncE1jdA?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_b1bd924e9bc3651f",
-      "topic": "business",
-      "headline": "Private Equity",
-      "summary": "Private equity news. Newsletter available.",
-      "published_at": "2026-06-06T13:49:12.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHozeFNZQ2xhM0tsM1pZY05kZHc5THlIa2VkbDFPejdiaEVmaTVZYTJRcHd5MENLU0hwOHZOa2lFY0JaUDVGaHlFNk56Um9BOHdTZkUyNG12YUZzLURMdnpEZVJFT3pZRFdWZXpMSEFHZjRaUXMweFdNbFM2eG9JSF95anE5MXhHemZQRkVSaC0tTUlLcE5xU0hIX0pzMGRqSUxseE5haElYMkd6NkM2Y0RPd2YxY292RzhJ?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/trump-administration-and-openai-discuss-potential-us-equity-stake-cnbc-reports-4729107",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.768
     },
     {
-      "id": "evt_46f8dafe13e89c72",
-      "topic": "business",
-      "headline": "Big Oil Venezuela",
-      "summary": "Big oil changes. Venezuela investment.",
-      "published_at": "2026-06-06T13:46:28.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYS02alh5LVN1ZUlSbEYza3Y4ZmF3X0prNXVoSkRhLWdrM1FMNXAwcDE5V2xHUFRXVC1MdVBzMXRLa1puQzZYRjVkTmRaanc0SUR2WThvbjViNDF2MFpuNGxpNWJPSFFnRHU1RG1lczdzdnNaSnB1NXIyT0dCLWEtVFpad3VseWJtQnFjZ0g5cUM4SlZnRFBvbHZFREo5MUNCWDhxUFFiSEo2QXc2ZEN3?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_fa0197d279aed173",
-      "topic": "business",
-      "headline": "Exclusive | Real-Time Satellite Intelligence Is Making Ukraine’s Drone Strikes Deadlier Than Ever - WSJ",
-      "summary": "Exclusive | Real-Time Satellite Intelligence Is Making Ukraine’s Drone Strikes Deadlier Than Ever WSJ",
-      "published_at": "2026-06-06T13:44:41.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUZTZFlUNGFGc09MZmc4c183LTZQd1dpMGJVTmIwUXFQeXBMMmw1NkU4MDlnSXhBNDlzOWdSRkdaX3hPUWdQa3g3NGMxcnJBa3lWTEhzZmp3TlI2eFpqYTVhRkkzRm92enotbnJMZHlHTDZfbFUxSDdpSHNsOTVXSS10R2JOX0R3VktZcDM4ZW96a3pwNUZKXzVXdGMxZDFLa3F5WV8yNWRoMXYtYkhpNUxXVGVhYWh1V2g0?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_f2c8bcf0a564a5de",
+      "id": "evt_c0e2d11905f32d3b",
       "topic": "finance",
-      "headline": "Airbus nears SAS widebody aircraft order - Bloomberg",
-      "summary": "Airbus nears SAS widebody aircraft order - Bloomberg",
-      "published_at": "2026-06-06T13:43:34.000Z",
+      "headline": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "summary": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "published_at": "2026-06-06T15:47:52.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d"
+    },
+    {
+      "id": "evt_3fcef0ad8b4c41bd",
+      "topic": "finance",
+      "headline": "Alvotech (ALVO) Receives FDA Form 483 Following Routine Facility Inspection",
+      "summary": "Alvotech (ALVO) Receives FDA Form 483 Following Routine Facility Inspection",
+      "published_at": "2026-06-06T15:44:59.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/alvotech-alvo-receives-fda-form-154459923.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/bb9eeca959da429f530467dc58c79488"
+    },
+    {
+      "id": "evt_afc0c6cda705e46d",
+      "topic": "politics",
+      "headline": "Andreeva wins French Open as Chwalinska fairytale ends",
+      "summary": "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+      "published_at": "2026-06-06T15:44:24.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e11/live/9acf5bf0-61bd-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "id": "evt_0d096b782100d445",
+      "topic": "finance",
+      "headline": "Silicon Valley was built on public money — now it’s fighting California’s billionaire tax",
+      "summary": "“Cyberselfish” author says tech elite believe that taxes are for “little people.”",
+      "published_at": "2026-06-06T15:43:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://images.mktw.net/im-89459597"
+    },
+    {
+      "id": "evt_b0285046f0bae813",
+      "topic": "finance",
+      "headline": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+      "summary": "Investors are cooling on momentum stocks and considering the implications of a strong jobs report.",
+      "published_at": "2026-06-06T15:41:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://images.mktw.net/im-41304049"
+    },
+    {
+      "id": "evt_d59970bf213847e9",
+      "topic": "finance",
+      "headline": "Frasers Group eyes Metrocentre bid amid property expansion - Sky News",
+      "summary": "Frasers Group eyes Metrocentre bid amid property expansion - Sky News",
+      "published_at": "2026-06-06T15:38:55.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/airbus-nears-sas-widebody-aircraft-order--bloomberg-93CH-4729588",
+          "url": "https://investing.com/news/stock-market-news/frasers-group-eyes-metrocentre-bid-amid-property-expansion--sky-news-93CH-4729598",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.767,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEE5L28N_M.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
     },
     {
-      "id": "evt_3566b2e137cd85fe",
-      "topic": "business",
-      "headline": "Venture Capital Newsletter - WSJ",
-      "summary": "Venture Capital Newsletter WSJ",
-      "published_at": "2026-06-06T13:42:51.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkVvNnlmWEkzZ2thcEdpbHFwOGlHdlVrRkViUXZkTXJTc1NoekEwRWJOc3hEMENVSEZTc1JheFcxMURKZ1I4emJsVGVtbXdoU005bjlqSzBSeUJJcWtydjRnZkJHVW1HZ3hiRV83R3BKWE1tWnNiOGNYLTZsc0Q0MExOTGVBVlRYNk92QVlULWR1RmhSRC04V2tJWXY3cnlJMnZpbVpLWQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_de6c9257b6804471",
+      "id": "evt_bb40f68ca90ed7fe",
       "topic": "ai",
-      "headline": "US House lawmakers release draft bill to prohibit state AI rules",
-      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 15 # Comments: 2",
-      "published_at": "2026-06-06T13:40:22.000Z",
+      "headline": "Police in England and Wales told to halt AI use in court statements",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 45 # Comments: 10",
+      "published_at": "2026-06-06T15:35:49.000Z",
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
+          "url": "https://ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
           "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.767
+      "weight": 0.766
     },
     {
-      "id": "evt_8920b1a028e39d7d",
-      "topic": "finance",
-      "headline": "Jobs report affects stocks",
-      "summary": "A strong jobs report may hurt stocks. It may not force the Fed to raise interest rates.",
-      "published_at": "2026-06-06T13:40:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://images.mktw.net/im-04475414"
-    },
-    {
-      "id": "evt_a06b6576690f3ec0",
-      "topic": "finance",
-      "headline": "Stock Market Week Ahead: SpaceX And The Power Trend",
-      "summary": "Stock Market Week Ahead: SpaceX And The Power Trend",
-      "published_at": "2026-06-06T13:39:17.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/research/investing-action-plan/stock-market-week-spacex-apple-oracle-power-trend/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://media.zenfs.com/en/ibd.com/0955733b3b353a33459883c56d4ac37a"
-    },
-    {
-      "id": "evt_75af06861981e655",
+      "id": "evt_823336e41a2f9a5f",
       "topic": "politics",
-      "headline": "Ukrainian drones target Russia",
-      "summary": "Ukrainian drones attacked St Petersburg. Residents were urged to stay indoors.",
-      "published_at": "2026-06-06T13:38:07.000Z",
+      "headline": "Activists disrupt German military exhibit over arms sales to Israel",
+      "summary": "Activists disrupt German military exhibit over arms sales to Israel.",
+      "published_at": "2026-06-06T15:34:47.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png"
-    },
-    {
-      "id": "evt_e12ad71ec1632fbf",
-      "topic": "politics",
-      "headline": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks - AP News",
-      "summary": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks AP News",
-      "published_at": "2026-06-06T13:37:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTB4REhzcWJydThfdkxBZFZYU2dKbXhfTC1vakRoeUVDRU9VXzVYWGhTczlfY3A2UDgydXYwemV2aXM3b1NnWGhUb1U3ZDI0OGM5X1JQNC1acThkNVFwWDNFV0t2cVNfdk9LZ3BwekQtSVp3WTh0OVp3QlBGUWlmbDc5ZURBN3JQT1U0Mm96dEQ5WXdZTzJLWER3VHAzNnFhTjVvQWdNZDlwQ3FxeUlz?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
       "weight": 0.766
     },
     {
-      "id": "evt_306e1400382e2d73",
+      "id": "evt_6c4018fa2a1fbaba",
       "topic": "politics",
-      "headline": "Trump faces new Republican resistance in Congress as midterm pressures build - Reuters",
-      "summary": "Trump faces new Republican resistance in Congress as midterm pressures build Reuters",
-      "published_at": "2026-06-06T13:36:58.000Z",
+      "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+      "summary": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
+      "published_at": "2026-06-06T15:30:53.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_cc3bbb25de87738a",
+      "topic": "ai",
+      "headline": "Python JIT project was asked to pause development",
+      "summary": "Article URL: https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638 Comments URL: https://news.ycombinator.com/item?id=48425982 Points: 19 # Comments: 3",
+      "published_at": "2026-06-06T15:30:09.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_abb1fb3daef5e7e9",
+      "topic": "politics",
+      "headline": "Israeli strike in Gaza kills seven people, including two women, medics say - Reuters",
+      "summary": "Israeli strike in Gaza kills seven people, including two women, medics say Reuters",
+      "published_at": "2026-06-06T15:29:43.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnBFZ3BMV3l4RlFnSE1xaDQyTkFLbDRkQ0JDMEg2OUJPd2xXWUxZNkV5c2xaU2dMYzRwZV9oekhkM3VheWFBZTZ3SUl4VWVJcTBrRi1YRkxILXdxQ0tkTi1NdWQ5ZDYteXhaUVNlMzVSNWNUTVRUVUl4b1NUS3NqeFBnM0ItaGh5VnZIZjFxektUZFNfd2hoTlNEYnEzUUlycE42cHdDUFNKdjFuMDRfVmVSZzhoZExVQUlic2dhN0Y?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2dRaVMwVWwyZUhrV2xseWEzYVhWdjhHLUFzMXZhNUtUajFxcUxaUkVtRTdqUUZIOUlTRlViVUt6WDNuaV8yMTNwaTJLQ0VwdG5FMUNSVTYxYnhoM0JGUUFsbEhOTGNmcVdqc1FEcGlxSTZWbUQ4ZGxwM3N1dzFOU1RzeU9FbE52cVlmQkJzN2NaZjIwUHpnLWxINnVjdXdkUkRCbXhaaTh5Q0hyandnaVQ2aUg3Z0JVOTdRdE1TUkM?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.766
+      "weight": 0.765
     },
     {
-      "id": "evt_0bd3376d44f3daf3",
-      "topic": "finance",
-      "headline": "US strikes Iranian sites",
-      "summary": "The US struck Iranian sites. This was in response to Iranian drone launches.",
-      "published_at": "2026-06-06T13:36:30.000Z",
+      "id": "evt_21cd2e80d58fe1e4",
+      "topic": "politics",
+      "headline": "West Ham co-chair Sullivan steps down over 'false' historic allegations - Reuters",
+      "summary": "West Ham co-chair Sullivan steps down over 'false' historic allegations Reuters",
+      "published_at": "2026-06-06T14:53:56.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flareup-4729541",
-          "homepage": "https://www.investing.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmNOQk5MMmNYZnd0THZJY0tuWGVXZDFpOVFHUDAweUotSmVaUjdoQXBPN25YTkZPVXRnRDZWMWdZNmJJb2dtdGlrZEE3dURhM0xzRTY5dlMybWdRQUwwVndYSFU0MjBzUmdnVlhBVEZwZ09OOXBXXy1XSGdQcjdrWUZYdHdScGY4WjBBeW92YXhadmJwT2o1bkVFdDJQa3czR3p2Sl84a3k1T0NlRDVLMHFGUGNENThlUW04dE5aNWE?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM55009_L.jpg"
+      "weight": 0.777
     },
     {
-      "id": "evt_71a3b1512728e14b",
-      "topic": "finance",
-      "headline": "Chinese EVs in US",
-      "summary": "Chinese electric vehicles may be sold in the US. This could happen within a few years.",
-      "published_at": "2026-06-06T13:35:07.000Z",
+      "id": "evt_12494b541b1ae7d8",
+      "topic": "politics",
+      "headline": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+      "summary": "India's Gen Z Cockroach movement stages its first protest in the capital, demanding education minister's resignation.",
+      "published_at": "2026-06-06T15:27:47.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.765
     },
     {
-      "id": "evt_76689589c56c1f84",
-      "topic": "finance",
-      "headline": "Pfizer Obesity Treatment",
-      "summary": "Pfizer targets obesity market. It has a monthly weight-loss injection.",
-      "published_at": "2026-06-06T13:34:26.000Z",
+      "id": "evt_ef1e638f569050a5",
+      "topic": "politics",
+      "headline": "Lebanese army chief leaves for Pakistan at invitation of counterpart - Reuters",
+      "summary": "Lebanese army chief leaves for Pakistan at invitation of counterpart Reuters",
+      "published_at": "2026-06-06T15:23:14.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/pfizer-targets-obesity-market-with-monthly-weightloss-injection-data-4729587",
-          "homepage": "https://www.investing.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1U5T29MOExoZFRsZXlNODRKYjNNNk9ZMEtxQ3g0cE9aOXFKSU94OVJSTFRPZW1EODFiZmhoVXgtS3k5VUE1UHZIVzBTMjNQNU1wWWJqSnUtanN2a0p3ZWktNVlMTVhWSTJGMm1WZFhkYWVxNFQ4eWRJZW5WNFJ5cnliLXNjTHFPdHlRRXRsQlJRcDRjVzRTdmFGZVJuTnM4OTVPTVY5amhHazl0Zy13Z3Y2QQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.764
+    },
+    {
+      "id": "evt_7496ff7864aaf544",
+      "topic": "finance",
+      "headline": "Mega-IPOs impact index funds",
+      "summary": "Mega-IPOs may leave index funds behind. Index rules affect winners and losers.",
+      "published_at": "2026-06-06T15:15:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78,
+      "image_url": "https://images.mktw.net/im-59540949"
+    },
+    {
+      "id": "evt_bf2132500848eb1b",
+      "topic": "politics",
+      "headline": "Videos show Kuwait intercepting ballistic missiles from Iran",
+      "summary": "Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.",
+      "published_at": "2026-06-06T15:09:56.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_b7786b10a2f39085",
+      "topic": "politics",
+      "headline": "Hegseth invokes immigration and ‘invasion’ in D-Day speech in France - AP News",
+      "summary": "Hegseth invokes immigration and ‘invasion’ in D-Day speech in France AP News",
+      "published_at": "2026-06-06T15:08:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTNsNlk5Q0V4WERWelZxQ3FuV0V4OXBuano3a3pwNDVFc0g2UzBVc2w2LWlQRmVWUzlhTUdqczROVDRwNUxKZTlGRTR3T3I3c0pCbzlSc252S0duYTFDMjJpMVUwczlVZm5MbndmN2djZExEZnBWSFhYY1laQjcwQzZOZmdoOE9zSE96T1hja2g0aTg3UDBBcXVB?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.762
+    },
+    {
+      "id": "evt_27ce31df4f0d87ea",
+      "topic": "finance",
+      "headline": "Jim Cramer on Banco Santander: “I Think It’s Paused Here as It Catches Its Breath”",
+      "summary": "Jim Cramer on Banco Santander: “I Think It’s Paused Here as It Catches Its Breath”",
+      "published_at": "2026-06-06T15:06:17.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-banco-santander-think-150617406.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.762,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25"
     }
   ]
 }
