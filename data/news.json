@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-06-09T03:32:47.611Z",
+  "generated_at": "2026-06-09T14:51:58.824Z",
   "clusters": [
+    {
+      "id": "evt_ef7a9d25e7cfbe6e",
+      "topic": "politics",
+      "headline": "US sea drone rescues crew",
+      "summary": "A US sea drone rescued a helicopter crew. The crew was rescued near the Strait of Hormuz.",
+      "published_at": "2026-06-09T13:15:59.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUF1RGh1MHRmV3BMbTV3bTFQTnRRYkEtM2lxRE8zRGlqcE82RkZwOTlpRHZvTl8tNk9zRkQ0SVJueG1MUU9TdDhlelItVXlMcTVxT2FETVNRcW5vYVlrckt6UTVZbWNPQnAzVXNBWnVkLU13NWVjUXhGVHRYYzdVcXM1MjdCSzcyWktuS3RYSTQ1dFdHb1cyX2ViakVaWUVtSXBfZTNrallHVlRzNm5SUnRpXzJYZw?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.947,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ad/live/e36320c0-6403-11f1-aa5c-5fd45cb1088c.jpg"
+    },
+    {
+      "id": "evt_ba4f397af2b03d71",
+      "topic": "ai",
+      "headline": "Microsoft tools hacked",
+      "summary": "Microsoft's open source tools were hacked. The hack stole AI developers' passwords.",
+      "published_at": "2026-06-09T07:33:16.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+          "homepage": "https://news.ycombinator.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.899
+    },
     {
       "id": "evt_85ae24c364cc6083",
       "topic": "business",
@@ -21,49 +64,6 @@
       ],
       "source_count": 2,
       "weight": 0.926
-    },
-    {
-      "id": "evt_d557f202f40d829d",
-      "topic": "ai",
-      "headline": "OpenAI files for IPO",
-      "summary": "OpenAI filed for IPO. This follows Anthropic's decision.",
-      "published_at": "2026-06-08T21:38:29.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-          "homepage": "https://www.theverge.com"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.958,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_d12019f4e147c7a1",
-      "topic": "ai",
-      "headline": "Apple Offers Cheaper AI",
-      "summary": "Apple offers cheaper AI. It waives cloud API costs.",
-      "published_at": "2026-06-08T21:02:00.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers",
-          "homepage": "https://news.ycombinator.com"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.906
     },
     {
       "id": "evt_76abde160b2523bd",
@@ -110,63 +110,81 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/08/metamask-decrypt-style-gID_7.jpg"
     },
     {
-      "id": "evt_48af3fb54b1eb5f5",
+      "id": "evt_b4b2af72b0a0311e",
       "topic": "finance",
-      "headline": "Trump Booed at NBA Game",
-      "summary": "Trump was booed at NBA game. Knicks lost to Spurs.",
-      "published_at": "2026-06-09T03:32:02.000Z",
+      "headline": "Oil prices fall",
+      "summary": "Oil prices fell nearly 4%. The fall is due to increased Hormuz ship traffic.",
+      "published_at": "2026-06-09T14:47:32.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html",
+          "url": "https://cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.779
     },
     {
-      "id": "evt_dc270e135e2f84bd",
-      "topic": "business",
-      "headline": "IPO Winners",
-      "summary": "IPOs are beneficial for a few. Most face challenges.",
-      "published_at": "2026-06-09T03:31:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUNvUGlHV1FzV2lqVFpEcjJ1NWthbEtST0VuTVUtZ2h0ZlZRVnZCRVFBWldkZ0JZUWh6OXV5b1lXNWF0WWFPSVpHYzM0VGFRRWpjMEZrM0pEQm9JQVY1NWdnUEFGLTUyM2ZReDhQajZfYjJvcG9BUWkwc0prTGtJNHdicjYtZk1XN3k0MG5xOWxEczhva2xqTlFlWlZlYjZiQ3pMTnliWQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_8c9ef0d1ce96cda9",
-      "topic": "politics",
-      "headline": "California Primary",
-      "summary": "California primary results. House and governor races.",
-      "published_at": "2026-06-09T03:30:41.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2ZG16Ul9aWEh6RGxiUnVXdDBiMjFtSUx5MTA0TVhsaGtuLVFRWF90eWd1SVJNZjVvb05FRUFYOEFQRmR4MXFWZmhKNUR2OFlNcC16REMwUUFmZFlTS19wOFctSGF1LVQ3OGY5NERLMWFWVDlyUWRRYTFR?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_3b3fac26c4ca07f0",
+      "id": "evt_81cfed10a3f573ad",
       "topic": "finance",
-      "headline": "China Trade",
-      "summary": "China's trade defies war drag. Exports and imports beat estimates.",
-      "published_at": "2026-06-09T03:19:24.000Z",
+      "headline": "Anthropic Advisor Says AI Productivity Gains Are Vastly Exaggerated, Valuations Are ‘Crazy’",
+      "summary": "Anthropic Advisor Says AI Productivity Gains Are Vastly Exaggerated, Valuations Are ‘Crazy’",
+      "published_at": "2026-06-09T14:46:31.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-advisor-says-ai-productivity-144631260.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/3807d4fe8a4d87f67214b96efb37fa58"
+    },
+    {
+      "id": "evt_64423607b8c35fdd",
+      "topic": "finance",
+      "headline": "Palo Alto Networks Hits $10B Revenue Run Rate Beats S&P 500 Across All Timeframes",
+      "summary": "Palo Alto Networks Hits $10B Revenue Run Rate Beats S&P 500 Across All Timeframes",
+      "published_at": "2026-06-09T14:43:30.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-hits-10b-144330890.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/a845967fa359511a4eac2b4b30b20dc4"
+    },
+    {
+      "id": "evt_7d7fe30c5de89999",
+      "topic": "finance",
+      "headline": "Bitcoin's brutal sell-off sparks a flurry of trading in related stocks, including one big bullish bet",
+      "summary": "The year has been a rocky one for the flagship cryptocurrency, but traders aren't backing away from the space.",
+      "published_at": "2026-06-09T14:41:20.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
+          "url": "https://cnbc.com/2026/06/09/bitcoins-brutal-sell-off-sparks-a-flurry-of-trading-in-related-stocks-including-one-big-bullish-bet.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_51e466cb5c22d1e8",
+      "topic": "finance",
+      "headline": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla",
+      "summary": "The R2 SUV is meant to transform Rivian from a niche EV manufacturer that sells luxury vehicles into a more mainstream brand like U.S. EV leader Tesla.",
+      "published_at": "2026-06-09T14:40:58.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/09/rivian-r2-suv-tesla-competition.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
@@ -174,116 +192,651 @@
       "weight": 0.778
     },
     {
-      "id": "evt_528e31549266f8fe",
+      "id": "evt_a373566c32f3c562",
       "topic": "finance",
-      "headline": "Iran and Israel say they have halted strikes on each other for now",
-      "summary": "Iran and Israel say they have halted strikes on each other for now",
-      "published_at": "2026-06-09T03:07:08.000Z",
+      "headline": "Why Tower Semiconductor Soared in May",
+      "summary": "Why Tower Semiconductor Soared in May",
+      "published_at": "2026-06-09T14:40:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tower-semiconductor-soared-may-144000600.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/f97516a987511672df063b1baa03fdf7"
+    },
+    {
+      "id": "evt_8247eb2a1f61b5b9",
+      "topic": "finance",
+      "headline": "Why is Apple stock sliding today?",
+      "summary": "Why is Apple stock sliding today?",
+      "published_at": "2026-06-09T14:39:27.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-4729741",
+          "url": "https://investing.com/news/stock-market-news/why-is-apple-stock-sliding-today-93CH-4733447",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM57038_L.jpg"
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEBB71A6_M.jpg"
     },
     {
-      "id": "evt_73c4f84b82dffeb3",
+      "id": "evt_7da7cf405bc84669",
       "topic": "finance",
-      "headline": "US says BYD, Baidu, Alibaba and other tech giants are aiding China’s military",
-      "summary": "US says BYD, Baidu, Alibaba and other tech giants are aiding China’s military",
-      "published_at": "2026-06-09T03:06:51.000Z",
+      "headline": "Form 13D/A Metalla Royalty & Streaming Ltd. For: 9 June",
+      "summary": "Form 13D/A Metalla Royalty & Streaming Ltd. For: 9 June",
+      "published_at": "2026-06-09T14:39:16.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/us-says-byd-baidu-and-alibaba-are-aiding-chinas-military-4731318",
+          "url": "https://investing.com/news/filings/form-13da-metalla-royalty--streaming-ltd-for-9-june-93CH-4733446",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5718V_L.jpg"
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "id": "evt_f8f88ae8669ea84b",
+      "id": "evt_fede0220446e1a67",
       "topic": "finance",
-      "headline": "Analysis-Indian economy, government finances, see mounting costs from Iran war",
-      "summary": "Analysis-Indian economy, government finances, see mounting costs from Iran war",
-      "published_at": "2026-06-09T03:06:35.000Z",
+      "headline": "Form 144 MARAVAI LIFESCIENCES HOLDINGS For: 9 June",
+      "summary": "Form 144 MARAVAI LIFESCIENCES HOLDINGS For: 9 June",
+      "published_at": "2026-06-09T14:39:15.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/analysisindian-economy-government-finances-see-mounting-costs-from-iran-war-4731971",
+          "url": "https://investing.com/news/filings/form-144-maravai-lifesciences-holdings-for-9-june-93CH-4733445",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5804I_L.jpg"
+      "weight": 0.778
     },
     {
-      "id": "evt_91319b4d59aa077d",
-      "topic": "politics",
-      "headline": "Xi and Kim push for greater ties between China and North Korea - AP News",
-      "summary": "Xi and Kim push for greater ties between China and North Korea AP News",
-      "published_at": "2026-06-09T03:03:00.000Z",
+      "id": "evt_eae0c5fad8e6455d",
+      "topic": "finance",
+      "headline": "This investing strategy has beaten the market with exposure to cheap AI stocks",
+      "summary": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
+      "published_at": "2026-06-09T14:39:00.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTN6dlcway1FX3JJN05uQWo4UlJmeXZDMDkzckhoQ1BXUE9ydUhnTW40cFowbll6dE9wY0dDYnIzd1RhMXZtdkJiSGd4bFRQakdNcmRHTERscmo3NEFzSTF6S3Z5aHoycnV6OFZ1ZjhSQmZjQXg5bmJhUW1fbXJFOHlaanNTM2xiaVhVRA?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://images.mktw.net/im-62163141"
+    },
+    {
+      "id": "evt_7984fdd4f61c9b50",
+      "topic": "finance",
+      "headline": "OpenAI Just Filed for an IPO. Now What?",
+      "summary": "OpenAI Just Filed for an IPO. Now What?",
+      "published_at": "2026-06-09T14:38:58.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/openai-just-filed-ipo-now-143858894.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/d03c113770caa32e3276c9917aa8128a"
+    },
+    {
+      "id": "evt_ec0dc2e8509cf736",
+      "topic": "finance",
+      "headline": "Optimum surpasses 700,000 mobile lines amid cost pressures",
+      "summary": "Optimum surpasses 700,000 mobile lines amid cost pressures",
+      "published_at": "2026-06-09T14:37:08.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/optimum-surpasses-700000-mobile-lines-amid-cost-pressures-93CH-4733444",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_e267a3cf7b7ac84e",
+      "topic": "finance",
+      "headline": "SLB partners with Qualcomm on edge AI for energy operations",
+      "summary": "SLB partners with Qualcomm on edge AI for energy operations",
+      "published_at": "2026-06-09T14:37:08.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/slb-partners-with-qualcomm-on-edge-ai-for-energy-operations-93CH-4733443",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_f57b7e116d3f0336",
+      "topic": "finance",
+      "headline": "Wolfe Research sees Iran resolution as key for market direction",
+      "summary": "Wolfe Research sees Iran resolution as key for market direction",
+      "published_at": "2026-06-09T14:37:04.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/wolfe-research-sees-iran-resolution-as-key-for-market-direction-93CH-4733442",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_2b68449464ec15b6",
+      "topic": "finance",
+      "headline": "Humana stock reaches 52-week high at 361.21 USD",
+      "summary": "Humana stock reaches 52-week high at 361.21 USD",
+      "published_at": "2026-06-09T14:36:04.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/humana-stock-reaches-52week-high-at-36121-usd-93CH-4733441",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_4dcdb11134b329ff",
+      "topic": "finance",
+      "headline": "Malibu Life executive receives share awards worth $1.25m",
+      "summary": "Malibu Life executive receives share awards worth $1.25m",
+      "published_at": "2026-06-09T14:35:56.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/malibu-life-executive-receives-share-awards-worth-125m-93CH-4733440",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_6efd1fe4674181bc",
+      "topic": "finance",
+      "headline": "Lands’ End earnings beat by $0.30, revenue fell short of estimates",
+      "summary": "Lands’ End earnings beat by $0.30, revenue fell short of estimates",
+      "published_at": "2026-06-09T14:35:14.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/earnings/lands-end-earnings-beat-by-030-revenue-fell-short-of-estimates-4733439",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_c0c864331b0607b2",
+      "topic": "finance",
+      "headline": "Academy Sports earnings missed by $0.01, revenue topped estimates",
+      "summary": "Academy Sports earnings missed by $0.01, revenue topped estimates",
+      "published_at": "2026-06-09T14:35:14.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/earnings/academy-sports-earnings-missed-by-001-revenue-topped-estimates-4733438",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_2b2e4e4764c06c47",
+      "topic": "finance",
+      "headline": "The Most Underrated Part of Berkshire Hathaway Has Nothing to Do With Its Cash Pile",
+      "summary": "The Most Underrated Part of Berkshire Hathaway Has Nothing to Do With Its Cash Pile",
+      "published_at": "2026-06-09T14:35:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/most-underrated-part-berkshire-hathaway-143500420.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/ff047878f0a032d14f9c99c17bd92f36"
+    },
+    {
+      "id": "evt_6f222ec91f82f25a",
+      "topic": "finance",
+      "headline": "Larvotto signs seven-year Hillgrove gold offtake deal with Glencore",
+      "summary": "Larvotto signs seven-year Hillgrove gold offtake deal with Glencore",
+      "published_at": "2026-06-09T14:34:42.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/larvotto-signs-seven-hillgrove-gold-143442291.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/mining_technology_700/157c56fd0f3aab796d294abf3b8ba05b"
+    },
+    {
+      "id": "evt_38b99a9a2556d9f4",
+      "topic": "finance",
+      "headline": "Antero Resources Corporation (AR) Gained from Oil Price Rally",
+      "summary": "Antero Resources Corporation (AR) Gained from Oil Price Rally",
+      "published_at": "2026-06-09T14:34:34.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/antero-resources-corporation-ar-gained-143434562.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/aae5f4cc8bf1d1185e90f02cd66e86b9"
+    },
+    {
+      "id": "evt_aa1dbc06b229b0e8",
+      "topic": "business",
+      "headline": "Print Edition | Wall Street Journal - WSJ",
+      "summary": "Print Edition | Wall Street Journal WSJ",
+      "published_at": "2026-06-09T14:33:25.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ySnNoM1JqMEpjaVJpYWJ2MVU0aGZNNHVleVRwRUxZaG9ITm5GTVFJdWhyUVkyMVZ6OFktcEk1TmlYR2o5dXNNX3JiY2xsM2xIU2VLYUlWU1hXZ2xuYVdHMzln?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_985a410d1394f980",
+      "topic": "finance",
+      "headline": "Fidelity’s 2026 Retirement Study Finds Men Are 18 Points More Confident Than Women About Retiring on Their Terms",
+      "summary": "Fidelity’s 2026 Retirement Study Finds Men Are 18 Points More Confident Than Women About Retiring on Their Terms",
+      "published_at": "2026-06-09T14:32:49.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fidelity-2026-retirement-study-finds-143249460.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/ffa8ce9e1ee2c57f86d62fbc4b4872ed"
+    },
+    {
+      "id": "evt_090dad48f32c683d",
+      "topic": "finance",
+      "headline": "CEO Sells 34K Shares of Biotech Stock, Valued at $615,000, According to Latest SEC Filing",
+      "summary": "CEO Sells 34K Shares of Biotech Stock, Valued at $615,000, According to Latest SEC Filing",
+      "published_at": "2026-06-09T14:32:12.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-sells-34k-shares-biotech-143212114.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/b90ccf524949da75b6dd88cce261a471"
+    },
+    {
+      "id": "evt_8034023e6fb90784",
+      "topic": "finance",
+      "headline": "Is Zimmer Biomet Holdings, Inc. (ZBH) A Good Stock To Buy Now?",
+      "summary": "Is Zimmer Biomet Holdings, Inc. (ZBH) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:30:40.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zimmer-biomet-holdings-inc-zbh-143040678.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/148e692496fec51c8a3bb02345942942"
+    },
+    {
+      "id": "evt_64999eb1bc75f345",
+      "topic": "finance",
+      "headline": "Is Flowserve Corporation (FLS) A Good Stock To Buy Now?",
+      "summary": "Is Flowserve Corporation (FLS) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:30:26.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flowserve-corporation-fls-good-stock-143026791.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/b9768a58b8ddd126eaca786148903f8b"
+    },
+    {
+      "id": "evt_da8802a1fc731940",
+      "topic": "ai",
+      "headline": "Apple’s App Store rolls out personalized recommendations",
+      "summary": "Apple will now recommend apps based on your downloads and behavior.",
+      "published_at": "2026-06-09T14:30:17.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_b805acd1ffada5f1",
+      "topic": "finance",
+      "headline": "Is IperionX Limited (IPX) A Good Stock To Buy Now?",
+      "summary": "Is IperionX Limited (IPX) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:30:08.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iperionx-limited-ipx-good-stock-143008294.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/b180975d27aa0de3cf9b0f2d5f3fceda"
+    },
+    {
+      "id": "evt_ee9c00326bce1474",
+      "topic": "business",
+      "headline": "Malibu Life Holdings Limited - Strategy Committee Deferred Share Awards – Company Announcement - Financial Times",
+      "summary": "Malibu Life Holdings Limited - Strategy Committee Deferred Share Awards – Company Announcement Financial Times",
+      "published_at": "2026-06-09T14:30:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHlUZEtQZExEdVdUbEgzVFR4ZlV3NE93X1dwcl9sbVZWYWNlNXlkZF82SmZ2d3Bmb2dYZDVDRngxZTFXSG5OOWVGczh2WDZEWjVTYXpiSlh5NGFWR0tPQmNZSkF0VlV0ZkFUWlF1N3dJTXFMTklUTHhRXzFDanI4aS1QYUMyYnVIb0pfbjEwdDJiMGhH?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_4f42f651b1ca0348",
+      "topic": "business",
+      "headline": "Optimum Surpasses 700,000 Mobile Lines – Company Announcement - Financial Times",
+      "summary": "Optimum Surpasses 700,000 Mobile Lines – Company Announcement Financial Times",
+      "published_at": "2026-06-09T14:30:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3pNZWVXZnEySGl5TkpNMHdnVDlkOG85eDEtZ2JzaDI4ZjRNandGRnEtNDlmWDV2M0FlRWRpUHVVcDNmbUlWTGlMSmdfR0JERlJwWGlLdzh6MlhuMXhEMk1Td1laMU1qU1otSG4yVzlxOG5US2x6RVlJQllQT2tHRjY0aG5mRDEzZTJOY3lVeTNlNG4yMDJnUFRHOV9iNTJMamhSSkV3?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_1517804374e48f18",
+      "topic": "finance",
+      "headline": "AI Competition Pressured Salesforce (CRM) in Q1",
+      "summary": "AI Competition Pressured Salesforce (CRM) in Q1",
+      "published_at": "2026-06-09T14:29:57.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-competition-pressured-salesforce-crm-142957254.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/4ef0bf0d70c14c7d9ca3d34bcf332ab4"
+    },
+    {
+      "id": "evt_911d23f49d2f220d",
+      "topic": "finance",
+      "headline": "Is Compañía de Minas Buenaventura S.A.A. (BVN) A Good Stock To Buy Now?",
+      "summary": "Is Compañía de Minas Buenaventura S.A.A. (BVN) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:29:50.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compa-minas-buenaventura-bvn-good-142950386.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/606edcffa49b9527118d9b1e74898077"
+    },
+    {
+      "id": "evt_fbd2f7ee68ed4f72",
+      "topic": "finance",
+      "headline": "Is The J. M. Smucker Company (SJM) A Good Stock To Buy Now?",
+      "summary": "Is The J. M. Smucker Company (SJM) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:28:56.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-company-sjm-142856153.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/7720a93b593a6be68b7eb96bd24aceb2"
+    },
+    {
+      "id": "evt_c8b02fb516b19f3b",
+      "topic": "finance",
+      "headline": "Is Interparfums, Inc. (IPAR) A Good Stock To Buy Now?",
+      "summary": "Is Interparfums, Inc. (IPAR) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:28:43.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/interparfums-inc-ipar-good-stock-142843479.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/daa5f3910e502b10049af0ad48503385"
+    },
+    {
+      "id": "evt_0f8050cbe05a61c7",
+      "topic": "finance",
+      "headline": "Is The Travelers Companies, Inc. (TRV) A Good Stock To Buy Now?",
+      "summary": "Is The Travelers Companies, Inc. (TRV) A Good Stock To Buy Now?",
+      "published_at": "2026-06-09T14:28:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/travelers-companies-inc-trv-good-142829051.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f05770a3a0af183219a659f3f34f24dd"
+    },
+    {
+      "id": "evt_c6f2389f21231e55",
+      "topic": "finance",
+      "headline": "Stock Market Today: Nasdaq, Small Caps Jump After Trump Comments; Cancer Stock Soars (Live Coverage)",
+      "summary": "Stock Market Today: Nasdaq, Small Caps Jump After Trump Comments; Cancer Stock Soars (Live Coverage)",
+      "published_at": "2026-06-09T14:27:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-micron-sandisk/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b"
+    },
+    {
+      "id": "evt_6c78e7b441337502",
+      "topic": "finance",
+      "headline": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
+      "summary": "Grandparent-headed households are more likely to live in poverty.",
+      "published_at": "2026-06-09T14:27:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-13690295"
+    },
+    {
+      "id": "evt_1a7f9cbfaaece1a7",
+      "topic": "finance",
+      "headline": "American International Group (AIG) Fell on Investors’ Concerns Over Leadership Change",
+      "summary": "American International Group (AIG) Fell on Investors’ Concerns Over Leadership Change",
+      "published_at": "2026-06-09T14:25:18.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/american-international-group-aig-fell-142518918.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/8e6fbfe2e6dc82625fff93544e438798"
+    },
+    {
+      "id": "evt_063d188828db9b60",
+      "topic": "finance",
+      "headline": "Trump family got about $500M from crypto venture — but investors saw steep losses",
+      "summary": "Eric Trump and Donald Trump Jr. celebrated a deal with Alt5 Sigma that generated roughly $500 million for the Trump family. The company's shares are down 93%.",
+      "published_at": "2026-06-09T14:24:08.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776
     },
     {
-      "id": "evt_96748dc5d2498f5c",
+      "id": "evt_c920618dfea4d889",
       "topic": "finance",
-      "headline": "Australia’s oOh!Media shares jump as Bain Capital submits indicative offer",
-      "summary": "Australia’s oOh!Media shares jump as Bain Capital submits indicative offer",
-      "published_at": "2026-06-09T03:01:22.000Z",
+      "headline": "Diamond Hill Capital Select Strategy Picked Aon plc (AON) Downplays AI Disruption Concerns",
+      "summary": "Diamond Hill Capital Select Strategy Picked Aon plc (AON) Downplays AI Disruption Concerns",
+      "published_at": "2026-06-09T14:20:10.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/australias-oohmedia-shares-jump-as-bain-capital-submits-indicative-offer-4731970",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diamond-hill-capital-select-strategy-142010688.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPED930JZ_M.jpg"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/63ac40e441ba0df91dde8ed7b803baf5"
     },
     {
-      "id": "evt_ae804dcfeb142daf",
+      "id": "evt_7335b493a5997b0c",
       "topic": "finance",
-      "headline": "China’s May trade data beat forecasts as exporters rush orders, ride AI wave",
-      "summary": "China’s May trade data beat forecasts as exporters rush orders, ride AI wave",
-      "published_at": "2026-06-09T03:00:31.000Z",
+      "headline": "Trump nominates Todd Blanche for attorney general amid controversy over DOJ fund",
+      "summary": "Blanche previously served as a criminal defense lawyer for President Trump.",
+      "published_at": "2026-06-09T14:18:58.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/chinas-may-trade-data-beat-forecasts-as-exporters-rush-orders-ride-ai-wave-4731969",
-          "homepage": "https://www.investing.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/08/todd-blanche-trump-nominates-attorney-general.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5804C_L.jpg"
+      "weight": 0.775
     },
     {
-      "id": "evt_d8c0cccab625ec27",
+      "id": "evt_657158432c01feea",
+      "topic": "ai",
+      "headline": "Apple’s AI promises are finally, almost, sort of, here",
+      "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had m",
+      "published_at": "2026-06-09T14:18:18.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_a4f7021f43ec7f9f",
+      "topic": "finance",
+      "headline": "U.S. Congress Proposes New Tax Rules For Digital Assets",
+      "summary": "U.S. Congress Proposes New Tax Rules For Digital Assets",
+      "published_at": "2026-06-09T14:18:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/u-congress-proposes-tax-rules-141800098.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/cryptoprowl_304/713f04aa19e840b48a2ffb59ece408c4"
+    },
+    {
+      "id": "evt_88be89febd60cccb",
       "topic": "business",
-      "headline": "China’s Exports Gain Momentum; Import Growth Picks Up - WSJ",
-      "summary": "China’s Exports Gain Momentum; Import Growth Picks Up WSJ",
-      "published_at": "2026-06-09T02:58:00.000Z",
+      "headline": "U.S. Ebola Facility in Kenya Faces New Protests, Legal Setbacks - WSJ",
+      "summary": "U.S. Ebola Facility in Kenya Faces New Protests, Legal Setbacks WSJ",
+      "published_at": "2026-06-09T14:17:48.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkdBeWVYQ0R6Sy1ybTFNZmR6bjhmbWZZVlBGNVR3bGpZV3RyVHcxaXhkQ3ZHWmF3enhFOFAtaW5UcE40Q2NJZXJRM0pteVBENy0yQU1mR0t3TXgySGg5U1lyT1ZVazNUdnNMVU1SOHV1LXFBbzFaTndfN2FKSzRDQS1CV1pzcU1qcGtGWVYxNUpPMVJNd3V5X0Z3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdTlweFlSaHdZNGNRaDkxNHRCQjAwN2MtN2lhRUo2QWd2UXBXSHlCb0EwUUQzemhCTnpabmEtZ09FSlQ3MWdtTF80aWhLMzd2QVRaVHF1MVBON2F5TUNtUmJOTWp3cHlRcmNFSTd4RXg1Y083LUdCUUJYRG1faFVrQmN5ZzRCVTBhemZTWVRyUzVNZ1V6X1U2UjFFdnJWOVBZWGF3b3k2NEZlajB5SXcwaEFhUUljMVJ4VFUtM2FhMjJaLVpNV1ZoN29jMEtGQ2JOc1U0ekQyd0R1eW81Nkg0?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
@@ -291,718 +844,188 @@
       "weight": 0.775
     },
     {
-      "id": "evt_efa4a1d82f451035",
+      "id": "evt_9684aaabef2cf7d8",
       "topic": "finance",
-      "headline": "China trade balance rises more than expected in May on strong exports",
-      "summary": "China trade balance rises more than expected in May on strong exports",
-      "published_at": "2026-06-09T02:52:11.000Z",
+      "headline": "Diamond Hill Capital Select Strategy Purchased Equitable Holdings (EQH) Post-Merger Announcement",
+      "summary": "Diamond Hill Capital Select Strategy Purchased Equitable Holdings (EQH) Post-Merger Announcement",
+      "published_at": "2026-06-09T14:16:04.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economic-indicators/china-trade-balance-rises-more-than-expected-in-may-on-strong-exports-4731968",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diamond-hill-capital-select-strategy-141604830.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/627ef46364fb3a3c5f0ed8e0db4f48b8"
+    },
+    {
+      "id": "evt_85acb4dac7ae0c8c",
+      "topic": "finance",
+      "headline": "Scott Bessent visibly rattled after getting fact-checked to his face for claiming ‘groceries are going down’ in America",
+      "summary": "Scott Bessent visibly rattled after getting fact-checked to his face for claiming ‘groceries are going down’ in America",
+      "published_at": "2026-06-09T14:15:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-visibly-rattled-getting-141500652.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/c73bd42dac49ea33d40dd501340b67ca"
+    },
+    {
+      "id": "evt_891d0c8d90f3dba2",
+      "topic": "finance",
+      "headline": "Home sales surged in May to the highest level since December",
+      "summary": "Home sales rebounded in May as mortgage rates dropped back a bit in April, but prices are still rising.",
+      "published_at": "2026-06-09T14:14:32.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/09/home-sales-surged-in-may-to-the-highest-level-since-december.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_240794f9f58b08ba",
+      "topic": "finance",
+      "headline": "Factbox-Airlines resume some Middle East flights but disruption continues",
+      "summary": "Factbox-Airlines resume some Middle East flights but disruption continues",
+      "published_at": "2026-06-09T14:12:31.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/factbox-airlines-cancel-flights-us-123532820.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/reuters.com/d3f56ed79eace3ea2a8535131c4d02b9"
+    },
+    {
+      "id": "evt_3a34296ede3f2393",
+      "topic": "finance",
+      "headline": "How teens can turn a summer job into an extra $500,000 in savings when they’re older",
+      "summary": "Teens who don’t have summer jobs miss out on valuable work experience — and on prime years to invest their income.",
+      "published_at": "2026-06-09T14:12:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/how-an-average-paying-summer-job-can-add-up-to-570-000-for-your-teen-9b1fcb46?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB0809H_M.jpg"
+      "image_url": "https://images.mktw.net/im-22982914"
     },
     {
-      "id": "evt_e0508704b1d31a35",
+      "id": "evt_d36abf9eefd96009",
       "topic": "finance",
-      "headline": "Ciena prices $2.5 billion convertible notes offering",
-      "summary": "Ciena prices $2.5 billion convertible notes offering",
-      "published_at": "2026-06-09T02:49:42.000Z",
+      "headline": "What Makes Regal Rexnord (RRX) an Attractive Investment Choice?",
+      "summary": "What Makes Regal Rexnord (RRX) an Attractive Investment Choice?",
+      "published_at": "2026-06-09T14:10:15.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/ciena-prices-25-billion-convertible-notes-offering-93CH-4731967",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-regal-rexnord-rrx-attractive-141015172.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/249a8308ab4bc3caf952ba00f1737335"
     },
     {
-      "id": "evt_8ae6c5f07b8c75df",
+      "id": "evt_1a37cad13d109188",
       "topic": "finance",
-      "headline": "South Korea’s cabinet approves decree on $350 billion US investment plan",
-      "summary": "South Korea’s cabinet approves decree on $350 billion US investment plan",
-      "published_at": "2026-06-09T02:48:31.000Z",
+      "headline": "BofA warns investors to take profits as 70% of the bank's bear market signals flash red",
+      "summary": "BofA warns investors to take profits as 70% of the bank's bear market signals flash red",
+      "published_at": "2026-06-09T14:10:04.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/south-koreas-cabinet-approves-decree-on-350-billion-us-investment-plan-4731966",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/bofa-warns-investors-to-take-profits-as-70-of-the-banks-bear-market-signals-flash-red-141004060.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5803Q_L.jpg"
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/eNoDi206IEuDYu21LB77vw--~B/aD0zNzkzO3c9NTY5MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/91653bdc-ae71-4e66-8292-10d34d8049e6"
     },
     {
-      "id": "evt_c2148ed9ff6a3473",
-      "topic": "business",
-      "headline": "Swiss Watch Exports Tumbled in April as U.S. Tariff Volatility Persists - WSJ",
-      "summary": "Swiss Watch Exports Tumbled in April as U.S. Tariff Volatility Persists WSJ",
-      "published_at": "2026-06-09T02:44:59.000Z",
+      "id": "evt_7919c3cbc01466cc",
+      "topic": "crypto",
+      "headline": "A16z, Paradigm lead $175 million bet to move global credit markets onchain",
+      "summary": "Morpho secured $175 million from Paradigm, a16z crypto and Ribbit as the lending protocol seeks to become foundational infrastructure for onchain credit markets.",
+      "published_at": "2026-06-09T14:07:32.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTRkT1pJU3ZfVDdCRkwyYWd2dVFkQkxPYmlFU1hlOXdrRFkyNGVkb01NM2dWY09tZ3BQUDFKLWhHNURHY3ZHcTV2dzRZODVfLUFCLVdwaWQyWDRFOS1oSmE2aW5xR2t6S0t1dmhwT01MRVFsRGZxdzFBLU1vdEVueWt2Q3FYd3N4N0hRZzRLVjRzX2VPVnNtT044QmF3SWFEdHJkTURmUUpDMGdvcDBvVmdTUQ?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/business/2026/06/09/a16z-paradigm-lead-usd175-million-bet-to-move-global-credit-markets-onchain",
+          "homepage": "https://www.coindesk.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773
+      "weight": 0.774,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/ed9a893d410e4e6b606002cea0613a7cb74a1ad2-1500x997.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_d55c1fd13574e812",
-      "topic": "business",
-      "headline": "Market Rout Leaves Wall Street Bracing for Rockier Times - WSJ",
-      "summary": "Market Rout Leaves Wall Street Bracing for Rockier Times WSJ",
-      "published_at": "2026-06-08T22:55:06.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYWI4dlNvTU9mNE9HX2I5dlJvVGNwZlV4T3NuejY2SjJCMmNiVGpqaWZJY2VKSzFTQ25pU1RMSjQ4WDR1d0pZZExhblEzNkU5eDQyOEpKSWFUNE9YZ3BmdV9R?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_8eaaf13fd170d13a",
+      "id": "evt_d738b5df25071425",
       "topic": "politics",
-      "headline": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
-      "summary": "Trump's warning comes as Israel and Iran pause attacks and indirect talks to reach a peace deal continue.",
-      "published_at": "2026-06-09T02:41:11.000Z",
+      "headline": "Wall St rises as tech shares gain, Middle East tensions ease - Reuters",
+      "summary": "Wall St rises as tech shares gain, Middle East tensions ease Reuters",
+      "published_at": "2026-06-09T14:06:51.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_30ff57158b4f570b",
-      "topic": "business",
-      "headline": "Kennedy Leaves White House",
-      "summary": "A Kennedy left the White House. Concerns about CIA spending were cited.",
-      "published_at": "2026-06-09T02:41:03.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmNlbjVldDhuQjdCb1AwTTFWaHpoNkRUQ3MyZFpRYXZXYVNseWd3Vjl2X1podFQ2SHQyMlRPQkh3NTg4UEdjcVl2RVQ2X3RXLW5Ja3lfMW9xdjFzdFpJRXRpSW16NzVjMDRhTU5ESWY3UTRUczB5RlY3OHEya3FFaTRpd25xLVV3cUlVdGVOS0NLTlpOLV9XSXltbUhvcUg3c3k5WVljM2tsX1F5VlRSOVlRa2FtRUFiV1BBOFdIV0taTGgwOU5LVHM1RElUXzQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_defbb3eb51edf9ea",
-      "topic": "finance",
-      "headline": "Trump Attacks CA Election",
-      "summary": "Trump attacked California's election system. No reason was given.",
-      "published_at": "2026-06-09T02:36:50.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/trump-steps-up-attacks-on-californias-election-system-4731964",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5803H_L.jpg"
-    },
-    {
-      "id": "evt_48af40d8b03f208e",
-      "topic": "finance",
-      "headline": "Zepp Health Q1 Growth",
-      "summary": "Zepp Health showed strong Q1 growth. Challenges were also noted.",
-      "published_at": "2026-06-09T02:30:46.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-zepp-health-shows-strong-q1-2026-growth-amid-challenges-93CH-4731963",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_75da1784dd3568c6",
-      "topic": "politics",
-      "headline": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
-      "summary": "Chinese embassy in Washington, DC, condemns designation, calling it 'discriminatory'.",
-      "published_at": "2026-06-09T02:20:51.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_bc307b7a0373dca6",
-      "topic": "business",
-      "headline": "Apple’s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone - Bloomberg",
-      "summary": "Apple’s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone Bloomberg",
-      "published_at": "2026-06-09T02:20:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDVFRzNwVFhYcHd0MktmMF9aS2J4SmpKZWR2ZG1Yc2kwWnZQN2JjcFczcF9mZ0NEb3B6bzgzT0dTNHRFVXcyakVuZTVud19XMEF4TWRxamNZRm1DUWZFVHNIU05QYjRaSGVrNnVURmw0cEE2aE1FV214NDJwbWktdVZETWdGSUFxSEx4ZlBDLV83TFV6UU5TYXN1dm1LSGtFZ2hsVnlGQmZJUXZTa2pzdUNSM3JkWVduZmc0SUtR?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_c7a29007ff53ae87",
-      "topic": "politics",
-      "headline": "Screwworm spreads beyond Texas",
-      "summary": "A cattle parasite spreads beyond Texas. New screwworm cases are found.",
-      "published_at": "2026-06-08T21:40:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUFSVXdhNjZWUEVreGxwSVZteWlBbEQtak84S1V3X1NGMVVFa2pBOFJzWW1MWWtmQlppUnlodnlVTVZOMzQ4SFh6OE1DWTlHOEVhRXIwTjRRd1loU25BTEFlMXFFbHE4MFBTWDgwLVhuYk1UWldKQTlPZURpVmo4MEd0MlBPbzY3QWtmR3dXbkxGMHJieHNuRmIzd2xkWE9tdHRHQVpDTQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_de0718c88a844035",
-      "topic": "politics",
-      "headline": "Progressive Nithya Raman advances to November runoff against Los Angeles Mayor Karen Bass - AP News",
-      "summary": "Progressive Nithya Raman advances to November runoff against Los Angeles Mayor Karen Bass AP News",
-      "published_at": "2026-06-09T02:10:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ05JUGhsRkd4cnM3c2NpWUlGd3ljZE5LWm9XXzlyb0FnUTJucFhzOXNGanVZaFZnTE5NcDN1eWZ2LUxITW1QZi1PUWpuOVNxVGZ0VVdiTFFHWnZYaTQtdF9uZkptNmNnQWVUaW54aGJfQ0trMGo4cE9XNjlOT0R0ckN1UFZXVTlxdExsVmVFRHZ6SWVfbEE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_ea157be443b88b78",
-      "topic": "politics",
-      "headline": "Botswana diamond slump hits miners living on the edge of survival",
-      "summary": "Botswana’s diamond-driven economy is under mounting strain as global demand weakens and production falls.",
-      "published_at": "2026-06-09T02:09:08.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/9/botswana-diamond-slump-hits-miners-living-on-the-edge-of-survival?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_8a29eef24b9c4c09",
-      "topic": "politics",
-      "headline": "Some of the deadly earthquakes in the Philippines - AP News",
-      "summary": "Some of the deadly earthquakes in the Philippines AP News",
-      "published_at": "2026-06-09T02:08:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0pZN2tKUzVNRXh6TWxSNmNDbnhDdGZwQ1VISlRBbGhaZ21idC1YZUZ4eUxDb2RoMlhkRHh0VEZrb0xkQ0tIcEZQTVdTX0hJaFRlZm1YSkpaYXRuT0lTWTYxOXZYekFReFNxc1ByQ2FGSXZVVFZTUUxxeVdVQnlGMTVfeWVsRlIwQTEtdmdoN0ZEMWVtNzNj?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_0d684d545e6ee579",
-      "topic": "politics",
-      "headline": "NYC imposes stringent security as Trump becomes 1st sitting US president to attend NBA Finals game - AP News",
-      "summary": "NYC imposes stringent security as Trump becomes 1st sitting US president to attend NBA Finals game AP News",
-      "published_at": "2026-06-08T22:26:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzZWQkJ3V0QyUEZ2RE02a08yeW9MYUlOWDdUemxONEpXVXRDVmtta09XWndzQ21OeDFULVdWYTg2ZkNWZjliWHVHVlp2U1prbkZNSy1LNmJkNGZDMC1GbXhtM3hCbENrVmVHSDlaazhnR2lTV3RmUjBDQmNuZGdwbnFjYUtWT0czVTNhVnNGSW9ia0RxdnlR?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGJ1bl83a1ZCa082M2NZNkdvamdjX2pNODlzalRUN0NiaEMtbXl4QTdlNkhGZTE0T3QzVmxHcjJ4OE9YZnFPbm0xWDdIckNobWVFN0oyZUoxTXNUeUhrdUtWQnFNQ1NCcjJ0MGprRm80eG9lM2NzMUpPcWdKNlJDNmNqLU5jZlBrVjdsUEtSeWhqVEdzdTRnSmtFWFBhb3RTemVV?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
       "weight": 0.774
     },
     {
-      "id": "evt_dcafb59185595491",
+      "id": "evt_731ca964d4bd2d29",
       "topic": "politics",
-      "headline": "Somali soccer referee denied US entry, will miss World Cup debut - Reuters",
-      "summary": "Somali soccer referee denied US entry, will miss World Cup debut Reuters",
-      "published_at": "2026-06-09T02:04:46.000Z",
+      "headline": "Exclusive: Emirates to offer incentives, safety assurances as Iran war hits travel - Reuters",
+      "summary": "Exclusive: Emirates to offer incentives, safety assurances as Iran war hits travel Reuters",
+      "published_at": "2026-06-09T14:03:32.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUp2YkVORGFGRmdjNHJ2eTZmQ1U2ZFFTV25LYmhUb0dNa19faHhYLWx0eExlY3NTbVZDMDR0dHh0OFd5eWFTQ3dhc2FUMTE0akxXb2JHNmd3cjFkUWszcnRUZzhCN1pXcGNQZnYxTmJxWGZ5YjVHcGF4SDBwV0t4SFY1ZW9KY2VJXzhickZZejZOU2cwbzVSWnE5NmVXVFYteFk4bXJYQkJtVjRjWnM3UGlmWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxoM2tuRUdrbmdsOTJaS0Q3NktYRi1oaXFtZkZ2SXNHSThGVk5SLVFNdm1udVZrb25La3ZmRGo5QTcyVXZzbE9qM1lFV1N0MDlUTHpTOFFQaERBMUhraEU5MERodXc5VkdIcWpDQUNoeEI2bGNxZUJINVRaYktLZFhPMjUzODFybzlza013dU10Vi1CNWZSMzcxX2x6ZjhDUDRsSG1Wa3pkZW42RVV4b3Z0SVNaQWFWQ1E?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.768
+      "weight": 0.773
     },
     {
-      "id": "evt_9139ea67f7c01a8d",
-      "topic": "crypto",
-      "headline": "OpenAI confidentially files to go public in the US",
-      "summary": "OpenAI says it filed for an initial public offering in the US, but has not yet decided when it will launch.",
-      "published_at": "2026-06-09T02:02:33.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1zZXZlcmFsLWZpcm1zLWZpbGUtd2l0aC10aGUtdXMtc2VjLmpwZw==.jpg"
-    },
-    {
-      "id": "evt_fc771ea08d4d586f",
-      "topic": "politics",
-      "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
-      "summary": "Associated Press News: Breaking News | Latest News Today AP News",
-      "published_at": "2026-06-09T02:01:16.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_5a5fcd6f80e80d8a",
-      "topic": "business",
-      "headline": "Fujikura Is Raising Prices on Data Center Cables to Beat Outlook - Bloomberg",
-      "summary": "Fujikura Is Raising Prices on Data Center Cables to Beat Outlook Bloomberg",
-      "published_at": "2026-06-09T02:01:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWVqVFc3T1dHRlBIdDhla0s2QWhJUjd6dFNtenBILTNVdnRzcE1qeVFzMGVHSTJWaEs1OGZUUDBORDdScldHZlphTmZIRHU4MzdWRkd6b0ZsdldmOHhjVFBDaUdncmV6S2NGVkY1bFF2ZnAyUnZ3bXpaTFl2YkFGdUpoYlloVmpLU3FpLWdWNUduVW9Oam5FcWo4dFp6OHlfUWlPRGYzTk9PYXlLMzQyd0Z0a0h4Zw?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_1f69a0b8861f10e5",
-      "topic": "business",
-      "headline": "Trump Fuels Election Fraud Claims in California - WSJ",
-      "summary": "Trump Fuels Election Fraud Claims in California WSJ",
-      "published_at": "2026-06-09T02:00:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGx3VUNTSmNRNmpIM215LS1Nd0hCU3RKZDBld0VaS2VOSW5CSVRxOEFMYTlkNFlUY3VJUDV1VU1fZXNjX29fOGFNSVllWFl2N3VfU01RYlZBTUtQeVZNdmd5WTlfZEpYcVNMNW5ucHNjY2twT3I5Vjd4R0RqQll0OUU1RmoyWVM2WWhrbmpQZ3FTVE96OHpnVlRyYw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_93c7867401eb3bfa",
-      "topic": "politics",
-      "headline": "The top photos of the day by AP photojournalists - AP News",
-      "summary": "The top photos of the day by AP photojournalists AP News",
-      "published_at": "2026-06-09T01:57:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlNkWktJZ21rb2dTajk2bjQxdDJOdjJvbkFVeU4tdFJJRFpHcUtUUnU4WEdYdzBvcUN6SGdRNUlndm9kRjNWLVdlSElvLURESGlnZmtfbllGQXo3ZmxDYWxWNGdMdUpXcjdwNHZLSks0c0xJZE9MR010ZVUwRTJnX1U0OWFzTGVfN1RpNTdRRDVFTE1iMXEtTlRlMGxheW1XcVE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_5793c19ea548750e",
-      "topic": "ai",
-      "headline": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-      "published_at": "2026-06-09T01:56:48.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_6c52bc3b22ceba88",
-      "topic": "ai",
-      "headline": "We Think the SpaceX IPO Is Overvalued",
-      "summary": "Article URL: https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545 Comments URL: https://news.ycombinator.com/item?id=48455233 Points: 111 # Comments: 91",
-      "published_at": "2026-06-09T01:56:40.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_17c175a56953a0f4",
-      "topic": "politics",
-      "headline": "New York City crowd boos US President Donald Trump at NBA playoff game",
-      "summary": "US President Donald Trump was loudly booed when he was shown on screens before Game 3 of the NBA Finals.",
-      "published_at": "2026-06-09T01:54:11.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/9/new-york-city-crowd-boos-us-president-donald-trump-at-nba-playoff-game?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_6bfa89b17a0a969c",
+      "id": "evt_95dc763ccb7f12ff",
       "topic": "finance",
-      "headline": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
-      "summary": "The Pentagon briefly posted a similar expanded list in February, then withdrew it without explanation before Trump's China trip.",
-      "published_at": "2026-06-09T01:53:45.000Z",
+      "headline": "US existing home sales increase more than expected in May",
+      "summary": "US existing home sales increase more than expected in May",
+      "published_at": "2026-06-09T14:02:38.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/articles/us-existing-home-sales-increase-140238352.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_bed194ed75d6d54b",
-      "topic": "science",
-      "headline": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-      "summary": "Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Plane",
-      "published_at": "2026-06-09T01:52:02.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/06/260608040009.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_08accb003298819b",
-      "topic": "finance",
-      "headline": "Your next videogame console could cost $1,000 — and it has nothing to do with better hardware",
-      "summary": "The chip shortage is damaging shares of companies that build devices and boosting the ones supplying the parts.",
-      "published_at": "2026-06-08T18:21:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://images.mktw.net/im-629110"
-    },
-    {
-      "id": "evt_8a03110eae7afb89",
-      "topic": "business",
-      "headline": "Pentagon Names Biotech Firm WuXi AppTec to Chinese Military List - Bloomberg",
-      "summary": "Pentagon Names Biotech Firm WuXi AppTec to Chinese Military List Bloomberg",
-      "published_at": "2026-06-09T01:50:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnpCUGtnOUdHTFV2TnRCbmNPYmtTM0pmMU9BTVZDbk1XdjVHeFN1UjdtYlpGNm1laklzZ0Y0eHU4dm55b3pzankyUTc1ckdmZzI3ZkVUM1NrdXZaUkZqUkstaC1NenNERWlJSF9nV1BmZmZrUVVZeTFaeWFXTlR1TS1NcjRwNUZha2lCUEh6LVRfVG44TTFKakMxLTg0LVFsV1JHR1Vxc0ZCMFVVbDZYaDg1RHQ0dw?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_8ae9b7df89cd5a6e",
-      "topic": "business",
-      "headline": "Rahm Emanuel Pedals Hard to Show Vitality as Aging Potential 2028 Candidate - WSJ",
-      "summary": "Rahm Emanuel Pedals Hard to Show Vitality as Aging Potential 2028 Candidate WSJ",
-      "published_at": "2026-06-09T01:33:58.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2NjZURkVk1iT0RTcGxwY2ttb3dSdktWdlBOYmk5MTY3dy10ZTdJUlJiRDdxbjJrZnIwdXh3bTViaWRRVnB5Wk5UMDlUMWdlTmxreEpCbDdFdV85MmlGaDMzNXBzMVktM0lYQ0paRkJyLUtLV3d0aDNoY3Y3OWxUY293djNvSUU5WVYzbGNOMXhrVVAzODJndXpmNXhLSHprWUs1eU1BQ3dCTk45N1BlWE9nSFBWZTdXeGVCVnkxemI?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_fde3de1b618a7f7b",
-      "topic": "finance",
-      "headline": "Asia chip-linked shares recover after U.S. peers bounce back",
-      "summary": "In the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%.",
-      "published_at": "2026-06-09T01:25:56.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_a4886f70f1d6447c",
-      "topic": "politics",
-      "headline": "UN questions legality of Israeli forced evacuation orders in Lebanon",
-      "summary": "A UN spokesman says forced evacuation orders issued across southern and eastern Lebanon are nearly impossible to follow",
-      "published_at": "2026-06-09T01:20:13.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/9/un-questions-legality-of-israeli-forced-evacuation-orders-in-lebanon?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_fa1b06e228298735",
-      "topic": "politics",
-      "headline": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut - AP News",
-      "summary": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut AP News",
-      "published_at": "2026-06-09T01:20:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkpfUFlIUUZQOEFhdG5ZaEE1V1UxTV9veVdiZlZjNWxJVWMxWDhTRzBzN3A5UFhUNmRXZTRpcjNsWXdleWVPQlVOdGlxYWdJcENrRmNndUZMT3RxbVN0TnpldnpfQzNHSzlzbUFvRDR2VTdMdHB5WDE2VHBBVFVDYWZBM1E?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_8de0df29145031e6",
-      "topic": "crypto",
-      "headline": "Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst",
-      "summary": "Out of the stolen amount, $23.7 million has been swapped for Ethereum, while around $7.9 million remains in H tokens.",
-      "published_at": "2026-06-09T01:16:07.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/404053/humanity-protocol-exploit",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761,
-      "image_url": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic-800x450.jpg"
-    },
-    {
-      "id": "evt_18a6db4f478db712",
-      "topic": "business",
-      "headline": "Trump to Attend NY Knicks Game Monday at Madison Square Garden - Bloomberg",
-      "summary": "Trump to Attend NY Knicks Game Monday at Madison Square Garden Bloomberg",
-      "published_at": "2026-06-09T01:14:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2pMU09yNWV3azBXak1lUzdHMVF6SVYyZWlRbE9CcVl6M2ZRRkpfdHBmakhBdXppWGFHWDRfZV9rYVlYNkpkS0pxTHhqTFhNbEM4alRDa1pKaHd2ZFFIaHFtNHNQNHNUbkg1bnh6T1VNWVpfYzl4WkxMY19JLVYtRFRQQ2VsdlRvUWxsZE1RUl95UHNvNnRWYTdoM2xoSGN5NGZiYlVXM042a3BJZWZVd1dZVQ?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.761
-    },
-    {
-      "id": "evt_b85293f58ba58aed",
-      "topic": "ai",
-      "headline": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
-      "published_at": "2026-06-09T00:59:40.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-space-amazon-news-nb-032326-1152x648-1780966770.jpg"
-    },
-    {
-      "id": "evt_cf8136cc2f1c7fa9",
-      "topic": "politics",
-      "headline": "Hilary Knight will play for PWHL expansion Detroit via sign-and-trade with Las Vegas, AP source says - AP News",
-      "summary": "Hilary Knight will play for PWHL expansion Detroit via sign-and-trade with Las Vegas, AP source says AP News",
-      "published_at": "2026-06-09T00:58:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFRwYkxKY05QTWhMcnpBdFgwb2JidU9HZEx4THQ3cTZGUHdJYjd6THRqUWxYZEo4Q2JFZHJETml4SFBVMHNqcFI3c3NGRWhzTG5aNU85SmNEd0o1MWVhMUhpRGVBLTVoZWJTRmo2OENwQWZhWGtnTXoyYVZMM1BCY2tIRFlGTEdFaWJ0VTF0aw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_2c8e6d92d5130fc3",
-      "topic": "politics",
-      "headline": "Somali referee won’t officiate in World Cup after being denied entry into the United States - AP News",
-      "summary": "Somali referee won’t officiate in World Cup after being denied entry into the United States AP News",
-      "published_at": "2026-06-09T00:57:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnZRSmpwNVpEM1Z1RjU1R0RvT01VWV93OGw4eDNTN2R2SDV1ZE9fRHZ4eldFSVI1eWZFYVdnSmViZWlUTGxMcU5XcWlrTXZrN1JET2tZQVRIcFZQTDExTEY3dUNFdWdhRDNXdm84THhMZTRjSFlqMnpGeDM3Rk9fX25MTEQ1bkdPbzdXZg?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
-    },
-    {
-      "id": "evt_8af605adcd651961",
-      "topic": "finance",
-      "headline": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
-      "summary": "Most investors who pile into the S&P 500 in 2026 think they own the entire stock market. What they actually own is nothing more than a heavy bet on Big Tech — and right now, that bet has run its course.",
-      "published_at": "2026-06-09T00:56:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758,
-      "image_url": "https://images.mktw.net/im-05706147"
-    },
-    {
-      "id": "evt_2d676e90701bd76a",
-      "topic": "politics",
-      "headline": "Ukrainian strikes set off fires at oil facilities in Russia and Crimea - AP News",
-      "summary": "Ukrainian strikes set off fires at oil facilities in Russia and Crimea AP News",
-      "published_at": "2026-06-09T00:49:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnplM0s0OTg5QUQxamR3Nnhia3ZkdUdtc3pWcGxySHFybHJWdTh0MWItdmV3Z1NBSUQ4VkRpaUV1MEFSQzNHMnlWZG9fMVBZaXBOQXRRX3N3YVhTM2VsVmdIQWo0dlI1SWRVQXJHeDRKRkZPZDB1T0xxcms1V0pxMVBxR2xCU2huQlo5UThENmxteklXdWRNXw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_7e277d66848504b2",
-      "topic": "politics",
-      "headline": "US appeals court raises concerns about Alabama’s use of nitrogen gas for executions - AP News",
-      "summary": "US appeals court raises concerns about Alabama’s use of nitrogen gas for executions AP News",
-      "published_at": "2026-06-09T00:49:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1pkTTNnLU83N3lheVRkLWN5RkkybGE1S1JVbk1FeU8wU05Td1N6YzF5Ui1YSE1POUw0VFgtSFhQaUQyb1RTVTRfeW9KWE5VcXNCdy1vOXFWUzEwa0phNU9PRW4wRlFxSW5WRFN5OEJucGpLNXNXTDlydW1JZ3VxTE1vWloxVVI0NU1wTFFneWpqZ19zbTVNbnB2Wkkwdw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_d091ae5d92434223",
-      "topic": "politics",
-      "headline": "Oil rises slightly as investors await clarity after Iran-Israel halt attacks - Reuters",
-      "summary": "Oil rises slightly as investors await clarity after Iran-Israel halt attacks Reuters",
-      "published_at": "2026-06-09T00:47:00.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQno1QTVjdUJYSkVuMTUxZTVxcHBhUWNVQWVfN0JsVzdpNmVPUTBjMjdTaE4wSy1RNVpNNGJHdi1DVGNzd0NfQUdYOVVILWh0djRxbFpSSUJGTEp5ZTJnNUFsNnU4UkRscHJBZi1mVlYwNWFiUGFyVk1TOGNxcDEtVDc0cFhTYmpvRDdrd0tTYjFON19JNmI2Sm5MX3ZXb0M3UE5lZ0Q4UTFZSTJ6VFNudFMxRmVQMUh6U05XU3M2SGtpNmc?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_519f3f2ea4184c34",
-      "topic": "ai",
-      "headline": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "published_at": "2026-06-09T00:45:56.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
-    },
-    {
-      "id": "evt_b5c32dbefeffe2d1",
-      "topic": "business",
-      "headline": "Do You Know as Much About Personal Finance as These High-Schoolers? Take the Quiz - WSJ",
-      "summary": "Do You Know as Much About Personal Finance as These High-Schoolers? Take the Quiz WSJ",
-      "published_at": "2026-06-09T00:45:07.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXFKcGRmeHJlQXRNSU9IWDBLaFp6MWJqUFdjNkY0dWl6eTIweVUzNF9UNXd4RUhuTGtmRUppNkh6VEQtMTZWOTAyVTdkWVlObFdyWUQ2ZnRmbE8tYWs0WTVzRG15WGRtRVcyTUJ1MFU2Tk1nR25uYjRnRzgyYlVMaHk4SU5tQXVpQVVndE8xcWo0eW94ZU5DS3hnYlRUbnFFdTU4Qm5Rd0t0anBlb0NnQXJMVmYxS0VqVGY3bmI4X1NnRHRF?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.757
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/reuters.com/e417bacac3166c0a12fad3c05819b583"
     }
   ]
 }
