@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-06-11T13:59:55.514Z",
+  "generated_at": "2026-06-11T17:40:36.079Z",
   "clusters": [
+    {
+      "id": "evt_c1dcd15525925993",
+      "topic": "business",
+      "headline": "Amazon Data Centers Use 2.5B Gallons Water",
+      "summary": "Amazon used 2.5 billion gallons of water. In its data centers.",
+      "published_at": "2026-06-11T14:36:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWU03TGxuaW1iRWQ2MWRzNGhJQXNYOHM2TzZKY2tEemRZN1J5b0x2cVBMN2RmTVJpV2k2Q05aVFppdFpJNzlzT3JvQ3ZBX0YzaFNIQ2UtYUY4UnQtSklkWU54RmVTN3BMQUVoTkplRWlpX0pvY3pZVkY1YllPaGlXampWYWNmelRWa3BuUTFRZkE1S21LX2RVYVhQRmt5WlNsUW1zUGZ5MA?oc=5",
+          "homepage": "https://www.wsj.com"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2ZsZnJ5OGZBYjFicHB2SFE4OVVrT04yOG1EcG5oOExVSFcwV20xQmQ5dEFRVGRNQUhMdFBWUEEwU0NOMUNpZnRqU3hIMTBkLThqWTNZQWFReFRxVFhZUEZoeThlOUFKaURaTS1HZ3BhWjl0eHd2cm94bmpuaERjbU1GRXc3X2p1S2hyeTB3TjdCaENqSW03bWViZjE4YS1fS2htN3Z0bnJYQTJqSXdPSFZR?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.934
+    },
     {
       "id": "evt_4f08963f2b00c29b",
       "topic": "politics",
@@ -23,57 +44,323 @@
       "weight": 0.922
     },
     {
-      "id": "evt_e298e8aef011cbb4",
-      "topic": "ai",
-      "headline": "Fable guardrails criticized",
-      "summary": "Cybersecurity researchers criticize Fable's guardrails. They find the guardrails too strict.",
-      "published_at": "2026-06-10T16:42:00.000Z",
+      "id": "evt_4a07515357aa692f",
+      "topic": "finance",
+      "headline": "Intel Stock May Rise",
+      "summary": "Intel stock may rise. Due to increased ownership.",
+      "published_at": "2026-06-11T17:34:00.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable",
-          "homepage": "https://news.ycombinator.com"
-        },
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/intels-stock-could-push-even-higher-thanks-to-this-subtle-dynamic-bofa-says-0615c707?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://images.mktw.net/im-66024535"
+    },
+    {
+      "id": "evt_c0d79b01d08a4a7a",
+      "topic": "finance",
+      "headline": "New Savings Account",
+      "summary": "New savings account. For youth in foster care.",
+      "published_at": "2026-06-11T17:33:58.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/11/melania-trump-fostering-the-future-accounts.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_8a66754baea0d3d7",
+      "topic": "ai",
+      "headline": "Meta Edits App",
+      "summary": "Meta updates Edits app. Adds AI assistant.",
+      "published_at": "2026-06-11T17:30:00.000Z",
+      "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable",
+          "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version",
           "homepage": "https://techcrunch.com"
         }
       ],
-      "source_count": 2,
-      "weight": 0.904
+      "source_count": 1,
+      "weight": 0.779
     },
     {
-      "id": "evt_a457e33fbbc368c5",
+      "id": "evt_9bc50804dbe352c4",
       "topic": "finance",
-      "headline": "SpaceX Employees",
-      "summary": "SpaceX employees plan to spend. They are waiting to sell their shares.",
-      "published_at": "2026-06-11T13:59:29.000Z",
+      "headline": "SpaceX Stock",
+      "summary": "SpaceX stock available. On Solana platform.",
+      "published_at": "2026-06-11T17:28:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tokenized-spacex-stock-available-solana-172800592.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/cryptoprowl_304/12f8db277542b21bdd7a628be571d558"
+    },
+    {
+      "id": "evt_4e4677ecd8bc081f",
+      "topic": "ai",
+      "headline": "Amazon Data Centers",
+      "summary": "Amazon data centers. Used 2.5 billion gallons.",
+      "published_at": "2026-06-11T17:26:57.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/948534/amazon-data-centers-water-use",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_a13b52bdffb306c8",
+      "topic": "finance",
+      "headline": "AVAT Debuts",
+      "summary": "AVAT debuts on Nasdaq. It brings Avalanche Treasury Strategy.",
+      "published_at": "2026-06-11T17:26:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/avat-debut-brings-avalanche-treasury-172600715.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/cryptoprowl_304/0c6159b9d64d0e97151ec35e614dfb0b"
+    },
+    {
+      "id": "evt_be3b77b3247b2ba0",
+      "topic": "finance",
+      "headline": "Norwood Director Buys Stock",
+      "summary": "Norwood director buys stock. The purchase is $14,610.",
+      "published_at": "2026-06-11T17:25:44.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/insider-trading-news/norwood-financial-director-schmalzle-buys-14610-in-stock-93CH-4738066",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_2a439958ffd911cb",
+      "topic": "finance",
+      "headline": "AI Battle",
+      "summary": "Anthropic and OpenAI battle. The future of AI is at stake.",
+      "published_at": "2026-06-11T17:25:15.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/anthropic-v-openai-behind-the-bitter-battle-for-the-future-of-ai-4736829",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5A0LR_L.jpg"
+    },
+    {
+      "id": "evt_372259f4731dd274",
+      "topic": "finance",
+      "headline": "OpenAI Acquires Ona",
+      "summary": "OpenAI acquired Ona. This boosts Codex AI.",
+      "published_at": "2026-06-11T17:25:04.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/openai-acquires-ona-cloud-startup-172504079.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/quartz_855/ee68e06178f0809b075aaeb981738513"
+    },
+    {
+      "id": "evt_a3e8e7d4b1fac8e7",
+      "topic": "finance",
+      "headline": "Ron Baron on SpaceX",
+      "summary": "Ron Baron predicts SpaceX worth. He believes $30 trillion by 2040.",
+      "published_at": "2026-06-11T17:25:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ron-baron-believes-spacex-172500765.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/9306533ab9f51aa2f2703256ba3d90ae"
+    },
+    {
+      "id": "evt_03ecac85203334dd",
+      "topic": "finance",
+      "headline": "Gaza Ceasefire",
+      "summary": "Israeli fire kills three. A new ceasefire is pushed.",
+      "published_at": "2026-06-11T17:24:54.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/israeli-fire-kills-three-in-gaza-amid-new-ceasefire-push-4738064",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5A1B4_L.jpg"
+    },
+    {
+      "id": "evt_70149a129c35b1f3",
+      "topic": "finance",
+      "headline": "Ahead of SpaceX IPO, Elon Musk addresses ASML employees as part of push into chip manufacturing",
+      "summary": "Elon Musk called ASML a great company in a fireside chat with CEO Christophe Fouquet, as the SpaceX CEO gears up to go big in chip manufacturing.",
+      "published_at": "2026-06-11T17:24:40.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html",
+          "url": "https://cnbc.com/2026/06/11/elon-musk-addresses-asml-employees-pushes-into-chip-manufacturing.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.778
     },
     {
-      "id": "evt_c261a1e3fced7dc9",
+      "id": "evt_2e924f79a1e9734f",
       "topic": "finance",
-      "headline": "ECB Hikes Rates",
-      "summary": "The ECB raised interest rates. They also raised inflation forecasts.",
-      "published_at": "2026-06-11T13:57:33.000Z",
+      "headline": "World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets",
+      "summary": "World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets",
+      "published_at": "2026-06-11T17:24:34.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/world-bank-cuts-global-growth-outlook-to-25-warns-of-drop-to-13-if-war-fallout-spreads-to-markets-4737623",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5A0Z5_L.jpg"
+    },
+    {
+      "id": "evt_2010cf897be3bdbf",
+      "topic": "finance",
+      "headline": "Bernstein Names Top Electrical Stocks Led by Data Center Players",
+      "summary": "Bernstein Names Top Electrical Stocks Led by Data Center Players",
+      "published_at": "2026-06-11T17:23:32.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/bernstein-names-top-electrical-stocks-led-by-data-center-players-93CH-4738063",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg"
+    },
+    {
+      "id": "evt_4e78e9171f7c3d5b",
+      "topic": "finance",
+      "headline": "Exail fails to reach deal with ICG on bond valuation",
+      "summary": "Exail fails to reach deal with ICG on bond valuation",
+      "published_at": "2026-06-11T17:23:25.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/exail-fails-to-reach-deal-with-icg-on-bond-valuation-93CH-4738062",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg"
+    },
+    {
+      "id": "evt_2b702615732830b9",
+      "topic": "ai",
+      "headline": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
+      "summary": "Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform actually does it. Senate Commerce Committee Chair Ted Cruz (R-TX) ",
+      "published_at": "2026-06-11T17:23:02.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_eff78d13285b6d5e",
+      "topic": "finance",
+      "headline": "The Retirement Portfolio for Grandparents Who Want to Say Yes",
+      "summary": "The Retirement Portfolio for Grandparents Who Want to Say Yes",
+      "published_at": "2026-06-11T17:22:25.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirement-portfolio-grandparents-want-yes-172225648.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/e9f25c69bec67cdf14b13b36579e42dd"
+    },
+    {
+      "id": "evt_9d81b47e97085969",
+      "topic": "finance",
+      "headline": "Dow Jones and S&P 500 Climb Thursday as Wall Street Shakes Off Three-Day Slump Before SpaceX IPO",
+      "summary": "Dow Jones and S&P 500 Climb Thursday as Wall Street Shakes Off Three-Day Slump Before SpaceX IPO",
+      "published_at": "2026-06-11T17:21:33.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-p-500-climb-172133559.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/77b18dc143ce1956c98c7f9bba6da3c2"
+    },
+    {
+      "id": "evt_61f08ad3191c3ad2",
+      "topic": "finance",
+      "headline": "Is Expedia Group, Inc. (EXPE) A Good Stock To Buy Now?",
+      "summary": "Is Expedia Group, Inc. (EXPE) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:20:14.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-inc-expe-good-172014093.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/cb2d305dd8f3d3f944f6320556e74e7d"
     },
     {
       "id": "evt_88df55eb50366937",
@@ -92,794 +379,191 @@
       "weight": 0.78
     },
     {
-      "id": "evt_0e08455e6f530b44",
+      "id": "evt_9b1b5e9390c30075",
       "topic": "finance",
-      "headline": "Mind Tech Q1 Miss",
-      "summary": "Mind Technology Q1 revenue misses. No further details provided.",
-      "published_at": "2026-06-11T13:51:54.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-mind-technology-q1-2027-revenue-misses-estimates-93CH-4737665",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_3935119eb1ed910c",
-      "topic": "finance",
-      "headline": "Euronext Wheat Steady",
-      "summary": "Euronext wheat prices hold steady. Traders await US crop report.",
-      "published_at": "2026-06-11T13:51:39.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/euronext-wheat-holds-steady-as-traders-await-us-crop-report-93CH-4737664",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_f3868b30fe1d0f41",
-      "topic": "finance",
-      "headline": "Oracle AI Spending",
-      "summary": "Oracle's AI spending increases. Stock slides.",
-      "published_at": "2026-06-11T13:51:26.000Z",
+      "headline": "Is Domino’s Pizza, Inc. (DPZ) A Good Stock To Buy Now?",
+      "summary": "Is Domino’s Pizza, Inc. (DPZ) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:20:01.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-11-2026/card/oracle-shares-slide-premarket-after-the-company-unveils-soaring-ai-spending-vpGLGkvnAX2pumikQaFz?siteid=yhoof2&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8"
-    },
-    {
-      "id": "evt_88d4e1c9f41c8e51",
-      "topic": "finance",
-      "headline": "Rush Street Stock High",
-      "summary": "Rush Street stock hits high. Price at 29.3 USD.",
-      "published_at": "2026-06-11T13:51:24.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/rush-street-interactive-stock-hits-alltime-high-at-293-usd-93CH-4737663",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_9bf376433a9314af",
-      "topic": "finance",
-      "headline": "Daktronics Buy Rating",
-      "summary": "Daktronics gets buy rating. Demand for displays cited.",
-      "published_at": "2026-06-11T13:51:18.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/rothmkm-initiates-daktronics-stock-with-buy-rating-on-display-demand-93CH-4737662",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_4f935eadedc23745",
-      "topic": "finance",
-      "headline": "BofA Rates Pony AI",
-      "summary": "BofA reiterates Pony AI stock rating. Due to robotaxi expansion.",
-      "published_at": "2026-06-11T13:51:02.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/bofa-reiterates-pony-ai-stock-rating-on-robotaxi-expansion-93CH-4737660",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_ae6f5e987e5af550",
-      "topic": "finance",
-      "headline": "Jefferies Raises GE Target",
-      "summary": "Jefferies raises GE Vernova target. Due to backlog outlook.",
-      "published_at": "2026-06-11T13:51:00.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/jefferies-raises-ge-vernova-stock-price-target-on-backlog-outlook-93CH-4737659",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_2907daeeb572cc0b",
-      "topic": "finance",
-      "headline": "Morgan Downgrades Healthpeak",
-      "summary": "Morgan Stanley downgrades Healthpeak. Due to valuation concerns.",
-      "published_at": "2026-06-11T13:50:57.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/morgan-stanley-downgrades-healthpeak-properties-stock-rating-on-valuation-93CH-4737658",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_44cec8615802bf4b",
-      "topic": "finance",
-      "headline": "Ford Motor filing",
-      "summary": "Ford Motor filed a Form 6K. No details provided.",
-      "published_at": "2026-06-11T13:50:30.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-6k-ford-motor-for-11-june-93CH-4737657",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/Ford_M_1440049459.jpg"
-    },
-    {
-      "id": "evt_435a6a96475e2ccc",
-      "topic": "crypto",
-      "headline": "Canton Network funding",
-      "summary": "Canton Network raised $355 million. Investment for onchain Wall Street.",
-      "published_at": "2026-06-11T13:50:13.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/9cd62cfeb7b764c3f274b7555e81d20c5ab6d904-800x454.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_cbf084dbfbb35f08",
-      "topic": "finance",
-      "headline": "AI stock picks",
-      "summary": "Two AI stocks offer dividends. No details provided.",
-      "published_at": "2026-06-11T13:50:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-never-saw-135000054.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/69f22c98b2508ee7c333fa226ae5c69a"
-    },
-    {
-      "id": "evt_3ea97a34ed96bcdd",
-      "topic": "finance",
-      "headline": "Europe stocks hold gains after ECB hikes rates; investors assess Trump threats",
-      "summary": "Europe stocks hold gains after ECB hikes rates; investors assess Trump threats",
-      "published_at": "2026-06-11T13:49:59.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/european-stocks-slip-ahead-as-ecb-poised-to-hike-rates-4736547",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_e34d4f2c26eedd6c",
-      "topic": "finance",
-      "headline": "Analysis-Asics’ ’Kill Bill’ sneaker brand Onitsuka Tiger laces up for global expansion",
-      "summary": "Analysis-Asics’ ’Kill Bill’ sneaker brand Onitsuka Tiger laces up for global expansion",
-      "published_at": "2026-06-11T13:49:52.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/asics-kill-bill-sneaker-brand-onitsuka-tiger-laces-up-for-global-expansion-4736667",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5A0GR_L.jpg"
-    },
-    {
-      "id": "evt_46227191321d492c",
-      "topic": "crypto",
-      "headline": "Tether leads $1.4 billion funding round in German robotics company Neura",
-      "summary": "The investment is part of the stablecoin giant’s expansion into industries outside of crypto.",
-      "published_at": "2026-06-11T13:49:27.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/83b27028b0fc4c75dd748fed95b7beca19bff477-5376x3584.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_d6a3bcb82b2cfcce",
-      "topic": "finance",
-      "headline": "Americans are having kids later — and child-rearing costs are colliding with retirement savings",
-      "summary": "Americans are having kids later — and child-rearing costs are colliding with retirement savings",
-      "published_at": "2026-06-11T13:49:01.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/articles/americans-having-kids-later-child-134901427.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/moneywise_327/7a1b62c700387f91615263237305ccde"
-    },
-    {
-      "id": "evt_d573b09dd6755b7d",
-      "topic": "finance",
-      "headline": "Stock Market Today: Dow Rises Despite New Trump Threats; Oracle Plunges On Earnings (Live Coverage)",
-      "summary": "Stock Market Today: Dow Rises Despite New Trump Threats; Oracle Plunges On Earnings (Live Coverage)",
-      "published_at": "2026-06-11T13:48:49.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-strikes-oracle-stock-orcl/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/ibd.com/efdd2096566747a1c5895ff0ab582f7b"
-    },
-    {
-      "id": "evt_336fbc2048fff936",
-      "topic": "finance",
-      "headline": "Stocks Rise as Investors Shrug Off Iran Tensions, Oracle Earnings",
-      "summary": "Stocks Rise as Investors Shrug Off Iran Tensions, Oracle Earnings",
-      "published_at": "2026-06-11T13:48:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://wsj.com/finance/oil-falls-despite-fresh-u-s-military-action-on-iran-u-s-futures-rise-94547df5?siteid=yhoof2&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/wsj.com/6691b3e4717a8a327670e89f8d369a06"
-    },
-    {
-      "id": "evt_309741405d6b882b",
-      "topic": "business",
-      "headline": "U.S. Natural Gas Futures Retreat Ahead of Storage Data - WSJ",
-      "summary": "U.S. Natural Gas Futures Retreat Ahead of Storage Data WSJ",
-      "published_at": "2026-06-11T13:47:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDFob24tMWYyaWI2aDN6LWlkY2twOE95S0VaQ1A0NVVRR3B2Zi1rMF9SZlFJOWFyU2RxTkJQWjBlUkg3azVWbjFRSUlUdkRLZHRzaGo1RDZhOW8tWVQyMzZRdDRtVkZ3ZF9EOGl2bTZrQlVaMXAzSHMyWF9rb3ZpcEdyREk0bkY5Yk5LanZJX3BuYTYtS0xkUnZ3TGtiN1BBTGU2dzBiNnFoa3FVU1hv?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_f9141487eeb8c53e",
-      "topic": "crypto",
-      "headline": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
-      "summary": "Solana (SOL), up 2.6% from Wednesday, was also a top performer.",
-      "published_at": "2026-06-11T13:45:50.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/21eeac64214a6aee552f93c0d684b7aa3673753d-640x480.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_b2df4e5ed80ebea2",
-      "topic": "finance",
-      "headline": "This 2x Super Micro ETF Just Soared 175% in One Month. The YTD Number Is Wilder.",
-      "summary": "This 2x Super Micro ETF Just Soared 175% in One Month. The YTD Number Is Wilder.",
-      "published_at": "2026-06-11T13:45:14.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/2x-super-micro-etf-just-134514609.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/a17778b38a7f3cf9628286ff707bef4f"
-    },
-    {
-      "id": "evt_dbc3476fc7687baf",
-      "topic": "science",
-      "headline": "Scientists built a battery-free device that turns sunlight into fuel",
-      "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical proper",
-      "published_at": "2026-06-11T13:44:58.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/06/260611024601.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_dff3d20fe6e19093",
-      "topic": "finance",
-      "headline": "Producer Price Inflation Hits 6.5%, But the Fed May Still Pause Rate Hikes — Here’s Why",
-      "summary": "Producer Price Inflation Hits 6.5%, But the Fed May Still Pause Rate Hikes — Here’s Why",
-      "published_at": "2026-06-11T13:43:30.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/producer-price-inflation-hits-6-134330041.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/62f5a4ce2ba3f7ea0beaaee7f21ac693"
-    },
-    {
-      "id": "evt_2dafddf395bffcc2",
-      "topic": "finance",
-      "headline": "Better Artificial Intelligence (AI) Stock: Marvell Technology vs. Broadcom",
-      "summary": "Better Artificial Intelligence (AI) Stock: Marvell Technology vs. Broadcom",
-      "published_at": "2026-06-11T13:43:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-134300701.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/e7a1db9a56ad6479311487cdee686a70"
-    },
-    {
-      "id": "evt_c59a647067bccb16",
-      "topic": "finance",
-      "headline": "The Stock Market Isn’t Crashing. Investors Are Just Fleeing Technology Stocks.",
-      "summary": "The Stock Market Isn’t Crashing. Investors Are Just Fleeing Technology Stocks.",
-      "published_at": "2026-06-11T13:42:38.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-isn-t-crashing-134238405.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/eef7aa9a397b7df1cea0f9b7d9d1963d"
-    },
-    {
-      "id": "evt_f23db0695c7747c1",
-      "topic": "politics",
-      "headline": "Argentina fans denied US visas get free TVs to watch World Cup",
-      "summary": "Argentina fans denied US visas get free TVs to watch World Cup.",
-      "published_at": "2026-06-11T13:42:04.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/11/argentina-fans-denied-us-visas-get-free-tvs-to-watch-world-cup?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_d19981eb995c1565",
-      "topic": "finance",
-      "headline": "Kardigan targets $1.4 billion valuation in U.S. IPO",
-      "summary": "Kardigan targets $1.4 billion valuation in U.S. IPO",
-      "published_at": "2026-06-11T13:40:53.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kardigan-targets-1-4-billion-134053081.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/domino-pizza-inc-dpz-good-172001982.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/quartz_855/33b40c4265ddc55d86f475c0b95eb152"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/b6b9a712c1ef1db41fd24737797a6b7a"
     },
     {
-      "id": "evt_d1677604109ee522",
+      "id": "evt_ade597c09d4eee2a",
       "topic": "finance",
-      "headline": "SpaceX initiated, Intel upgraded: Wall Street's top analyst calls",
-      "summary": "SpaceX initiated, Intel upgraded: Wall Street's top analyst calls",
-      "published_at": "2026-06-11T13:38:31.000Z",
+      "headline": "Digital Asset Raises $355M as Canton Pushes Deeper Into Capital Markets",
+      "summary": "Digital Asset Raises $355M as Canton Pushes Deeper Into Capital Markets",
+      "published_at": "2026-06-11T17:20:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-upgraded-reddit-initiated-wall-140337510.html",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/digital-asset-raises-355m-canton-172000851.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec"
+      "image_url": "https://media.zenfs.com/en/cryptoprowl_304/0ec2e03d687aa9e17d8a59e9026c78a8"
     },
     {
-      "id": "evt_46088f6f7caa2430",
+      "id": "evt_f4fd89a1331a42b2",
       "topic": "finance",
-      "headline": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
-      "summary": "Iran will consider all of Elon Musk's companies in the Middle East as military targets as it retaliates against the U.S., Iranian state media reported.",
-      "published_at": "2026-06-11T13:37:26.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_722e99e40e62c387",
-      "topic": "finance",
-      "headline": "Big Tech is preventing new stock-market highs as investors change the way they play AI, says this top strategist",
-      "summary": "Nomura’s Charlie McElligott says investors are finally waking up to the problems with a market that is too concentrated on AI leadership.",
-      "published_at": "2026-06-11T13:36:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/big-tech-is-preventing-new-stock-market-highs-due-to-the-changing-way-investors-play-the-ai-trade-says-this-top-strategist-891c2577?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://images.mktw.net/im-12399231"
-    },
-    {
-      "id": "evt_11bd0c778e37c152",
-      "topic": "finance",
-      "headline": "SpaceX IPO is a ‘referendum’ on Musk, say market watchers",
-      "summary": "Friday's hotly anticipated SpaceX market debut could prove a defining moment for capital markets — and serve as a \"referendum\" on Elon Musk's leadership.",
-      "published_at": "2026-06-11T13:35:21.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/11/spacex-ipo-elon-musk-valuation.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_ecc0b58965ccc3bf",
-      "topic": "finance",
-      "headline": "The ultra-rich can buy yachts to live ‘nowhere’ — but can it also be a tax strategy? Not for most Americans",
-      "summary": "The ultra-rich can buy yachts to live ‘nowhere’ — but can it also be a tax strategy? Not for most Americans",
-      "published_at": "2026-06-11T13:35:00.000Z",
+      "headline": "Is Donnelley Financial Solutions, Inc. (DFIN) A Good Stock To Buy Now?",
+      "summary": "Is Donnelley Financial Solutions, Inc. (DFIN) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:19:47.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/ultra-rich-buy-yachts-live-133500075.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/donnelley-financial-solutions-inc-dfin-171947198.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/moneywise_327/e6138f958c62ef9c3377874bcf75b0c8"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/c8e03f2ee93b8995067b672216a11c5b"
     },
     {
-      "id": "evt_75e60f54e42b7082",
+      "id": "evt_d2fe442c06d0c22f",
       "topic": "finance",
-      "headline": "Is Sea Limited (SE) A Good Stock To Buy Now?",
-      "summary": "Is Sea Limited (SE) A Good Stock To Buy Now?",
-      "published_at": "2026-06-11T13:34:37.000Z",
+      "headline": "Is DoorDash, Inc. (DASH) A Good Stock To Buy Now?",
+      "summary": "Is DoorDash, Inc. (DASH) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:19:35.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-good-stock-133437857.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-inc-dash-good-stock-171935545.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/918105d8f50b1fc7cd23d5fd783969b9"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/eae8183298eae2ed8a0d2af0030c325f"
     },
     {
-      "id": "evt_902121bc96367403",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-06-11T08:10:20.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaN0NwMmNtcWJoRjNCcFRDc0dwekxocFJiUlpkZlE2SkNRWndnUnZqZ2k5cE9sMTRRUTVTWWU5THJGZE0xanVQc3pXXzY2elhPY0tHeXQ0WFhPS0dzeWlicUtn?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_9286f8c2ca6509e8",
-      "topic": "politics",
-      "headline": "Wall St opens higher on tech rebound, Middle East in focus - Reuters",
-      "summary": "Wall St opens higher on tech rebound, Middle East in focus Reuters",
-      "published_at": "2026-06-11T13:34:27.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhSNlNaTm02QnN2dzg4bUw0U3UwR29UTUxLRXNCamhCMWtMbHlibEhLYjM4ZXE0SGUwWG9Jd2E0SjlWYk1MYkFMbktVSGFXd2xoM3RhR08tRUZZWDdwcm1VMTl0XzhxRjdfTGpHWVczaUZtcU0zb2E5SlVwTzhtZDlqb3ZtVG14RFBkbElXbTF5WWxIQjVmcEROWVJEUFlzOHhV?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_4ead07d2f756b05e",
+      "id": "evt_73bdaf4fe985aaec",
       "topic": "finance",
-      "headline": "Is Venture Global, Inc. (VG) A Good Stock To Buy Now?",
-      "summary": "Is Venture Global, Inc. (VG) A Good Stock To Buy Now?",
-      "published_at": "2026-06-11T13:34:24.000Z",
+      "headline": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?",
+      "summary": "Is Constellation Energy Corporation (CEG) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:19:06.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-inc-vg-good-133424944.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-corporation-ceg-good-171906143.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/b9768a58b8ddd126eaca786148903f8b"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/fa299f1b6163624ef04d7e20683171da"
     },
     {
-      "id": "evt_d99e452524eab7b1",
+      "id": "evt_a0ff892afaca2e92",
       "topic": "finance",
-      "headline": "CAT Stock Hikes Dividend 8%, Leads Dow Jones Rebound",
-      "summary": "CAT Stock Hikes Dividend 8%, Leads Dow Jones Rebound",
-      "published_at": "2026-06-11T13:33:31.000Z",
+      "headline": "US lawmakers seek $750 million for Ukraine, rename Pentagon ’Department of War’ in defense bill",
+      "summary": "US lawmakers seek $750 million for Ukraine, rename Pentagon ’Department of War’ in defense bill",
+      "published_at": "2026-06-11T17:18:54.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/us-lawmakers-seek-750-million-for-ukraine-rename-pentagon-department-of-war-in-defense-bill-4738040",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5A19V_L.jpg"
+    },
+    {
+      "id": "evt_5848c80b2bfa1c67",
+      "topic": "finance",
+      "headline": "Is Cameco Corporation (CCJ) A Good Stock To Buy Now?",
+      "summary": "Is Cameco Corporation (CCJ) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:18:53.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://investors.com/news/cat-stock-caterpillar-raises-dividend-dow-jones/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-corporation-ccj-good-stock-171853572.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/ibd.com/9d9d8ec365e2bfb44dd6ee6ecf614ac5"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/340853eff0d3cd78e48e5ee932cf6eb8"
     },
     {
-      "id": "evt_b1ab4655c21f081c",
+      "id": "evt_598dece509254e36",
       "topic": "finance",
-      "headline": "Intuit (INTU) Slid Amid Market Skepticism Over AI Monetization and Disruption",
-      "summary": "Intuit (INTU) Slid Amid Market Skepticism Over AI Monetization and Disruption",
-      "published_at": "2026-06-11T13:33:22.000Z",
+      "headline": "US imposes sanctions on Cuban state oil company CUPET",
+      "summary": "US imposes sanctions on Cuban state oil company CUPET",
+      "published_at": "2026-06-11T17:18:47.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/us-imposes-sanctions-on-cuban-state-oil-company-cupet-93CH-4738061",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_104e43eec160990c",
+      "topic": "finance",
+      "headline": "Is Vertex Pharmaceuticals Incorporated (VRTX) A Good Stock To Buy Now?",
+      "summary": "Is Vertex Pharmaceuticals Incorporated (VRTX) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:18:41.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-slid-amid-market-133322127.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertex-pharmaceuticals-incorporated-vrtx-good-171841213.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/014908c92699c75defe19d3897fbc058"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/9c6e203d79cdfc8f70e0db85087abef8"
     },
     {
-      "id": "evt_ae6273e4637ce78e",
+      "id": "evt_f10d337eeb4f0957",
       "topic": "finance",
-      "headline": "Bernstein Forecasts $10 Billion Of World Cup Betting On Prediction Markets",
-      "summary": "Bernstein Forecasts $10 Billion Of World Cup Betting On Prediction Markets",
-      "published_at": "2026-06-11T13:33:00.000Z",
+      "headline": "How Republicans won the 2026 US congressional redistricting war, state by state",
+      "summary": "How Republicans won the 2026 US congressional redistricting war, state by state",
+      "published_at": "2026-06-11T17:18:33.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/politics-news/how-republicans-won-the-2026-us-congressional-redistricting-war-state-by-state-4738038",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4S18T_L.jpg"
+    },
+    {
+      "id": "evt_7f37d83c0ebbdfd6",
+      "topic": "finance",
+      "headline": "Is Stevanato Group S.p.A. (STVN) A Good Stock To Buy Now?",
+      "summary": "Is Stevanato Group S.p.A. (STVN) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:18:27.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bernstein-forecasts-10-billion-world-133300240.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stevanato-group-p-stvn-good-171827672.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/cryptoprowl_304/d266940f6ac8d7b90ae201562e1f2a45"
-    },
-    {
-      "id": "evt_f6ea20ed2102b079",
-      "topic": "finance",
-      "headline": "RBC Just Set The Highest Price Target On Astera Labs (ALAB), Here’s How You Can Play The Memory Trade",
-      "summary": "RBC Just Set The Highest Price Target On Astera Labs (ALAB), Here’s How You Can Play The Memory Trade",
-      "published_at": "2026-06-11T13:32:23.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-just-set-highest-price-133223592.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/64aaad5f944e251938405fe0a96f6d1a"
-    },
-    {
-      "id": "evt_82c980ceb24ee68e",
-      "topic": "finance",
-      "headline": "Cadence (CDNS) Expands Deal With Intel Foundry To Benefit From Agentic AI Boom",
-      "summary": "Cadence (CDNS) Expands Deal With Intel Foundry To Benefit From Agentic AI Boom",
-      "published_at": "2026-06-11T13:32:22.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-cdns-expands-deal-intel-133222467.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/5df3c69e767d027c9d5f585f2b9df631"
-    },
-    {
-      "id": "evt_c6258b073d6a3c5c",
-      "topic": "finance",
-      "headline": "Three Analysts Reaffirm Their Buy Ratings On Onto Innovation (ONTO) Stock",
-      "summary": "Three Analysts Reaffirm Their Buy Ratings On Onto Innovation (ONTO) Stock",
-      "published_at": "2026-06-11T13:32:20.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/three-analysts-reaffirm-buy-ratings-133220083.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/1cfb0811eabda3f3c63d70d206c079b2"
-    },
-    {
-      "id": "evt_9837a43332ddf73a",
-      "topic": "finance",
-      "headline": "JP Morgan Says KLA Corporation (KLAC) Could More Than Triple Its Earnings By 2030",
-      "summary": "JP Morgan Says KLA Corporation (KLAC) Could More Than Triple Its Earnings By 2030",
-      "published_at": "2026-06-11T13:32:18.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jp-morgan-says-kla-corporation-133218682.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/454385ead165ee5b841928b0f6163aaa"
-    },
-    {
-      "id": "evt_616a1d4221f916a9",
-      "topic": "finance",
-      "headline": "Micron (MU) Is A Hard Stock To Value, But Analysts Keep Raising The Price Targets On The MU Stock",
-      "summary": "Micron (MU) Is A Hard Stock To Value, But Analysts Keep Raising The Price Targets On The MU Stock",
-      "published_at": "2026-06-11T13:32:17.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-hard-stock-value-133217452.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/40d9cf277c6406a4ad2714fe23146a0c"
-    },
-    {
-      "id": "evt_fbaa1701835b18bb",
-      "topic": "finance",
-      "headline": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
-      "summary": "Applied Materials (AMAT) Is One Of the Best High-Bandwidth Memory Stocks To Buy",
-      "published_at": "2026-06-11T13:32:15.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-one-best-133215709.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/01155ab0384fe4945ffc6eb2433bc5d0"
-    },
-    {
-      "id": "evt_02567b472babb58d",
-      "topic": "finance",
-      "headline": "Citi’s Price Target On Synopsys (SNPS) Stock Still Carries Considerable Upside",
-      "summary": "Citi’s Price Target On Synopsys (SNPS) Stock Still Carries Considerable Upside",
-      "published_at": "2026-06-11T13:32:13.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-price-target-synopsys-snps-133213220.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/55fd9ddb000dc24035fde8a81ee30a0b"
-    },
-    {
-      "id": "evt_356f7a5efe6841b2",
-      "topic": "finance",
-      "headline": "Teradyne (TER) Just Partnered With Tokyo Electron, Here’s What That Mean For TER Stock",
-      "summary": "Teradyne (TER) Just Partnered With Tokyo Electron, Here’s What That Mean For TER Stock",
-      "published_at": "2026-06-11T13:32:12.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-just-partnered-tokyo-133212730.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f14167c014a0202c8c2a07f89226d874"
-    },
-    {
-      "id": "evt_0ba8170c8eb6955d",
-      "topic": "science",
-      "headline": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
-      "summary": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the parasite, Echinococcus multilocularis, in 37% of coyotes tested ar",
-      "published_at": "2026-06-11T13:31:42.000Z",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/06/260611024610.htm",
-          "homepage": "https://www.sciencedaily.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/ed108786017b741846b88d950d2a8b6b"
     },
     {
       "id": "evt_f0714998e12ed342",
@@ -898,122 +582,439 @@
       "weight": 0.776
     },
     {
-      "id": "evt_469c895946d581e3",
+      "id": "evt_db77f6721915671a",
       "topic": "finance",
-      "headline": "Guinness Global Innovators Fund: Lam Research Corporation (LRCX) Sits at the Heart of The Semiconductor Value Chain",
-      "summary": "Guinness Global Innovators Fund: Lam Research Corporation (LRCX) Sits at the Heart of The Semiconductor Value Chain",
-      "published_at": "2026-06-11T13:30:38.000Z",
+      "headline": "Adyen to acquire billing platform Orb for $335 million",
+      "summary": "Adyen to acquire billing platform Orb for $335 million",
+      "published_at": "2026-06-11T17:18:08.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/adyen-to-acquire-billing-platform-orb-for-335-million-93CH-4738060",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
+    },
+    {
+      "id": "evt_2a6843cd30791930",
+      "topic": "finance",
+      "headline": "Is The Wendy’s Company (WEN) A Good Stock To Buy Now?",
+      "summary": "Is The Wendy’s Company (WEN) A Good Stock To Buy Now?",
+      "published_at": "2026-06-11T17:18:01.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/guinness-global-innovators-fund-lam-133038446.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-company-wen-good-stock-171801360.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/64c7f38b69bd626677038cbbc1da5e08"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/2977eb1c2a72b571230f3a79f19b162d"
     },
     {
-      "id": "evt_88413fd51c9fba75",
+      "id": "evt_cd0e38af292bfb0c",
       "topic": "finance",
-      "headline": "Bond traders are begging new Fed chair Kevin Warsh for a rate hike — no matter the impact to your credit card bills",
-      "summary": "Bond traders are begging new Fed chair Kevin Warsh for a rate hike — no matter the impact to your credit card bills",
-      "published_at": "2026-06-11T13:30:00.000Z",
+      "headline": "Medicare carries lifetime warning for late enrollees",
+      "summary": "Medicare carries lifetime warning for late enrollees",
+      "published_at": "2026-06-11T17:17:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bond-traders-begging-fed-chair-133000194.html",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/medicare-carries-lifetime-warning-enrollees-171700683.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/moneywise_327/55161e4ae5c8cd8d03f98b9a7e9d9266"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/thestreet_881/76fc9dd2e8383c109a9212d854b0fd05"
     },
     {
-      "id": "evt_a2e2249e73952384",
-      "topic": "crypto",
-      "headline": "Citi opens new route into private markets with tokenized share offering",
-      "summary": "The bank said it is using blockchain technology to connect investors with private company equity through digital depositary receipts.",
-      "published_at": "2026-06-11T13:27:12.000Z",
+      "id": "evt_902121bc96367403",
+      "topic": "business",
+      "headline": "Print Edition | Wall Street Journal - WSJ",
+      "summary": "Print Edition | Wall Street Journal WSJ",
+      "published_at": "2026-06-11T08:10:20.000Z",
       "sources": [
         {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering",
-          "homepage": "https://www.coindesk.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaN0NwMmNtcWJoRjNCcFRDc0dwekxocFJiUlpkZlE2SkNRWndnUnZqZ2k5cE9sMTRRUTVTWWU5THJGZE0xanVQc3pXXzY2elhPY0tHeXQ0WFhPS0dzeWlicUtn?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/872bbb98e5759605be91e02998387ac262c8c533-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "weight": 0.774
     },
     {
-      "id": "evt_146df53880059e97",
+      "id": "evt_7c62f80f419bc405",
+      "topic": "ai",
+      "headline": "Here are the price-matching policies for Best Buy, GameStop, and others",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to keep customers happy and prevent them from shopping elsewher",
+      "published_at": "2026-06-11T17:14:28.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23952330/HT017_money_00010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_6040286a5880180c",
       "topic": "finance",
-      "headline": "Wholesale inflation surges again and keeps the pressure on businesses and the U.S. economy",
-      "summary": "Wholesale prices in May posted the biggest back-to-back increase since 2022 and kept the pressure on businesses as they try to navigate another wave of U.S. inflation.",
-      "published_at": "2026-06-11T13:27:00.000Z",
+      "headline": "SpaceX IPO hype is massive — and the FOMO can ruin your retirement",
+      "summary": "A stock that dips is a blip at 30. But for older investors in or near retirement, it’s a portfolio disaster.",
+      "published_at": "2026-06-11T17:14:00.000Z",
       "sources": [
         {
           "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/wholesale-inflation-surges-again-and-keeps-the-pressure-on-businesses-and-the-u-s-economy-9a40a991?mod=mw_rss_topstories",
+          "url": "https://marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories",
           "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://images.mktw.net/im-00557495"
+      "weight": 0.776,
+      "image_url": "https://images.mktw.net/im-54582106"
     },
     {
-      "id": "evt_335efa0a6f72e2bb",
-      "topic": "ai",
-      "headline": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 31 # Comments: 8",
-      "published_at": "2026-06-11T13:26:59.000Z",
+      "id": "evt_b7fb47401be3bc70",
+      "topic": "finance",
+      "headline": "Solana users can trade SpaceX stock starting June 12",
+      "summary": "Solana users can trade SpaceX stock starting June 12",
+      "published_at": "2026-06-11T17:13:13.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-          "homepage": "https://news.ycombinator.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solana-users-trade-spacex-stock-171313879.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/thestreet_881/00713333daf6a897a55ad0c2936dd50f"
     },
     {
-      "id": "evt_48b43f1d7e272989",
+      "id": "evt_a0812183df4324b4",
+      "topic": "finance",
+      "headline": "FISA to expire Friday after House blocks extension",
+      "summary": "The U.S. House rejected a short-term extension of Section 702 of the Foreign Intelligence Surveillance Act. The surveillance authority expires Friday.",
+      "published_at": "2026-06-11T17:12:10.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/11/trump-pulte-fisa-congress-foreign-surveillance-program-expiration.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_ab97856705f3114e",
+      "topic": "crypto",
+      "headline": "Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users",
+      "summary": "AI agents will get access to trade, manage money, and make payments on behalf of Coinbase users via dedicated accounts.",
+      "published_at": "2026-06-11T17:11:22.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://www.tbstat.com/wp/uploads/2023/03/20230306_Coinbase_News-800x450.jpg"
+    },
+    {
+      "id": "evt_896809f87ec1f97a",
+      "topic": "crypto",
+      "headline": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
+      "summary": "Bitcoin Magazine BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Ambo",
+      "published_at": "2026-06-11T17:09:53.000Z",
+      "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
+          "homepage": "https://bitcoinmagazine.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/BitGo-Enables-Lightning-Network-Payments-Directly-from-Custody.jpg"
+    },
+    {
+      "id": "evt_d0ce299b185f0629",
+      "topic": "finance",
+      "headline": "GM Diversifies Its Battery Technology",
+      "summary": "GM Diversifies Its Battery Technology",
+      "published_at": "2026-06-11T17:09:07.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/general-motors-gm-ford-ev-batteries-energy-storage-cars-autos/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/ibd.com/62282aaa75537ff8c791cc59cd32f58b"
+    },
+    {
+      "id": "evt_5c0df160951503f7",
       "topic": "politics",
-      "headline": "El Niño under way and threatens weather extremes, scientists say",
-      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "published_at": "2026-06-11T13:26:24.000Z",
+      "headline": "US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge - Reuters",
+      "summary": "US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge Reuters",
+      "published_at": "2026-06-11T17:09:05.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTVIQ0lPVDVsWHMxbEdTR0xKMWZDTFhYbjh3VTlEblpieUJZVXpWQTBGOWozZGRwNGE4VmwwSWNLUEN5dVR3Uk5PcmpPcDlpN1pRU2JCS2dNZTFua1daRGdFeHBBUUlvWUI0aFZ5S3JYb2h5aGFOTFFPdF8zY05RRE9fbHFPZXZ1Z2lGMnZ1TUJSSTdYTE5nTlN4Q2RPS0U5cFpjUWpmRVRBU18wZDhjZFJQUzloSUVMNXprZ2wwUGt2Mkk?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_eb520b454874f8e8",
+      "topic": "finance",
+      "headline": "The Fed Is Poised to Shake Wall Street This Month: Here Is the 1 Dirt-Cheap Stock I’m Loading Up on Anyway",
+      "summary": "The Fed Is Poised to Shake Wall Street This Month: Here Is the 1 Dirt-Cheap Stock I’m Loading Up on Anyway",
+      "published_at": "2026-06-11T17:08:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fed-poised-shake-wall-street-170800967.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/1cedae4be42bd340c6a533729e5ae9ef"
+    },
+    {
+      "id": "evt_4515fbdc25fa2c39",
+      "topic": "finance",
+      "headline": "SharkNinja Stock Flirts With Buy Point After Positive Report",
+      "summary": "SharkNinja Stock Flirts With Buy Point After Positive Report",
+      "published_at": "2026-06-11T17:05:25.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/sharkninja-stock-sn-flirts-with-buy-point-piper-sandler/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/ibd.com/2cfdefee9d964d418a8974aaafb84ddf"
+    },
+    {
+      "id": "evt_446a55d229c8d000",
+      "topic": "finance",
+      "headline": "Shell’s CEO Warns That Oil Prices Will Continue Rising Long After the War Ends. Here’s What That Means for Oil Stocks.",
+      "summary": "Shell’s CEO Warns That Oil Prices Will Continue Rising Long After the War Ends. Here’s What That Means for Oil Stocks.",
+      "published_at": "2026-06-11T17:04:51.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/shell-ceo-warns-oil-prices-170451007.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/7d52f6031e2c03946dfb3590302a1386"
+    },
+    {
+      "id": "evt_6977ebc445a556c1",
+      "topic": "politics",
+      "headline": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "summary": "The Pope is appealing for a humane approach and respectful welcome for migrants seeking a better life.",
+      "published_at": "2026-06-11T17:04:16.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7013/live/60986300-6573-11f1-8424-e7da9f0754bf.jpg"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/70dff680-659e-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "id": "evt_a4963de4b044d227",
+      "id": "evt_da3fa74c607ae607",
       "topic": "finance",
-      "headline": "Shift in Market Sentiment Due to AI Pressured Adobe (ADBE) in Q1",
-      "summary": "Shift in Market Sentiment Due to AI Pressured Adobe (ADBE) in Q1",
-      "published_at": "2026-06-11T13:26:16.000Z",
+      "headline": "Seth Klarman’s Top Non-AI Stock Picks: Willis Towers Watson (WTW)",
+      "summary": "Seth Klarman’s Top Non-AI Stock Picks: Willis Towers Watson (WTW)",
+      "published_at": "2026-06-11T17:03:09.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shift-market-sentiment-due-ai-132616452.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/seth-klarman-top-non-ai-170309199.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/2b5b7ecf073968982fd33d6ff1961546"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/455d1ef1d9d33f1d6bc94d34a89b9b20"
+    },
+    {
+      "id": "evt_5e112f99d98e53e7",
+      "topic": "finance",
+      "headline": "Should You Ignore AI Hype and Buy Aon Plc (AON)?",
+      "summary": "Should You Ignore AI Hype and Buy Aon Plc (AON)?",
+      "published_at": "2026-06-11T17:01:28.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-ai-hype-buy-aon-170128575.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/503b27da6f7cff6d6eb3d75867d5d463"
+    },
+    {
+      "id": "evt_bf95dac161dff6de",
+      "topic": "finance",
+      "headline": "Equity indexes rise with dollar and oil, inflation and Iran in focus",
+      "summary": "Equity indexes rise with dollar and oil, inflation and Iran in focus",
+      "published_at": "2026-06-11T17:00:52.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shares-retreat-techs-extend-losses-010321037.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/reuters.com/b3611371ddc18b9a58a48dd3d0de978a"
+    },
+    {
+      "id": "evt_a00fb4669842b059",
+      "topic": "finance",
+      "headline": "Is Eagle Materials (EXP) The Best Value Stock For Long-Term Gains?",
+      "summary": "Is Eagle Materials (EXP) The Best Value Stock For Long-Term Gains?",
+      "published_at": "2026-06-11T17:00:41.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eagle-materials-exp-best-value-170041309.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/0971d6cd3bf2316b357359295d292af5"
+    },
+    {
+      "id": "evt_9ab684c2e82600d6",
+      "topic": "finance",
+      "headline": "Coinbase launches tool to let AI agents manage trading and payments",
+      "summary": "Coinbase is betting that AI agents will become the primary interface for people's financial activity.",
+      "published_at": "2026-06-11T17:00:38.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_b09d05b548546ebf",
+      "topic": "ai",
+      "headline": "Coinbase debuts AI agent that can trade and pay for premium research",
+      "summary": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+      "published_at": "2026-06-11T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_84495470e90bf778",
+      "topic": "crypto",
+      "headline": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+      "summary": "\"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users’ Coinbase accounts to trade crypto, access data and eventually make payments and purchases autonomously.",
+      "published_at": "2026-06-11T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/3a9eec4547a8b835a4a4de35dbdd3a67dcaa6b2f-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_4351f49256ca9662",
+      "topic": "finance",
+      "headline": "Why Value Investors Like Genuine Parts (GPC)?",
+      "summary": "Why Value Investors Like Genuine Parts (GPC)?",
+      "published_at": "2026-06-11T16:59:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-value-investors-genuine-parts-165929495.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/59c58867404d0b2dec517bbd05af9a79"
+    },
+    {
+      "id": "evt_c25f2d2941340c79",
+      "topic": "ai",
+      "headline": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
+      "published_at": "2026-06-11T16:59:28.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_0fe79253d702f218",
+      "topic": "finance",
+      "headline": "Baldwin, Khanna propose new direct foreign investment review board to probe Trump's deals",
+      "summary": "Sen. Tammy Baldwin and Rep. Ro Khanna, both Democrats, raised concerns with President Donald Trump's courting of foreign investment.",
+      "published_at": "2026-06-11T16:58:56.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/11/baldwin-khanna-propose-direct-foreign-investment-board-to-probe-trump.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
     }
   ]
 }
