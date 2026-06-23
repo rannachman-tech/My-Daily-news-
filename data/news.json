@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-06-23T14:49:16.830Z",
+  "generated_at": "2026-06-23T17:55:54.179Z",
   "clusters": [
     {
-      "id": "evt_edff2d5d655e70d4",
+      "id": "evt_8e6a8205972ec74f",
       "topic": "crypto",
-      "headline": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
-      "summary": "A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
-      "published_at": "2026-06-23T10:23:30.000Z",
+      "headline": "US Senate Passes Bill With CBDC Ban",
+      "summary": "The US Senate passed a housing bill with a four-year ban on a Fed CBDC. The ban will last until 2030.",
+      "published_at": "2026-06-23T15:17:11.000Z",
       "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed",
+          "homepage": "https://bitcoinmagazine.com"
+        },
         {
           "name": "Decrypt",
           "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
@@ -24,36 +29,9 @@
           "homepage": "https://www.coindesk.com"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "weight": 1,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
-    },
-    {
-      "id": "evt_5f9578112eaaf306",
-      "topic": "crypto",
-      "headline": "Ethereum R&D nonprofit backed",
-      "summary": "Ethereum R&D nonprofit is backed. It aims to advance Ethereum's growth.",
-      "published_at": "2026-06-23T03:21:28.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit",
-          "homepage": "https://cointelegraph.com"
-        },
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
-          "homepage": "https://decrypt.co"
-        },
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 3,
-      "weight": 1,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/drawing.jpg"
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/US-Senate-Passes-Housing-Bill-With-Four-Year-Fed-CBDC-Ban.jpg"
     },
     {
       "id": "evt_a86d6d1d9b8fdeb4",
@@ -99,36 +77,464 @@
       "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/6e449fbe8cd234bda47b7df1be0cb3240b2dccaf-4898x2755.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_e37c4397a0a7df9a",
+      "id": "evt_4f1301764c134b6e",
+      "topic": "crypto",
+      "headline": "Ethereum R&D Nonprofit",
+      "summary": "Bitmine and others back Ethlabs, a nonprofit for Ethereum R&D. Ethlabs aims to prepare the network for institutional demand.",
+      "published_at": "2026-06-23T03:21:28.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit",
+          "homepage": "https://cointelegraph.com"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.839,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/drawing.jpg"
+    },
+    {
+      "id": "evt_59bac7a83c3d792b",
+      "topic": "crypto",
+      "headline": "Meta's Prediction Market",
+      "summary": "Meta is developing a prediction market app. The app will use a points-based system for forecasting events.",
+      "published_at": "2026-06-23T17:54:32.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/6e5cf463b2f68dffa6a7b6afec450568a6f19f28-2122x1415.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_ffe35f56662cfd6d",
       "topic": "finance",
-      "headline": "Cassidy Plans Social Security Reform",
-      "summary": "Sen. Cassidy plans Social Security reform. He proposes investing in the stock market.",
-      "published_at": "2026-06-23T14:47:27.000Z",
+      "headline": "401(k) balances hit record",
+      "summary": "401(k) balances reached record levels. Most workplace savers had a good year.",
+      "published_at": "2026-06-23T17:53:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78,
+      "image_url": "https://images.mktw.net/im-95877987"
+    },
+    {
+      "id": "evt_9d522a4d5df3d93b",
+      "topic": "finance",
+      "headline": "Working in retirement",
+      "summary": "Claiming benefits early can trigger withholdings. The money isn't lost forever.",
+      "published_at": "2026-06-23T17:49:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://images.mktw.net/im-64301887"
+    },
+    {
+      "id": "evt_4358c95844fdd81a",
+      "topic": "crypto",
+      "headline": "Crypto fraud sentence",
+      "summary": "A man was sentenced for crypto fraud. He posed as influencers on Telegram.",
+      "published_at": "2026-06-23T17:48:51.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/405850/new-york-man-sentenced-1-4-million-crypto-fraud-scheme-bogus-influencer-accounts",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://www.tbstat.com/wp/uploads/2019/06/court-columns-800x450.jpg"
+    },
+    {
+      "id": "evt_c591f5d24ae459d2",
+      "topic": "finance",
+      "headline": "US Sanctions Cambodian Scammers",
+      "summary": "The US imposed sanctions on Cambodian scammers. The Prince Group is affected.",
+      "published_at": "2026-06-23T17:48:31.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/us-adds-sanctions-against-accused-cambodian-scammers-prince-group-4756216",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+    },
+    {
+      "id": "evt_ba5ed134a25a08a0",
+      "topic": "finance",
+      "headline": "Hormuz Evacuation Plan",
+      "summary": "A large-scale evacuation plan starts. Over 11,000 seafarers are stuck.",
+      "published_at": "2026-06-23T17:47:47.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/23/social-security-reform-cassidy.html",
+          "url": "https://cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.779
     },
     {
-      "id": "evt_3c687c5da773bf95",
-      "topic": "business",
-      "headline": "Iran Deal",
-      "summary": "Iran deal. The deal skirts reasons for war.",
-      "published_at": "2026-06-23T14:43:18.000Z",
+      "id": "evt_a61c303e2785ab1b",
+      "topic": "finance",
+      "headline": "Voip-Pal Form 4",
+      "summary": "Voip-Pal filed Form 4. The filing is for June 23.",
+      "published_at": "2026-06-23T17:47:16.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSi1tUUFqOGZBczFDSUwxOXh5LXBJVHg1M3FMdC1hNHhQeG1ZWnlnUHk0X0JxaDhtXzZJTzJvXy1WQ0tUT3pTTE02MUlHcEFFWHlqUTNVYVl2Um1LbGZ5dTl3N2NlOFhmOWN2Z1BRdU9SVkp3WDNtdUEySnlGY3NpY29B?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-4-voippalcom-inc-for-23-june-93CH-4756215",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_cdfe25b8cf853325",
+      "topic": "finance",
+      "headline": "SpaceX Pulls Back",
+      "summary": "SpaceX is pulling back. This benefits some stocks.",
+      "published_at": "2026-06-23T17:46:23.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pulling-back-3-stocks-174623548.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/6c03ab8c92520b6355dc120e2b754619"
+    },
+    {
+      "id": "evt_de27553ce4a87e79",
+      "topic": "finance",
+      "headline": "Meta Builds Prediction App",
+      "summary": "Meta is building a prediction market app. Stocks are falling in response.",
+      "published_at": "2026-06-23T17:45:56.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779
+    },
+    {
+      "id": "evt_4112517c784d0781",
+      "topic": "finance",
+      "headline": "Morgan Stanley Raises Target",
+      "summary": "Morgan Stanley raises target. ACM Research to grow in China.",
+      "published_at": "2026-06-23T17:45:48.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/morgan-stanley-raises-acm-research-stock-price-target-on-china-growth-93CH-4756214",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_bfde1d4a66d931fe",
+      "topic": "finance",
+      "headline": "Mesa Labs CAO sells shares",
+      "summary": "Mesa Labs CAO sold shares. The sale was worth $39,559.",
+      "published_at": "2026-06-23T17:45:24.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/insider-trading-news/mesa-labs-cao-crennen-sells-39559-in-mlab-shares-93CH-4756213",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_aa6e36e44db7d4c7",
+      "topic": "finance",
+      "headline": "Index fund risk",
+      "summary": "The S&P 500's top stocks dominate. Diversify to protect your portfolio.",
+      "published_at": "2026-06-23T17:45:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/your-index-fund-is-hiding-a-looming-tech-stock-risk-here-is-how-to-protect-your-portfolio-f4dd1c20?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://images.mktw.net/im-29708947"
+    },
+    {
+      "id": "evt_0710a4b05f63ae52",
+      "topic": "finance",
+      "headline": "FirstService names SVP",
+      "summary": "FirstService named Amy Bazinet SVP. She will work in Colorado.",
+      "published_at": "2026-06-23T17:43:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/firstservice-residential-names-amy-bazinet-colorado-svp-93CH-4756211",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_7c4f74f1ba57446e",
+      "topic": "finance",
+      "headline": "IBD Stock Of The Day: Pawnshop Operator Makes Kingly Move",
+      "summary": "IBD Stock Of The Day: Pawnshop Operator Makes Kingly Move",
+      "published_at": "2026-06-23T17:43:11.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/research/ibd-stock-of-the-day/pawnshop-ezcorp-stock/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/ibd.com/298256462697940494b0fd4cf00e15b9"
+    },
+    {
+      "id": "evt_de2e3a4ae0268a9a",
+      "topic": "finance",
+      "headline": "Why Bloom Energy Stock Tumbled Today",
+      "summary": "Why Bloom Energy Stock Tumbled Today",
+      "published_at": "2026-06-23T17:43:11.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-tumbled-174311308.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/37db4b2d4f72d5f42a2ee85edaeadded"
+    },
+    {
+      "id": "evt_a7fc59300e208b51",
+      "topic": "finance",
+      "headline": "Form 6K Lloyds Banking Group plc For: 23 June",
+      "summary": "Form 6K Lloyds Banking Group plc For: 23 June",
+      "published_at": "2026-06-23T17:42:44.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-6k-lloyds-banking-group-plc-for-23-june-93CH-4756210",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_3a8d73e5bb39a7dd",
+      "topic": "finance",
+      "headline": "Form 8K Allied Esports Entertainment Inc For: 23 June",
+      "summary": "Form 8K Allied Esports Entertainment Inc For: 23 June",
+      "published_at": "2026-06-23T17:42:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-8k-allied-esports-entertainment-inc-for-23-june-93CH-4756209",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_9a214cc9b96c099d",
+      "topic": "finance",
+      "headline": "Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports",
+      "summary": "Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports",
+      "published_at": "2026-06-23T17:42:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/mark-zuckerberg-directed-meta-to-create-a-prediction-markets-app-nyt-reports-4756165",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M16C_L.jpg"
+    },
+    {
+      "id": "evt_34358b99a419b131",
+      "topic": "ai",
+      "headline": "The best robot vacuum deals available during Prime Day",
+      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day has kicked off, though more than just Amazon is offering deals on several models we’ve tested from brands like Roborock,",
+      "published_at": "2026-06-23T17:42:13.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A5889.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_474f06af2ce7f514",
+      "topic": "finance",
+      "headline": "Why Royal Caribbean Stock Dropped, Then Popped",
+      "summary": "Why Royal Caribbean Stock Dropped, Then Popped",
+      "published_at": "2026-06-23T17:42:13.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-royal-caribbean-stock-dropped-174213143.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/ee64287095b231bcaecc3bda6c23412f"
+    },
+    {
+      "id": "evt_3084e1458d41d904",
+      "topic": "finance",
+      "headline": "SPS Commerce hires Morgan Stanley to explore sale amid activist push - Reuters",
+      "summary": "SPS Commerce hires Morgan Stanley to explore sale amid activist push - Reuters",
+      "published_at": "2026-06-23T17:41:39.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/sps-commerce-hires-morgan-stanley-to-explore-sale-amid-activist-push--reuters-4756208",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA610V5_M.jpg"
+    },
+    {
+      "id": "evt_eb4b79ec06ec85a5",
+      "topic": "finance",
+      "headline": "Globalfoundries CLO Azar Samak L sells $27,922 shares",
+      "summary": "Globalfoundries CLO Azar Samak L sells $27,922 shares",
+      "published_at": "2026-06-23T17:40:57.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/insider-trading-news/globalfoundries-clo-azar-samak-l-sells-27922-shares-93CH-4756207",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_7059713353f3a701",
+      "topic": "finance",
+      "headline": "Prediction: Monero (XMR) Will Overtake Cardano (ADA) by 2028",
+      "summary": "Prediction: Monero (XMR) Will Overtake Cardano (ADA) by 2028",
+      "published_at": "2026-06-23T17:40:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-monero-xmr-overtake-cardano-174000420.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/0d5da96974a204c94d6cbd6898a7d4bd"
+    },
+    {
+      "id": "evt_3d4bbab1fd50dc50",
+      "topic": "finance",
+      "headline": "Ford and General Motors Want In on the Energy Craze. Which Stock Will Win?",
+      "summary": "Ford and General Motors Want In on the Energy Craze. Which Stock Will Win?",
+      "published_at": "2026-06-23T17:39:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ford-general-motors-want-energy-173900287.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/816e29bfe09f9250f11e695c483d405e"
+    },
+    {
+      "id": "evt_57a8aedd273df605",
+      "topic": "politics",
+      "headline": "Why do the UK’s prime ministers keep resigning?",
+      "summary": "Keir Starmer is the latest to step down, after less than two years in office.",
+      "published_at": "2026-06-23T17:36:04.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_426f371d954e4cad",
+      "topic": "politics",
+      "headline": "Israeli forces set olive trees on fire in occupied West Bank",
+      "summary": "Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.",
+      "published_at": "2026-06-23T17:35:30.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
     },
     {
       "id": "evt_1fdbd824c5a24c20",
@@ -147,172 +553,348 @@
       "weight": 0.779
     },
     {
-      "id": "evt_1796d8068ebee855",
+      "id": "evt_4b68239bf07f4e79",
       "topic": "finance",
-      "headline": "Form 8K CS DIAGNOSTICS CORP. For: 23 June",
-      "summary": "Form 8K CS DIAGNOSTICS CORP. For: 23 June",
-      "published_at": "2026-06-23T14:42:08.000Z",
+      "headline": "Global imbalances could fuel financial stability risks, says BoC Governor Macklem",
+      "summary": "Global imbalances could fuel financial stability risks, says BoC Governor Macklem",
+      "published_at": "2026-06-23T17:32:00.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-8k-cs-diagnostics-corp-for-23-june-93CH-4755958",
-          "homepage": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/global-imbalances-could-fuel-financial-133957514.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/reuters.com/a96ffea4d3cb54ac08bb2009fd5316f1"
     },
     {
-      "id": "evt_0aa0c20f4afc5d37",
-      "topic": "business",
-      "headline": "Fidelity European Trust Plc - Monthly Factsheet – Company Announcement - Financial Times",
-      "summary": "Fidelity European Trust Plc - Monthly Factsheet – Company Announcement Financial Times",
-      "published_at": "2026-06-23T14:42:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWtzX2J3WDlBVnRuVzMyaTBSOXZJWTB5SHNQWDA5bHFWT3VjVGZoaERGYlVPTDNaU2VEZjdRTUd1OHdvVkkwd0lwZ1Qzb29keUJnWURRMzg4eVlJTVZoeHRPSWxUYjZtSXFsOUpFbUU3MHZJT04yVFRoUUtrUTBJNF9tOURycnp4WVd6NXo4RGNldGJX?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_10d5c9dddeb84b1f",
-      "topic": "crypto",
-      "headline": "Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin",
-      "summary": "Bitcoin Magazine Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin Nakamoto has completed its transformation into a pure-play Bitcoin company, shutting its final healthcare clinic and ending all remaining ties to its healthcare business. This pos",
-      "published_at": "2026-06-23T14:40:06.000Z",
-      "sources": [
-        {
-          "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/nakamoto-completes-full-pivot-to-bitcoin",
-          "homepage": "https://bitcoinmagazine.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refinancing-and-Buyback-Authorization.jpg"
-    },
-    {
-      "id": "evt_bbfb2099de919b86",
-      "topic": "finance",
-      "headline": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
-      "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says",
-      "published_at": "2026-06-23T14:40:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://images.mktw.net/im-52699443"
-    },
-    {
-      "id": "evt_9af7046beae6a12e",
-      "topic": "finance",
-      "headline": "AI memory startup focused on cutting token costs raises $98 million",
-      "summary": "Engram enters the market as the AI industry grapples with a rising cost problem fueled by more expensive models.",
-      "published_at": "2026-06-23T14:39:32.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_ca1e2100312c452d",
-      "topic": "crypto",
-      "headline": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
-      "summary": "SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC selloff.",
-      "published_at": "2026-06-23T14:38:32.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-elon-musks-net-worth-breakdown-tesla-spacex-and-cryptocurrency-holdings-explained.jpg"
-    },
-    {
-      "id": "evt_d41c112b13e2d561",
-      "topic": "finance",
-      "headline": "Wendy’s names industry veteran Steve Cirulis as new CFO",
-      "summary": "Wendy’s names industry veteran Steve Cirulis as new CFO",
-      "published_at": "2026-06-23T14:37:13.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/wendys-names-industry-veteran-steve-cirulis-as-new-cfo-4755769",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M0VT_L.jpg"
-    },
-    {
-      "id": "evt_e103d22a94b7fa62",
+      "id": "evt_ff38b653b9d80811",
       "topic": "politics",
-      "headline": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-      "published_at": "2026-06-23T14:37:11.000Z",
+      "headline": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards - Reuters",
+      "summary": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards Reuters",
+      "published_at": "2026-06-23T17:31:59.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2JLemlJSEMyWUJKMUFYdDNtYjRremdieDQ2aTlmNm1vLXVXWmFWYTJRMXQ1NDZWQmlzcXdJNlR4eFNRUWhmRENiZW1pYkZ1SnM5SXQ0Umh3TThqWV9semdvVWRPaFBmRTBocXVBdmFOUlZ1WEs0YmRSZllmV0RRdjlaZXBINFhDUm15WDRROXkwLVRRQTAwaUl2NmdROWpRbEZ6R1d3?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_ec996c29104ef34e",
+      "topic": "ai",
+      "headline": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
+      "summary": "Article URL: https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why Comments URL: https://news.ycombinator.com/item?id=48648371 Points: 25 # Comments: 3",
+      "published_at": "2026-06-23T17:31:34.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_ab44ab117de236d9",
+      "topic": "politics",
+      "headline": "Ransom note claims Nancy Guthrie died after abduction",
+      "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
+      "published_at": "2026-06-23T17:30:58.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg"
+      "weight": 0.777,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg"
     },
     {
-      "id": "evt_e477efcbe0b31867",
-      "topic": "finance",
-      "headline": "Mamdani’s power play, a Kennedy’s TikToks. Four things to watch in Tuesday’s primaries",
-      "summary": "Mamdani’s power play, a Kennedy’s TikToks. Four things to watch in Tuesday’s primaries",
-      "published_at": "2026-06-23T14:36:54.000Z",
+      "id": "evt_0a1a73df16654fcb",
+      "topic": "politics",
+      "headline": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
+      "published_at": "2026-06-23T17:30:44.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/mamdanis-power-play-a-kennedys-tiktoks-four-things-to-watch-in-tuesdays-primaries-4754908",
-          "homepage": "https://www.investing.com"
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M0M5_L.jpg"
+      "weight": 0.777,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5334/live/cd486880-77a1-11f0-ac7b-4783efd8e136.jpg"
     },
     {
-      "id": "evt_68f6b0affc467308",
+      "id": "evt_7234ed4bff6baa50",
       "topic": "finance",
-      "headline": "Heineken names outsider Rafael Oliveira as CEO tasked with boosting sales",
-      "summary": "Heineken names outsider Rafael Oliveira as CEO tasked with boosting sales",
-      "published_at": "2026-06-23T14:36:32.000Z",
+      "headline": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
+      "summary": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank.",
+      "published_at": "2026-06-23T17:30:32.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/heineken-names-outsider-rafael-oliveira-as-ceo-tasked-with-boosting-sales-4754804",
-          "homepage": "https://www.investing.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M0GW_L.jpg"
+      "weight": 0.776
+    },
+    {
+      "id": "evt_aab819b2b446b0c0",
+      "topic": "finance",
+      "headline": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+      "summary": "“I would not like my money to fall into the hands of my former spouse.”",
+      "published_at": "2026-06-23T17:30:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://images.mktw.net/im-40681595"
+    },
+    {
+      "id": "evt_34c902e07fb15acc",
+      "topic": "finance",
+      "headline": "Dow Jones AI Giant Nvidia Tumbles Below Key Level; Cummins, GE Vernova Near Buy Zones",
+      "summary": "Dow Jones AI Giant Nvidia Tumbles Below Key Level; Cummins, GE Vernova Near Buy Zones",
+      "published_at": "2026-06-23T17:29:11.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-nvda-stock-cummins-ge-vernova-buy-points/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/ibd.com/836326b77d541f1201fd028e9a541adf"
+    },
+    {
+      "id": "evt_057842f25b262d16",
+      "topic": "business",
+      "headline": "Ashoka WhiteOak Emerging Markets Trust Plc - Issue of Equity – Company Announcement - Financial Times",
+      "summary": "Ashoka WhiteOak Emerging Markets Trust Plc - Issue of Equity – Company Announcement Financial Times",
+      "published_at": "2026-06-23T17:27:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUE1dmtlSmdsY2V5bC1JY1RIUWRiWkJTQmc0SGZ4Q0lvRVk3MzY4ZTNwUkQ5eTk4MjRYcTQzMWZMLUtQeWgzYnVRMFpUUEtDRm9ITGZTVXdnamQwU2QxVzF6N3RGR2wzbndwMEJSWVhTQW8xR053YUR3NnBQV19iY2VjV3lyX0NxbWJYSGM0VnFwTjgz?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_1c81045a861bcc75",
+      "topic": "politics",
+      "headline": "EU hosts Taliban officials for the first time in talks on deportations",
+      "summary": "The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.",
+      "published_at": "2026-06-23T17:26:47.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_a8c5847c3f839f55",
+      "topic": "crypto",
+      "headline": "‘Quarter-end catalyst or consolidation?’: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry",
+      "summary": "Bitcoin trades under $63,000 ahead of PCE data Thursday on, which analysts say is the market's next key test.",
+      "published_at": "2026-06-23T17:26:34.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/405831/quarter-end-catalyst-consolidation-bitcoin-below-63000-etf-outflows-10-6-billion-options-expiry",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-800x450.jpg"
+    },
+    {
+      "id": "evt_932dfd1472c00c6a",
+      "topic": "politics",
+      "headline": "Supreme Court sides with Michigan county in a tax foreclosure case - AP News",
+      "summary": "Supreme Court sides with Michigan county in a tax foreclosure case AP News",
+      "published_at": "2026-06-23T17:26:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1dNbVBGX1otNnoydkdYSzJEQzU1d3N3RERiUU1xdmQ1b1RRZk54bWliZFQwcldkdmZSNTNOMFRGM2xHdHpIVDFyMHFBQkRrNkNpejZoZDEzUEwyVVdGWDlTTUJvXzJVanBLaEJYY19zajhPaHVqaXo5QlFYQURHeEU0ZkRZZEc3TTdLWk9NUlZLcTR3SUE?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_69f2a9bc1da813fa",
+      "topic": "crypto",
+      "headline": "Meta’s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT",
+      "summary": "Prediction markets have swelled into a multi-billion-dollar business with users from all around the world betting billions of dollars.",
+      "published_at": "2026-06-23T17:20:55.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/405838/meta-zuckerberg-to-build-prediction-market-app-polymarket-kalshi-nyt",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://www.tbstat.com/wp/uploads/2022/05/20220518_Meta-Facebook-Mark-Zuckerberg-800x450.jpg"
+    },
+    {
+      "id": "evt_1f6fb43236be6e95",
+      "topic": "finance",
+      "headline": "Here's why we decided to put money to work in Tuesday's market pullback",
+      "summary": "The action on Wall Street looks far more constructive than it appeared at the crack of dawn.",
+      "published_at": "2026-06-23T17:20:07.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/23/heres-why-we-decided-to-put-money-to-work-in-tuesdays-market-pullback.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_58ac264dac8f5748",
+      "topic": "politics",
+      "headline": "US appeals court says Trump can proceed with fast-track deportation efforts",
+      "summary": "A panel of judges has overturned a previous ruling that found measures violated constitutional right to due process.",
+      "published_at": "2026-06-23T17:19:57.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_7bf59be28631e01b",
+      "topic": "politics",
+      "headline": "US consumers favor homebuying over renting for first time since 2023, BofA study shows - Reuters",
+      "summary": "US consumers favor homebuying over renting for first time since 2023, BofA study shows Reuters",
+      "published_at": "2026-06-23T17:19:07.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQXVMakNOQkxNLTBNMExJVjhKLS1raktWVG1sMm80RVM5TmRPMEFOTEJFeUFRTjFjd1FKNXQ2UHdIY1RIa1R4RmMtYmw3TEtOTlBleTBLczMxX0lPal9WYm1wQ2ZRWXZ1WHZneWZVdW1Ic0UzaVo1UjNNVVJnWmVQYjdnd0lUR0diVE1xTC1DX1YzdmZ3TWhONTlsOWFvNzNjRWZrZkstQ3RRRnNiUF93cVFyTm04RDFmeUFmSDFwMTRjUkNyNm4w?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_c5e1a73c7c79fb5f",
+      "topic": "business",
+      "headline": "Print Edition | Wall Street Journal - WSJ",
+      "summary": "Print Edition | Wall Street Journal WSJ",
+      "published_at": "2026-06-23T06:44:30.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOblhDdWFFeko1QkVweXlCLXJabl9Gc0JteVVJWmcwYk5kZ1JMV2F1SlZUemoweXp1S1N1cXhpbjdqTHRrRlh6bFZVaEpLVnBDMTc0Rk9SMmJVUTg5ckc5cWNB?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_27dbc892c2792895",
+      "topic": "politics",
+      "headline": "Ebola cases in Congo reach highest first-month total of any outbreak, WHO says - Reuters",
+      "summary": "Ebola cases in Congo reach highest first-month total of any outbreak, WHO says Reuters",
+      "published_at": "2026-06-23T17:14:10.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXU0QzJaVG02TFBIM29McmY0MXdHYTNDVGFrTEt4RkZxYmg5R3BaM2htRlFIZDY3WXJUTk1UR1NkY1dlMzJzaG1CUTB1ek5GMkZKcTdXTEs4NWh4TzZKVUZIQ2pWR05HU1JhVHJNeEVXUDNUVzRwYUF3emxhN1g5aUdoa1MtUDI0SFFTcER6Qjd1NTZhTXJZV2lVSDFIN0tGZ0pIclA0a2k0eHNpWUhjbmlQSFdJdEVjUEk1RTB0WWNpOGx2aDQ3SXpwUzlaWEFSb2pxWnMwN2UwekU?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_337b1abb7b697c2b",
+      "topic": "politics",
+      "headline": "Ronaldo becomes first player to score in six World Cups with goal against Uzbekistan - AP News",
+      "summary": "Ronaldo becomes first player to score in six World Cups with goal against Uzbekistan AP News",
+      "published_at": "2026-06-23T17:14:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1BHVHNxSkUtdElIem5na0NPRlVIcUNILXd3ZWs3alRTMDlvTmh2Tml1dFJIU1RETHJ5OTVpYjZaX2dualhrRXlieTlSRnZYbUtybW9GbG90WXZndXVIMnk1T1hsVUVNLUFkTkNlak5JTVZpSThIUGZKSFE5aGw3Y01qWHN2WGZwUC1R?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_bef02deb12ec65f8",
+      "topic": "finance",
+      "headline": "We're debt-free and have $750K saved for retirement — but I can’t stop growing our emergency fund. How much is enough?",
+      "summary": "We're debt-free and have $750K saved for retirement — but I can’t stop growing our emergency fund. How much is enough?",
+      "published_at": "2026-06-23T17:12:28.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/were-debt-free-750k-saved-171228604.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/43b0da82249b1fbad8795166c5f92486"
+    },
+    {
+      "id": "evt_38bdcf66481f01c6",
+      "topic": "ai",
+      "headline": "Claude Tag",
+      "summary": "Article URL: https://www.anthropic.com/news/introducing-claude-tag Comments URL: https://news.ycombinator.com/item?id=48648039 Points: 45 # Comments: 13",
+      "published_at": "2026-06-23T17:09:18.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://anthropic.com/news/introducing-claude-tag",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
     },
     {
       "id": "evt_ea67ad466ce3e357",
@@ -331,708 +913,120 @@
       "weight": 0.778
     },
     {
-      "id": "evt_883535f9e224553c",
-      "topic": "finance",
-      "headline": "Congo Ebola outbreak shows record early case numbers, WHO says",
-      "summary": "Congo Ebola outbreak shows record early case numbers, WHO says",
-      "published_at": "2026-06-23T14:35:08.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/congo-ebola-outbreak-shows-record-early-case-numbers-who-says-93CH-4755957",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_5999ec888ea60531",
-      "topic": "finance",
-      "headline": "Alphabet's Google Cloud Backlog Just Hit a Record $462 Billion. Time to Buy the Stock?",
-      "summary": "Alphabet's Google Cloud Backlog Just Hit a Record $462 Billion. Time to Buy the Stock?",
-      "published_at": "2026-06-23T14:35:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-google-cloud-backlog-just-143500870.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/6fdc0cb88652ad37fce56b24c9245cef"
-    },
-    {
-      "id": "evt_a8d94ee56974722a",
-      "topic": "finance",
-      "headline": "Eli Lilly vs Viking Therapeutics: Which GLP-1 Stock Is the Better Buy?",
-      "summary": "Eli Lilly vs Viking Therapeutics: Which GLP-1 Stock Is the Better Buy?",
-      "published_at": "2026-06-23T14:34:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-vs-viking-therapeutics-143400002.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/fe5cb0846ddb58ce31bea0a1062387bc"
-    },
-    {
-      "id": "evt_699a55e3ca8a3c74",
-      "topic": "finance",
-      "headline": "Form 6K JBDI Holdings Ltd For: 23 June",
-      "summary": "Form 6K JBDI Holdings Ltd For: 23 June",
-      "published_at": "2026-06-23T14:32:54.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-6k-jbdi-holdings-ltd-for-23-june-93CH-4755955",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_e594f3b57f1536be",
-      "topic": "finance",
-      "headline": "Parke Bancorp director Arret Dobson sells $79,325 in common stock",
-      "summary": "Parke Bancorp director Arret Dobson sells $79,325 in common stock",
-      "published_at": "2026-06-23T14:32:26.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/insider-trading-news/parke-bancorp-director-arret-dobson-sells-79325-in-common-stock-93CH-4755954",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_183afd42b186e350",
-      "topic": "finance",
-      "headline": "Form 8K Jacobs Engineering Group For: 23 June",
-      "summary": "Form 8K Jacobs Engineering Group For: 23 June",
-      "published_at": "2026-06-23T14:32:10.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-8k-jacobs-engineering-group--for-23-june-93CH-4755953",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_29f0b74de1d6542f",
-      "topic": "finance",
-      "headline": "SanDisk, Western Digital among market cap stock movers on Tuesday",
-      "summary": "SanDisk, Western Digital among market cap stock movers on Tuesday",
-      "published_at": "2026-06-23T14:32:01.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/sandisk-western-digital-among-market-cap-stock-movers-on-tuesday-93CH-4755952",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_48a53d1dc715e732",
-      "topic": "finance",
-      "headline": "Palantir Hits 52-Week Low Amid AI Retreat, Rising Interest Rates",
-      "summary": "Palantir Hits 52-Week Low Amid AI Retreat, Rising Interest Rates",
-      "published_at": "2026-06-23T14:31:58.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/technology/palantir-stock-pltr-hits-52-week-low-software-pressured/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/ibd.com/a5a435f78b95f203bc8a8d8e9285bd56"
-    },
-    {
-      "id": "evt_2b57abfb9912c1e6",
-      "topic": "finance",
-      "headline": "Jim Cramer Highlights the Reason to Buy Madison Square Garden Sports",
-      "summary": "Jim Cramer Highlights the Reason to Buy Madison Square Garden Sports",
-      "published_at": "2026-06-23T14:31:53.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-reason-buy-143153103.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f6497930c7732eef3c7d79847d97e1aa"
-    },
-    {
-      "id": "evt_2ccb5c8be8fc8ef2",
-      "topic": "finance",
-      "headline": "Jim Cramer Believes “Qnity’s Basically a Bet on the Future of Chip-Making”",
-      "summary": "Jim Cramer Believes “Qnity’s Basically a Bet on the Future of Chip-Making”",
-      "published_at": "2026-06-23T14:31:51.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-qnity-basically-143151287.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/5f3b64c8a671b5d73f149f614c137d97"
-    },
-    {
-      "id": "evt_b6a0c46e5b954436",
-      "topic": "finance",
-      "headline": "Jim Cramer on Palantir: “The Growth Hasn’t Slowed Down, Just the Stock”",
-      "summary": "Jim Cramer on Palantir: “The Growth Hasn’t Slowed Down, Just the Stock”",
-      "published_at": "2026-06-23T14:31:50.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-palantir-growth-hasn-143150499.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2"
-    },
-    {
-      "id": "evt_48efe9fe04a7936f",
-      "topic": "finance",
-      "headline": "Jim Cramer Says “This Is a Terrific Level to Buy American Express”",
-      "summary": "Jim Cramer Says “This Is a Terrific Level to Buy American Express”",
-      "published_at": "2026-06-23T14:31:48.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-terrific-level-143148908.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/bca7539a19983cbc40912d31c554f6fd"
-    },
-    {
-      "id": "evt_5b7963b1c2bd7a5c",
-      "topic": "finance",
-      "headline": "Jim Cramer on Intuitive Surgical: “Too Much Competition”",
-      "summary": "Jim Cramer on Intuitive Surgical: “Too Much Competition”",
-      "published_at": "2026-06-23T14:31:47.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuitive-surgical-too-143147313.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/ab17cbae959ed841325f2d9cbe730e2f"
-    },
-    {
-      "id": "evt_e4add373a684fc89",
-      "topic": "finance",
-      "headline": "Jim Cramer Says “Intel’s Now My Favorite Stock in My Charitable Trust”",
-      "summary": "Jim Cramer Says “Intel’s Now My Favorite Stock in My Charitable Trust”",
-      "published_at": "2026-06-23T14:31:45.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-intel-now-143145349.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/32bc1930e519905785530773f71428cd"
-    },
-    {
-      "id": "evt_54ebac6d02d120b9",
-      "topic": "finance",
-      "headline": "Why Jim Cramer Believes FedEx Freight Will Cash In on the E-Commerce Boom",
-      "summary": "Why Jim Cramer Believes FedEx Freight Will Cash In on the E-Commerce Boom",
-      "published_at": "2026-06-23T14:31:44.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-believes-fedex-143144119.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55"
-    },
-    {
-      "id": "evt_7887fe4f63160a69",
-      "topic": "finance",
-      "headline": "Jim Cramer Says McCormick “Is Still Reeling From Their Deal to Buy Unilever’s Food Business”",
-      "summary": "Jim Cramer Says McCormick “Is Still Reeling From Their Deal to Buy Unilever’s Food Business”",
-      "published_at": "2026-06-23T14:31:40.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-mccormick-still-143140707.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/c517b12f3958826ffde57cfe2fa1093a"
-    },
-    {
-      "id": "evt_d0fedabf39f2e553",
-      "topic": "finance",
-      "headline": "Jim Cramer Says Micron Needs a Massive Beat and Raise to Keep Soaring",
-      "summary": "Jim Cramer Says Micron Needs a Massive Beat and Raise to Keep Soaring",
-      "published_at": "2026-06-23T14:31:39.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-micron-needs-143139440.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f4972b23ca1d429713741721f81c5f25"
-    },
-    {
-      "id": "evt_a35a40172aade9d4",
-      "topic": "finance",
-      "headline": "Form 8K Bank First National Corp For: 23 June",
-      "summary": "Form 8K Bank First National Corp For: 23 June",
-      "published_at": "2026-06-23T14:31:38.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-8k-bank-first-national-corp-for-23-june-93CH-4755950",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_5dbd4cbf06d2e43a",
-      "topic": "finance",
-      "headline": "Jim Cramer on Paychex: “I’m Not Going to Fight the Tide”",
-      "summary": "Jim Cramer on Paychex: “I’m Not Going to Fight the Tide”",
-      "published_at": "2026-06-23T14:31:37.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-paychex-m-not-143137561.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/2d22beb31b770813a228fb67297cb5d3"
-    },
-    {
-      "id": "evt_a11892f70a94f0f5",
-      "topic": "finance",
-      "headline": "Jim Cramer on Casey’s: “One of My Absolute Favorite Companies”",
-      "summary": "Jim Cramer on Casey’s: “One of My Absolute Favorite Companies”",
-      "published_at": "2026-06-23T14:31:36.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-casey-one-absolute-143136529.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/99c2549a4e2dcf20c74928b3ef5b69ce"
-    },
-    {
-      "id": "evt_f117165044fd3f68",
-      "topic": "finance",
-      "headline": "Jim Cramer on KB Home: “A Well-Run Home Builder That Tells It Like It Is”",
-      "summary": "Jim Cramer on KB Home: “A Well-Run Home Builder That Tells It Like It Is”",
-      "published_at": "2026-06-23T14:31:34.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-kb-home-well-143134580.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/1de21e5102a599aeff81a47861460c91"
-    },
-    {
-      "id": "evt_6b055e7997609f92",
-      "topic": "finance",
-      "headline": "Jim Cramer on FedEx: “Buy It, Put It Away”",
-      "summary": "Jim Cramer on FedEx: “Buy It, Put It Away”",
-      "published_at": "2026-06-23T14:31:33.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fedex-buy-put-143133809.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e"
-    },
-    {
-      "id": "evt_bb67f839fbfc60d4",
-      "topic": "finance",
-      "headline": "Jim Cramer on Carnival Corporation: “Never Told Anyone Not to Buy It”",
-      "summary": "Jim Cramer on Carnival Corporation: “Never Told Anyone Not to Buy It”",
-      "published_at": "2026-06-23T14:31:31.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-carnival-corporation-never-143131506.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/36e4ed53d9c383d8a795017c8e45032e"
-    },
-    {
-      "id": "evt_a120bcc3f1662f75",
+      "id": "evt_b1796d84c5bc64fa",
       "topic": "crypto",
-      "headline": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
-      "summary": "Bitcoin Magazine Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein Bitcoin Suisse secured a MiCAR license in Liechtenstein, enabling the crypto financial services firm to expand regulated operations across the European Union under a unified regu",
-      "published_at": "2026-06-23T14:31:29.000Z",
+      "headline": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
+      "summary": "Prosus launched ToqanClaw, a no-code AI platform positioned as an European alternative to AI agents like OpenClaw.",
+      "published_at": "2026-06-23T17:06:52.000Z",
       "sources": [
         {
-          "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
-          "homepage": "https://bitcoinmagazine.com"
+          "name": "Decrypt",
+          "url": "https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr",
+          "homepage": "https://decrypt.co"
         }
       ],
       "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Suisse-Secures-MiCAR-License-Launches-European-Expansion-from-Liechtenstein.jpg"
+      "weight": 0.773,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2020/02/privacy-surveillance-uk-brave-google-gID_7.jpg"
     },
     {
-      "id": "evt_2e46844c65f8c74a",
-      "topic": "finance",
-      "headline": "Progressive Brad Lander’s surging bid for Congress splinters Democrats' labor union alliance",
-      "summary": "Rep. Dan Goldman, D-N.Y., is fighting for his political life in a race with Brad Lander, who is backed by Mayor Zohran Mamdani and Sen. Bernie Sanders, I-Vt.",
-      "published_at": "2026-06-23T14:30:58.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/23/new-york-elections-democrats-congress-dan-goldman-brad-lander.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_c24b4935bd170e29",
-      "topic": "finance",
-      "headline": "PAYGO vs. Fully Funded: Social Security isn't Funded like a Corporate Pension",
-      "summary": "PAYGO vs. Fully Funded: Social Security isn't Funded like a Corporate Pension",
-      "published_at": "2026-06-23T14:30:52.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/paygo-vs-fully-funded-social-143052826.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/b91443c9531ce380ed988bf23834dadb"
-    },
-    {
-      "id": "evt_b2d6452a19be40d0",
-      "topic": "crypto",
-      "headline": "Why tokenized SpaceX shares broke before retail investors could buy them",
-      "summary": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
-      "published_at": "2026-06-23T14:30:00.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/why-tokenized-spacex-shares-broke-before-retail-could-buy-them-1.jpg"
-    },
-    {
-      "id": "evt_2ae62a053c35a709",
-      "topic": "finance",
-      "headline": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-      "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
-      "published_at": "2026-06-23T14:28:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://images.mktw.net/im-75925365"
-    },
-    {
-      "id": "evt_fbfa250edb93b524",
-      "topic": "finance",
-      "headline": "Oil drops $1 as investors focus on Hormuz flows after peace talks",
-      "summary": "Oil drops $1 as investors focus on Hormuz flows after peace talks",
-      "published_at": "2026-06-23T14:27:46.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-gains-selloff-awaits-progress-003527539.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/reuters.com/108be1f8c20a7a58d9573b868d661a62"
-    },
-    {
-      "id": "evt_e699f6d0ff0e0dd1",
-      "topic": "finance",
-      "headline": "Carnival Stock Leads Cruise Retreat After Revenue Miss, Updated Outlook",
-      "summary": "Carnival Stock Leads Cruise Retreat After Revenue Miss, Updated Outlook",
-      "published_at": "2026-06-23T14:23:40.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/carnival-earnings-ccl-stock-oil-prices-fuel-costs-booking-trends/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/ibd.com/20c3bc6fcec8721ccb2304f7498ddbbf"
-    },
-    {
-      "id": "evt_d2115604b8433ad0",
+      "id": "evt_60e3141302dc609f",
       "topic": "politics",
-      "headline": "Wall St tumbles on tech selloff as concerns about hawkish Fed, AI spending mount - Reuters",
-      "summary": "Wall St tumbles on tech selloff as concerns about hawkish Fed, AI spending mount Reuters",
-      "published_at": "2026-06-23T14:21:43.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_23194b1b545eadf7",
-      "topic": "finance",
-      "headline": "Stock Market Today: Nasdaq Slides As Micron, Sandisk Tumble, SpaceX Rebounds (Live Coverage)",
-      "summary": "Stock Market Today: Nasdaq Slides As Micron, Sandisk Tumble, SpaceX Rebounds (Live Coverage)",
-      "published_at": "2026-06-23T14:20:47.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/ibd.com/af3d8bf275f34dd771b1551f1766e265"
-    },
-    {
-      "id": "evt_512e0a6358f53301",
-      "topic": "finance",
-      "headline": "Gold and silver tumble as rate-hike fears hit precious metals",
-      "summary": "Gold and silver fell Tuesday as rate-hike fears pressured precious metals and Wall Street banks reassessed their gold forecasts.",
-      "published_at": "2026-06-23T14:20:45.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/23/gold-silver-rate-hike-fears.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_33d95edd9b32e87b",
-      "topic": "ai",
-      "headline": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
-      "summary": "Article URL: https://github.com/ilbertt/bun-sqlgen Comments URL: https://news.ycombinator.com/item?id=48645390 Points: 10 # Comments: 2",
-      "published_at": "2026-06-23T14:20:24.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/ilbertt/bun-sqlgen",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_ab24b13b9d955046",
-      "topic": "finance",
-      "headline": "J.R. Smith reveals deadliest financial blunder: ‘Wasted’ millions on unused cars. What his retirement looks like now",
-      "summary": "J.R. Smith reveals deadliest financial blunder: ‘Wasted’ millions on unused cars. What his retirement looks like now",
-      "published_at": "2026-06-23T14:20:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/j-r-smith-reveals-deadliest-142000515.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/54913727d3ef76d3f50b811feaa45eca"
-    },
-    {
-      "id": "evt_d44f51535904fe54",
-      "topic": "ai",
-      "headline": "Elevated error rate across multiple models",
-      "summary": "Article URL: https://status.claude.com/incidents/jbhf20wjmzrf Comments URL: https://news.ycombinator.com/item?id=48645386 Points: 97 # Comments: 44",
-      "published_at": "2026-06-23T14:19:47.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_0a32015a607c8ae2",
-      "topic": "politics",
-      "headline": "Russia weighs fuel imports amid Ukrainian strikes, Crimea restricts public life - Reuters",
-      "summary": "Russia weighs fuel imports amid Ukrainian strikes, Crimea restricts public life Reuters",
-      "published_at": "2026-06-23T14:19:13.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNXakFCOW90OVo1RkRPcDg3Z2pHV1VhamJRLWlQU05rbzh2V1lkTzhGNlpHdDlJMDIyZnhjUS1GeHAxYWdCcGc4VGlPSVJqV1c3dnI2a3hrUWFwNlJ2cXNfenlUZDg5LUFoVnZxNXFaX0lMTFF0YnVvU0lJMGJIdGNraXhKcEdSUUVBNkNERl9RSWY1RXcySGU4Y0M1YmtlYjR1amRtS1RjQ0o0dEdfamZXTVgwM3R4QkRxbkJR?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_e399ef24f6a482a3",
-      "topic": "politics",
-      "headline": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal - Reuters",
-      "summary": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal Reuters",
-      "published_at": "2026-06-23T14:18:50.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazZOMDJubEwwdzltamFaSWpiaE9ScXlNZms4S1dBcHRHLWRlMU1TVldTdEJCWFIwWVVjRTlpeFJ5ZE9xbHc3Q1hMMThWVUVUMTVrT29kcXZsQUZoWm9vZDZKelREUDNRVjl5empySFVKTUhXZ0ZEUm0tV2tVSDBCUmNaWWZJYi1yRDZYQlQza3FvdjVTb1c1WXQyeWdYeDVGVFhVZ21NQU4zNVVYeWN3TUNmQ1FjVlNSaVdzWW9makRiTE1TLU50Qw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_9d5b097db87e9c74",
-      "topic": "politics",
-      "headline": "UN chief calls on AI firms to come clean on environmental costs - Reuters",
-      "summary": "UN chief calls on AI firms to come clean on environmental costs Reuters",
-      "published_at": "2026-06-23T14:17:59.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmtNQW1EUEQ5WVVUZHhlbmlGWGRyaFdDWm4xa3d5eHpsMGFuNUFXWTNwTWdZbzNmY0RsbG1pYUJRcEJkMy1fY25nbFFCeTZDc1YwdnJGaDJ2T2tDZHJJQU9rMk9Ub3ItOWdpbXVvaG90ZGNHa2YwRTEwRThHWjhlS1JBRHZQUWZrNEFER29OOXlISHVkMDlXRzB6TkxfbW50RzQ1U1NGSVBTUG8?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_df7a10e5a7298ea6",
-      "topic": "finance",
-      "headline": "Economy gets boost from World Cup and peace talks with Iran, but it’s not past the danger point",
-      "summary": "The U.S. economy got some relief in June from declining oil prices and the start of the 2026 World Cup, but it’s still feeling the strain from the conflict with Iran.",
-      "published_at": "2026-06-23T14:17:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/economy-gets-boost-from-world-cup-and-peace-talks-with-iran-but-its-not-past-the-danger-point-0ad146b8?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://images.mktw.net/im-73337858"
-    },
-    {
-      "id": "evt_4f548e983f6e602c",
-      "topic": "politics",
-      "headline": "Supreme Court rules Rastafari man can’t sue Louisiana prison officials who cut his dreadlocks - AP News",
-      "summary": "Supreme Court rules Rastafari man can’t sue Louisiana prison officials who cut his dreadlocks AP News",
-      "published_at": "2026-06-23T14:17:00.000Z",
+      "headline": "Trump says 6 people have been arrested for damaging the Reflecting Pool - AP News",
+      "summary": "Trump says 6 people have been arrested for damaging the Reflecting Pool AP News",
+      "published_at": "2026-06-23T17:05:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFJuNm5xcS1MYUJQM1pYWUNBcndQRUdpREZ1TnhsSktWWTBqaEVrTDJJQ1ZncE9VZ242NWtXYzQxOWRYd0RGRG5Femc3cE1uazVwd1dWZVpGb004Q25yNVF4TlVXdmRKZHdaeGlmQzVwbmlBV2txZTJ6RlpzZlRjemctc1lDWmp0d1MzWUxkRDZucG9mZ0hZMDlkWTJlMjhBODlRMmdQd2ZZMjlrQzVPRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkZBNll6VVdHT2lnZU96Nk5CbVM3OUFxMkpPZkJjaTgtX1JLLWpMWks5OHFHOU9LaVM4OUhqaUpnUm5xakdaU0V1Qm9FVmNYbnJ6ZUFsMjhGRnBzZUlJeFBfWlMxa2hSanl4ZWlhLVRnYUVzT0I1RGltcG5md1NITTY3dEF4QTM3U25NMEJ3eFJuRVkxWkNEVDd5aTB4S2c1RTY4RXd0ckFubmc?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.773
     },
     {
-      "id": "evt_c5e1a73c7c79fb5f",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-06-23T06:44:30.000Z",
+      "id": "evt_666b201188e86cca",
+      "topic": "finance",
+      "headline": "Trump admits selling IBM’s stock was a mistake. Now he’s cheering its quantum future.",
+      "summary": "IBM looks like a focal point as the U.S. further backs domestic quantum-computing initiatives.",
+      "published_at": "2026-06-23T17:04:00.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOblhDdWFFeko1QkVweXlCLXJabl9Gc0JteVVJWmcwYk5kZ1JMV2F1SlZUemoweXp1S1N1cXhpbjdqTHRrRlh6bFZVaEpLVnBDMTc0Rk9SMmJVUTg5ckc5cWNB?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/trump-admits-selling-ibms-stock-was-a-mistake-now-hes-cheering-its-quantum-future-095592d6?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.771
+      "weight": 0.773,
+      "image_url": "https://images.mktw.net/im-02738835"
+    },
+    {
+      "id": "evt_98387d82effe67d3",
+      "topic": "ai",
+      "headline": "Formula E&#8217;s new season is starting to look more like F1",
+      "summary": "The next season of Formula E will feature a new race format and three new race locations when it starts in December to go with the new Gen4 electric cars. The schedule released today by the FIA includes the Circuit of the Americas in Austin, the Brands Hatch circuit in Kent, and ",
+      "published_at": "2026-06-23T17:02:28.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/transportation/955011/formula-e-season-13-electric-racing",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/fia-formula-e-gen4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_50d7c0aa512e0f63",
+      "topic": "ai",
+      "headline": "Mark Zuckerberg directed meta to create a prediction markets app",
+      "summary": "Article URL: https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html Comments URL: https://news.ycombinator.com/item?id=48647928 Points: 14 # Comments: 5",
+      "published_at": "2026-06-23T17:01:57.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_ee3f4df2bbe661d3",
+      "topic": "ai",
+      "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "published_at": "2026-06-23T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_0e5b79498d41bb6f",
+      "topic": "ai",
+      "headline": "The Pixel 10A finally costs what it should",
+      "summary": "No camera bump here. | Photo: Dominic Preston / The Verge We can usually rely on Google to put together a compelling package in its Pixel A-series devices. The Pixel 10A was kind of a letdown, though. It added only a handful of updates, like satellite messaging and updated Gorill",
+      "published_at": "2026-06-23T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/950195/google-pixel-10a-prime-day-deal-sale",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/google-pixel-10a-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     }
   ]
 }
