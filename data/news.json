@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-06-25T14:33:41.669Z",
+  "generated_at": "2026-06-25T18:10:25.199Z",
   "clusters": [
+    {
+      "id": "evt_001b61b325f89b25",
+      "topic": "politics",
+      "headline": "US Supreme Court scales back Roundup cancer suits in win for Bayer - Reuters",
+      "summary": "More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup.",
+      "published_at": "2026-06-25T17:18:44.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzhuZmZTci0zT0E0Q2w0MEdVeHYyRDB0MWZHbkxKWUN2S2s2cDFZNWdGa242bUZsZjNsRlA0bGs4aW5xWXdzZkJ4MHdOdThuNUFlckxwTU00X2Ryc0g4cnR6LTZQdGItbklEX0tRRlJOcHU2ay0zMmNOenRhV3Z6eWZKYjVoSmNoQVhKRXVrbm5YTnQ0eDZzOGJB?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.953
+    },
+    {
+      "id": "evt_b650b3995b59d3d3",
+      "topic": "ai",
+      "headline": "IBM debuts sub-1 nanometer chip technology",
+      "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology Comments URL: https://news.ycombinator.com/item?id=48674967 Points: 73 # Comments: 29",
+      "published_at": "2026-06-25T15:33:37.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "homepage": "https://news.ycombinator.com"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology",
+          "homepage": "https://arstechnica.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.938,
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg"
+    },
     {
       "id": "evt_acf20f836154f225",
       "topic": "crypto",
@@ -24,27 +67,6 @@
       "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/SBI-Holdings-Agrees-to-Acquire-Japanese-Crypto-Exchange-Bitbank-in-288.6-Million-Deal.jpg"
     },
     {
-      "id": "evt_7138657926f94e85",
-      "topic": "politics",
-      "headline": "Japan earthquake",
-      "summary": "A powerful earthquake struck northern Japan. No tsunami warning was issued.",
-      "published_at": "2026-06-25T08:41:03.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONk9vbDNHSXF5NUU2MGh1eFBaZzJnRktPMUNjZGtObFl2azNGemw4Ym14NW1RMlZaRXRSLU5ZdDk0VFJGNE9EemxiQ2RKdkFVZTJnOGdoTWlzVWpVa25leEV5WXl4bDlPY2VqdUhodU9YanktSnRubzh6SG8xWlhRUVhFWDl3UU85ckVQWg?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.943
-    },
-    {
       "id": "evt_d057a39b6d05a51f",
       "topic": "business",
       "headline": "Amazon to Invest Additional $13 Billion in India by 2030 - WSJ",
@@ -64,27 +86,6 @@
       ],
       "source_count": 2,
       "weight": 0.925
-    },
-    {
-      "id": "evt_2e4cf422f4a379f0",
-      "topic": "politics",
-      "headline": "Oil at pre-war levels",
-      "summary": "Oil prices have reached pre-war levels. Rising Middle East supply is the cause.",
-      "published_at": "2026-06-25T10:12:21.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkdDYmZFSTkwNFU4TGw0UDItS3RmdzdoR0hYUjRhYVUtaWRpWjFueDBQSUlQQklKZzdoTWJlQ1phYXRWaHMtZU5jNnNmOVZPalE2eExoaE5ESEJOcW9RN1l3VjFFTXNPLUJvdWFfTWVOTno3SEdlMHNJQjMxM0hJcXM1WHFtVG9NeHZtSGtZQlY4b21GZ3pqWjFn?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.956
     },
     {
       "id": "evt_f220f15d412a66e7",
@@ -109,54 +110,15 @@
       "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/d3c36f86c5d814d9ec493dae6d7fde7687526f38-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_f247590b6099a79a",
-      "topic": "crypto",
-      "headline": "Trump Cancels Housing Bill",
-      "summary": "Trump cancels bill. Bill had CBDC ban.",
-      "published_at": "2026-06-24T15:34:50.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
-          "homepage": "https://decrypt.co"
-        },
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.941,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png"
-    },
-    {
-      "id": "evt_0d799f32fa62e8d6",
-      "topic": "crypto",
-      "headline": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
-      "summary": "Bitcoin Magazine Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions an",
-      "published_at": "2026-06-25T14:32:37.000Z",
-      "sources": [
-        {
-          "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
-          "homepage": "https://bitcoinmagazine.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Mining-Pool-DMND-Mines-First-Known-Stratum-V2-Block-GoMining-Constructs-Its-Own-Template.jpg"
-    },
-    {
-      "id": "evt_d1cd6e85325da21c",
+      "id": "evt_876571ade5a6f4bc",
       "topic": "finance",
-      "headline": "Wendy's turns lower as meme rally fails to extend to a second day",
-      "summary": "The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.",
-      "published_at": "2026-06-25T14:30:58.000Z",
+      "headline": "Iranian leader scoffs at Trump claim that Iran must buy U.S. farm products with unfrozen assets",
+      "summary": "\"The only crop we're harvesting is what you planted: decades of mistrust,\" Iranian parliament speaker Mohammad Bagher Ghalibaf said in a social media post.",
+      "published_at": "2026-06-25T18:08:05.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+          "url": "https://cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
@@ -164,15 +126,15 @@
       "weight": 0.78
     },
     {
-      "id": "evt_084abccb6ea8e7ef",
+      "id": "evt_2f9401ec8ef53763",
       "topic": "finance",
-      "headline": "Inside Wealth: Luxury spending now driven by experiences and 'inheritourism'",
-      "summary": "While luxury goods sales are expected to grow between 1% and 4%, experiences are on track for growth of between 3% and 7% this year, according to a new report.",
-      "published_at": "2026-06-25T14:29:18.000Z",
+      "headline": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
+      "summary": "Acting Attorney General Todd Blanche originally set up the fund as part of a settlement of a lawsuit by President Donald Trump against the IRS.",
+      "published_at": "2026-06-25T18:05:48.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
+          "url": "https://cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
@@ -180,672 +142,171 @@
       "weight": 0.779
     },
     {
-      "id": "evt_de4e0f96472a9477",
-      "topic": "finance",
-      "headline": "BlackBerry Q1 FY2027 earnings beat, raises full-year outlook",
-      "summary": "BlackBerry Q1 FY2027 earnings beat, raises full-year outlook",
-      "published_at": "2026-06-25T14:28:33.000Z",
+      "id": "evt_71a5ede9e1631b25",
+      "topic": "crypto",
+      "headline": "Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?",
+      "summary": "Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.",
+      "published_at": "2026-06-25T18:05:06.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-q1-fy2027-earnings-beat-142833744.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target",
+          "homepage": "https://cointelegraph.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/quartz_855/3f2b973d676cff84ce6f08c445ca7ede"
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/article-covers-206755-bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k.jpg"
     },
     {
-      "id": "evt_df286e8752270ee0",
+      "id": "evt_32101affc1a2ba45",
+      "topic": "ai",
+      "headline": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
+      "summary": "You can save hundreds on the latest iPad Air. | Photo by Amelia Holowaty Krales / The Verge Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still",
+      "published_at": "2026-06-25T18:04:13.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_5aaf5d21731dae0d",
       "topic": "crypto",
-      "headline": "Bitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support",
-      "summary": "Bitcoin Magazine Bitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support Bitcoin price plunged from $61,000 to $58,000 in a sharp sell-off this morning. This post Bitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support first appeare",
-      "published_at": "2026-06-25T14:27:34.000Z",
+      "headline": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’",
+      "summary": "According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.",
+      "published_at": "2026-06-25T18:03:32.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://www.tbstat.com/wp/uploads/2024/11/hype-hyperliquid-800x450.jpg"
+    },
+    {
+      "id": "evt_ed8b8914918ac171",
+      "topic": "ai",
+      "headline": "Polestar has been muscled out of the US market",
+      "summary": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China. In a press release, the company says the decision t",
+      "published_at": "2026-06-25T17:58:37.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/2026VolvoPolestar4PeterNelson30.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_cacfd5b3b976c856",
+      "topic": "politics",
+      "headline": "Harvey Weinstein's New York rape charge dropped after accuser says she can't endure a fourth trial - AP News",
+      "summary": "Harvey Weinstein's New York rape charge dropped after accuser says she can't endure a fourth trial AP News",
+      "published_at": "2026-06-25T17:56:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaENmeTRDaVdWby1lajV2aXZ3S2RWSjdyUFFURFFPei0zUkNOVGE2YkE0eGdJdEI4d0pjdVd2VFFJa2JGdGd4MVVyX0szRGE3c0VjODRJd0YzM2xXYkhtNXUxMjQ3b0hlUGpJNmNvVFVmZ1VmQkMyODlmOUxOOEYyRmZCdjF4Qmg5R0dab3hwczNPeFdHbGdEbTlNNA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_3744369846105c63",
+      "topic": "crypto",
+      "headline": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
+      "summary": "Bitcoin Magazine Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban Senior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions. This po",
+      "published_at": "2026-06-25T17:54:13.000Z",
       "sources": [
         {
           "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-from-61000-to-58000",
+          "url": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
           "homepage": "https://bitcoinmagazine.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Flash-Crashes-from-61000-to-58000-as-Market-Waits-For-Support.jpg"
-    },
-    {
-      "id": "evt_1e4805a0844bff7d",
-      "topic": "finance",
-      "headline": "Genius Sports Limited (GENI) Sold Off Due to Market’s Skepticism",
-      "summary": "Genius Sports Limited (GENI) Sold Off Due to Market’s Skepticism",
-      "published_at": "2026-06-25T14:25:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/genius-sports-limited-geni-sold-142500997.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/093a36a1a895cf9822c644df05978eff"
-    },
-    {
-      "id": "evt_8d1579352cee6ec1",
-      "topic": "finance",
-      "headline": "Merck KGaA to buy Bio-Techne for $11.3bn in life science footprint expansion",
-      "summary": "Merck KGaA to buy Bio-Techne for $11.3bn in life science footprint expansion",
-      "published_at": "2026-06-25T14:22:24.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/merck-kgaa-buy-bio-techne-142224900.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/medical_device_network_744/596175213909289cc801b526b046b6a7"
+      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-6.webp"
     },
     {
-      "id": "evt_53cfa5e736daa7f8",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-06-25T10:31:23.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiQnJMR2xmYldwU0V2ZWN5SEdtYU44UFM1NC1rVmNxZXQ3NXB5NTREVTNSanpGSnVDYXNCU21vakd1aTRWTU9LSE5kQUd6R2pzSGZGd3lMaXgwdEtWUENENHVn?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_d2d38c60b83ed0d8",
-      "topic": "finance",
-      "headline": "What Makes Powell Industries (POWL) a Strong Investment?",
-      "summary": "What Makes Powell Industries (POWL) a Strong Investment?",
-      "published_at": "2026-06-25T14:21:27.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-powell-industries-powl-strong-142127743.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/e8cf612b90e38c09d8b9f6409a4f4cc7"
-    },
-    {
-      "id": "evt_2910f2a6feb1230b",
-      "topic": "finance",
-      "headline": "Applied Optoelectronics (AAOI) Rallied on Robust Results and Winning Major Orders",
-      "summary": "Applied Optoelectronics (AAOI) Rallied on Robust Results and Winning Major Orders",
-      "published_at": "2026-06-25T14:20:23.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-rallied-robust-142023820.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/d5fabd798a16db6c442179003c5c7925"
-    },
-    {
-      "id": "evt_c775518fa76612a0",
-      "topic": "finance",
-      "headline": "iShares vs. Invesco: Which Aerospace ETF Is Best for Your Portfolio in 2026?",
-      "summary": "iShares vs. Invesco: Which Aerospace ETF Is Best for Your Portfolio in 2026?",
-      "published_at": "2026-06-25T14:20:01.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-vs-invesco-aerospace-etf-142001933.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/057f0a4da36aed304d5126e836a6efed"
-    },
-    {
-      "id": "evt_9a06123c9b3d79ff",
-      "topic": "finance",
-      "headline": "US Supreme Court scales back Roundup cancer lawsuits",
-      "summary": "US Supreme Court scales back Roundup cancer lawsuits",
-      "published_at": "2026-06-25T14:19:02.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/us-supreme-court-scales-back-roundup-cancer-lawsuits-4760959",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5O150_L.jpg"
-    },
-    {
-      "id": "evt_0b89fbe569bc888e",
-      "topic": "finance",
-      "headline": "Trust Stamp announces closing of $5.5M financing",
-      "summary": "Trust Stamp announces closing of $5.5M financing",
-      "published_at": "2026-06-25T14:19:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trust-stamp-announces-closing-5-141900941.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/proactive_us_504/54f464d060a30ccb66df3621c33f74d6"
-    },
-    {
-      "id": "evt_2272e5342b01e7da",
-      "topic": "finance",
-      "headline": "Apple’s MacBooks and iPads are getting more expensive as the memory crunch deepens",
-      "summary": "Apple increased prices on select MacBooks and iPads Thursday morning on the heels of a blowout Micron earnings report.",
-      "published_at": "2026-06-25T14:19:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/apples-macbooks-and-ipads-are-getting-more-expensive-as-the-memory-crunch-deepens-ec6ae81d?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://images.mktw.net/im-44495712"
-    },
-    {
-      "id": "evt_9231e113df4547fd",
-      "topic": "politics",
-      "headline": "UK’s hottest June: ‘The population should have been prepared for this’",
-      "summary": "Schools are closing, public transport is slowing and cooling items are flying off shelves as Britons swelter.",
-      "published_at": "2026-06-25T14:18:46.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/25/uks-hottest-june-the-population-should-have-been-prepared-for?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_ea668e5ed20d2620",
-      "topic": "politics",
-      "headline": "Europe's heatwave shifts east as France raises health alert to highest level",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "published_at": "2026-06-25T14:18:45.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/7e15c860-7099-11f1-86cf-0fd142c2b6fb.jpg"
-    },
-    {
-      "id": "evt_80c79aae3f0aecf2",
-      "topic": "finance",
-      "headline": "US Supreme Court sides with Trump in asylum-processing case",
-      "summary": "US Supreme Court sides with Trump in asylum-processing case",
-      "published_at": "2026-06-25T14:18:41.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/us-supreme-court-sides-with-trump-in-asylumprocessing-case-4760958",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5O15B_L.jpg"
-    },
-    {
-      "id": "evt_2ed5a5a25f3bde72",
-      "topic": "finance",
-      "headline": "Best US Application Software Stocks: Citi Updates Top Picks",
-      "summary": "Best US Application Software Stocks: Citi Updates Top Picks",
-      "published_at": "2026-06-25T14:18:34.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/best-us-application-software-stocks-citi-updates-top-picks-93CH-4760953",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-    },
-    {
-      "id": "evt_ffd82963fe49dc98",
-      "topic": "finance",
-      "headline": "HZ Green Pulp and Hotpack partner on dry-moulded fibre food packs",
-      "summary": "HZ Green Pulp and Hotpack partner on dry-moulded fibre food packs",
-      "published_at": "2026-06-25T14:18:31.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/hz-green-pulp-hotpack-partner-141831010.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/packaging_gateway_559/00fb05afc040f1273aa249d1b6c7f4a8"
-    },
-    {
-      "id": "evt_41f3a88c0758429f",
-      "topic": "finance",
-      "headline": "Bayer stock surges 20% on Supreme Court Roundup ruling",
-      "summary": "Bayer stock surges 20% on Supreme Court Roundup ruling",
-      "published_at": "2026-06-25T14:18:20.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/bayer-stock-surges-20-on-supreme-court-roundup-ruling-4760957",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_aae11789023774e9",
-      "topic": "finance",
-      "headline": "Form 144 STERLING INFRASTRUCTURE For: 25 June",
-      "summary": "Form 144 STERLING INFRASTRUCTURE For: 25 June",
-      "published_at": "2026-06-25T14:18:13.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-144-sterling-infrastructure-for-25-june-93CH-4760956",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_97677f69c7688809",
-      "topic": "finance",
-      "headline": "PCE Inflation Data, Falling Oil Prices Calm Fed Fears (Live Coverage)",
-      "summary": "PCE Inflation Data, Falling Oil Prices Calm Fed Fears (Live Coverage)",
-      "published_at": "2026-06-25T14:18:06.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/pce-inflation-may-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/ibd.com/fc0eb6c0b6a3d2173eda5875717362d1"
-    },
-    {
-      "id": "evt_b82e4192bfb93d0a",
-      "topic": "finance",
-      "headline": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
-      "summary": "The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday",
-      "published_at": "2026-06-25T10:01:47.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_ee82a1f0e6f8568a",
-      "topic": "finance",
-      "headline": "Memory Price Tsunami Swamps Apple as Tim Cook Hikes Prices 20%",
-      "summary": "Memory Price Tsunami Swamps Apple as Tim Cook Hikes Prices 20%",
-      "published_at": "2026-06-25T14:17:40.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/memory-price-tsunami-swamps-apple-141740937.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/5004e501ba7bdbd9f627ff3b7421b66c"
-    },
-    {
-      "id": "evt_038a8f356141bf51",
-      "topic": "finance",
-      "headline": "Qualcomm unveils data center AI chips, Meta as CPU customer",
-      "summary": "Qualcomm unveils data center AI chips, Meta as CPU customer",
-      "published_at": "2026-06-25T14:17:25.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-unveils-data-center-ai-141725469.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/quartz_855/afc510c6dc535950cea9cff40beb9de4"
-    },
-    {
-      "id": "evt_76646af4c5f782a0",
-      "topic": "finance",
-      "headline": "Citigroup vs. Wells Fargo: Which Financial Stock Is a Better Buy in 2026?",
-      "summary": "Citigroup vs. Wells Fargo: Which Financial Stock Is a Better Buy in 2026?",
-      "published_at": "2026-06-25T14:17:01.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-vs-wells-fargo-financial-141701431.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/f7a65c96d166faf21aac2b3268722093"
-    },
-    {
-      "id": "evt_0aaa73978a6501a3",
-      "topic": "finance",
-      "headline": "MetroCity Bankshares stock hits 52-week high at $35.30",
-      "summary": "MetroCity Bankshares stock hits 52-week high at $35.30",
-      "published_at": "2026-06-25T14:16:47.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/metrocity-bankshares-stock-hits-52week-high-at-3530-93CH-4760954",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_e1453afd16726021",
-      "topic": "finance",
-      "headline": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
-      "summary": "The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.",
-      "published_at": "2026-06-25T14:16:23.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_a74ddd65b11912c4",
+      "id": "evt_4634e43508c49ae1",
       "topic": "ai",
-      "headline": "Federal agents track down woman, demand she remove Instagram post about ICE",
-      "summary": "Article URL: https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html Comments URL: https://news.ycombinator.com/item?id=48673787 Points: 17 # Comments: 2",
-      "published_at": "2026-06-25T14:16:17.000Z",
+      "headline": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+      "published_at": "2026-06-25T17:52:05.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_cc8670784f85ae32",
-      "topic": "finance",
-      "headline": "Solstice Advanced Materials (SOLS) is Establishing a Standalone Position Post Spin-off",
-      "summary": "Solstice Advanced Materials (SOLS) is Establishing a Standalone Position Post Spin-off",
-      "published_at": "2026-06-25T14:16:05.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solstice-advanced-materials-sols-establishing-141605248.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/907a28daf4f5aad0454c46ab7f50ba74"
-    },
-    {
-      "id": "evt_f09ee9c541b98f6e",
-      "topic": "finance",
-      "headline": "Earnings call transcript: TD SYNNEX tops Q2 2026 forecasts as AI demand surges",
-      "summary": "Earnings call transcript: TD SYNNEX tops Q2 2026 forecasts as AI demand surges",
-      "published_at": "2026-06-25T14:15:28.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-td-synnex-tops-q2-2026-forecasts-as-ai-demand-surges-93CH-4760952",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_79157ab9090d0194",
-      "topic": "finance",
-      "headline": "My son passed away. Am I crazy to move to my former home and sell a house I bought in September?",
-      "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
-      "published_at": "2026-06-25T14:15:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://images.mktw.net/im-65344011"
-    },
-    {
-      "id": "evt_20586c17d3de4f20",
-      "topic": "finance",
-      "headline": "Biogen stock reaches 52-week high at 206.21 USD",
-      "summary": "Biogen stock reaches 52-week high at 206.21 USD",
-      "published_at": "2026-06-25T14:14:17.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/biogen-stock-reaches-52week-high-at-20621-usd-93CH-4760951",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_98df520bab8544e9",
-      "topic": "finance",
-      "headline": "Winnebago Industries earnings missed by $0.11, revenue fell short of estimates",
-      "summary": "Winnebago Industries earnings missed by $0.11, revenue fell short of estimates",
-      "published_at": "2026-06-25T14:13:58.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/winnebago-industries-earnings-missed-by-011-revenue-fell-short-of-estimates-4760950",
-          "homepage": "https://www.investing.com"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most",
+          "homepage": "https://techcrunch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777
     },
     {
-      "id": "evt_9df5960fdb4ca652",
+      "id": "evt_eb8cbb92a8eb9689",
+      "topic": "politics",
+      "headline": "Hornets trade LaMelo Ball, Josh Green to Timberwolves for Naz Reid, draft picks, AP source says - AP News",
+      "summary": "Hornets trade LaMelo Ball, Josh Green to Timberwolves for Naz Reid, draft picks, AP source says AP News",
+      "published_at": "2026-06-25T17:51:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmdxbWZVTUJ5bVlIRWRkNUxzWVM0WldXeVlOejJUU2piYlo5MTZlQ19DU2RtUFBrWDR4Ukx5aXpIaUVQMV9VNlUyWm9FMDVKb3JxajgxcXNCU1VUcjFld2J1d0VLajBWVlpsTkdrMWcyWDhJc3p0RmZQQUtUTURibXFpSGQyU2l0RHpCMldzWlFPV3Vqc0F3bjd0TEtyMXNVdkV1MlAzbzBxTEtlU2c?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_183f0b20bd0630d2",
       "topic": "finance",
-      "headline": "Target Hospitality stock hits all-time high at 20.81 USD",
-      "summary": "Target Hospitality stock hits all-time high at 20.81 USD",
-      "published_at": "2026-06-25T14:13:44.000Z",
+      "headline": "Stellantis, Nissan in talks to buy assets from Marelli, Bloomberg News reports",
+      "summary": "Stellantis, Nissan in talks to buy assets from Marelli, Bloomberg News reports",
+      "published_at": "2026-06-25T17:48:24.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/target-hospitality-stock-hits-alltime-high-at-2081-usd-93CH-4760949",
+          "url": "https://investing.com/news/stock-market-news/stellantis-nissan-in-talks-to-buy-assets-from-marelli-bloomberg-news-reports-4761230",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5O1GI_L.jpg"
     },
     {
-      "id": "evt_6e7b94688fbbe1f2",
-      "topic": "finance",
-      "headline": "Archrock (AROC) Gains From Increasing Oil Prices",
-      "summary": "Archrock (AROC) Gains From Increasing Oil Prices",
-      "published_at": "2026-06-25T14:13:04.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/archrock-aroc-gains-increasing-oil-141304246.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/db2c39d1b6cfdd72d878472636bb8504"
-    },
-    {
-      "id": "evt_30c3f0e5b14747b4",
+      "id": "evt_7086bec9e55caae2",
       "topic": "crypto",
-      "headline": "Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark",
-      "summary": "The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC preferred shares notched a new low and MSTR fell alongside.",
-      "published_at": "2026-06-25T14:11:01.000Z",
+      "headline": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
+      "summary": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
+      "published_at": "2026-06-25T17:48:18.000Z",
       "sources": [
         {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100",
-          "homepage": "https://decrypt.co"
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
+          "homepage": "https://www.coindesk.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png"
-    },
-    {
-      "id": "evt_a36325684f7826ff",
-      "topic": "politics",
-      "headline": "Supreme Court strikes down Hawaii law requiring permission to carry guns in stores and hotels - AP News",
-      "summary": "Supreme Court strikes down Hawaii law requiring permission to carry guns in stores and hotels AP News",
-      "published_at": "2026-06-25T14:11:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVF9WSjdITWlxaWFSUlNtNHN3THJGaUJDV0YzNE1YalZXa3Z0QmdBa3Q5OElGMFYzMWFTVmhSa0VOX0JzemhoQVRXOGstVnlNNm1rWDIwcmlkbENJLXpSYU5xU2FEOUU0c1cyd1liRllHMS1SNnp4Nkl5TktfYURNWmlRX2tXdzRGLThZNDVQcEpWUG96Rnc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_c7b3d260523af45a",
-      "topic": "politics",
-      "headline": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
-      "summary": "New deconfliction mechanism seeks to prevent return to all-out war in Lebanon and in the region.",
-      "published_at": "2026-06-25T14:10:27.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_f8e584a0d7a63cd4",
-      "topic": "finance",
-      "headline": "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker",
-      "summary": "Pakistan's efforts to bring an end to the conflict in the Middle East are driven by the need to avoid a spillover across its borders.",
-      "published_at": "2026-06-25T14:09:18.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/irans-neighbor-us-ally-what-pakistan-gains-from-being-a-peacemaker.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_381611d53b433ba4",
-      "topic": "politics",
-      "headline": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller - AP News",
-      "summary": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller AP News",
-      "published_at": "2026-06-25T14:08:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGVzRlNlZmZtMkxVa2xTd1ZJVzE5aXdOakpWa3BZaTJTZGlQVXFVNjl5NzRxYnlyNW9Tb0VvRGZtY3hVcldPbzZndk5YZ3ZCcWRnS2NZX3RSMl8xZFRlenU5RjRMSDF4UEhxMmR4WEJ3WTdkaVM5NUJxZlFVVlFzZ2ctcEZTSEp3Vm16TmhGREtPU0Fq?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_75711580d345f9a6",
-      "topic": "finance",
-      "headline": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
-      "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
-      "published_at": "2026-06-25T14:07:30.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_361f40c5093d5906",
-      "topic": "finance",
-      "headline": "Sandisk, Western Digital and others soar as Micron results 'justify elevated valuations'",
-      "summary": "Sandisk, Western Digital and others soar as Micron results 'justify elevated valuations'",
-      "published_at": "2026-06-25T14:06:42.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/AgoDqFFj8qRXXpNlL6l_zQ--~B/aD0xMzg5O3c9MjIwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/27510afe-3288-49cb-8a93-5c5d0231dbd1"
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "id": "evt_84ba85d195a47bf3",
@@ -864,170 +325,697 @@
       "weight": 0.776
     },
     {
-      "id": "evt_b6a6b435d2e057b0",
+      "id": "evt_449c79ae67d772e3",
       "topic": "finance",
-      "headline": "Leopold Aschenbrenner’s Situational Awareness Likes This Crypto Stock Despite Bitcoin Declines",
-      "summary": "Leopold Aschenbrenner’s Situational Awareness Likes This Crypto Stock Despite Bitcoin Declines",
-      "published_at": "2026-06-25T14:05:16.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/leopold-aschenbrenner-situational-awareness-likes-140516829.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/0971d6cd3bf2316b357359295d292af5"
-    },
-    {
-      "id": "evt_f4dc2b7cf9c70cc3",
-      "topic": "finance",
-      "headline": "ARS Pharma Collapses After CVS Punts Its Epinephrine Spray Decision To January",
-      "summary": "ARS Pharma Collapses After CVS Punts Its Epinephrine Spray Decision To January",
-      "published_at": "2026-06-25T14:04:58.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/technology/ars-pharmaceuticals-stock-cvs-caremark-neffy-coverage/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/ibd.com/5c84ff9ac4666e6339b646703473e828"
-    },
-    {
-      "id": "evt_df6434144a83670e",
-      "topic": "business",
-      "headline": "Supreme Court Shields Bayer From Roundup Cancer-Warning Suits - Bloomberg",
-      "summary": "Supreme Court Shields Bayer From Roundup Cancer-Warning Suits Bloomberg",
-      "published_at": "2026-06-25T14:03:37.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1dqUDB5OEwyMi1KcG5WTWpNRW9MWndqOS02ZG9yTmdURXZjX0R3bmhIalRua25ZTkhTTnNmNDJUYW45Y1lHN3hOU245NUxPOEloWklEeEJTNEo5bEhILXU2LTdTcW9JNTRqazBZWnJaTzhLSF9PTUN1ZG5kcm9Ub2RfSHFNQ0NfQ0hRYzlRNWYtRE4xVThsanFkVGtGY1pWWGwwUHl1eWlzMmwwNHh5ZDVB?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_188142ab313f9383",
-      "topic": "finance",
-      "headline": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
-      "summary": "The stern warning underscores Tehran's resolve to retain control over the Strait of Hormuz and to resist transits that bypass its authorization.",
-      "published_at": "2026-06-25T14:03:16.000Z",
+      "headline": "Microsoft lifts price of Xbox consoles due to soaring component costs",
+      "summary": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
+      "published_at": "2026-06-25T17:47:47.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
+          "url": "https://cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.777
     },
     {
-      "id": "evt_48a53d1dc715e732",
-      "topic": "finance",
-      "headline": "Palantir Hits New 52-Week Low As Swoon Drags On. Is Meme Stock Luster Gone?",
-      "summary": "Palantir Hits New 52-Week Low As Swoon Drags On. Is Meme Stock Luster Gone?",
-      "published_at": "2026-06-25T14:03:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/technology/palantir-stock-pltr-hits-52-week-low-software-pressured/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/ibd.com/a5a435f78b95f203bc8a8d8e9285bd56"
-    },
-    {
-      "id": "evt_7d9fd318febb75ee",
-      "topic": "business",
-      "headline": "How China’s Navy Is Tightening the Noose on Taiwan - WSJ",
-      "summary": "How China’s Navy Is Tightening the Noose on Taiwan WSJ",
-      "published_at": "2026-06-25T14:01:13.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODM5dGF5Z2pUS1NPNlFWU1ZuTlNxRmNQMUFSQlNKR2V0OE14M1pCa1ZOdVg2UnVlZEpuQXpYdzJzUG5mdkVpNGkzOGtKS0l2ZUtiOEdxQnpWcHVCTVRwdUl4SUVpYmIzaHNsLXRsSE9RX2I5bFE5MTdOdGsxZHlkMnJFUHpVOEdVcHk5TzFPUUlHT0hT?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_da146c29d661059d",
-      "topic": "politics",
-      "headline": "Key figure in South Africa police corruption scandal pleads guilty",
-      "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "published_at": "2026-06-25T14:00:13.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e05/live/9e33e940-709b-11f1-a21f-5d8df4493658.jpg"
-    },
-    {
-      "id": "evt_2ad11e684a05688e",
+      "id": "evt_0d8b19fd80f68026",
       "topic": "ai",
-      "headline": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
-      "published_at": "2026-06-25T14:00:00.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_7beb6a9daad47145",
-      "topic": "ai",
-      "headline": "EverQuest Legends is a powerful nostalgia machine",
-      "summary": "Lady Vox, the mighty dragon. (No affiliation with Vox Media.) I wasn't surprised when I got the call that my dad was dying, even though we'd been estranged for many years. He'd suffered addiction for decades and eventually ran out of time, which also meant he ran out of time to r",
-      "published_at": "2026-06-25T14:00:00.000Z",
+      "headline": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
+      "summary": "You can get a great, color-accurate 5K monitor for half the price of an Apple Studio Display. | Photo by John Higgins / The Verge RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That’s led to price increases on d",
+      "published_at": "2026-06-25T17:47:20.000Z",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://theverge.com/games/954841/everquest-legends-nostalgia",
+          "url": "https://theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
           "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/2276365-vox90b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "weight": 0.777,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268466_5K_monitor_v_Apple_display_JHiggins_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_bb2a9f1532ec0e04",
+      "id": "evt_7b9dcde6588815b6",
       "topic": "finance",
-      "headline": "A $600,000 Ferrari? How healthcare scam artists are laughing at the rest of us.",
-      "summary": "Ordinary people are trying to make the rent, and fraudsters are ripping off Medicare, Medicaid and private insurance.",
-      "published_at": "2026-06-25T14:00:00.000Z",
+      "headline": "Chan Zuckerberg Initiative's Biohub to open new rare disease funding round",
+      "summary": "Chan Zuckerberg Initiative's Biohub will offer new grants to the rare disease community while expanding its AI drug repurposing partnership with Every Cure.",
+      "published_at": "2026-06-25T17:45:53.000Z",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/a-600-000-ferrari-how-healthcare-scam-artists-are-laughing-at-the-rest-of-us-7c657088?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_234fb46a2060a234",
+      "topic": "finance",
+      "headline": "Stellantis and Nissan reportedly in talks for Marelli bankruptcy assets",
+      "summary": "Stellantis and Nissan reportedly in talks for Marelli bankruptcy assets",
+      "published_at": "2026-06-25T17:45:53.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/stellantis-and-nissan-reportedly-in-talks-for-marelli-bankruptcy-assets-4761229",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB5O06A_M.jpg"
+    },
+    {
+      "id": "evt_77dd375520edb8fe",
+      "topic": "finance",
+      "headline": "Form 4 Darden Restaurants For: 25 June",
+      "summary": "Form 4 Darden Restaurants For: 25 June",
+      "published_at": "2026-06-25T17:45:08.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/filings/form-4-darden-restaurants--for-25-june-93CH-4761228",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_e9dc9eca2c8074d7",
+      "topic": "finance",
+      "headline": "UK bond yields drop to lowest since April as rate hike bets ease",
+      "summary": "UK bond yields drop to lowest since April as rate hike bets ease",
+      "published_at": "2026-06-25T17:44:56.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/uk-bond-yields-drop-to-lowest-since-april-as-rate-hike-bets-ease-93CH-4761226",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_1a0a901bf7c83d93",
+      "topic": "finance",
+      "headline": "Palestinians decry Israeli push for control over ancient West Bank sites",
+      "summary": "Palestinians decry Israeli push for control over ancient West Bank sites",
+      "published_at": "2026-06-25T17:42:39.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/palestinians-decry-israeli-push-for-control-over-ancient-west-bank-sites-4759957",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5O0M8_L.jpg"
+    },
+    {
+      "id": "evt_d62611cfd7e41d40",
+      "topic": "finance",
+      "headline": "SS&C Technologies stock hits 52-week low at 64.37 USD",
+      "summary": "SS&C Technologies stock hits 52-week low at 64.37 USD",
+      "published_at": "2026-06-25T17:41:16.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/ssc-technologies-stock-hits-52week-low-at-6437-usd-93CH-4761225",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_5f254c81b28fa2f3",
+      "topic": "ai",
+      "headline": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "published_at": "2026-06-25T17:38:27.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_3b7cb07289f7029e",
+      "topic": "finance",
+      "headline": "Microsoft raises Xbox console prices citing component costs",
+      "summary": "Microsoft raises Xbox console prices citing component costs",
+      "published_at": "2026-06-25T17:37:13.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/microsoft-raises-xbox-console-prices-citing-component-costs-93CH-4761224",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://images.mktw.net/im-77518415"
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_70446835de14f638",
+      "topic": "finance",
+      "headline": "Omnicom Media, NBCUniversal develop CTV ad solution",
+      "summary": "Omnicom Media, NBCUniversal develop CTV ad solution",
+      "published_at": "2026-06-25T17:36:54.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/omnicom-media-nbcuniversal-develop-ctv-ad-solution-93CH-4761223",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_ae873867a4ceb35b",
+      "topic": "finance",
+      "headline": "Velocity Network adopts Calix AI platform for growth expansion",
+      "summary": "Velocity Network adopts Calix AI platform for growth expansion",
+      "published_at": "2026-06-25T17:36:53.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/velocity-network-adopts-calix-ai-platform-for-growth-expansion-93CH-4761222",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_66dd010d17b1f5d7",
+      "topic": "crypto",
+      "headline": "AI Took Your Job? California Wants to Know",
+      "summary": "California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are becoming a reality.",
+      "published_at": "2026-06-25T17:36:21.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg"
+    },
+    {
+      "id": "evt_ded169140a260e8b",
+      "topic": "finance",
+      "headline": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
+      "summary": "Oil risks fresh shocks as Iran appears to assert control over the waterway.",
+      "published_at": "2026-06-25T17:30:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://images.mktw.net/im-42221647"
+    },
+    {
+      "id": "evt_b7bf17a1db703afc",
+      "topic": "finance",
+      "headline": "Bond ETF flows surge in hunt for yield: 'Market sniffing out something here,' says BlackRock exec",
+      "summary": "Bond investors are abandoning aggregate benchmarks in favor of a broad mix of fixed-income investments to maximize yield with the stock market on edge.",
+      "published_at": "2026-06-25T17:29:00.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_ccb686056f91edf0",
+      "topic": "politics",
+      "headline": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians - AP News",
+      "summary": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians AP News",
+      "published_at": "2026-06-25T17:28:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFZFZDU5c1hnMWFhOTcxa196M1NaZ09RU3lNOWxOQm56ekRKNkhYX19OSDhuNWxoejI0TDV1eWtuWlR5Z3JYZHRRWU9pcENHTlRrajdYSDZvNkNtMVZnc1E1TXNkbk10UUZIUWM4THBfd3pRNlBoUUVCRTZxVDlfaW45RmxrVUtLb0w3NG9IVEQwSEZLQVBubEZ6LXRnWnNUTjZF?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_946d446afa158b01",
+      "topic": "politics",
+      "headline": "Hims' obesity drug business may get boost as employers drop coverage - Reuters",
+      "summary": "Hims' obesity drug business may get boost as employers drop coverage Reuters",
+      "published_at": "2026-06-25T17:26:57.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFjWlB1UXFrd0JCNWZPZmZDaWpHNVlLZDBFSDA2MXpNOFJUS1Bhdll3LU91QmpjdUFPd09UWURpQ0t4Y2duOUk3NkNrZi1MLUUwYzFzSDNRU1NZV1pSREhkS1p1bkptVy0zcTBNbjR0RnJZTzRGWm5ITkxKUXZsWHBjZ05aa2k4eXI3UHVfUWVwVW83NmxQc2RMMGdpb3FWMzVNVHhPOGpid3hmWlRiS1FhMUlobHlu?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_abe3e398cbfae0ad",
+      "topic": "politics",
+      "headline": "US judge blocks Trump administration's new student loan restrictions - Reuters",
+      "summary": "US judge blocks Trump administration's new student loan restrictions Reuters",
+      "published_at": "2026-06-25T17:26:05.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3MwOWZfSUg3Wm9NRXItZTFKcVFKQzhtRXBzZmtUd3JSYWk2ZzVTUUlja1dkaElybXVUMW1jcC1XVEhzMF9WN3RCSndTemJnaUVBS0ZuY1VkZUhaX2l6X25MZzdhMjhISXh0NUZneXNxWUc0RVBfemlEWUpnMllTaWN1a1NvMnJ2WDRlVTA4aV9rZ0dBVHRpc1l0RXBzOVdfVWdubXZadWtrVmk2QVNVN3BCbmY1amdTMnNHMw?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_53cfa5e736daa7f8",
+      "topic": "business",
+      "headline": "Print Edition | Wall Street Journal - WSJ",
+      "summary": "Print Edition | Wall Street Journal WSJ",
+      "published_at": "2026-06-25T10:31:23.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiQnJMR2xmYldwU0V2ZWN5SEdtYU44UFM1NC1rVmNxZXQ3NXB5NTREVTNSanpGSnVDYXNCU21vakd1aTRWTU9LSE5kQUd6R2pzSGZGd3lMaXgwdEtWUENENHVn?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_86bb80d17d3f3d76",
+      "topic": "politics",
+      "headline": "Supreme Court lets Trump end deportation protections for Syrians and Haitians - Reuters",
+      "summary": "Supreme Court lets Trump end deportation protections for Syrians and Haitians Reuters",
+      "published_at": "2026-06-25T17:24:40.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHJOZVBScjFUMXNsbktUM3Z1ckZ5RXJtMDlqYkhySVBTX2xzOXFIcVozQWdMdnpZa0N0NnJDSTlXa1JaWWdVbFRFRXZENjVJUzZpZE1BNExCdlZOcm5iV1phWWlTdlc4SnM2ZV8tUTdGSUlCMDROMnF1MVd3bGtDMVRsTXZQNC04N0RRMWRMWTlZSG5FcE1VSjFNVWpKa215Ty14bE8xNzZ2aTRkaGtIeQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_d9dbf4a5e854935f",
+      "topic": "politics",
+      "headline": "JPMorgan reshapes Jamie Dimon succession race with executive shuffle - Reuters",
+      "summary": "JPMorgan reshapes Jamie Dimon succession race with executive shuffle Reuters",
+      "published_at": "2026-06-25T17:23:35.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZxUm5PYmV5TGxEa2tIMlhWb3hENVo0VmlYRFlYN3BrcjltMmxjTExOSHlMb2wxSjZFSldnbEE1emtBSU05VGx2OWhDRGd2by1pWFIxMlYyWFRpMV9LYzEyNTlGTUFhbEFNT0tJZlFxYTZHS0wtaGpadHpDdDVJekh5Rzl0aGZXcnc5QmdTR19FR2xqVTR4cUlVbEZtQm1DZmFuQmtBS1pWMlE?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_598b434d0a836a92",
+      "topic": "business",
+      "headline": "States Are Betting That AI Can Solve the Prison Recidivism Crisis - WSJ",
+      "summary": "States Are Betting That AI Can Solve the Prison Recidivism Crisis WSJ",
+      "published_at": "2026-06-25T17:16:05.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xeVltOU83QTlKUHJ1bGpNWFQxZmRwVTdWaXdRTTRpYTBwSTRJT3ZUemdoLXFsZW9rTGNJRXNOQVpEMks3M0JFMC1hOWRXUGNyTENIbnpQUlJSa0xzcDdzc1BicEZVaVdPWGJMcC1Vd1V3ZDY0UUtV?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_26d4d3cc724c7611",
+      "topic": "crypto",
+      "headline": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
+      "summary": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
+      "published_at": "2026-06-25T17:14:19.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/b5ae4fb4478c42b7ccde14b1283bce493cf7f8de-3324x1870.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_7610574c28a596ab",
+      "topic": "business",
+      "headline": "House of the Week: A Colorado Home Built Around Two Circa-1900 Sheds - WSJ",
+      "summary": "House of the Week: A Colorado Home Built Around Two Circa-1900 Sheds WSJ",
+      "published_at": "2026-06-25T17:13:36.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWVFTENxRDlvTkYxY3dGaDRZaXUzcGhqTnlkcERJaUh4cTZSc2ZGMGctSG52RlNOZUJxekdJOGpRUmY2VzItdzhpelRtR3JGNW5GUE51Y0hSWU93Tk5rRFl0ejEtTm5RNnlZdldZZG5mclFLLXNNTDVfTWZtWXNLdGYzaVZwelJ2?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_4e1bef9f6165f1dc",
+      "topic": "business",
+      "headline": "MIT: Sloan - Business school rankings from the Financial Times - FT.com - Financial Times",
+      "summary": "MIT: Sloan - Business school rankings from the Financial Times - FT.com Financial Times",
+      "published_at": "2026-06-25T17:13:35.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXdHQnFheDBIV1RHTVk1UmFrRUVqeXdkWUNoRGNRMVdoNXdMRVRFS291TVZ5SHIyTTh0Qmp5VkZSQmFCWE1WU3Vjc29TeElnX1ZwWlpuNDR4VDNzNVgyaFJPenp5YjNLZGZ0RXhuMk1ucmhHOG43S0xaT1cwa3d5QXpISWhUT2RKYVhES0xoTHBvWHprSUF0V25yM3poaWxfaGRIb3FBN3dlc21PNmVNR2lrdw?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_3b6a84a9b69005a6",
+      "topic": "ai",
+      "headline": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "summary": "The latest iPad Air is still available at its pre-price hike discount. | Photo by Amelia Holowaty Krales / The Verge Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a disc",
+      "published_at": "2026-06-25T17:12:48.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0107.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_8de221ff15b54b5f",
+      "topic": "politics",
+      "headline": "Ukrainian attack on Crimea kills five, Russian officials say",
+      "summary": "Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move.",
+      "published_at": "2026-06-25T17:12:34.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_22f287ef932cf2b5",
+      "topic": "politics",
+      "headline": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "summary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
+      "published_at": "2026-06-25T17:11:34.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_d61f50ba68708220",
+      "topic": "crypto",
+      "headline": "XRP risks drop below $1, but onchain data highlights silver lining",
+      "summary": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
+      "published_at": "2026-06-25T17:11:33.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/xrp-cover-june-2.jpg"
+    },
+    {
+      "id": "evt_769dcda6355f33bb",
+      "topic": "crypto",
+      "headline": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
+      "summary": "Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.",
+      "published_at": "2026-06-25T17:10:34.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://www.tbstat.com/wp/uploads/2026/04/20260427_Base_News_3-800x450.jpg"
+    },
+    {
+      "id": "evt_38b7be1a3527c8ce",
+      "topic": "ai",
+      "headline": "54 Prime Day steals under $25 you won&#8217;t want to miss",
+      "summary": "We at The Verge love a good gadget or tchotchke, especially when it’s not too expensive. But with the rising cost of just about everything these days, many once-cheap gadgets aren’t so affordable anymore. Amazon and other retailers sell all sorts of products from word salad brand",
+      "published_at": "2026-06-25T17:09:43.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-29-at-2.11.21%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_091dca8f49c8fa47",
+      "topic": "politics",
+      "headline": "How the HPV vaccine changes how we think about cancer",
+      "summary": "Al Jazeera’s Linh Nguyen explains how the HPV vaccine changes the way we think about cancer.",
+      "published_at": "2026-06-25T17:07:49.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/6/25/how-the-hpv-vaccine-changes-how-we-think-about-cancer?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_05efd87c236e5d40",
+      "topic": "crypto",
+      "headline": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
+      "summary": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
+      "published_at": "2026-06-25T17:06:10.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/42963008a3d40459c55785a6a7a9d895e242656a-5376x3072.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_058e557bc4f618fa",
+      "topic": "crypto",
+      "headline": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
+      "summary": "Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps.",
+      "published_at": "2026-06-25T17:04:23.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://www.tbstat.com/wp/uploads/2026/04/20260427_Base_News_2-800x450.jpg"
+    },
+    {
+      "id": "evt_b82e4192bfb93d0a",
+      "topic": "finance",
+      "headline": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
+      "summary": "The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday",
+      "published_at": "2026-06-25T10:01:47.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_d86b56fae0e1e9ab",
+      "topic": "finance",
+      "headline": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
+      "summary": "Glyphosate, used in Roundup weedkiller, is the most commonly utilized herbicide in agriculture, and it has long been linked to cancer claims.",
+      "published_at": "2026-06-25T17:02:10.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_17c22eb865f2900f",
+      "topic": "politics",
+      "headline": "Thousands feared dead in Venezuela after two major earthquakes - Reuters",
+      "summary": "Thousands feared dead in Venezuela after two major earthquakes Reuters",
+      "published_at": "2026-06-25T17:01:40.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakFMQnhGYTZ4Q2pqSDVfdkswbjdQM1A2cHFVeVdodzFyQjlCOUFCM1FqSl8xb2hDOU1UM2tDLUFVTjV5Q0Rkc0xiYTBGbkJPVTE5VkxEejJQTXZOZjRQeERYVGpjcW5CTFg1Z05BV2FkdVZsdEUyaVlnY1pSaU05bG14QTh5dmw4NEdVWHlQTmRlX3hvUVhzdkw5M2xza01rTjc2MUZwZzNJNmV1M19LektzMGV1UFFCRmIzZ2FETjA?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_65a57c3f60e464be",
+      "topic": "business",
+      "headline": "As AI Companies Race for Power, Amazon and Google Have the Lead - WSJ",
+      "summary": "As AI Companies Race for Power, Amazon and Google Have the Lead WSJ",
+      "published_at": "2026-06-25T17:01:07.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUG1YZXNiU1ZSWHB4dG56c1RvNXgtX29QVTIxWnNrLTZnTXlsLUpYcHlici1ScHh4NlZUelU5SmM5c3RzdW01SXRyNUtsdGM0NUhubGc0bnhZeFdKV0FOM2xOb0tTUl9HSTJwRGRFNkRyek1jQ2VIUkViSkR1ZllwU1VmQW1xT3hPVnRVM1ZnRjhxUllHLWJ0bVladTNEUGxUMFR1QmVCZ1gxSUpfS3JGNA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_87c779219f84a5de",
+      "topic": "crypto",
+      "headline": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
+      "summary": "Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and prediction markets mature while several 2026 targets slip.",
+      "published_at": "2026-06-25T17:00:58.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-image-for-evergreenguide-about-crypto-price-prediction.jpg"
+    },
+    {
+      "id": "evt_362375f4466471bf",
+      "topic": "ai",
+      "headline": "Prime Day deals under $50 that are really worth it",
+      "summary": "If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Bluetooth speakers while sticking to your budget. We’ll keep this post updated throughout",
+      "published_at": "2026-06-25T17:00:26.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/gadgets/951543/best-prime-day-deals-under-50",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/JBL-Go-4-Speaker-Lifestyle-Image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_8173b77bcd3d6596",
+      "topic": "ai",
+      "headline": "Besimple AI (YC P25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/item?id=48676256 Points: 0 # Comments: 0",
+      "published_at": "2026-06-25T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_aab819b2b446b0c0",
+      "topic": "finance",
+      "headline": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+      "summary": "“I would not like my money to fall into the hands of my former spouse.”",
+      "published_at": "2026-06-25T17:00:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://images.mktw.net/im-40681595"
     }
   ]
 }
