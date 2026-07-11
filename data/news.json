@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:03:01.210Z",
+  "generated_at": "2026-07-11T20:47:29.547Z",
   "clusters": [
-    {
-      "id": "evt_3f27cad80e20708d",
-      "topic": "politics",
-      "headline": "Typhoon Bavi Hits China",
-      "summary": "Typhoon Bavi made landfall. Over 1 million evacuated.",
-      "published_at": "2026-07-11T16:54:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFpYaEtpZ2dWSzVtVndmRk01cTZ0aHQybGswb1c5QXd1WGtBRjIwejcwbUQ3cFJOVDV1MEpzdVQ0MGNKWWdETkVxVTRYV0ZHYVNTOEVJTktCWlQwVFJnVklJMEIwa3R0SHJDZVotNHdnRi1lbXl1dFpMcXo4eE5pV1lyeWlLWmdoeWxlX0pFRFk5QXRRMHc?oc=5",
-          "homepage": "https://apnews.com"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUVORnVJVlAxZ1U2R2VGdy1UYUFGeU9OWW16dVkzb0tTUlo5em16Z2xzTXBTUlZTNVRnNXlQbGdrRFF0TURjLWJ0SUYxRHdpM1o4ZFJhcEgzNF9OWG5hUHR4YTRTTk5PY1Y4VFdJVEdkalYtVFd4eEtKb016TUpOekFYRkp5SU5EM1N5ZXY1TWJSRDlnMEZWTzVRYWg1cjNzWm1HZUZicVp4RnM?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 3,
-      "weight": 1
-    },
     {
       "id": "evt_4ef56e6cd2b12138",
       "topic": "crypto",
@@ -53,27 +27,6 @@
       "source_count": 3,
       "weight": 1,
       "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg"
-    },
-    {
-      "id": "evt_0e7fe1bd9b60e0a6",
-      "topic": "politics",
-      "headline": "Jayden Adams Dies",
-      "summary": "Jayden Adams died. He was 25.",
-      "published_at": "2026-07-11T18:38:50.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDZQSVJPcGJUcXAtT0pPbmNPR0ZuQm1WUTNLNUhMb1hGVVZZdzR0eUJWYnhTSW1NUDRXNjRNOEktR19XeVBXaHhXbzZwbXlnOUVIUFhBbFlkWm1yYUVQbHdUNlFWWS1GZnRianNFUUhscUJDUWF6RUNDUS1Hc2hhcVplQ0hoeDlXN0tWNjB4OTgwanpJVTNycw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.957
     },
     {
       "id": "evt_ccddeadd689db353",
@@ -119,6 +72,48 @@
       "weight": 0.933
     },
     {
+      "id": "evt_0e7fe1bd9b60e0a6",
+      "topic": "politics",
+      "headline": "Jayden Adams Dies",
+      "summary": "Jayden Adams died. He was 25.",
+      "published_at": "2026-07-11T18:38:50.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDZQSVJPcGJUcXAtT0pPbmNPR0ZuQm1WUTNLNUhMb1hGVVZZdzR0eUJWYnhTSW1NUDRXNjRNOEktR19XeVBXaHhXbzZwbXlnOUVIUFhBbFlkWm1yYUVQbHdUNlFWWS1GZnRianNFUUhscUJDUWF6RUNDUS1Hc2hhcVplQ0hoeDlXN0tWNjB4OTgwanpJVTNycw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.957
+    },
+    {
+      "id": "evt_e79239fc5e8289fb",
+      "topic": "politics",
+      "headline": "Typhoon Bavi Hits China",
+      "summary": "Typhoon Bavi made landfall. Over 1 million evacuated.",
+      "published_at": "2026-07-11T16:54:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFpYaEtpZ2dWSzVtVndmRk01cTZ0aHQybGswb1c5QXd1WGtBRjIwejcwbUQ3cFJOVDV1MEpzdVQ0MGNKWWdETkVxVTRYV0ZHYVNTOEVJTktCWlQwVFJnVklJMEIwa3R0SHJDZVotNHdnRi1lbXl1dFpMcXo4eE5pV1lyeWlLWmdoeWxlX0pFRFk5QXRRMHc?oc=5",
+          "homepage": "https://apnews.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUVORnVJVlAxZ1U2R2VGdy1UYUFGeU9OWW16dVkzb0tTUlo5em16Z2xzTXBTUlZTNVRnNXlQbGdrRFF0TURjLWJ0SUYxRHdpM1o4ZFJhcEgzNF9OWG5hUHR4YTRTTk5PY1Y4VFdJVEdkalYtVFd4eEtKb016TUpOekFYRkp5SU5EM1N5ZXY1TWJSRDlnMEZWTzVRYWg1cjNzWm1HZUZicVp4RnM?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.928
+    },
+    {
       "id": "evt_958cb608bf34bd23",
       "topic": "politics",
       "headline": "South Africa World Cup midfielder Adams dies aged 25",
@@ -139,28 +134,6 @@
       "source_count": 2,
       "weight": 0.925,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg"
-    },
-    {
-      "id": "evt_7d6c02a203bc9f44",
-      "topic": "politics",
-      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "published_at": "2026-07-10T22:54:16.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.929,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg"
     },
     {
       "id": "evt_4a4eb9d6ce36ad34",
@@ -185,37 +158,746 @@
       "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-sell-bitcoins2.jpg"
     },
     {
-      "id": "evt_1f3132a3a10ad7ec",
+      "id": "evt_10a9cd46a6ec5cf0",
+      "topic": "finance",
+      "headline": "Trump Threatens Iran",
+      "summary": "Trump threatened Iran. Sanctions imposed on financier.",
+      "published_at": "2026-07-11T20:35:21.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/11/trump-threat.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_1757ea720ed9783b",
       "topic": "business",
-      "headline": "Hillside Apartments LLC - Bloomberg.com",
-      "summary": "Hillside Apartments LLC Bloomberg.com",
-      "published_at": "2026-07-11T19:02:18.000Z",
+      "headline": "Iran Rejects US Talks",
+      "summary": "Iran rejected US talks. Reporters got subpoenas.",
+      "published_at": "2026-07-11T20:35:00.000Z",
       "sources": [
         {
           "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4WEdpeENPYkRzcUlTQWEzMnM5NGt3X2FOTklIVmFab3oxaXZaSlVhUWg3LWJjWTViV1JuZkJ2WkZiNTlqbGx3MFlERGZSSS1BVUUzNmVLbXhOWlJveDlkWnRrdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdk0tX1pJVmdaZHk5QVJwci1XaEVDSXdNemJ5enlpUU1VdVZZQmlKS2IzOHlKX2JzRTFfaXRTVGhIaW1mN3IycEV6RlFiYWxiWjFYdWcyYVJNRHdUS3dqYnktbVNmTWZCRmpZSWlCdXJ6bHE5WVBLT2JvM1JuaVByZnBrRnA5QXFlSlZPa2UzdHk1clREbHhnLXlSTjN5ZFhsdGhpUWU0OUIydw?oc=5",
           "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.778
     },
     {
-      "id": "evt_850c0b037f072fd5",
+      "id": "evt_588c2ce1df8bc85b",
       "topic": "finance",
-      "headline": "Small-Cap ETF Comparison",
-      "summary": "Comparing small-cap ETFs. Schwab's SCHA vs iShares' IJR.",
-      "published_at": "2026-07-11T18:47:01.000Z",
+      "headline": "Social Security Pay",
+      "summary": "Social Security replaces 40% of paycheck. Invest to cover the rest.",
+      "published_at": "2026-07-11T20:29:31.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-small-cap-etf-schwabs-184701374.html",
+          "url": "https://finance.yahoo.com/markets/articles/social-security-replaces-40-paycheck-202931078.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/1cc89126b931ec8a7ec53da16b4b0719"
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/ffa8ce9e1ee2c57f86d62fbc4b4872ed"
+    },
+    {
+      "id": "evt_7817d8cc73896159",
+      "topic": "business",
+      "headline": "US Canada Bridge",
+      "summary": "Donald Trump clears path for bridge. $4.5bn bridge between US and Canada.",
+      "published_at": "2026-07-11T20:28:18.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZXJ0c1lrdFZDRmZUMjlWOHBBZVZnTFZvSGd0UUZDdVNHRkE5SHdKMGtPc2l5TXNJTktuTDRjSWFCYWVMalFncWFFMmYwX0hRQjRTZV90R2g0U2xGTTU2S3Jkd05jM3M0VjBhMHZMb2Y?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_1e429ac9e80a4f08",
+      "topic": "finance",
+      "headline": "Oil vs Bitcoin",
+      "summary": "Oil price is below $76. Bitcoin price is below $65,000.",
+      "published_at": "2026-07-11T20:27:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/oil-below-76-why-bitcoin-202700018.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/0bcebb978b732afecfa908be3b4db4f1"
+    },
+    {
+      "id": "evt_e6bc0f54531b48f1",
+      "topic": "business",
+      "headline": "Genesis Minerals Makes Rival $3.9 Billion Bid For Vault Minerals - WSJ",
+      "summary": "Genesis Minerals Makes Rival $3.9 Billion Bid For Vault Minerals WSJ",
+      "published_at": "2026-07-11T20:24:37.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3NjWmYwTXk4QTFPZ0dOMHM3VHNUQ0VJeHJoTThXWnRrY1RIZmhlSV8zcVlsd3k1d3VXd0lxakpJbW1ZZXdyVmxzUWxpaHRMNkQ2LVotSTdPRGxFX2dMODZUN2ItRTdQQjFJdjZLc1gwaTJLNFIxbmdVUDdOdXZ6WTZ1WndzS0VlWmZKOFZiQTF5LW9pcHYxRWJLdkJaVmRETEQxTlQ3S1hBc0U?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_351a3710c33f2e3e",
+      "topic": "business",
+      "headline": "Print Edition | Wall Street Journal - WSJ",
+      "summary": "Print Edition | Wall Street Journal WSJ",
+      "published_at": "2026-07-11T14:22:01.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVaEdxZUpUbzNJek1VbDVrbWd3YkVUU09LNE9ETmdPRDBUWlRYelJmYTRVR2VQOUdqV2NIa2E2SXYxNm9hSEpKM29EYjg4bzRvRElZNWpQUnV5OHpyR1dwVHp3?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_54d7b124fad27ad6",
+      "topic": "finance",
+      "headline": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
+      "summary": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
+      "published_at": "2026-07-11T20:24:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-seagate-technology-stx-strengthening-202429436.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/3e957ef057bdb0f12ce2e6256105ea83"
+    },
+    {
+      "id": "evt_954e5d5135f95145",
+      "topic": "finance",
+      "headline": "Family demands answers in death of young Black man in Mississippi",
+      "summary": "Family demands answers in death of young Black man in Mississippi",
+      "published_at": "2026-07-11T20:24:26.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/family-demands-answers-in-death-of-young-black-man-in-mississippi-4786916",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM69183_L.jpg"
+    },
+    {
+      "id": "evt_ec9efc61bf58cd7a",
+      "topic": "finance",
+      "headline": "5 Top AI Stocks Investors Own on Robinhood",
+      "summary": "5 Top AI Stocks Investors Own on Robinhood",
+      "published_at": "2026-07-11T20:20:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-top-ai-stocks-investors-202000090.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/3fc389b0e9890b0ce952bd0e6d222d25"
+    },
+    {
+      "id": "evt_a9977f931562ccf2",
+      "topic": "finance",
+      "headline": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
+      "summary": "Bitcoin holds gains above $64,000 as U.S. crypto policy remains in focus",
+      "published_at": "2026-07-11T20:17:29.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_52fabd5337ed6554",
+      "topic": "finance",
+      "headline": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
+      "summary": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
+      "published_at": "2026-07-11T20:17:27.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-applied-optoelectronics-aaoi-well-201727325.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/c7cb2c1ced0e45f5ec72ef244a22d64c"
+    },
+    {
+      "id": "evt_7775bcdac5176375",
+      "topic": "politics",
+      "headline": "What’s behind Pakistan’s mass deportation of Afghans?",
+      "summary": "Islamabad cites national security concerns, returns thousands of undocumented migrants.",
+      "published_at": "2026-07-11T20:11:55.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_b3ec0b6b735a1318",
+      "topic": "finance",
+      "headline": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+      "summary": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+      "published_at": "2026-07-11T20:10:23.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/c2d250c4b6d2929666b2cf7d1fcc6d0b"
+    },
+    {
+      "id": "evt_4bba99136d2771e4",
+      "topic": "ai",
+      "headline": "Show HN: Ant – A JavaScript Runtime and Ecosystem",
+      "summary": "Hello HN! I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps ",
+      "published_at": "2026-07-11T20:07:18.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://antjs.org",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_32a9a135ef53186f",
+      "topic": "finance",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "summary": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "published_at": "2026-07-11T17:12:29.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6A09V_L.jpg"
+    },
+    {
+      "id": "evt_a3a44422c971508e",
+      "topic": "finance",
+      "headline": "What Does the Sale of NuScale Stock by the CFO Mean to Investors?",
+      "summary": "What Does the Sale of NuScale Stock by the CFO Mean to Investors?",
+      "published_at": "2026-07-11T20:06:01.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-sale-nuscale-stock-cfo-200601836.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/c27a7e2773e2dd4be080db2e8154f7c0"
+    },
+    {
+      "id": "evt_026efe5ff26dddbc",
+      "topic": "finance",
+      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "summary": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "published_at": "2026-07-11T18:19:38.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf"
+    },
+    {
+      "id": "evt_af269efde2304ed8",
+      "topic": "finance",
+      "headline": "Veritone Shareholders Back Share Increase, CEO Awards as Debt Questions Loom",
+      "summary": "Veritone Shareholders Back Share Increase, CEO Awards as Debt Questions Loom",
+      "published_at": "2026-07-11T20:01:59.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/veritone-shareholders-back-share-increase-200159547.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/a31364f054b19db2c0a68275137a1e4e"
+    },
+    {
+      "id": "evt_5ac7013b7289c324",
+      "topic": "finance",
+      "headline": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+      "summary": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+      "published_at": "2026-07-11T19:59:01.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-expanding-ai-data-195901778.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/a16d9ce2c695d979703b934b7d0273af"
+    },
+    {
+      "id": "evt_a3a0de22fcd194f4",
+      "topic": "finance",
+      "headline": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+      "summary": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+      "published_at": "2026-07-11T19:59:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stocks-crushed-195900603.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/22afe24212f7b2094fab753f1be98464"
+    },
+    {
+      "id": "evt_07863d05f1314c2a",
+      "topic": "finance",
+      "headline": "What to Do if You're Behind on Retirement Savings at Age 60",
+      "summary": "What to Do if You're Behind on Retirement Savings at Age 60",
+      "published_at": "2026-07-11T19:56:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/youre-behind-retirement-savings-age-195600979.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/66695fe092db4b9314c01df0c73c2107"
+    },
+    {
+      "id": "evt_d9053f34deb8e08f",
+      "topic": "politics",
+      "headline": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal - AP News",
+      "summary": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal AP News",
+      "published_at": "2026-07-11T17:32:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_939c39c0850d231f",
+      "topic": "finance",
+      "headline": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+      "summary": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+      "published_at": "2026-07-11T19:52:39.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-positioned-benefit-195239343.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f6cb4efe03a549234a41bd402927b6d8"
+    },
+    {
+      "id": "evt_36f1289f1458ded1",
+      "topic": "business",
+      "headline": "Trump Voters on Economy",
+      "summary": "Trump voters share economy views. Their opinions are now being reported.",
+      "published_at": "2026-07-11T09:30:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NWVhnWl84RnM0dzBfWE95Q1BxYnZ5TF91emxCSzNQM2pta1h3bERkNGwwdElwYzUxQWtnc3kxRlMzeVZxTFdUaUdoTDRFQXpMRFZMcThDRHdNYzdUYzF2S3lBX2RnWlVwS3FtRE5CZw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_2abc33703138a1a1",
+      "topic": "ai",
+      "headline": "The Chinese Voice Actor Forced to Prove He's Human",
+      "summary": "Article URL: https://www.sixthtone.com/news/1018753 Comments URL: https://news.ycombinator.com/item?id=48875153 Points: 14 # Comments: 2",
+      "published_at": "2026-07-11T19:46:00.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://sixthtone.com/news/1018753",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_222f92752405e1f8",
+      "topic": "politics",
+      "headline": "Noskova survives Muchova fightback in all-Czech final to lift Wimbledon trophy - Reuters",
+      "summary": "Noskova survives Muchova fightback in all-Czech final to lift Wimbledon trophy Reuters",
+      "published_at": "2026-07-11T19:45:07.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFQ0YjNlUFJWcl9RcXRnU3MwdmtOUGNvQ3J3MXpPVXBIUGozaGVKV1ZFT0QxZVZrekZqd1FHWkdyd3daUU5HakpITDZfUTZ4dTVBenpLa1QtckxhM2lncDI5VVJCb3oxbHNKUUpRQzYwSE1aTXI0QkE5cE44OHBYdE8ybWhjSVhfWWNNS2w1aGljU1ZybjFDWXJIMXd4UFFxNGxQN1RhdG8zUQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_f4cb451306a2b4dd",
+      "topic": "finance",
+      "headline": "US, Canada strike deal on tolls to let new bridge open on July 27",
+      "summary": "US, Canada strike deal on tolls to let new bridge open on July 27",
+      "published_at": "2026-07-11T19:42:31.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6917N_L.jpg"
+    },
+    {
+      "id": "evt_f346cff4ea7eb85d",
+      "topic": "finance",
+      "headline": "US Postal Service raises stamp price to 82 cents",
+      "summary": "US Postal Service raises stamp price to 82 cents",
+      "published_at": "2026-07-11T19:36:45.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6A0D4_L.jpg"
+    },
+    {
+      "id": "evt_5200d9836c802c9e",
+      "topic": "politics",
+      "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "published_at": "2026-07-11T19:32:07.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "id": "evt_245e28e0cce015e4",
+      "topic": "politics",
+      "headline": "Iran supreme leader calls for revenge for father's killing",
+      "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "published_at": "2026-07-11T19:30:36.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "id": "evt_bded4b159ee59d24",
+      "topic": "finance",
+      "headline": "Russian strikes kill seven, wound dozens, Ukraine’s Zelenskiy seeks faster weapons deliveries",
+      "summary": "Russian strikes kill seven, wound dozens, Ukraine’s Zelenskiy seeks faster weapons deliveries",
+      "published_at": "2026-07-11T19:30:29.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6A03R_L.jpg"
+    },
+    {
+      "id": "evt_a833366c1d73d057",
+      "topic": "politics",
+      "headline": "Thousands gather in Srebrenica to mark 31 years since genocide",
+      "summary": "Ten newly identified victims were buried as the more than 8,000 Bosnian Muslim men and boys killed were remembered.",
+      "published_at": "2026-07-11T19:25:59.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_464a960e84c3dbaa",
+      "topic": "politics",
+      "headline": "Esmerlyn Valdez's six RBIs leads Pirates over Brewers - Reuters",
+      "summary": "Esmerlyn Valdez's six RBIs leads Pirates over Brewers Reuters",
+      "published_at": "2026-07-11T19:23:24.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkZxeXhrV1dnb1NDR1dNdjJ5V1VWQU00RV9id0ZEblRCdy1YQ3kyUmhYUGtCS05LN3BKWllvSXVfQUJrWTkzUTQ5M1hLZXlUWWRNMTA4bGw0UHY3Nlo3d2IwYk50M1Z0Vk9ETG4yZnRxNzZWUTdHTkctUTRFdVhybzB6ZDZSa2dJOW80OEhVMi0zOGdZb19jVjFDeHU4VlVTR2VLX2tRTmxVX3IwS3c?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_72266d0b209609d1",
+      "topic": "finance",
+      "headline": "Iran’s Khamenei vows revenge as Trump warns of devastating U.S. response",
+      "summary": "Iran’s Khamenei vows revenge as Trump warns of devastating U.S. response",
+      "published_at": "2026-07-11T19:22:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/trump-threatens-to-decimate-iran-as-us-steps-up-military-diplomatic-pressure-4787217",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_ac666c17e5c8101c",
+      "topic": "crypto",
+      "headline": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+      "summary": "A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.",
+      "published_at": "2026-07-11T19:19:32.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://www.tbstat.com/wp/uploads/2019/09/20190917_Hedera-Hashgraph-Coins-Genesis-800x450.jpg"
+    },
+    {
+      "id": "evt_865b154f08df2ff6",
+      "topic": "politics",
+      "headline": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - AP News",
+      "summary": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call AP News",
+      "published_at": "2026-07-11T19:17:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS09GLTR6OERMc0tDYndyV0VZQ3NxdEFwa1Zpc1JZZVpzVFVqME1hLWtaNElHNmZsZjZIbjFyRGwyakdSU0U2cjdXSUFaSlVBYks2ejFtOVg5LUpLZGc4akg3SjI1eXY1VHJveE1TMVUyTHgxR1ZCOWExdHAwQXRUZTloanZ2WWVrbWROLVhsR1VDSEZybHQ2OGttdmI2LWc0Z01V?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_d37ec9882720b2cc",
+      "topic": "politics",
+      "headline": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+      "summary": "As the death toll in Venezuela surges past 4,000, families continue to hold out hope that loved ones might be found.",
+      "published_at": "2026-07-11T19:15:10.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_ea049f254c2fcad7",
+      "topic": "finance",
+      "headline": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
+      "summary": "Ukraine says drone strikes damage 21 Russian oil tankers in Sea of Azov attack",
+      "published_at": "2026-07-11T19:11:40.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/ukraine-says-drone-strikes-damage-21-russian-oil-tankers-in-sea-of-azov-attack-4787300",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_c38c13dce5cbdc78",
+      "topic": "politics",
+      "headline": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
+      "summary": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US AP News",
+      "published_at": "2026-07-11T19:10:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVo3MFhOUks2d1FTNTNsWE5tOGFGblpBLWN2MzlMZ0Y3a3RLQU01UHVZZzlScGdyWmN2aXRuSHVXNk1pTXg1ckJCVUppSko2SkZIc0V3RERtcU9kQWg1aUFycXNubEFWXzA1WDNrM1FBWkM1WFZGeHRLTlZ3UWowRzFWeUd1QXowdWp2eVJSeHJEY0l2akF3a0Zjc2RSQQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_51537f4e735b6e08",
+      "topic": "business",
+      "headline": "McConnell’s Absence Prompts New Beshear Demand for Health Update - Bloomberg.com",
+      "summary": "McConnell’s Absence Prompts New Beshear Demand for Health Update Bloomberg.com",
+      "published_at": "2026-07-11T19:06:41.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVk0VUJpX2ltUmVRN2Z4RUxEY3ZiRVR5RlUyUXNCS1NlX0xZTEdMckZ1OXZTaFJXOVR5ZFU1TmRPNE1nWHRWZlprMjQ0c2pjcDZHUmJwSnlCR0FkV2VzR3pRWXdMbHpVREJlTmp0UkdldXFybmF6RDJTa192a0ZVUWdfUzlxSURmLXVweS1xMTJLTi1qUkVKUE9TSTJESnE4X2dZSktENkl3RVZDalY5YjZGWkNvQQ?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_f3467992ead56020",
+      "topic": "finance",
+      "headline": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+      "published_at": "2026-07-11T19:00:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://images.mktw.net/im-22299025"
+    },
+    {
+      "id": "evt_a69fddb973a3cd04",
+      "topic": "politics",
+      "headline": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank - AP News",
+      "summary": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank AP News",
+      "published_at": "2026-07-11T19:00:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODk0bzdHVENiaU94VEhrOGlfQ2pfalItSDh3QUJZaUVuLUtRX0ZoOHBLcTFHWUtxMzR0ODlmZGlVbjl5YV9sZzl4Y0ZFdDZKalJnaFd1QWZ1cXlLX0MxelVVSE9tdUw4a3ZZcC1GUEF5OHdJT2M1clZNcTFmYkFIeFJ4WTZYVW1mM05yX3ZvOFQ0aTBjbkFwSWYzVkhCWWNuTXlESEtMd3l3TUxBMl9r?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_fcb878d674a29654",
+      "topic": "politics",
+      "headline": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+      "summary": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+      "published_at": "2026-07-11T18:59:01.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_95c23df26cdc658e",
+      "topic": "politics",
+      "headline": "Trump administration subpoenas New York Times reporters over coverage",
+      "summary": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.",
+      "published_at": "2026-07-11T18:46:11.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
     },
     {
       "id": "evt_81cad2f81d490f8d",
@@ -235,38 +917,85 @@
       "image_url": "https://images.mktw.net/im-87957694"
     },
     {
-      "id": "evt_10d107b57cfa9f9d",
-      "topic": "finance",
-      "headline": "Constellation Energy Investment",
-      "summary": "Constellation Energy helps with AI power. Consider buying the stock.",
-      "published_at": "2026-07-11T18:35:00.000Z",
+      "id": "evt_2d69ebadef334b54",
+      "topic": "politics",
+      "headline": "LRCC.N - | Stock Price & Latest News - Reuters",
+      "summary": "LRCC.N - | Stock Price & Latest News Reuters",
+      "published_at": "2026-07-11T18:44:54.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-helping-solve-ai-183500396.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRnoyS1o0dGVYVWZyY0xRZi1pT1hTZzhGX2Fyai0zUk9Oam04TXpXRDhiVVo0VUlNczV0NTFGbTUwQ0NYcmlaUDkydmRkTmVrVGdvV3YycEYydVdCUHdNd2FCOE85UzJoUURtOEN0R0w3ZXBTVlZIelVpd2djSWs?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/53a9becc103a14a6fd77e0321d888b8e"
+      "weight": 0.763
     },
     {
-      "id": "evt_d4408eca99f167ce",
-      "topic": "finance",
-      "headline": "Bank of America lifts target on viral appliance stock after Prime Day",
-      "summary": "Bank of America lifts target on viral appliance stock after Prime Day",
-      "published_at": "2026-07-11T18:33:00.000Z",
+      "id": "evt_a9bd8e0dfadd3107",
+      "topic": "ai",
+      "headline": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But accordi",
+      "published_at": "2026-07-11T18:44:12.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-lifts-target-viral-183300957.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "The Verge",
+          "url": "https://theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+          "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/6f85f7a3d5649e7a6bef9d772a4011cd"
+      "weight": 0.763,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_ed6aca46d1762394",
+      "topic": "politics",
+      "headline": "U.S. News: Top U.S. News Today - AP News",
+      "summary": "U.S. News: Top U.S. News Today AP News",
+      "published_at": "2026-07-11T18:34:02.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_f97e32512b6d2064",
+      "topic": "politics",
+      "headline": "Linda Noskova recovers from 2nd-set meltdown to win Wimbledon and claim her 1st Grand Slam title - AP News",
+      "summary": "Linda Noskova recovers from 2nd-set meltdown to win Wimbledon and claim her 1st Grand Slam title AP News",
+      "published_at": "2026-07-11T18:34:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGVFMkRELTVjOFZwLXJEUHZ1R2dqZmJ3S2w1WV83Nm56OGd2M2ZuLXdMazZIWElnUXIzVHBqR2tPbW5OMHl5NmlRQlp2OHRqNThZdkNIYms3MDY0TVQxOU0yVDRhQlJGU1JidEhPUktpbE1sVE5aT1JjN3Q5X1N4X0ExTnRySjNQck5xR093VHpyMlB0Mnc?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_42f70166aa10bad2",
+      "topic": "politics",
+      "headline": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15 - Reuters",
+      "summary": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15 Reuters",
+      "published_at": "2026-07-11T18:26:57.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT25HMDQ5OF9SczNrMlBVaHlMNC1CbzMtWjZRNmNldnc0VE13dGRGSWFIc3dMWFUzMWFQR3h0c2ZrTDlEMFdZdmpZR1RBeFNOWGdYZWhBbFBkOWVjZWhLNEhRamlyNTJxRl9wYnpRYl8yN1g2b2tBZWNPSlhpdmt3Q1hyQ3NSZ2Rzc3lkZnA4dDdsN0tSd25HVHV2Y1VGMkV4ajBQeHVpbHhZbnFUYXhrNkpPQVNHNjUzYVIzUURlelJKU2NQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
     },
     {
       "id": "evt_e2df2ae2053773e0",
@@ -279,22 +1008,6 @@
           "name": "Wall Street Journal",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkVNOVVUY21TYkctbV9aV3Y1WGtrZjg4SS03VGFhanI0ZFFUNDNDRUVha3poZk1uTWhRVE5wV1VDYnpNd0p5NkJyUzNwTzhudmFMaHdpeU0xWDZ1ZTJLSGk2b0dzUHRuSjlhU3dvdG1TS3RUNHFxTE9XVEU3ejJoODh1SU1wUVRpT0t1WVlvbFRPNmVxUTBCaS1BVzBrbjB0anVVUm1B?oc=5",
           "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_ad357dd433993809",
-      "topic": "ai",
-      "headline": "How to Hide from Killer Drones",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones Comments URL: https://news.ycombinator.com/item?id=48874357 Points: 9 # Comments: 4",
-      "published_at": "2026-07-11T18:22:02.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-          "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
@@ -315,724 +1028,6 @@
       ],
       "source_count": 1,
       "weight": 0.774
-    },
-    {
-      "id": "evt_818962f68b448641",
-      "topic": "politics",
-      "headline": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
-      "summary": "Sources tell Al Jazeera that talks are focused on establishing mechanism for first of two so-called \"pilot zones\".",
-      "published_at": "2026-07-11T18:20:24.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_5e4c5374c8ada56f",
-      "topic": "finance",
-      "headline": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-      "summary": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
-      "published_at": "2026-07-11T18:20:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-crushing-p-500-182000848.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/129bc23a9d6fc9fe76d53d0a2a238ba0"
-    },
-    {
-      "id": "evt_026efe5ff26dddbc",
-      "topic": "finance",
-      "headline": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-      "summary": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
-      "published_at": "2026-07-11T18:19:38.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf"
-    },
-    {
-      "id": "evt_36f1289f1458ded1",
-      "topic": "business",
-      "headline": "Trump Voters on Economy",
-      "summary": "Trump voters share economy views. Their opinions are now being reported.",
-      "published_at": "2026-07-11T09:30:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NWVhnWl84RnM0dzBfWE95Q1BxYnZ5TF91emxCSzNQM2pta1h3bERkNGwwdElwYzUxQWtnc3kxRlMzeVZxTFdUaUdoTDRFQXpMRFZMcThDRHdNYzdUYzF2S3lBX2RnWlVwS3FtRE5CZw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_d5ed984a58cff6d2",
-      "topic": "finance",
-      "headline": "COPX vs. CPER: Do Copper Miners or Copper Futures Best Play the Electrification Squeeze?",
-      "summary": "COPX vs. CPER: Do Copper Miners or Copper Futures Best Play the Electrification Squeeze?",
-      "published_at": "2026-07-11T18:17:45.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/copx-vs-cper-copper-miners-181745220.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/968b36904b78d795984a29f2762fc787"
-    },
-    {
-      "id": "evt_84e392696d77ee19",
-      "topic": "finance",
-      "headline": "Salesforce receives double blow over an AI product",
-      "summary": "Salesforce receives double blow over an AI product",
-      "published_at": "2026-07-11T18:17:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/9b7e1ee9c772fbf735fd076976cd5bdd"
-    },
-    {
-      "id": "evt_b10da961cb448f24",
-      "topic": "politics",
-      "headline": "Evacuations as landslide threatens Indian village, construction firm blamed",
-      "summary": "A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate",
-      "published_at": "2026-07-11T18:16:02.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_a11824a92dc55eb7",
-      "topic": "politics",
-      "headline": "Traffic jam delay adds to India's woes ahead of 56-run T20 loss to England - Reuters",
-      "summary": "Traffic jam delay adds to India's woes ahead of 56-run T20 loss to England Reuters",
-      "published_at": "2026-07-11T18:15:47.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWS1sZjY1aUloOWpjR1U4cUhBME9TSzdJNmFPaXV3eU9TMnZCR3VWSkw4V3pfWWczMWNxckhFN2RCemdWblJYeEdPRjg3WEM3ZTFTOEtERk9JWUlrU0FqSzlTNU92ZHhLeUxpMVp1dll0ZUkyVFpJVjdrRVZXSFZuR2M2c2ZpbGNUT3B1Z3NpRTI3N2htM1VaNGVmTi1BQUxMUmNqZ2pGb18tRTAxcDhEblBiR0dCRWw1MGdZY1EzQQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_8f22ccccefc3db7c",
-      "topic": "politics",
-      "headline": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
-      "summary": "Linda Noskova's victory over Karolina Muchova makes her the third Czech women's singles champion in past four years.",
-      "published_at": "2026-07-11T18:10:10.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_03c31db9fbe9a3f9",
-      "topic": "finance",
-      "headline": "The New Villian in Tech",
-      "summary": "The New Villian in Tech",
-      "published_at": "2026-07-11T18:07:42.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/villian-tech-180742420.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/2a653465a26fd11daee38065356c4a34"
-    },
-    {
-      "id": "evt_184a0c02613dc94b",
-      "topic": "crypto",
-      "headline": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
-      "published_at": "2026-07-11T18:06:58.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_bbc14facb66e9c00",
-      "topic": "politics",
-      "headline": "Trump revives praise for his health, cognitive test in post about May physical - Reuters",
-      "summary": "Trump revives praise for his health, cognitive test in post about May physical Reuters",
-      "published_at": "2026-07-11T18:06:37.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0wzRk45YTFzbUxXZV9wM2NWeE96OGJDN25RcUZSSnE2cUJXcUhyWl9DLUpGNzk2N1RiOG1ZWlVOb2JfYzVuUFd1elVlQ0RDWDlFOHh4RFl4LU5sQXRiLV9pVDVYZGEzNHlucUdzZlR0V2NnaUQ4YVZjNEVMWW9lMTBXNzlEendkQmVfOVJEMTNocTNmaXRHTQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_adfd961b0de73e3f",
-      "topic": "finance",
-      "headline": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
-      "summary": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
-      "published_at": "2026-07-11T18:06:24.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-4787296",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6A0BS_L.jpg"
-    },
-    {
-      "id": "evt_1aa6c46581c749c3",
-      "topic": "finance",
-      "headline": "A Widow Turned Down the Survivor Check at 60 to Protect a Bigger One Later. The Wait Cost Her $50,000.",
-      "summary": "A Widow Turned Down the Survivor Check at 60 to Protect a Bigger One Later. The Wait Cost Her $50,000.",
-      "published_at": "2026-07-11T18:05:06.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/articles/widow-turned-down-survivor-check-180506256.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/b08c45cb6a540393b72b63b0ad427bb5"
-    },
-    {
-      "id": "evt_b5d19d55b6017623",
-      "topic": "ai",
-      "headline": "AI 2040 and the Cult of Intelligence",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 69 # Comments: 29",
-      "published_at": "2026-07-11T18:04:01.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_39b65293e37c6748",
-      "topic": "ai",
-      "headline": "Who manages the agents?",
-      "summary": "Article URL: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/ Comments URL: https://news.ycombinator.com/item?id=48874182 Points: 19 # Comments: 6",
-      "published_at": "2026-07-11T18:02:33.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://off-policy.com/dont-go-quietly-into-the-ai-night",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_99cda53660cf196c",
-      "topic": "politics",
-      "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "published_at": "2026-07-11T18:00:09.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg"
-    },
-    {
-      "id": "evt_8271c52ee5acd73b",
-      "topic": "finance",
-      "headline": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' — here are experts takes on buying the dip",
-      "summary": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' — here are experts takes on buying the dip",
-      "published_at": "2026-07-11T18:00:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://media.zenfs.com/en/moneywise_327/659326e2e4c98e171a9dde5f7a9157c2"
-    },
-    {
-      "id": "evt_028ea12291384c3a",
-      "topic": "business",
-      "headline": "Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting - WSJ",
-      "summary": "Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting WSJ",
-      "published_at": "2026-07-11T17:58:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdThGT1l5Y2xBV3JQd2tVNGJUVzVObU1pUU1FeDZTQUpnMi01YlJmRUxjWjlYOUFsNWM0eUlHYTUzS1JrRVBodkFnUm80VWFPMW0wSnRkbUNWNjNpeTVpR2xfdS1yWWlTVHlXRVB6VDdMOUpnLWlXbm9lWVJ6dF9aMFhzQmlMU0hJUEllN3JpdEVCOVJINW5TUUI0b1Q0azBRQ2VoNnpQS0dvZjlsWXp0SnR5OEFMblJueWRpVnV6dFcyM3hVUTYwS3V3?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_3b03c6701be37287",
-      "topic": "politics",
-      "headline": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters",
-      "summary": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says Reuters",
-      "published_at": "2026-07-11T17:49:43.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_60722c593e75f89e",
-      "topic": "business",
-      "headline": "Opinion | Why Do Democrats Hate Medicare Advantage? - WSJ",
-      "summary": "Opinion | Why Do Democrats Hate Medicare Advantage? WSJ",
-      "published_at": "2026-07-11T17:48:57.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVk4UTVCQWNSRHZJWjRpSVFJZDJ3clJFbFpDeDZQVmotaE0zRkhQWjVycGZBWmw1aGdkX0NMVlQ2ODFXYmE1Q01xaFEwMkY4bFhsMXRabkNzWkJNQ2J3bnhsOURhNi1KbVFxaUoyWGQ2TlJLTDZRVWZ2dlR3OGtFYi02VQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_d01368950b7c78d9",
-      "topic": "politics",
-      "headline": "China's second typhoon in a week makes landfall",
-      "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "published_at": "2026-07-11T17:41:56.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "id": "evt_299bccd24e413d23",
-      "topic": "business",
-      "headline": "How Venezuelan Bureaucracy Thwarted an American Earthquake Rescue Squad - WSJ",
-      "summary": "How Venezuelan Bureaucracy Thwarted an American Earthquake Rescue Squad WSJ",
-      "published_at": "2026-07-11T17:40:58.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEgzMThWWUFIcWUxZ2dPRXF5SFp6clF3d29iczNGT0xnWHVDY0hVUzhhYWZSUWktRVFwb0g0S1F4OXpJbTdDWkRnOXZoMzdSR0FfODVzZ1I0QTE5MmhVbTBWUHlFQ2JUUC1sR1NxOWFHTkE0MDhlYmhsVmdJTHlrT2pROVpUUWVLa2ViekgzS1l4QlFuSktwMGQxZ3NtQmQtRE1ycDFfMlo5blUzaEhQUkJOX2duQQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_9cf34d50b86fe672",
-      "topic": "politics",
-      "headline": "Hundreds of firefighters battle wildfire in southern Spain that killed at least 12 - AP News",
-      "summary": "Hundreds of firefighters battle wildfire in southern Spain that killed at least 12 AP News",
-      "published_at": "2026-07-11T17:37:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRfVTRnbS1uWjVGQlR5MWF5ZUNWM2U3SXF4cEJwejYtQkdWaUMxRU95YUVrdzZwak10bkpTaFhVN0FPV0FJeUtaeWdqYTNNSncyMlNWTGV2YTdkTndDV1MyVnl0aHdYQjR0c0RNMHYxanNQRFhwVWRCY1UteFJBclMya0plLW12d2o2c2pCREQtZi14UXc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_cd84ae7390b0714c",
-      "topic": "ai",
-      "headline": "Prefer Strict Tables in SQLite",
-      "summary": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48873940 Points: 26 # Comments: 4",
-      "published_at": "2026-07-11T17:33:55.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_d9053f34deb8e08f",
-      "topic": "politics",
-      "headline": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal - AP News",
-      "summary": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal AP News",
-      "published_at": "2026-07-11T17:32:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_818cc132489297fd",
-      "topic": "politics",
-      "headline": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
-      "summary": "Live coverage and text updates as England play Norway in a quarterfinal clash in Miami.",
-      "published_at": "2026-07-11T17:31:07.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_cb999babfd76731c",
-      "topic": "ai",
-      "headline": "BLISS",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/BLISS Comments URL: https://news.ycombinator.com/item?id=48873910 Points: 18 # Comments: 2",
-      "published_at": "2026-07-11T17:30:01.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://en.wikipedia.org/wiki/BLISS",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_26fc52e18dca2f61",
-      "topic": "ai",
-      "headline": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
-      "published_at": "2026-07-11T17:30:00.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_11274ffac891d74f",
-      "topic": "politics",
-      "headline": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
-      "summary": "Lawmaker Khanna accuses soldiers of supporting the settlers, warning that Israeli forces made a 'huge mistake'.",
-      "published_at": "2026-07-11T17:28:08.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_3444b3cea3ca38be",
-      "topic": "ai",
-      "headline": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/ Comments URL: https://news.ycombinator.com/item?id=48873893 Points: 68 # Comments: 39",
-      "published_at": "2026-07-11T17:27:55.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_a4f5252b363202b9",
-      "topic": "ai",
-      "headline": "Earendel (Astronomical Object)",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Earendel_(astronomical_object) Comments URL: https://news.ycombinator.com/item?id=48873858 Points: 19 # Comments: 3",
-      "published_at": "2026-07-11T17:24:15.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_3ff1f70f056f2598",
-      "topic": "ai",
-      "headline": "Reverse centaurs are the answer to the AI paradox",
-      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 28 # Comments: 5",
-      "published_at": "2026-07-11T17:23:52.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_e40fb10169fa4465",
-      "topic": "ai",
-      "headline": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 16 # Comments: 1",
-      "published_at": "2026-07-11T17:21:49.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_351a3710c33f2e3e",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-07-11T14:22:01.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVaEdxZUpUbzNJek1VbDVrbWd3YkVUU09LNE9ETmdPRDBUWlRYelJmYTRVR2VQOUdqV2NIa2E2SXYxNm9hSEpKM29EYjg4bzRvRElZNWpQUnV5OHpyR1dwVHp3?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_9619f5a184db0844",
-      "topic": "politics",
-      "headline": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump's broad clemency - AP News",
-      "summary": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump's broad clemency AP News",
-      "published_at": "2026-07-11T17:20:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkp6WC0zLXpBbk5JSXh6VnE0ZGUwWUF1VkUyNFBYZnhaOGwydk53OWQ4ZnhWUU1NVVdtSEJDOXZLbDV3Y29yb3lpWF8yWUxHTGcxYVFSa2lQTm5LYUVlZkh2Z2VSTk9LZWwta1RNQnNyN085Z3ROb1A5bUdTMzZhZjI2UWI1M3RwVWNRSzNyNVVkazdRX1RodEFxc1k5QThxemtsNDMxVml0eUNVVXgzeU1KR0c0alE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_3f206acee7af71c2",
-      "topic": "business",
-      "headline": "Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK - Financial Times",
-      "summary": "Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK Financial Times",
-      "published_at": "2026-07-11T17:16:11.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rNVhwVDFEQk5QZHQ2Z29DNXNXTllDVGZSenI4T0JudXFhb2ROeklFeWRmWFlQb3VBbktXZlh2dkRzYnpMaEw3QVg2TloyWndaTHZGaUdBZmduTzRVZnc5aFVSQzlkaVV6aDRoZk1ZNHk?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_32a9a135ef53186f",
-      "topic": "finance",
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "summary": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "published_at": "2026-07-11T17:12:29.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says-4787287",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765,
-      "image_url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6A09V_L.jpg"
-    },
-    {
-      "id": "evt_0b7b30ec93100351",
-      "topic": "finance",
-      "headline": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
-      "summary": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
-      "published_at": "2026-07-11T17:08:56.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_7ca8882b10ed0da8",
-      "topic": "politics",
-      "headline": "FIFA is not an independent sporting organisation; it is a political tool.",
-      "summary": "Football fans around the world are only now finding out what Palestinians have long known.",
-      "published_at": "2026-07-11T17:08:42.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_adb96d8d9e2ba2b7",
-      "topic": "crypto",
-      "headline": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
-      "published_at": "2026-07-11T17:07:24.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_46f2dbbc2cf294e5",
-      "topic": "ai",
-      "headline": "Female US rower completes historic solo journey from California to Hawaii",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey Comments URL: https://news.ycombinator.com/item?id=48873692 Points: 81 # Comments: 26",
-      "published_at": "2026-07-11T17:03:23.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_8d6c85b94a513790",
-      "topic": "ai",
-      "headline": "Sixtyfour (YC P25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success Comments URL: https://news.ycombinator.com/item?id=48873665 Points: 0 # Comments: 0",
-      "published_at": "2026-07-11T17:00:35.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_67aab64f2b67596c",
-      "topic": "finance",
-      "headline": "Can Colombia’s New Government Reverse the Nation’s Oil and Gas Decline?",
-      "summary": "Can Colombia’s New Government Reverse the Nation’s Oil and Gas Decline?",
-      "published_at": "2026-07-11T17:00:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/colombia-government-reverse-nation-oil-170000737.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://media.zenfs.com/en/oilprice.com/163bcfb33292a174ebb1f9cb204a1034"
     }
   ]
 }
