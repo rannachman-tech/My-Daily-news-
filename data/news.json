@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-07-25T11:09:54.511Z",
+  "generated_at": "2026-07-25T13:25:44.169Z",
   "clusters": [
-    {
-      "id": "evt_5c18aba961793149",
-      "topic": "politics",
-      "headline": "India's education minister resigns",
-      "summary": "India's education minister resigns. Student-led protests prompted the resignation.",
-      "published_at": "2026-07-25T09:38:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
-          "homepage": "https://apnews.com"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.947
-    },
     {
       "id": "evt_8b99eb7d1b649149",
       "topic": "crypto",
@@ -65,28 +44,6 @@
       "source_count": 2,
       "weight": 0.892,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "id": "evt_9f2875535aee3043",
-      "topic": "ai",
-      "headline": "Roku raises streaming stick prices by up to 60 percent",
-      "summary": "The Roku Ultra. | Image: Roku Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by a",
-      "published_at": "2026-07-24T19:41:06.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent",
-          "homepage": "https://arstechnica.com"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/streaming/970814/roku-streaming-price-increase",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.872,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg"
     },
     {
       "id": "evt_4f692f0d967f3623",
@@ -154,69 +111,538 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg"
     },
     {
-      "id": "evt_757a708372b3c1e6",
+      "id": "evt_1105408014f9b0c2",
       "topic": "finance",
-      "headline": "Fed decision uncertain",
-      "summary": "Investors await the Fed's decision. The outcome is uncertain.",
-      "published_at": "2026-07-25T11:00:00.000Z",
+      "headline": "India-US Trade Deal",
+      "summary": "India to engage with US on trade. New tariff measures applied.",
+      "published_at": "2026-07-25T13:06:38.000Z",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/india-to-keep-engaging-with-us-on-trade-deal-after-new-tariff-measures-4812786",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://images.mktw.net/im-85985776"
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
     },
     {
-      "id": "evt_2bc093345d3014ff",
+      "id": "evt_ff3761b962cfb686",
+      "topic": "ai",
+      "headline": "AI Data Center Issue",
+      "summary": "Power line issue exposes AI data center problem. Solution proposed.",
+      "published_at": "2026-07-25T13:05:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_ec50282ff6fc9653",
+      "topic": "politics",
+      "headline": "F1 Business Balance",
+      "summary": "Lando Norris speaks on F1 balance. Drivers feel new rules slow them.",
+      "published_at": "2026-07-25T13:03:52.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_d2d8ddace86e9c88",
+      "topic": "finance",
+      "headline": "Stock Market Critical Day",
+      "summary": "July 29 is a critical day. The stock market will be affected.",
+      "published_at": "2026-07-25T13:02:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-july-29-critical-day-130200956.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/653c5227110c5f561c286c3e98303fa1"
+    },
+    {
+      "id": "evt_d46e434da3e5a3f4",
+      "topic": "politics",
+      "headline": "Houthis Attack Saudi",
+      "summary": "Houthis fired missiles. They targeted Saudi Arabia.",
+      "published_at": "2026-07-25T13:01:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnV3Mm1rUEtJU2NZVURHalNWRVFISmJVZjQzNlFPdC1XVTY3NFcyZzVJd1phMk01RmlJdnIyTkF4RmNwWHk1dDlaNG1scmhlamo0RjZFbzZCU0hNRXE3T2FVNW94aTVMXzJVMWo4clpQY3Fnb2NMRXNsMUViOEZNX1JJdXFwOFZ0RTIwbTA4Z3dnNl9POVZqYk1lbnZITG8?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_7f8806b999ee7103",
+      "topic": "finance",
+      "headline": "Wedding Budget Mistakes",
+      "summary": "Financial advisors see mistakes. Couples make budget errors.",
+      "published_at": "2026-07-25T13:00:23.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/wedding-budget-mistakes-financial-advisors-130023807.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/d21a2502fd174236f48c0e32ee2e02b5"
+    },
+    {
+      "id": "evt_d0e0efe477e25cba",
+      "topic": "finance",
+      "headline": "Reasons People Switch Banks",
+      "summary": "Reasons People Switch Banks",
+      "published_at": "2026-07-25T13:00:19.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/reasons-people-switch-banks-130019088.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/52d60c02d4719736f5949a0f6ab047f0"
+    },
+    {
+      "id": "evt_cca164c19838789c",
+      "topic": "ai",
+      "headline": "Is this e-reader case a gun?",
+      "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a cut",
+      "published_at": "2026-07-25T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/3d_gun.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_fb8d17a2ac7eaf4e",
+      "topic": "crypto",
+      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+      "published_at": "2026-07-25T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/498275a8ec5e7df835f47c58778db26eb7a40a00-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_80f21e6d4a420ff3",
+      "topic": "finance",
+      "headline": "SBFC Finance Q1 FY27 slides: 27% AUM growth, margins expand",
+      "summary": "SBFC Finance Q1 FY27 slides: 27% AUM growth, margins expand",
+      "published_at": "2026-07-25T12:59:04.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/sbfc-finance-q1-fy27-slides-27-aum-growth-margins-expand-93CH-4812785",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://csv-storage.forexpros.com/slides/77cb597b0a008240fa11abf667da1695e974f9c1a589135dbda6f10bd95074fd.png"
+    },
+    {
+      "id": "evt_f5ba421ef0adb97e",
+      "topic": "finance",
+      "headline": "If you always say ‘yes’ to these 5 crucial things, you're probably broke (regardless of how much money you make)",
+      "summary": "If you always say ‘yes’ to these 5 crucial things, you're probably broke (regardless of how much money you make)",
+      "published_at": "2026-07-25T12:55:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/always-yes-5-crucial-things-125500931.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/moneywise_327/cbb9dba17c78fba7e52304db2b348cab"
+    },
+    {
+      "id": "evt_3a75844c356371cd",
+      "topic": "finance",
+      "headline": "Israel kills senior Hamas-led police official in Gaza, medics and police officials say",
+      "summary": "Israel kills senior Hamas-led police official in Gaza, medics and police officials say",
+      "published_at": "2026-07-25T12:54:30.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/israel-kills-senior-hamasled-police-official-in-gaza-medics-and-police-officials-say-4812784",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
+    },
+    {
+      "id": "evt_01d16aebc41283ed",
+      "topic": "finance",
+      "headline": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
+      "summary": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
+      "published_at": "2026-07-25T12:54:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-apple-warren-buffett-125400843.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/51e6c159a417c96a13bef50bf994a2ef"
+    },
+    {
+      "id": "evt_83cf1acfbda2c277",
+      "topic": "politics",
+      "headline": "What’s behind the ICC investigation into Karim Khan?",
+      "summary": "Lawyers for the ICC’s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt",
+      "published_at": "2026-07-25T12:53:41.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_c0372e69d82de2f9",
+      "topic": "finance",
+      "headline": "2 Advantages and 2 Drawbacks of Working While Claiming Social Security",
+      "summary": "2 Advantages and 2 Drawbacks of Working While Claiming Social Security",
+      "published_at": "2026-07-25T12:50:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/2-advantages-2-drawbacks-working-125000253.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/8a4e93071c627246eae94db265e8337a"
+    },
+    {
+      "id": "evt_fb85c3a7b1f8a5d8",
+      "topic": "politics",
+      "headline": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+      "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
+      "published_at": "2026-07-25T12:49:06.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_e1c57f20951b0cf6",
+      "topic": "finance",
+      "headline": "Earnings call transcript: SBFC Finance posts steady Q1 2026 growth, shares rise",
+      "summary": "Earnings call transcript: SBFC Finance posts steady Q1 2026 growth, shares rise",
+      "published_at": "2026-07-25T12:48:14.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-sbfc-finance-posts-steady-q1-2026-growth-shares-rise-93CH-4812783",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_00992cf1da3c2c6a",
+      "topic": "finance",
+      "headline": "What Does the Dropbox CTO's Sale of Nearly 13,000 Company Shares Mean for Investors?",
+      "summary": "What Does the Dropbox CTO's Sale of Nearly 13,000 Company Shares Mean for Investors?",
+      "published_at": "2026-07-25T12:47:01.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dropbox-ctos-sale-nearly-124701440.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/c27a7e2773e2dd4be080db2e8154f7c0"
+    },
+    {
+      "id": "evt_6448f37d87223341",
+      "topic": "finance",
+      "headline": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+      "published_at": "2026-07-25T12:46:34.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_83910df59a7e39e5",
+      "topic": "finance",
+      "headline": "Should You Buy Wingstop Stock Before July 29?",
+      "summary": "Should You Buy Wingstop Stock Before July 29?",
+      "published_at": "2026-07-25T12:44:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-wingstop-stock-july-29-124400495.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/6e643f62bc458558b52792b69673d667"
+    },
+    {
+      "id": "evt_ea5f0a640df257ee",
+      "topic": "politics",
+      "headline": "Baby rescued after Israeli settlers set home on fire amid raids",
+      "summary": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
+      "published_at": "2026-07-25T12:41:14.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_d50d5cbf833b1896",
+      "topic": "finance",
+      "headline": "AU Bank Profit Grows",
+      "summary": "AU Small Finance Bank reports 37% profit growth. The bank is also pushing AI.",
+      "published_at": "2026-07-25T12:41:11.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/au-small-finance-bank-q1-fy27-slides-37-profit-growth-ai-push-93CH-4812782",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://csv-storage.forexpros.com/slides/e70ce6657a366c4758bf3e4e548f9c836c580fe6d56b7ee38d93b56e0d5dc218.png"
+    },
+    {
+      "id": "evt_bf625117f9e3875e",
+      "topic": "politics",
+      "headline": "Ukraine Russia Conflict",
+      "summary": "At least 11 killed in Ukrainian and Russian strikes. Eight people killed in Ukrainian attacks.",
+      "published_at": "2026-07-25T12:41:02.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_494df80a643b521a",
+      "topic": "finance",
+      "headline": "Tech Stocks Fall",
+      "summary": "Alphabet, Intel, and Tesla stocks decline. Weekly recap of tech stock performance.",
+      "published_at": "2026-07-25T12:38:16.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/KpJuYRg131mIzLAX2NX6Rg--~B/aD0yMTY3O3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed937aaa-069e-453c-8853-fc66794cae36"
+    },
+    {
+      "id": "evt_4f0bd3679c36ed46",
+      "topic": "finance",
+      "headline": "Pfizer's Dividend Yield Looks Almost Too Good. Here's Why Management Isn't Worried.",
+      "summary": "Pfizer's Dividend Yield Looks Almost Too Good. Here's Why Management Isn't Worried.",
+      "published_at": "2026-07-25T12:35:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pfizers-dividend-yield-looks-almost-123500633.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/b3729601fadda2cdd85deab20ee78dda"
+    },
+    {
+      "id": "evt_7b044126c575e989",
+      "topic": "finance",
+      "headline": "Earnings call transcript: AU Small Finance Bank posts strong Q1 2026 growth",
+      "summary": "Earnings call transcript: AU Small Finance Bank posts strong Q1 2026 growth",
+      "published_at": "2026-07-25T12:30:23.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q1-2026-growth-93CH-4812781",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "evt_4c6376b97f27b8a3",
+      "topic": "finance",
+      "headline": "Shippers face tighter capacity as trucking rates hold near record highs",
+      "summary": "Shippers face tighter capacity as trucking rates hold near record highs",
+      "published_at": "2026-07-25T12:30:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/articles/shippers-face-tighter-capacity-trucking-123000391.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/freightwaves_373/dc9bea255ba86240660390a3b52da423"
+    },
+    {
+      "id": "evt_27a8d4853ea82d86",
+      "topic": "finance",
+      "headline": "UFC star Sean Strickland's brutally blunt money advice hits 5.2M views — and it's just 2 simple steps",
+      "summary": "UFC star Sean Strickland's brutally blunt money advice hits 5.2M views — and it's just 2 simple steps",
+      "published_at": "2026-07-25T12:30:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ufc-star-sean-stricklands-brutally-123000893.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/404503eaf33629553e285f1396617546"
+    },
+    {
+      "id": "evt_f951268f6b580611",
+      "topic": "finance",
+      "headline": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+      "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
+      "published_at": "2026-07-25T12:28:33.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_e6d5de87ccc5c8fa",
       "topic": "business",
-      "headline": "Family feud at venue",
-      "summary": "A family feud is affecting a venue. The dispute is causing issues.",
-      "published_at": "2026-07-25T11:00:00.000Z",
+      "headline": "Peptides, GLP-1s and MAHA: Introducing WSJ Wellness - WSJ",
+      "summary": "Peptides, GLP-1s and MAHA: Introducing WSJ Wellness WSJ",
+      "published_at": "2026-07-25T12:25:00.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQl9zTmVVRUhXRFh2cExaWmpmZ1paWEFzcjZUUXN0UEIxNDRvT21vdmY5RUt1SThrQjd4SDJwNm9ubVptYlJ5SzAtc0p0UFAydFExZHYzQ3dEZXVxTFhIWGdhWUVKSjdWd2k2OXNoQ1lYTGNTd3BjTm0tcWNITXdrZExoSk16OWV0NDBDVWZONW1xS3JpU2RYeA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDJIRU9WSXB6dktfMDRpZzRPOWcyS0EtLUhKZlhibnl4X05rQXdBZGpmSlJMRlBTXzUtcmhleEYybXRNMXJ4azF6bEVaZWlPMjl5VmM2MlRvc3RFdjRib3plTGd0ZlptLVBtb0xGSjQ5R09Ic0hwaGdWeGtWandVMkpHbmR1QlhVNTE5Ug?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.772
     },
     {
-      "id": "evt_422308c03d4f8e73",
-      "topic": "business",
-      "headline": "Matisse Portrait Review",
-      "summary": "Matisse's portrait sparks review. It's a revolutionary artwork.",
-      "published_at": "2026-07-25T11:00:00.000Z",
+      "id": "evt_d33a75bd50250850",
+      "topic": "finance",
+      "headline": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "summary": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "published_at": "2026-07-25T12:24:40.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdXlsVGo4dmV2SmxFNExoZDVobTVRQ0ZLck5ad2NuSi1oTkJuci1uQWNOel9nQno1ajFLMGo4MmlLVEpMbTNqY3ZPZWNmdTZMY0hlT0xlNXJJLW1KaXZIZ05JNklJV21kUG9lZmtjQUI5Q0Z6Q3JKTGcyM2puU0c1NGN5dXdiMmdtQWpIcHZqVEhkcDQ0aHFBSkFNNDVDR18tQmp1ZnlWaW9JNWF0MEZpNXgwcVV4R1EzQjZabTZXdWItcmNEQmdlMG01Tmw2aEJkUHFSNWtR?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.772,
+      "image_url": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa"
     },
     {
-      "id": "evt_9ba5eb7903cf624d",
-      "topic": "business",
-      "headline": "WSJ Print Edition",
-      "summary": "WSJ print edition available. It's a news publication.",
-      "published_at": "2026-07-25T10:58:56.000Z",
+      "id": "evt_4efcd680e76bcd37",
+      "topic": "finance",
+      "headline": "Guterres meets Syria’s Sharaa on first visit to Damascus by UN chief in 17 years",
+      "summary": "Guterres meets Syria’s Sharaa on first visit to Damascus by UN chief in 17 years",
+      "published_at": "2026-07-25T12:24:24.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nc3ZXNmpGVkVScklOcDdTUEdtOG1KQXhnVjRXd2NXclowVFgwQjU1UzJraFhfakl2U2pFcXVhVFpBV0I3TmpFeFlrUlBPQTZMMzhRTEVVVTBxcFNUcXUzcldR?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economic-indicators/guterres-set-to-be-first-un-chief-to-visit-syria-since-before-2011-war-4812730",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778
+      "weight": 0.771,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
     },
     {
       "id": "evt_76fa5ab681432397",
@@ -235,347 +661,32 @@
       "weight": 0.778
     },
     {
-      "id": "evt_76ad9ac6b8dbbe47",
+      "id": "evt_2cb1788adee51fbb",
       "topic": "finance",
-      "headline": "India Exam Scandal",
-      "summary": "Exam scandal sparks uprising. Students protest in India.",
-      "published_at": "2026-07-25T10:54:28.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/the-fear-killed-her-how-an-exam-scandal-in-india-sparked-a-student-uprising-4812768",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
-    },
-    {
-      "id": "evt_a6d6a4bca9d0b547",
-      "topic": "finance",
-      "headline": "Fires in France",
-      "summary": "Fires in France. Tens of thousands flee.",
-      "published_at": "2026-07-25T10:48:28.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/tens-of-thousands-flee-fires-in-france-blazes-merge-outside-madrid-4812480",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_bf06546f15ec3a50",
-      "topic": "politics",
-      "headline": "Southern China braces for typhoon Noul, suspends public transport - Reuters",
-      "summary": "Southern China braces for typhoon Noul, suspends public transport Reuters",
-      "published_at": "2026-07-25T07:35:09.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTAyMXNxNGtaUXo0Z3pKNk0wdDJTSWxibmNsNi1TTlNLNDdEUnB4M1BfeXBHQWJTeXZmS3JTWVlTUURmZlFCWnNQeVRZY0dmaHprbnhXS21ZTXA2RFVqVFkwZDlWTnl1QmNGQUNNdlQyaTNsUWlibnlfcDVBaDdOY2dtYS1sX0ZCRHVDa2FlX2l1aXUwZ0tlbkR2dlg5bzdodG9NenpacW9mdmV6WVdnQ2d0S2dHbWdw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_729bf4c6aab50210",
-      "topic": "business",
-      "headline": "India Minister Resigns",
-      "summary": "India Education Minister resigns. Student protests prompted resignation.",
-      "published_at": "2026-07-25T10:37:18.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWpPU0c1czlfZjdzYlNYYndjVXF5QktWSzYtb1VHY0duOUdFQmd5c0tPeDNvUG1MdFpDZHlHS19qNTVJejlOaHg2VXdyWU9pS3lMQTlmLW5zXzlqSmhacnFoU2xZSG9nMjhaejJscGV0ZE14OEhJQ2xGaFVSazl1YWh6TE45c1E5aFdXSTdyaUdtQXJ2YURFaGUzVmU5aHlZekM2OFBXd3pVMHkzcHBXRTNnZVo?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_b1f7366cda26588d",
-      "topic": "finance",
-      "headline": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
-      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
-      "published_at": "2026-07-25T10:22:58.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_8e93bbd42794bc31",
-      "topic": "business",
-      "headline": "Houthi Claim Missile Strikes on Southern Saudi Arabia - Bloomberg.com",
-      "summary": "Houthi Claim Missile Strikes on Southern Saudi Arabia Bloomberg.com",
-      "published_at": "2026-07-25T08:02:41.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDFLZFEtQ2NORmJrTm5SdU5XaXpUTENudnhrNDV4ZkFtSTN2bVdDMm9EbndCOVNwUDlpcUxIbzBXZVRhVURjcGNiVE9zVUNvMVRaOW9IWVc3YzQzZDFxOFVxQzZmNHl3QUE4dTQwNVdCM29OcF9nNTN6ZmpObi1hZnRLNHI0cTRfaUFXRThsenY4dEhhWk53enBHRVotRDFOUXcyRWtWdw?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_d701be37da5cf14f",
-      "topic": "business",
-      "headline": "IBM CEO Says Company Culture Was Too Slow to Change - WSJ",
-      "summary": "IBM CEO Says Company Culture Was Too Slow to Change WSJ",
-      "published_at": "2026-07-25T10:15:03.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnh1SmltVGNfZHlFeEhxV1NINWNRZ0U0eVVFeTJ5cG1BTFd3VjkzbnNLeElLUmtSODBfU2l0dGNsSUNHM1dsZkpoV0JkWFRlNVpGbkRCRXB4SmdHTGp4dGF2NWRKWmtSaFRrTjFOWnFZRkZya2VvM3l0R1cydGhfNWQ3S3MzLUUyWktXeHB6UnJjS0RlNG9v?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_df2b098d08174dc5",
-      "topic": "politics",
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "published_at": "2026-07-25T10:14:41.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg"
-    },
-    {
-      "id": "evt_caef5272346394bf",
-      "topic": "finance",
-      "headline": "Michigan battles massive outbreak as state reels from Trump cuts",
-      "summary": "Michigan battles massive outbreak as state reels from Trump cuts",
-      "published_at": "2026-07-25T10:13:10.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/michigan-battles-massive-outbreak-as-state-reels-from-trump-cuts-4812766",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
-    },
-    {
-      "id": "evt_33e442f9ab61c7fb",
-      "topic": "finance",
-      "headline": "Swiss cheesemakers try to fill hole in sales from US tariffs",
-      "summary": "Swiss cheesemakers try to fill hole in sales from US tariffs",
-      "published_at": "2026-07-25T10:12:52.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/swiss-cheesemakers-try-to-fill-hole-in-sales-from-us-tariffs-4812765",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM0S1H0_M.jpg"
-    },
-    {
-      "id": "evt_2f5ab7b99fa3f986",
-      "topic": "finance",
-      "headline": "This wave of Trump tariffs is likely here to stay; more are coming",
-      "summary": "This wave of Trump tariffs is likely here to stay; more are coming",
-      "published_at": "2026-07-25T10:12:33.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economic-indicators/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming-4812764",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg"
-    },
-    {
-      "id": "evt_20159dd226d4c63f",
-      "topic": "finance",
-      "headline": "Missiles shot down",
-      "summary": "Missiles targeted refineries. They were shot down.",
-      "published_at": "2026-07-25T08:06:30.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_586fd26091eea056",
-      "topic": "finance",
-      "headline": "Maine Democrats to nominate Troy Jackson to replace Platner in US Senate race",
-      "summary": "Maine Democrats to nominate Troy Jackson to replace Platner in US Senate race",
-      "published_at": "2026-07-25T10:07:07.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/maine-democrats-to-nominate-troy-jackson-to-replace-platner-in-us-senate-race-4812763",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
-    },
-    {
-      "id": "evt_02708c6575dcae66",
-      "topic": "business",
-      "headline": "Opinion | The Tariff Danger in Graham’s Russia Sanctions Bill - WSJ",
-      "summary": "Opinion | The Tariff Danger in Graham’s Russia Sanctions Bill WSJ",
-      "published_at": "2026-07-25T10:06:33.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDN0d0pEQ2YzT2RVU2NTWFliZ1pfZWtXYUY3YUp4eGhrNjA1eXNaY05BU096a004dUdKNktfYUtmcjFiM09jWTJONnVSczQyeUVod09pU0FRdWYyMDlFTlBJeGR3WmxGWUhhako0NkF0TlkwS0l2elRNMThnd216NkwtWDRocUxNV25SNEJPdmk?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_365bad0cf856e4e0",
-      "topic": "politics",
-      "headline": "11 European tourists and 1 local rescued after speedboat sinks in Indonesia. Boat captain missing - AP News",
-      "summary": "11 European tourists and 1 local rescued after speedboat sinks in Indonesia. Boat captain missing AP News",
-      "published_at": "2026-07-25T10:02:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTdfTkNNYm83NHNnZFpzRW9MOWtRWHpjRExHOHJpR0hKa2Z3RzFraTNCLXE3eVIzQS1Tb2x0Uk4wVkljTThZczFTVVROQ2w1azlOTjBmUm1uQmNOa2ZGMDNyaklNSTMtckR4RlI1NTVKMExiRFNxSUlyNWhDNHVEdjctODZBaktDWXl1S2MtUFBYYzI0TDdmY05BQnJULWN6WEE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_c7e379058473b03b",
-      "topic": "crypto",
-      "headline": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
-      "published_at": "2026-07-25T10:01:26.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg"
-    },
-    {
-      "id": "evt_0bffb20a168d8dcf",
-      "topic": "finance",
-      "headline": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
-      "summary": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
-      "published_at": "2026-07-25T10:00:00.000Z",
+      "headline": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
+      "summary": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
+      "published_at": "2026-07-25T12:14:03.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
+          "url": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.77,
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e"
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/1eFz0XcoIEabBj0raqpLJw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/808285e7-299d-4c28-82c0-39298db912d1"
     },
     {
-      "id": "evt_2f9bf9b4887b4779",
-      "topic": "finance",
-      "headline": "Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY",
-      "summary": "Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY",
-      "published_at": "2026-07-25T10:00:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-25-2026-best-account-provides-420-apy-100000276.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3"
-    },
-    {
-      "id": "evt_364345594f2a79da",
-      "topic": "finance",
-      "headline": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "published_at": "2026-07-25T10:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://images.mktw.net/im-55216973"
-    },
-    {
-      "id": "evt_5bd24afbac9e0768",
-      "topic": "crypto",
-      "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
-      "published_at": "2026-07-25T10:00:00.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_5dce78a14bd681c4",
+      "id": "evt_c9d39b8aa7a54f28",
       "topic": "politics",
-      "headline": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
-      "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-      "published_at": "2026-07-25T09:54:44.000Z",
+      "headline": "Trump faces backlash for using ‘Palestinian’ as an insult",
+      "summary": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
+      "published_at": "2026-07-25T12:11:33.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
@@ -583,247 +694,20 @@
       "weight": 0.77
     },
     {
-      "id": "evt_4e372bc09e9df1a7",
-      "topic": "finance",
-      "headline": "Samsung, SK Group seal deals",
-      "summary": "Samsung and SK Group sealed deals. The deals are worth $950 billion.",
-      "published_at": "2026-07-25T09:42:49.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/samsung-elec-sk-group-seal-950-billion-deals-as-south-korea-hosts-ai-powers-4812752",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_M.jpg"
-    },
-    {
-      "id": "evt_8ef254119ace66a0",
-      "topic": "finance",
-      "headline": "Jindal Steel Q1 margins rise",
-      "summary": "Jindal Steel's Q1 margins increased. Value-added mix grew.",
-      "published_at": "2026-07-25T09:42:37.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/jindal-steel-q1fy27-slides-margins-rise-as-valueadded-mix-grows-93CH-4812761",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://csv-storage.forexpros.com/slides/19569323fd763a41f4685b5cf768adc64562e4add8b0249cad5acb4538a9927e.png"
-    },
-    {
-      "id": "evt_1639c37ff3016739",
+      "id": "evt_87a60a3337ada462",
       "topic": "politics",
-      "headline": "High winds could make fighting Spanish wildfires harder, officials say - Reuters",
-      "summary": "High winds could make fighting Spanish wildfires harder, officials say Reuters",
-      "published_at": "2026-07-25T09:40:48.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUFGMTNxNzRMaktNT0dtMzRETnNiVExkejEwS0lkU0xxVDdNSU5OZU51aFNROG50OUQ2TGFHSjZYZGk1NnpQMTNjcWc1V2c4LWlqN0ltN005WGk5LTd4aUwzTkdyN0tNX1BrVlcxdTVuSUlFZ3FERHV0bElDZFpjWWZnaHdHeUVvSlpzeHh1Y2V5UGRHclU1Mjk0bmx5UlVrMndjSF9LUURmcFQ2dmx0TlFyTnpjU0Y5YUcyRVc1QWl5NmpQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
-    },
-    {
-      "id": "evt_95b5816b37c7ac82",
-      "topic": "finance",
-      "headline": "Jindal Steel Q1 margins rise",
-      "summary": "Jindal Steel's Q1 margins improved. Volumes dipped.",
-      "published_at": "2026-07-25T09:31:06.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-jindal-steel-q1-2027-margins-improve-as-volumes-dip-93CH-4812760",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_a6d5edb442c5ce8e",
-      "topic": "business",
-      "headline": "Chart of the Week: Who owns shares? - Financial Times",
-      "summary": "Chart of the Week: Who owns shares? Financial Times",
-      "published_at": "2026-07-25T09:30:09.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklzSGtYV3N6VWw4c3JXMmxMYk5PbktqTVBtTjJ2NHBrQ3lZM2dMQmFlNXBINzhyZGZ2TllkSWt0YXp3Z2xmemE4a1hJMG53LXNib2xkZVE1eV82Y0dkay1KSk14OElERmt2UjZOYUgtMXZfOU1IdUJKeF9xZ2tnX29TOEc?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_4242511a67397f85",
-      "topic": "business",
-      "headline": "Intern arrested on suspicion of spying at Nato military HQ - Financial Times",
-      "summary": "Intern arrested on suspicion of spying at Nato military HQ Financial Times",
-      "published_at": "2026-07-25T09:22:40.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3hULS1TcDN3Vm9HZnZfVzRaWXdGdU44VzNlSHo4LUF2a29JNUx6SkdCZDdMT1FPbTRCQTZlOTNfQXQ1MmhBZGZKWlQ4UHNEbHUtbC1TU0NsNFR5bHdJVTZTSDhubmdob3dYZUlZTTVQYVZTS2xlWUIxd2tTdFBTcDl1cmg?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_cc617cbeb5d0b7c1",
-      "topic": "politics",
-      "headline": "Animals - AP News",
-      "summary": "Animals AP News",
-      "published_at": "2026-07-25T09:16:22.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBid3FvSVgxLUEwQTFhU1ZOd3d6dzVBX0JfWEdtN2VWUEhfMkNsZmx4bWRtZXdCbEwyTkt0dm9QWnNkTHVh?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_c7091c5e08abe790",
-      "topic": "politics",
-      "headline": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - AP News",
-      "summary": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years AP News",
-      "published_at": "2026-07-25T09:15:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1ZfVHVWWm9fSS1fSTBydVl1WEtmZE5aY0ZxdEFZbTd0LVpUNUYweU4xYW53cjh1bV80Mlh2UHprZk51MVhGWnNQN1JZMGdnTG9nRDdJM2VCVVhhUURNUjV5VWJjbHFkd09WTFBKcUdJaHBTWER6MVh2WmR2bVpJV1pDTWlUcXYxU2M4STdObE5xWkFBR1FETmxPcmpkT2pyaHZYcg?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_afb8536ff0a71eba",
-      "topic": "politics",
-      "headline": "Israel arrests Palestinians",
-      "summary": "Israel arrests Palestinians. Arrests follow settler attacks.",
-      "published_at": "2026-07-25T09:10:01.000Z",
+      "headline": "Scrutiny of WNBA intensifies as disarray looms over All-Star festivities",
+      "summary": "Discussions about race, gender and sexuality overshadow Saturday’s WNBA All-Star Game, as league lurches into disarray.",
+      "published_at": "2026-07-25T12:11:30.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+          "url": "https://aljazeera.com/sports/2026/7/25/scrutiny-of-wnba-intensifies-as-disarray-looms-over-all-star-festivities?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_2eb4f76c7ec3d7f2",
-      "topic": "politics",
-      "headline": "Japan's monkey sensation Punch gets thousands of birthday messages as he turns 1 on Sunday - AP News",
-      "summary": "Japan's monkey sensation Punch gets thousands of birthday messages as he turns 1 on Sunday AP News",
-      "published_at": "2026-07-25T08:59:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGhvM0tIUVNSZUVkXzRHYlBtVlVzWVc1dVp2TW52R28weFljaENzal9GUmE4MG9oNm92QVpsRkMtUWJlSTQ4Q3N4Njg4N2FEMDlxeEttNUZ1R2poN1RiZEVIOEZMUE9ZUTYxM1RoanlkZU5CWnpPQjU0MXNHdzZiTTBjVEIxYzgxcEU0VEtNcVVsTjBxdHc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.762
-    },
-    {
-      "id": "evt_67ce0f43d49768fd",
-      "topic": "business",
-      "headline": "Kuwait Oil Deal",
-      "summary": "Blackstone and others ink $16 billion deal. Kuwait oil deal signed.",
-      "published_at": "2026-07-25T08:49:14.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJOckl1b25kS3l3MG9hQWpHQW1TVzExNG9IRnUtNkVYdFIyZ0NfbnJyeXFhVzl3aGZNX3dmYUZDNTRKWElYem5QRTJzSmlpV3dNT2ZXUmk0aXhmMzVwU0E1aFVyb19xdXFXQjhkdTI2WUhOcmpJeVRFV3R5OHhLaXZodm1PS0llS2FhQVpSZXM0VkVNd1Y2NWJYeXZmZmRGZTJiZ3U3T25jOGZ3dXBYeXdR?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_dab4bea8faf47421",
-      "topic": "finance",
-      "headline": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-      "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
-      "published_at": "2026-07-25T08:49:00.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.76
-    },
-    {
-      "id": "evt_01baabe4be3a89b5",
-      "topic": "politics",
-      "headline": "Georgia’s Okefenokee Swamp among new additions to join UNESCO’s World Heritage List - AP News",
-      "summary": "Georgia’s Okefenokee Swamp among new additions to join UNESCO’s World Heritage List AP News",
-      "published_at": "2026-07-25T05:55:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVkzUGYteC1oVnNGNV9KNXVTY1dZcTRzYjI0aFd3Ykt3YzhfOUVkQ3hCMHVjUGhMUU9WYnduVmpfdUJyaFlLVTA0TEdpZzJvQ3pkQUxFZ0JKOGlJQlRxWTE1bGQ5Y1JZY1IwSlZHS1Z3bHo4T1d0c1NvbDdmQXhZQklBSzFqU3hDSWRPME5raXREdVlJSElIVml1VGRiQUIwb05zWmxORQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.748
-    },
-    {
-      "id": "evt_934237d7e23e0fb5",
-      "topic": "business",
-      "headline": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
-      "summary": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal Financial Times",
-      "published_at": "2026-07-25T08:44:03.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.76
-    },
-    {
-      "id": "evt_24bc33d65a4ca9e3",
-      "topic": "business",
-      "headline": "Exclusive | An Oceanfront Compound in Laguna Beach Hits the Market for $112 Million - WSJ",
-      "summary": "Exclusive | An Oceanfront Compound in Laguna Beach Hits the Market for $112 Million WSJ",
-      "published_at": "2026-07-25T08:31:39.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJmdFMxVXRsakJCeWRxQUd4TlA1ZDZTUWlHZmlnekZVcWpZRG84c0tEZTJJbkV0SFpidE9lNGdLM2RnS04yNzdzNXhidzBtTDF0d0p2NW1Ba0lHanFOUVluRl9GbExoM2RaQVNrSEkwbElSZ1ROX1ZsRjNoQlQ2d3FiNklMU3VrS09zWFowaS1HQ2ZTcDM1TQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758
+      "weight": 0.77
     },
     {
       "id": "evt_6885184cf65ebadc",
@@ -842,181 +726,299 @@
       "weight": 0.767
     },
     {
-      "id": "evt_d531aeaebcaeef58",
-      "topic": "politics",
-      "headline": "Yemen housing crisis",
-      "summary": "Families live near front line. They face difficult choices.",
-      "published_at": "2026-07-25T08:09:47.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_d6c0e4808c65cfe1",
-      "topic": "business",
-      "headline": "Sanofi to Drop Eczema Drug Amid Review of Pipeline Under New CEO - WSJ",
-      "summary": "Sanofi to Drop Eczema Drug Amid Review of Pipeline Under New CEO WSJ",
-      "published_at": "2026-07-25T08:04:51.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnQxaUk1dG05STVmTnp5RWJjb0J4cTdWUThYa1haMThDejNhUkF4TVBTRURYOHRDVTBoSm5PVzhFU0RaVmgxT05vNjdYTFEtM1hrUkpyQUlfem1DUS15aFBjUngzak51QUJpUlp0bE1sT1JLQWRCZERVSUZPNTZET0w1Y1VhanhxdmZfM2c1Q2RhWHpmLThBVXA4eWwxUzhfRTU3dUpjeU1Tc00?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_336943d0e8401a40",
-      "topic": "business",
-      "headline": "The Problem With Resilience - Bloomberg.com",
-      "summary": "The Problem With Resilience Bloomberg.com",
-      "published_at": "2026-07-25T08:00:01.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXBQaEU5Y2RkejM1WVpuY0hsR1hrSV9MQWcwbUVKbnVoOWlES29Zb3RmR1V3NEhERUk1Ny1XZllGeHpIQjhzXzM2WEVnRGVYZU9mc1lwUzJjM2pRa2xRRVhXY3V6eWlNVzRwRzgtZ2FIZlZMdUNjU1NkSElpSTVRMHo4czIzSC05bHNIWU1UUDk1RDRzeDFpdEVoYnlTdEtuZThtVQ?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.754
-    },
-    {
-      "id": "evt_8ac243c3364b000a",
-      "topic": "ai",
-      "headline": "MouthPad: A Tongue-Controlled Touchpad",
-      "summary": "Article URL: https://www.augmental.tech/ Comments URL: https://news.ycombinator.com/item?id=49045446 Points: 19 # Comments: 4",
-      "published_at": "2026-07-25T07:51:19.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://augmental.tech",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.752
-    },
-    {
-      "id": "evt_3d635a116e82f040",
-      "topic": "politics",
-      "headline": "With swords, axes and shields, fighters go head-to-head in medieval combat world championship - AP News",
-      "summary": "With swords, axes and shields, fighters go head-to-head in medieval combat world championship AP News",
-      "published_at": "2026-07-25T07:51:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGw2X0xWZ25QaklXUjZJM2p2OVJoeDE3OUF6cGFpaE5hSW9oLTRFRFQ0QWJRZ3JjQmpnQ2dRWkhpRmpiVnN5NEMwejlMUU83bGttd2k1Q21oNUJrbHRpQ3BOcHhoRklCMFlpeHpqX19ZdmNkdmQyaHJxVUNiUWRwNjluVFZtMjVJb05Ub1lWcUV5SjJScmhEcXFzSnY4YVZmOXB1eQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_02c94c4441cea1dc",
-      "topic": "politics",
-      "headline": "Wildfires in Spain and France force evacuation of 200,000 people",
-      "summary": "France has appealed for international help, while Spain has declared a national emergency.",
-      "published_at": "2026-07-25T07:41:43.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_800cb2758421697f",
+      "id": "evt_b431ea497743c593",
       "topic": "crypto",
-      "headline": "Ethereum ETFs close week in red, end 5-day inflow streak",
-      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
-      "published_at": "2026-07-25T07:40:35.000Z",
+      "headline": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-07-25T12:06:01.000Z",
       "sources": [
         {
           "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
           "homepage": "https://cointelegraph.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.762,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg"
+      "weight": 0.769,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "id": "evt_8f50fd834d16d326",
-      "topic": "politics",
-      "headline": "Greek-operated air defence system shoots down missiles over Saudi - Reuters",
-      "summary": "Greek-operated air defence system shoots down missiles over Saudi Reuters",
-      "published_at": "2026-07-25T07:28:20.000Z",
+      "id": "evt_ae278f03a93c059e",
+      "topic": "finance",
+      "headline": "You’ve got a leg up on about 50% of Americans if you check off any of these three boxes — how do you stack up?",
+      "summary": "You’ve got a leg up on about 50% of Americans if you check off any of these three boxes — how do you stack up?",
+      "published_at": "2026-07-25T12:05:00.000Z",
       "sources": [
         {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3g2TnRFRlEzbjhJTy13dGx3cGszWE0ydEZ2bGlEUlIyR3diOTVmYlJZdDQyY1dhc0dNWjZISm1VOW54akNlQ1FkQTFTZnFLR01adUh6cGlLSV95OVJ2Ym1ydGFtVW5uNnBZaWE2Vzhld0UtdFdRSy05clpSblJHZzdXQXhFcUNseV9zYXFyRUNIRWxLeE92amowZGlMZTg5dGpwTEo1VVF5SzB6b3B6bGt3M3VDREE0M3VHcVFtME40S0JDNHJj?oc=5",
-          "homepage": "https://www.reuters.com/world"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/articles/ve-got-leg-50-americans-120500916.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.761
+      "weight": 0.769,
+      "image_url": "https://media.zenfs.com/en/moneywise_327/09fc80216b252e00812d314fb3a364b0"
     },
     {
-      "id": "evt_208692aafc85e3db",
+      "id": "evt_f1cc23b6c3fca5ac",
+      "topic": "politics",
+      "headline": "Jetting off for a summer vacation? How to eat and drink to minimize jet lag - AP News",
+      "summary": "Jetting off for a summer vacation? How to eat and drink to minimize jet lag AP News",
+      "published_at": "2026-07-25T12:02:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzZOcTJiWkhGM0U3ZzdRc2NNc3duZDc1bDZMRm1UemRqVW00UUtHS3BnN2xBQ01Ma1ZYUmt4Y3FuX2FqZmROS1lIdHVReWp5X050ODdfYnFYU2FXSHR5QUp2YUY4b1BTNERWNUplWjBSc0Q4cjRuei00OC1NdVhoZG9Sa2N1Y1B6T1oydHV4c3J1Rm8zNTNCUA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_d706f8e848a66fb5",
+      "topic": "finance",
+      "headline": "Eli Lilly, Dell Among Stocks To Watch As Market Leadership Shifts",
+      "summary": "Eli Lilly, Dell Among Stocks To Watch As Market Leadership Shifts",
+      "published_at": "2026-07-25T12:00:28.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/eli-lilly-dell-stocks-to-watch/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://media.zenfs.com/en/ibd.com/1408d114b21df6629c40a896ce45f7e2"
+    },
+    {
+      "id": "evt_83607394bcdf61fb",
       "topic": "business",
-      "headline": "Modi Sidesteps Exam Leaks in Video as India Protests Spread - Bloomberg.com",
-      "summary": "Modi Sidesteps Exam Leaks in Video as India Protests Spread Bloomberg.com",
-      "published_at": "2026-07-25T07:27:08.000Z",
+      "headline": "Major League Baseball’s AI Crackdown Is an Overreaction - Bloomberg.com",
+      "summary": "Major League Baseball’s AI Crackdown Is an Overreaction Bloomberg.com",
+      "published_at": "2026-07-25T12:00:22.000Z",
       "sources": [
         {
           "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcU9kNVhoeC15dlJtYXNCNVNxS1VxcE9FOHZfSG5PZG1zUFZSSXVwOTRma3JtZ0ZSTWluX2FrOU9OMUVwbnd1TjdsMWVmYzlvNnlaMW8xampOLTVlQlZGQkZ0cWt0bm5acW5SbDB3QmM1TFBEMXQtelo1QTFPZ0kzREhMSFcwSlppaU1BQllfNEd5bS1NZUxPVkxoQ0x4Tzl1dWJsZlNxTUVCTGJYazkxbWNn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXI1aFBRa21UWjR3akctdHNWX0ROM2dGdThfLW9QOGpKa0pMS29jOHZxbTY4VG1ueWdmTEtJWnhDQ1ZJVlg3MWs1Z0RYVnFqYzNqZTFlNDVyT081SVBhSzlZTzNfX3FHSW5jcE8wZ1AzYjhVbmN2MDdiRy0za252aExpWWxheDFOS0t2dk51OHRybkxDV3o0RTdEbi1XdGRzcUNVZmJDUjljYVJ1dHc?oc=5",
           "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.761
+      "weight": 0.768
     },
     {
-      "id": "evt_1a9ed62872fed226",
+      "id": "evt_aa7aa9babeb7b008",
+      "topic": "ai",
+      "headline": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering Comments URL: https://news.ycombinator.com/item?id=49046858 Points: 0 # Comments: 0",
+      "published_at": "2026-07-25T12:00:04.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_46ed9a2c8ea7c695",
+      "topic": "finance",
+      "headline": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+      "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
+      "published_at": "2026-07-25T12:00:02.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_a16b6d44e331f263",
+      "topic": "finance",
+      "headline": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+      "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
+      "published_at": "2026-07-25T12:00:02.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_d664c32bed983a64",
+      "topic": "finance",
+      "headline": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+      "published_at": "2026-07-25T12:00:02.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_5881062ce6c49679",
+      "topic": "ai",
+      "headline": "What Surrounds Us will make you think a lot about circles",
+      "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map that's co",
+      "published_at": "2026-07-25T12:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_beb0841ebbf80189",
+      "topic": "ai",
+      "headline": "Folding and flipping phones are getting seriously good",
+      "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Zero and armored",
+      "published_at": "2026-07-25T12:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_5dcdd4dab29a5068",
+      "topic": "finance",
+      "headline": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
+      "summary": "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn’t sell out.",
+      "published_at": "2026-07-25T12:00:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://images.mktw.net/im-18956822"
+    },
+    {
+      "id": "evt_9947ba6e140de250",
       "topic": "politics",
-      "headline": "Italy defence minister offers ousted Ukraine counterpart Fedorov adviser role - Reuters",
-      "summary": "Italy defence minister offers ousted Ukraine counterpart Fedorov adviser role Reuters",
-      "published_at": "2026-07-25T07:25:44.000Z",
+      "headline": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement - AP News",
+      "summary": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement AP News",
+      "published_at": "2026-07-25T11:58:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_69cd78e0ea73ce36",
+      "topic": "finance",
+      "headline": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "summary": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "published_at": "2026-07-25T11:54:25.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/israeli-troops-round-up-palestinians-in-west-bank-village-after-shootout-involving-settlers-4812776",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+    },
+    {
+      "id": "evt_bf06546f15ec3a50",
+      "topic": "politics",
+      "headline": "Southern China braces for typhoon Noul, suspends public transport - Reuters",
+      "summary": "Southern China braces for typhoon Noul, suspends public transport Reuters",
+      "published_at": "2026-07-25T07:35:09.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEFuZkktZHFHamtzb2V3b3RHUWlvTzFMVWpLY0djTEVhbjV5MS01SXE5Mk50amNpaU92VElZS0k0bnhVUFl0RDh5M1R1QnJ3LVQtaVRCaHlKZmtsaktkeVY0LUFPNWRxZzNSdEYzYm1FRm80WFItVGRGeFpicFBlMHV0Nl9aaUUtU0RpajV5Vy1iMWdnYVhHLXlJSjZ5am5QRDc2RENZVThIMlg2bnd2OTQ4Z1FOdU1RZmVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTAyMXNxNGtaUXo0Z3pKNk0wdDJTSWxibmNsNi1TTlNLNDdEUnB4M1BfeXBHQWJTeXZmS3JTWVlTUURmZlFCWnNQeVRZY0dmaHprbnhXS21ZTXA2RFVqVFkwZDlWTnl1QmNGQUNNdlQyaTNsUWlibnlfcDVBaDdOY2dtYS1sX0ZCRHVDa2FlX2l1aXUwZ0tlbkR2dlg5bzdodG9NenpacW9mdmV6WVdnQ2d0S2dHbWdw?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.76
+      "weight": 0.762
     },
     {
-      "id": "evt_67c0c0a77a3fbef8",
-      "topic": "politics",
-      "headline": "Born too soon: Premature babies fight for survival in Gaza",
-      "summary": "Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.",
-      "published_at": "2026-07-25T07:25:35.000Z",
+      "id": "evt_9581b4ba7cc6114e",
+      "topic": "business",
+      "headline": "Trump at WHCD, Houthis Claim Saudi Attack After US Run on Iran - Bloomberg.com",
+      "summary": "Trump at WHCD, Houthis Claim Saudi Attack After US Run on Iran Bloomberg.com",
+      "published_at": "2026-07-25T11:51:34.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFdJd05nQ3dUc1l1XzRWTU1GblhnbzB2enlDVjhlYVJHQmYzX09Qc1F5R0QzeVYwOVVXS2VXSnAyemMycGgweG5vTlk5LS11NDJlVkZvUG91ZkYyNmlDcjc0TEprMjJOeEI3dlZfSmRFZnJNa1MwR3RkZ1hzMTI0X3B4S3VOYlVpN2gzVHBfWTJPNW1McjllWU5iaGc0cm12djNYNzQzalluQUN3RGc?oc=5",
+          "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.76
+      "weight": 0.767
+    },
+    {
+      "id": "evt_debbde6cd5a8517e",
+      "topic": "business",
+      "headline": "Is Cutting Off Mom and Dad Bad Advice? - WSJ",
+      "summary": "Is Cutting Off Mom and Dad Bad Advice? WSJ",
+      "published_at": "2026-07-25T11:50:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmJDYl9ucGxYR1Q1cWhmeXdtM1prNmQzalVUNDB0X1U5WERhdUtaWm82ZGstR01aall6ZEt4bGdkRDZPME44MldpSlBmMG5OZkJHRERMNkFiaWpnbDhMZ2dxNnoyenJsZVZMYURWY3l0Z3V0S2ZyNmh4U2VxUkJSc0ZhY0pNNjM2Y01n?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_729bf4c6aab50210",
+      "topic": "business",
+      "headline": "India Minister Resigns",
+      "summary": "India Education Minister resigns. Student protests prompted resignation.",
+      "published_at": "2026-07-25T10:37:18.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWpPU0c1czlfZjdzYlNYYndjVXF5QktWSzYtb1VHY0duOUdFQmd5c0tPeDNvUG1MdFpDZHlHS19qNTVJejlOaHg2VXdyWU9pS3lMQTlmLW5zXzlqSmhacnFoU2xZSG9nMjhaejJscGV0ZE14OEhJQ2xGaFVSazl1YWh6TE45c1E5aFdXSTdyaUdtQXJ2YURFaGUzVmU5aHlZekM2OFBXd3pVMHkzcHBXRTNnZVo?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
     }
   ]
 }
