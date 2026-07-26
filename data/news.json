@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-07-25T22:56:05.243Z",
+  "generated_at": "2026-07-26T06:36:43.206Z",
   "clusters": [
+    {
+      "id": "evt_433d785f03cfc5df",
+      "topic": "politics",
+      "headline": "Flavio Bolsonaro Runs",
+      "summary": "Flavio Bolsonaro launches presidential bid. He has support from Milei and Netanyahu.",
+      "published_at": "2026-07-26T02:19:58.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdnBaa01RV0xnT2NWUGE3ak84X0lPTFNFQnZTRnpQNjEzSkRBcHRoR2hmZ2JxVG5URXNHaVp2aE9kQWVrWTY0b3BNdWI0U2NueHVWS3g3blIwd3pqd3duYVVEUVNyb0tFNTFoSXhoZGV4WFBRYWdkd1lXTFpTeEFQeS0tT2FYdXpIV25faHZVaThQWk4xSFpsWDZEcjRqb3RHUm9WbHN3OW1Rck5nM0k5V3U4b0RIWXFlalZyeTRQMjFGcUpqcmRCSHVrdndjSHNDUHFlOHR6M2dmZXFSb1k4?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.924
+    },
     {
       "id": "evt_0b9c044b98fec520",
       "topic": "business",
@@ -43,27 +64,6 @@
       "source_count": 2,
       "weight": 0.944,
       "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg"
-    },
-    {
-      "id": "evt_47c8f24ba2ff4631",
-      "topic": "politics",
-      "headline": "India Wins T20 Series",
-      "summary": "India wins T20 series in Zimbabwe. They took a 2-0 lead.",
-      "published_at": "2026-07-25T16:02:40.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzlNOXRrV0g4cGh3bTZ3anVsZ1lEUVhlNExvY0hWMVpXSDNGZ3hhOTJTU21Nc3BxMHljLTNlbTE0MGd4UVQ1YTlTa011TTN0eFFNeWNtQXBxdGtqTlFTM1NGVU1rWnZLNWxjel9LbGEyOEZCYUdYNTdWTmZjV0tWemJsR0dkSVg3Wm1DUGNoRkNZMzZyTnhOcmMtM184dWs?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.903
     },
     {
       "id": "evt_8b99eb7d1b649149",
@@ -110,70 +110,21 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg"
     },
     {
-      "id": "evt_8c93775fb3b4e706",
+      "id": "evt_4161ca377393d3b9",
       "topic": "finance",
-      "headline": "Figma vs IBM",
-      "summary": "Figma and IBM are compared. Revenue growth trends are analyzed.",
-      "published_at": "2026-07-25T22:35:01.000Z",
+      "headline": "Marvel Announces Films",
+      "summary": "Marvel announces new films. Ghost Rider and Black Panther 3 are coming.",
+      "published_at": "2026-07-26T06:08:46.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-ibm-revenue-growth-223501181.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/marvel-announces-ghost-rider-and-black-panther-3-at-comiccon-4812837",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/b51797adc8aa88d9ec3baefceabaa9b6"
-    },
-    {
-      "id": "evt_c6b39e4585983367",
-      "topic": "finance",
-      "headline": "Musk Turns to Fossil Fuel",
-      "summary": "Elon Musk uses fossil fuel. For his AI ambitions.",
-      "published_at": "2026-07-25T22:35:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/elon-musk-quietly-turning-fossil-223500890.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/fabf0afcedaf86c031564d9d5dc8a1da"
-    },
-    {
-      "id": "evt_541350f42df6591a",
-      "topic": "business",
-      "headline": "AI Builds Itself",
-      "summary": "AI builds itself. All bets are off.",
-      "published_at": "2026-07-25T22:32:26.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGkzcXVXV2pJZ1k5ejBFSGFwcXpPSHpGVVNoaVhzME5JcWw4Tk1rdHRVblhBam13SkdwdG1ac2x6cTUzYzJWUWZmVllXMjJ2anBrd0tPel9td3RnWm5oemRfWnhGZ3hBNkM3a0liSDJhSXlMLWR2aHBHMGhhVWhtQ2YzLWxlTk9WLXpfTkNyQ09CemVkb3NYQzJEZ25TSUVlYTBGOElIQWN1Um55?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_df176c9244a41690",
-      "topic": "politics",
-      "headline": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
-      "summary": "German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.",
-      "published_at": "2026-07-25T22:31:19.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEDBD1F9_M.jpg"
     },
     {
       "id": "evt_f1ec510b92d247c9",
@@ -192,38 +143,36 @@
       "weight": 0.776
     },
     {
-      "id": "evt_b242eaf77f93e8f8",
-      "topic": "finance",
-      "headline": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "published_at": "2026-07-25T22:30:00.000Z",
+      "id": "evt_4c9779f734767363",
+      "topic": "business",
+      "headline": "Van Hits Berlin Crowd",
+      "summary": "A van hit a crowd at Berlin Pride. One person was killed.",
+      "published_at": "2026-07-26T05:58:00.000Z",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWFDLXAteFJRT1pSdWlmdXdsa3lTSElDR3czZFhENUJHNkVIWWRxQ2xFVzFDUS1FamNpTnlhdl9RWS1aQzZJbHAwcC1EUGkwQk9DSHFvaTdjVy14MkR0N1FLVkljcVRTaXdjczBrNnhnTlhISmVYM3lGa2Jvb1hNV1ZJc2EzR01Od1RTQU1PUUtuQmxmQ2NnUHZ6YWE?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://images.mktw.net/im-88578279"
+      "weight": 0.775
     },
     {
-      "id": "evt_d5475527233920e7",
-      "topic": "finance",
-      "headline": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
-      "summary": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
-      "published_at": "2026-07-25T22:28:29.000Z",
+      "id": "evt_151ad1a8474e0e14",
+      "topic": "politics",
+      "headline": "German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead and 16 injured - AP News",
+      "summary": "German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead and 16 injured AP News",
+      "published_at": "2026-07-26T05:55:00.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/retirement-10-000-days-no-222829276.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/860866925dd84b3f06f420eda1703aa7"
+      "weight": 0.774
     },
     {
       "id": "evt_236a47a12fd4669b",
@@ -243,37 +192,245 @@
       "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
     },
     {
-      "id": "evt_44ab3c98c7a8ec5b",
+      "id": "evt_42c39bd6dbfe42c9",
       "topic": "politics",
-      "headline": "Vehicle mows down crowd at Berlin Pride festival, injuring many, police say - Reuters",
-      "summary": "Vehicle mows down crowd at Berlin Pride festival, injuring many, police say Reuters",
-      "published_at": "2026-07-25T22:22:01.000Z",
+      "headline": "Rams QB Ty Simpson becomes last first-round pick to sign - Reuters",
+      "summary": "Rams QB Ty Simpson becomes last first-round pick to sign Reuters",
+      "published_at": "2026-07-26T05:49:43.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDUxaldtUGlYMDQ1V01PZmZ2QVRWZ0I2UUFsUWg3QVNBSHIwNU41QXJFTzlvTExUZHpBVGg0RDlCaGJydko5TFlJLUVhdzUtdXQtNl9JT1RSTjRvWUQwaWY3VU5KZEtSakRIc2x6dU9wUXZBVDFnSTdnMmtTaWs1NmttNUloakdJMHFnbUdjalBpQUdJbHVzNmw2M2tjNTJMcHVZ?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.773
     },
     {
-      "id": "evt_730f6b7a6e7880e8",
-      "topic": "politics",
-      "headline": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-      "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
-      "published_at": "2026-07-25T22:15:14.000Z",
+      "id": "evt_fbd416e3fe71739b",
+      "topic": "business",
+      "headline": "One dead and 16 injured after van drives into Berlin Pride crowd - Financial Times",
+      "summary": "One dead and 16 injured after van drives into Berlin Pride crowd Financial Times",
+      "published_at": "2026-07-26T05:45:41.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQWFobEtrSjFYcEc4UFRSQTlaOWgzdnZxRE9OMG0xTDNuMEJPWDJ0Y3BTNXVTZHd2ZkRZSVVPSnh1V0hGekNoTXpVRnhCQkwzcE1GRFhrUkR3TGlFUElySVlISnUyOVVXUHNMdkdKN2g?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6249/live/bc091200-873a-11f1-a10e-a5d4f08bc20c.jpg"
+      "weight": 0.773
+    },
+    {
+      "id": "evt_cef943374f272869",
+      "topic": "politics",
+      "headline": "MLS soccer - AP News",
+      "summary": "MLS soccer AP News",
+      "published_at": "2026-07-26T05:34:52.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uZkdKYlZjUWlLV081eXRsVTFpZEY2d2IwenZROUwwLUNndUllU280R0lwZ3R6eUpOdkhuQ21LVlBmNkNhZ1ZFbg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_4b7ac28034fb13ce",
+      "topic": "finance",
+      "headline": "Will China’s oil appetite be enough to support prices?",
+      "summary": "Will China’s oil appetite be enough to support prices?",
+      "published_at": "2026-07-26T05:32:34.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/will-chinas-oil-appetite-be-enough-to-support-prices-4812836",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB0F0GR_M.jpg"
+    },
+    {
+      "id": "evt_5ee3c24986c3b4b9",
+      "topic": "business",
+      "headline": "U.K. Defense Stocks Rally on Appointment of New Treasury Chief - WSJ",
+      "summary": "U.K. Defense Stocks Rally on Appointment of New Treasury Chief WSJ",
+      "published_at": "2026-07-26T05:31:43.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1VLVGFfWW1KSFlwYkFTWnNwMDc5QS1hM0dPeFJKLVVXWHRJSm9hX2oxczNreU53SE1HZ0x6Tjc1S0RJb3g0U0hIcGQ0NnBSbUllSFVXSEJsMm9UYTNuNW5HZ3ZkeUJscHkzcUFHNjJqeUU3Z1lKcUFXdi1oa19tZTJUcjhtUFpzNUlHZ3lNZE5LYmhfZ3lFM2tYVTN1OUt6?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_6db0f7f2234420c6",
+      "topic": "politics",
+      "headline": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
+      "summary": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel's war persists.",
+      "published_at": "2026-07-26T05:29:49.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_82ec437529c6343a",
+      "topic": "politics",
+      "headline": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+      "summary": "Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.",
+      "published_at": "2026-07-26T05:29:14.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_1d89421e27be72a4",
+      "topic": "business",
+      "headline": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+      "summary": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ WSJ",
+      "published_at": "2026-07-26T05:21:44.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_668000a8dcbf60f3",
+      "topic": "politics",
+      "headline": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
+      "summary": "At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire.",
+      "published_at": "2026-07-26T05:14:32.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_7de38850405b1a70",
+      "topic": "politics",
+      "headline": "LGBTQ+ - AP News",
+      "summary": "LGBTQ+ AP News",
+      "published_at": "2026-07-26T05:09:30.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWF9iYUtTVXhhU05LWU5iOFF4M09rbm8xSmthNUJxSkNFVGN2bUl1S3EzYUloY2NycHNZZ21BVU9uZw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_8d214587622df07a",
+      "topic": "finance",
+      "headline": "SK Hynix’s US share premium flashes another AI bubble warning",
+      "summary": "SK Hynix’s US share premium flashes another AI bubble warning",
+      "published_at": "2026-07-26T05:03:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/sk-hynixs-us-share-premium-flashes-another-ai-bubble-warning-4812835",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_1a2287145da486d6",
+      "topic": "politics",
+      "headline": "Basketball - AP News",
+      "summary": "Basketball AP News",
+      "published_at": "2026-07-26T05:02:43.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDNWRRb1FwY3VXUFZKUV8tTFZsR0Z5R0pZMFNINnc2dGhCcEJSSGxlaHh1MnA4MUV3Vzdra09CWmJ5ZlQ1ODVpOQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_4c296f55ec44bf21",
+      "topic": "finance",
+      "headline": "Cocoa prices are easing. So why is chocolate still so expensive?",
+      "summary": "Chocolate firms look to win shoppers back with premium products and social media trends after poor weather conditions, tariffs, and the Iran war hit sales.",
+      "published_at": "2026-07-26T05:00:01.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_a46a3440ce0f2c5e",
+      "topic": "business",
+      "headline": "Burnham’s Cabinet Is More Vulnerable to Reform Than Starmer’s - Bloomberg.com",
+      "summary": "Burnham’s Cabinet Is More Vulnerable to Reform Than Starmer’s Bloomberg.com",
+      "published_at": "2026-07-26T05:00:00.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpGdWhVQ0ZaYUZ1cWdTQ19vWTcwMkt6b2NIS3BmMmVza1FZbEZlazBlVFZsVUo1VWVaNi1XRHBfQWhvYXp0TlFsZENUclBzNWRxaFBwSGlKREFIZ2VWck5xZl9vUWpLRi15ZUFzRDhrZU5fYXRPb3RGeDlzQXhJV3F0c3J1SHhEamczSDQybGE5dkl1Y0dIb0FQcXN4ckdjMFl3YThsNHlvbVFDWnBfbThn?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_c85ed91f8fb61957",
+      "topic": "politics",
+      "headline": "Reports: Red Sox trading LHP Connelly Early for INF Curtis Mead - Reuters",
+      "summary": "Reports: Red Sox trading LHP Connelly Early for INF Curtis Mead Reuters",
+      "published_at": "2026-07-26T04:59:00.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHlmNndlUHMxQnVmb1JxTFdTei1zSTNOMVNvQTBYOGxqa2pUVWVwbEpYd045WnJWMWpBOG5tckl3NEZnV0lOTERpdW1DZG55c1ZBTkdBV3ROOUlVSS1Zdy1lTlV6cDdaU3ZMRTlQX2RMVm5Pd2RvbUNmWU5UckJORmpZZ3pMdktEU1p0ZHRUYWM2bnQ4NkYybTJyMDI2SVVlQXkyQndESzhTQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
     },
     {
       "id": "evt_75a489ccf8d3be20",
@@ -292,728 +449,549 @@
       "weight": 0.774
     },
     {
-      "id": "evt_834d039c0a0d1262",
-      "topic": "business",
-      "headline": "Trump Says Iran War is 'Going Extremely Well' at WHCA Dinner - WSJ",
-      "summary": "Trump Says Iran War is 'Going Extremely Well' at WHCA Dinner WSJ",
-      "published_at": "2026-07-25T22:09:15.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWw3MUMxODAzX1JPVEYxZ0hFUk9taEhOM2FrZTZXRm5qZkdRWlE5blE3R2JhYTNjZnd5MmxwM1JHMDZOMjUzdE8xbTZCYzF3X3duTzludEJJQU5ldmhhV253YU42WkMycU42d1ozbWJwNDR5b2RMWmpEaW5nLU96R2ctY3NibllxX2V6UEVZWENIbkRlRmpfX3N4QTdKUXpqcDhzaEl5Q1BJWVkweUdOSlQ0N3ZFVFdOMnBlQXh3VjhlWlBqdlZGc3hib3ZhNnk2MjRHOWs4WHpjVzlYUkc3dg?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_ef5ae97c9c72f3d0",
+      "id": "evt_13927bf9acf955ef",
       "topic": "politics",
-      "headline": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "summary": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
-      "published_at": "2026-07-25T22:07:36.000Z",
+      "headline": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "summary": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+      "published_at": "2026-07-26T04:40:17.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773
+      "weight": 0.764
     },
     {
-      "id": "evt_586fd26091eea056",
-      "topic": "finance",
-      "headline": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-      "summary": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race",
-      "published_at": "2026-07-25T22:06:27.000Z",
+      "id": "evt_694ad6dac59d2874",
+      "topic": "politics",
+      "headline": "US military disables tanker accused of breaking the Iran blockade",
+      "summary": "The US military has released footage it says shows forces boarding one tanker.",
+      "published_at": "2026-07-26T04:33:16.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/politics-news/maine-democrats-to-nominate-troy-jackson-to-replace-platner-in-us-senate-race-4812763",
-          "homepage": "https://www.investing.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      "weight": 0.763
     },
     {
-      "id": "evt_12ecf1fd3d069941",
+      "id": "evt_29297b1f74caaf16",
+      "topic": "ai",
+      "headline": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "summary": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 11 # Comments: 1",
+      "published_at": "2026-07-26T04:19:59.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/mulfyx/w4me-station",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_47c0038085767c09",
+      "topic": "business",
+      "headline": "July 26th Sudoku Crossword Puzzle - WSJ",
+      "summary": "July 26th Sudoku Crossword Puzzle WSJ",
+      "published_at": "2026-07-26T04:17:39.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdXRUbkp5bHpMNlZQakN1N2kyS00xUmNOTkV0NkI0bTAxZGdVbnlWMy1USEVZczNQcE5iWi1kdUMyTVl2cTA2clRLSEtrU1kyaFdHV3BUMGl4blJfZUtoZV8tSzJtY005d0E?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_5980b260d6903a59",
       "topic": "politics",
-      "headline": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race - Reuters",
-      "summary": "Maine Democrats nominate Troy Jackson to replace Platner in US Senate race Reuters",
-      "published_at": "2026-07-25T22:04:32.000Z",
+      "headline": "Marvel unveils 'Ghost Rider,' 'Black Panther 3' at Comic-Con - Reuters",
+      "summary": "Marvel unveils 'Ghost Rider,' 'Black Panther 3' at Comic-Con Reuters",
+      "published_at": "2026-07-26T04:15:50.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSllqZ2RPVm9vaWtHRlBld0ZGbmlwVlcyMjl2WVNPWHNjNmpGeEJETEhmV1dKMTI1Ukcweng0NnVhUkU1YkFsemFXZ2ZwU1RUaWE1eWg3Q3dSYmhwcF9kQ0FpaVBFSE81NkIzcEloczQ4WWZmLVN0QzM1enA0MkhnbGlteWdvMjFwTnA4ZUQycnRjOHpLTllNNGwyRGdJU0tjUEJpbWxhX2JJdGhLd0ZlWlotTU1Xczc1d085ZFBB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX05uWGZuRERrX3Nta2dzWXJhYldYQlhKRFhJSWc0TUdlQ3lFdlZwV1dMNmRtRF9BbV9xVW04d1NpM0NJVkNMWkxnTTh3eXZDd3UyTE0tdGZJSUtCbFdCWVhTZDZqb3QxNVU2cE54bFltSHVZc2hjd25BN2FzQ0laaFFJa3RSVFFuRWhUWC0ydkJfRFhSdkNTSXV6U0tLbnExSlBIYnBPQWU1eGxNcE52SA?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.773
+      "weight": 0.76
     },
     {
-      "id": "evt_cfdecc77117c15f0",
-      "topic": "ai",
-      "headline": "Kimi K3 built a Windows XP in browser",
-      "summary": "Article URL: https://windows-xp.kimi.site/ Comments URL: https://news.ycombinator.com/item?id=49052074 Points: 5 # Comments: 5",
-      "published_at": "2026-07-25T22:03:22.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://windows-xp.kimi.site",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_d33a75bd50250850",
-      "topic": "finance",
-      "headline": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-      "summary": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-      "published_at": "2026-07-25T12:24:40.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa"
-    },
-    {
-      "id": "evt_68384e7e7bc1a9e3",
+      "id": "evt_0bea6410a1ba9bf9",
       "topic": "politics",
-      "headline": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
-      "summary": "The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
-      "published_at": "2026-07-25T21:59:39.000Z",
+      "headline": "Tunisians mark fifth year of emergency rule with calls for Saied to go",
+      "summary": "Thousands rally in Tunis calling for 'fall of the regime' five years since President Kais Saied suspended parliament.",
+      "published_at": "2026-07-26T04:14:23.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772
+      "weight": 0.76
     },
     {
-      "id": "evt_3ff8b1e63e5b6976",
-      "topic": "ai",
-      "headline": "Digital Intelligence: Why Humanity Created What It Does Not Understand",
-      "summary": "Article URL: https://singularityforge.space/2026/07/26/illusion-of-control/ Comments URL: https://news.ycombinator.com/item?id=49052025 Points: 3 # Comments: 2",
-      "published_at": "2026-07-25T21:58:14.000Z",
+      "id": "evt_e744c463481ed4df",
+      "topic": "politics",
+      "headline": "Deportes - AP News",
+      "summary": "Deportes AP News",
+      "published_at": "2026-07-26T04:11:12.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://singularityforge.space/2026/07/26/illusion-of-control",
-          "homepage": "https://news.ycombinator.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772
+      "weight": 0.76
     },
     {
-      "id": "evt_1123f16c2e6ae250",
+      "id": "evt_c004a37c36f9f420",
+      "topic": "politics",
+      "headline": "Hurricanes - AP News",
+      "summary": "Hurricanes AP News",
+      "published_at": "2026-07-26T04:10:11.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ETzdOVTdhNFkwcTNIRzZ1NzZSenlGeFVxYS1TTlFMYlo1MDZWN1l0aFNHanZNUlNBZFROTzNzWVhHU0pHcUxTeg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_c3de150780074f8b",
+      "topic": "finance",
+      "headline": "CXMT set for historic Shanghai debut after $9.8 billion IPO",
+      "summary": "CXMT set for historic Shanghai debut after $9.8 billion IPO",
+      "published_at": "2026-07-26T04:06:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/cxmt-set-for-historic-shanghai-debut-after-98-billion-ipo-4812833",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_54c43ae372b84302",
+      "topic": "politics",
+      "headline": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US - AP News",
+      "summary": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US AP News",
+      "published_at": "2026-07-26T04:05:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdm5uUXhNOEcyUXB6LWVpNDJ3UkJZclpja1ctcFdYclhjenJISmRRZGZTT2hoTDFXa2NuQlVzdGRRYmJWTWRCelg1M3hzWnR4WjBRZThDNjRmckw5c2paZU9pZ282ZVJXeTR6SWxhSG9qdkFUdlkyWUdZRDNPVUVBZGthbExxWThEdW5DWEk1NmJCQUJzT0E?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_ab279d186d41ead5",
+      "topic": "politics",
+      "headline": "Caldwell-Pope reaches buyout agreement with Grizzlies - AP News",
+      "summary": "Caldwell-Pope reaches buyout agreement with Grizzlies AP News",
+      "published_at": "2026-07-26T04:03:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckhieDdRQWFFUHFzTTBzbFlvX3h5dEM0Sl83RnpyalhYQXRDN0dvcTNsSmVpcHN6SVJKZWRTMnlRdDhaeEFfLXZpT2JUcXc3Q1dOd3pTbzVkazBheTZYODNpM296T3dZOHZ6bTZuQ2RoYjFBbTQyWnBSazE4VzFINHlZTFA4SzZBY2c?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_93b671b67d96cee3",
       "topic": "business",
-      "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Financial Times",
-      "summary": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor Financial Times",
-      "published_at": "2026-07-25T21:52:02.000Z",
+      "headline": "Defence Giants Back Startups",
+      "summary": "Defence giants provide record backing. For military start-ups.",
+      "published_at": "2026-07-26T04:02:12.000Z",
       "sources": [
         {
           "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjZtYjcxUjd6RFZTb1pQSXhzQ1NnUUsyZ0UxbmdFeXZFSVVueEhUWE83cVUxclp3WlRTc0praE5BZFlDaHloQWkyOWZPaDhFTkdmaFJKUG0yN2hJUmE0ek5iejF2U0c3SnpnODF1RkFZZGhiWTdJUDMyeV93bTZpLWdPZ1Q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnkxay1YWmh6dEZIdFh0WGNrYVAySkp0UlZCQkdOZVg2NnZWbzlsMDlWV01ta1RrOFZSQXBxYzUwN0ZOZ1YyZ0NMMnU0dFdyb0NWUEZfU0E4VWtmUkgwb0M0c1BKcDduS1ktbVNTckZ0ZkdsWFJxTE84M3pWUW9MQmNRWHU?oc=5",
           "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.771
+      "weight": 0.759
     },
     {
-      "id": "evt_8622cff3d13f10d0",
-      "topic": "ai",
-      "headline": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 47 # Comments: 5",
-      "published_at": "2026-07-25T21:48:22.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_577499c95b07aa8e",
-      "topic": "finance",
-      "headline": "How a 67-Year-Old Built a $4,800 Monthly Paycheck Around SCHD, JEPQ, and O",
-      "summary": "How a 67-Year-Old Built a $4,800 Monthly Paycheck Around SCHD, JEPQ, and O",
-      "published_at": "2026-07-25T21:45:29.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/67-old-built-4-800-214529574.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/81a58ae9105c5011955095b326c39edc"
-    },
-    {
-      "id": "evt_3dfde83a3bae0f91",
-      "topic": "finance",
-      "headline": "Here’s What a $300,000 Budget Actually Buys You in The Villages, Florida",
-      "summary": "Here’s What a $300,000 Budget Actually Buys You in The Villages, Florida",
-      "published_at": "2026-07-25T21:41:35.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/real-estate/articles/300-000-budget-actually-buys-214135448.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/732eb51dd3d5c0171a44b4ca14d6f1dd"
-    },
-    {
-      "id": "evt_e4ec5f77d198f07d",
-      "topic": "finance",
-      "headline": "Top 3 US Stock Market Stories From This Week",
-      "summary": "Top 3 US Stock Market Stories From This Week",
-      "published_at": "2026-07-25T21:41:17.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-us-stock-market-214117947.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://media.zenfs.com/en/beincrypto_us_662/6c5a18608f1529bdd5cf32fa394693c4"
-    },
-    {
-      "id": "evt_33f3f8a97d1d0772",
+      "id": "evt_043bf51243425ba9",
       "topic": "business",
-      "headline": "The Houthis Have Opened a New Front in the U.S.-Iran War - WSJ",
-      "summary": "The Houthis Have Opened a New Front in the U.S.-Iran War WSJ",
-      "published_at": "2026-07-25T21:37:35.000Z",
+      "headline": "Burnham Pushes Reindustrialisation",
+      "summary": "Andy Burnham pushes reindustrialisation. Focus on chips and drones.",
+      "published_at": "2026-07-26T04:00:55.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1JHU2VnOW43SENsVG43MzluOFBnSl9kMWd6d1YwVEJNQlFNRmVfSnVCLXhiamZPTC1pZzM0cDJoa1FVa1FHRXdCTGoyOEYtSXNUVkhmTGZDWjFGNllRQ1BTZGNZRGFyXzluNGdLNlRsM1A0ZXpIQlVqdHY5S2VMd3FlUk1rbTJzb2NDdTRGTFBKZkFZUnhKZUFWQ21Tc0JfVjl5aw?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3BwdmtZdmhHWE5Wd3VLZXN6LUc1MjMxUkJvUC1rZ043bHhWS1kwU1dGRTFEQWs2V19pT0dHaThGZWwta0ZUZXM3Ym9BNk56SUk5RExwWG04UXliLVoyLWJOR1dWR2FjWWJFVnVuZGN6X0NuZmc5VU5YTFhINlFmRm5kTlA?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.758
     },
     {
-      "id": "evt_d572498d373c360e",
-      "topic": "finance",
-      "headline": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
-      "summary": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
-      "published_at": "2026-07-25T21:34:01.000Z",
+      "id": "evt_0d16a89434acdefa",
+      "topic": "business",
+      "headline": "UK School Opens Overseas",
+      "summary": "A UK state school opens overseas. First of its kind.",
+      "published_at": "2026-07-26T04:00:55.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-vs-strategy-comparing-revenue-213401903.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm9oeU9GZ0xVTXRuU3Y0SU9kNzFreGlrcVFnYlAxN3VvMXZlVURUbkZqdXFMeEY3S1BiWkNPUmEwczFXc3ZfcFVWUDJNT2wtSGZSOWI0UnR1NG51QUdJX01UU19ldG5xOE03V2NiajQtUjR2eDJMODJ2OEo4UGdqMU4zMzI?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/223e655f5846278b2222638c74d029b4"
+      "weight": 0.758
     },
     {
-      "id": "evt_7e4f16027585cf31",
-      "topic": "finance",
-      "headline": "Peter Schiff says SpaceX is a warning for hyped stocks",
-      "summary": "Peter Schiff says SpaceX is a warning for hyped stocks",
-      "published_at": "2026-07-25T21:33:00.000Z",
+      "id": "evt_50d26256b4ff4b02",
+      "topic": "business",
+      "headline": "Investors use crypto exchanges to avoid Chinese controls on AI stocks - Financial Times",
+      "summary": "Investors use crypto exchanges to avoid Chinese controls on AI stocks Financial Times",
+      "published_at": "2026-07-26T04:00:55.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/peter-schiff-says-spacex-warning-213300152.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUxNdElTclhJazl5S2ZRekIya1ZvT0sxSDV5R1BLbld1TDRnd2tITHQ4OF9sTlZXVkZOc0hGemZLVmM2UU1hX095MFJsM1NQYXpIUHZxbHJXV0lJZkwtYmZIVUtKbEVzQzFEWVdJM184blloQTIwb2p3VUVEbWltVTBIOUg?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/b8369df600ee5e1c736466ad75982560"
+      "weight": 0.758
     },
     {
-      "id": "evt_2284a313bfd2c874",
+      "id": "evt_aaaea1f84634d118",
+      "topic": "business",
+      "headline": "Why workers are nostalgic for life before AI - Financial Times",
+      "summary": "Why workers are nostalgic for life before AI Financial Times",
+      "published_at": "2026-07-26T04:00:55.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3FOX0tqSjRua1RqeEZhN2lRZGQ0XzlMT2F4Y3NHYVhFaUdYRml3RnozMlllVE5tbzlxV2VjRDRaNlFyNjV6R0pVZzlkOGJsTGk3cjRtaEdKWWxUdjVOMVZ1U2NuZnM2aVJaUjNWT3dyNUJfOGxvVElCMEkxaGQwNGF6d2Y?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_5183f4ece9b6642c",
+      "topic": "business",
+      "headline": "‘Divide and conquer’: China exploits EU divisions over trade - Financial Times",
+      "summary": "‘Divide and conquer’: China exploits EU divisions over trade Financial Times",
+      "published_at": "2026-07-26T04:00:55.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDA5bU1zNl95Y0ZwLUpSRGVKYjk2VGVsakhUaGJmR2lQeFRnU0xzQkRxUmJ0Vjk3ekttSGFqWFQ3UmtBTUdjWmFVUWFRWWlWX1JwTHU5bEcwMC1IWW9VcHNJdFhOaGZjdGx6QVpsWkpsRHVjNVBVdXRMZnQ4eUdUMDdJZC0?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_f57985625c822a67",
+      "topic": "business",
+      "headline": "Forget bazaars and saris: fast fashion takes off in India - Financial Times",
+      "summary": "Forget bazaars and saris: fast fashion takes off in India Financial Times",
+      "published_at": "2026-07-26T04:00:55.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajFYRk81X3g5cmJILTFVbnJmZ0I2RWEwVjlwNkZqQm9Hd2RwVzNGZFZiMS14ZTVrSVJWOS1qQzRUYnhVOWdOTHVJNTVNbHctRFplcUpyeTdPSElrRnRzdU9WNUZrcXZOWmRmZml1QTVEVkFyaEF2TFJPblVXRkZoWmZXVTE?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_0977f093ee6b6cb1",
+      "topic": "business",
+      "headline": "British unicorn Humanoid points to way forward for European tech - Financial Times",
+      "summary": "British unicorn Humanoid points to way forward for European tech Financial Times",
+      "published_at": "2026-07-26T04:00:55.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlFRZl9CWnpXQV9nODg0QzZFZEljM0FFczdqYVROaVVnTUphU2plckpqa3BydWVuUTBPa0dYQ3lnN2VNWlB6ZWV3VnNtREhMSi01RXlWVG9aSWdCaGZaeGx0dXYySzBsUlJGcTZNWnpBbnlqQWRUczAzeEJQczJTUzJick8?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_0b7369dd56c0a9dd",
+      "topic": "business",
+      "headline": "China pours funding into green energy deals as Iran war hits oil demand - Financial Times",
+      "summary": "China pours funding into green energy deals as Iran war hits oil demand Financial Times",
+      "published_at": "2026-07-26T04:00:24.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVFmb2dkc0NKcWVuQ05QSFdBWXlWRFdzVmlzQTBOVzF5c2lXNlQ3eE5yTFBqaUR6cEluWGFjblIyenpiY2pPRjZRZmUtQkdGalBjSEtYOE44ekpvRU9Vanc1WFVuZlFSZ2FjU1lBOGpGSENUVDlFVmgzdzI4MG43TmJCT2M?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_8404abb3209842ae",
+      "topic": "business",
+      "headline": "Lead pollution poses health risk, says review sparked by FT investigation - Financial Times",
+      "summary": "Lead pollution poses health risk, says review sparked by FT investigation Financial Times",
+      "published_at": "2026-07-26T04:00:24.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3Q3QWphNS03VHRnYmNzNEd2MkJmbk4tcDB4MnFRY3ZpQk9Xc3hEb1BVN0dkUVQxX2lva2xHaExTSUJKMUxDVWlFNl94MHFOeUF5eno5Yy1RdVFzWkJHVVd4REZYajE1UDFYQ3Y5UXBvZGVqOWNSRTdWeFdrMUVqU19wanc?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_d83ad7a73460b55a",
+      "topic": "business",
+      "headline": "Maga’s creepy baby obsession won’t solve the fertility crisis - Financial Times",
+      "summary": "Maga’s creepy baby obsession won’t solve the fertility crisis Financial Times",
+      "published_at": "2026-07-26T04:00:15.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3I4VlpTd0JEMXc3a3VBYzZab1dTeTM3cnNtVDNxWVNERzVJT1VhODdTc2NYMkc1S3FyR0dOb29wMlNfNG5BcjFDSHRoR2UybWdobThZdVVSTjFEelpKQjRlZERIQU9VSk9xd2xEUHplb3Z0LXltc191TFlYb2VDZi1Ed3Q?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_a5a29eb4cb2dce8c",
+      "topic": "business",
+      "headline": "Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit - Financial Times",
+      "summary": "Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit Financial Times",
+      "published_at": "2026-07-26T04:00:08.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeU04MS1QWmZvcUJGUllhdE9zeVNtdHJRTXJNd3hhV3A0SjJDMGdHZTJfekd5b1N2WndmVXVseEVtb2pENFBRemgyVF9YNTd4TGFQcXQ1UTNRNWRhd3pZU0k2LVFxdmJDOENiR0Z5ZEI1NlhTeHhYeDZER0N6YkV3d25Ba24?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_61aa351120480080",
+      "topic": "business",
+      "headline": "CPS hires more trainee lawyers in bid to compete with Big Law - Financial Times",
+      "summary": "CPS hires more trainee lawyers in bid to compete with Big Law Financial Times",
+      "published_at": "2026-07-26T04:00:07.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGlBYndTS2FlbG5lcWdIalo5QnI4VV9fNDM1MC1JNUhNQWhzcnR0N0JPdVZ5TDUydnVaYmtrUEdwSlNWLWt6MUhfODd3YzRPT0FuSFB2WmRJSWZXa2hlSUpoT0dFdFZpQTh1NjNjbWxrYVl1VEdISjl1bDhxQWF6N29hU3Y?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_23540aa9fac56232",
       "topic": "politics",
-      "headline": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
-      "published_at": "2026-07-25T21:33:00.000Z",
+      "headline": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "published_at": "2026-07-26T03:58:51.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg"
+      "weight": 0.758,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef1/live/4956a870-8777-11f1-b430-afa19a42b819.jpg"
     },
     {
-      "id": "evt_42f13d936278bef3",
-      "topic": "finance",
-      "headline": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
-      "summary": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
-      "published_at": "2026-07-25T21:30:15.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-says-were-leading-china-213015507.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://media.zenfs.com/en/benzinga_79/e908155ebe763d770f4e7e3a22061908"
-    },
-    {
-      "id": "evt_da63ffda1980b12b",
-      "topic": "finance",
-      "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
-      "summary": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
-      "published_at": "2026-07-25T21:27:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-fell-11-4-212700175.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/01ea85893682a6cdb58e9296f2828ed7"
-    },
-    {
-      "id": "evt_49b7e68298710625",
-      "topic": "finance",
-      "headline": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
-      "summary": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
-      "published_at": "2026-07-25T21:25:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-down-38-heres-212500204.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/324a76d9822cbef6e2e66ea052a7aaba"
-    },
-    {
-      "id": "evt_de37060ddbb76de8",
-      "topic": "crypto",
-      "headline": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-      "summary": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
-      "published_at": "2026-07-25T21:23:27.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News4-800x450.png"
-    },
-    {
-      "id": "evt_24d3420e0a0fd785",
-      "topic": "finance",
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "summary": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "published_at": "2026-07-25T21:20:04.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4812818",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_ddb4ccacd770e4be",
-      "topic": "finance",
-      "headline": "Berlin Pride parade called off after car hits crowds, police say",
-      "summary": "Berlin Pride parade called off after car hits crowds, police say",
-      "published_at": "2026-07-25T21:18:30.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/berlin-pride-parade-called-off-after-car-hits-crowds-police-say-4812817",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
-    },
-    {
-      "id": "evt_f603aad1386e0e89",
-      "topic": "finance",
-      "headline": "Bitcoin price hovers at $64,000 as stablecoin inflows weaken",
-      "summary": "Bitcoin price hovers at $64,000 as stablecoin inflows weaken",
-      "published_at": "2026-07-25T21:12:25.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-64000-as-stablecoin-inflows-weaken-4812755",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_b35c67c172a20508",
-      "topic": "politics",
-      "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters",
-      "summary": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor Reuters",
-      "published_at": "2026-07-25T21:10:19.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_1ffc7cc8a462a8ce",
-      "topic": "politics",
-      "headline": "Israeli forces tear gas journalists reporting Nablus shootout",
-      "summary": "Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout",
-      "published_at": "2026-07-25T21:08:24.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.765
-    },
-    {
-      "id": "evt_a607b685dd7833ec",
+      "id": "evt_949d83cb9c3b0e1c",
       "topic": "business",
-      "headline": "Unhedged Reporter - Financial Times - ep.ft.com",
-      "summary": "Unhedged Reporter - Financial Times ep.ft.com",
-      "published_at": "2026-07-25T21:05:04.000Z",
+      "headline": "Principal Investment Grade Corporate ETF, IG:BTQ:USD summary - Financial Times",
+      "summary": "Principal Investment Grade Corporate ETF, IG:BTQ:USD summary Financial Times",
+      "published_at": "2026-07-26T03:57:40.000Z",
       "sources": [
         {
           "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNMk5iZUxKRnU5c3NIbUdYNURLSm1sUlVyanJpMW11VGVfbXR0STdSaTNhSkw0ZHl6UnJHVFRuRzRvQmlULVhMdHdPaHNWUXZ4ZWU2RkhsNVlGMVQ3dUhzWkVWWFNxeTFPdUtUVDdyQjNNTnZackt2YVJHOGE2QTdhVzJzOHZsRDdLS3F4Rl9ORDBKc1djbkJNRHBSNFl0NXZtV25LbTJTdjBqYURIdmhoR1FuakpUQ0JCeExzcERqekUweUVtbmFmTzhwcE9VQXlqVDJTZWFrMHVKSHlWOE4xQmZWT1RmZWY2Uy1pQkFldm9oZnJmOTJCRnJkOFJsUXMtbzBPaEVtNUNqRzgxYk1xMnprZWMxd2lWVGdMVzZ4OEVtWVl6QlNwbk9DZEd6OWo4TVdWclhMVV9zRU5jZWJSY096clFObUZ2Y19MM2duWno1UVpuREkxYnRaenFndEZLamNBNlJHMnFqRGF3RUF6REhRTUQzZUl4Vnc2NTFudw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Lc2ZQSDZXbWctdUdza3psY1o2eEt2cDdvWFIwQ0dTTWFwUGRKSzcwR0VEMEE0VWRnTVExRkZXWnFpeS1ycG5XZ2d6SHdDWGJzVnlaNUVZMzBwQ1hLUXlFYVQ5QjRWb2xnellTajItMDcwLVhONkE?oc=5",
           "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.765
+      "weight": 0.758
     },
     {
-      "id": "evt_9e344f37ad4966a6",
-      "topic": "finance",
-      "headline": "He Retired to a Small Town to Stretch His Social Security. Then the Only Hospital Closed, and His Cheap Retirement Turned Expensive.",
-      "summary": "He Retired to a Small Town to Stretch His Social Security. Then the Only Hospital Closed, and His Cheap Retirement Turned Expensive.",
-      "published_at": "2026-07-25T21:03:21.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/retired-small-town-stretch-social-210321405.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/b11c6307bfaab29308414607f80ac729"
-    },
-    {
-      "id": "evt_3c8dc44414090ce1",
-      "topic": "finance",
-      "headline": "Award-winning dairy company closes two facilities",
-      "summary": "Award-winning dairy company closes two facilities",
-      "published_at": "2026-07-25T21:03:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/award-winning-dairy-company-closes-210300536.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/862220bbd8ad156c6be85896ea02f3b3"
-    },
-    {
-      "id": "evt_72607bf18a71bbc7",
-      "topic": "finance",
-      "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
-      "summary": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
-      "published_at": "2026-07-25T21:00:33.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/world-news/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor-4812816",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "id": "evt_364345594f2a79da",
-      "topic": "finance",
-      "headline": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "published_at": "2026-07-25T21:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://images.mktw.net/im-55216973"
-    },
-    {
-      "id": "evt_b55c295ac24028a4",
-      "topic": "business",
-      "headline": "It Isn’t Just Pickaxe: Trump’s Other Potential Nuclear Targets in Iran - WSJ",
-      "summary": "It Isn’t Just Pickaxe: Trump’s Other Potential Nuclear Targets in Iran WSJ",
-      "published_at": "2026-07-25T21:00:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSno2TkFtYU9wQnRGaTFrNEtxSzJhUUEzcTktdndvRGwxaXZwY2ZxdEZJVTJLTGZTb2o4T0ZRT1dUcnYxbEE3ZlFTd1JPWU5pdm9NbW9BcnpUWXFRbzhabUdyOVZRai1rbzFIWTBvcW16VDd4X2x0T3JnX3lTX1ZLbDk4emJCRlZvNi1EWnZvUEJ4Wi01TW1CaGh1MlhwVGVzSDJoYWpLb213MjNDdnBHckprVVA?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_77cd27e7f9101f32",
-      "topic": "ai",
-      "headline": "Who does Anubis actually stop?",
-      "summary": "Article URL: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Comments URL: https://news.ycombinator.com/item?id=49051505 Points: 20 # Comments: 19",
-      "published_at": "2026-07-25T20:59:24.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_d0c6d68dc97103e4",
+      "id": "evt_d2b588b6b688405f",
       "topic": "politics",
-      "headline": "Healthy again, Gabby Thomas explains why she’s skipping US nationals — and loving it - AP News",
-      "summary": "Healthy again, Gabby Thomas explains why she’s skipping US nationals — and loving it AP News",
-      "published_at": "2026-07-25T20:59:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFFwWjlXR0M1cDNVU2ZITkNOUmhETU1aWDM0Y2ZtU0MwWEFHNlRkSk9GaTlRckxlMnZ3REVtWDdHcUxwb2lMWGZjN1VpZUVHLTVWUm9JdFZoQjc2TXUya05VVHFJZDA1dm4wUTEtMnMxci1IRHIyeXpLaHM5ZkI3MXZqRV9QTTBxaDFDeWNpRFk?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.764
-    },
-    {
-      "id": "evt_52092f4ffbc94275",
-      "topic": "politics",
-      "headline": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war - Reuters",
-      "summary": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war Reuters",
-      "published_at": "2026-07-25T20:58:18.000Z",
+      "headline": "SCTX.OQ - Reuters",
+      "summary": "SCTX.OQ Reuters",
+      "published_at": "2026-07-26T03:56:12.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2tsN01UMi1hZmk2U1piS3ZfM251b1V6a1hYY01GcmlIYVBFcGFsenc0SlZINFNaeFFiZlJHY2tYV2tEWnZCM0hDV1hxTFI2Z00tNEk3aVFid2RvZkJqTUpjUnlDODRTcU1OMUNmTUVOUFhPdUpQZUJYYXJHckhOVGs1VkpYamRTZkoxNTBBOVhQQUhPdFNiMXlmSm1lcVFLSlBJYU1JMFM0VE95UGRsdXlMX3JNRnIwQnlrWTFn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1NBaDQ2ZUNiVW5yZjJlSVZpMXFXaWlUU0xVd1M4VWJva2JwX2RISUhaUHNfRkJjSlBTakJReFZXbjk0VGYxVnpRdXBsMjlaLXFBTDczRjJiMThlc3llV2NKSFZETHFmcW1SVzBCNXNaU1R2MWFTcnZKZndyV29TR3JiVGRfNVllLWc?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.764
+      "weight": 0.758
     },
     {
-      "id": "evt_d46e434da3e5a3f4",
+      "id": "evt_894e006e5ad2c988",
       "topic": "politics",
-      "headline": "Houthis Attack Saudi",
-      "summary": "Houthis fired missiles. They targeted Saudi Arabia.",
-      "published_at": "2026-07-25T13:01:00.000Z",
+      "headline": "Jones and Clark help Team Spoon beat Team Coop 129-122 in the WNBA All-Star Game - AP News",
+      "summary": "Jones and Clark help Team Spoon beat Team Coop 129-122 in the WNBA All-Star Game AP News",
+      "published_at": "2026-07-26T03:52:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnV3Mm1rUEtJU2NZVURHalNWRVFISmJVZjQzNlFPdC1XVTY3NFcyZzVJd1phMk01RmlJdnIyTkF4RmNwWHk1dDlaNG1scmhlamo0RjZFbzZCU0hNRXE3T2FVNW94aTVMXzJVMWo4clpQY3Fnb2NMRXNsMUViOEZNX1JJdXFwOFZ0RTIwbTA4Z3dnNl9POVZqYk1lbnZITG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelRKX3RzREJMQ2luWUJzTF92VGIzUWJWSnRzX2JHaXJyVERYVTV1MjkxVTVHVDM3VGdSSHBzT01TOGVGN0lWNmZVNEtTS0UzTkN1dGRtU2pDLWpfREIta0djTXNscFROTVlTOFJTWk5CUXR1ZVJ1Ujh3OWVJbjBMTFNaaG8?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777
+      "weight": 0.757
     },
     {
-      "id": "evt_f955c594eab196d4",
+      "id": "evt_9043123d6d4a5c2c",
       "topic": "politics",
-      "headline": "How India’s ‘Cockroach’ protesters shook the Modi government",
-      "summary": "India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
-      "published_at": "2026-07-25T20:57:45.000Z",
+      "headline": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "summary": "Iran has condemned a Ukrainian attack on one of its commercial vessels.",
+      "published_at": "2026-07-26T03:49:29.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.764
+      "weight": 0.757
     },
     {
-      "id": "evt_4c93c2d928f8b99d",
-      "topic": "finance",
-      "headline": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
-      "summary": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
-      "published_at": "2026-07-25T20:56:50.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/nuclear-trade-entering-phase-2-205650861.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/d6b88d6845d755db74b3bb17ece0ecc9"
-    },
-    {
-      "id": "evt_685c1e66d6c88577",
-      "topic": "ai",
-      "headline": "Multicast TV Distribution on My Home Network",
-      "summary": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 14 # Comments: 2",
-      "published_at": "2026-07-25T20:55:12.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://apalrd.net/posts/2026/isp_mcast",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_b73f4033ff5d6d45",
-      "topic": "ai",
-      "headline": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "published_at": "2026-07-25T20:55:11.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_da916802b02c8f63",
-      "topic": "finance",
-      "headline": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "summary": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "published_at": "2026-07-25T20:55:11.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/media-advertising/articles/warner-bros-lawsuit-accuses-amazon-205511970.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://media.zenfs.com/en/techcrunch_finance_785/9ddc700b16f506953ad7ededc9300401"
-    },
-    {
-      "id": "evt_f6bf645a87c3dd9a",
-      "topic": "ai",
-      "headline": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-      "published_at": "2026-07-25T20:52:30.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg"
-    },
-    {
-      "id": "evt_a4d3b9963ea57dec",
+      "id": "evt_6e4a27f3940fef59",
       "topic": "politics",
-      "headline": "49ers coach Kyle Shanahan hurt in a car crash, limited as training camp opens - AP News",
-      "summary": "49ers coach Kyle Shanahan hurt in a car crash, limited as training camp opens AP News",
-      "published_at": "2026-07-25T20:46:00.000Z",
+      "headline": "Brazil - AP News",
+      "summary": "Brazil AP News",
+      "published_at": "2026-07-26T03:44:35.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGQ5NFNmWEJOVllNWjVvT0I4OW9sRXplSkt4M0ZrSDhNRmJvYXYxcmtJTldfckMwU0g3b2NMTi1meHd2WUUwRWtTc2ZKMV9qSHlYRkZhcjR1dkRKOVE2ZEtjZnpadDl6bHA4eHo3ajd1N1dzREk1dlRKM2FJYVZ3NGg4ZzZ0QXp4ZDJILXNKQWJhdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.762
+      "weight": 0.756
     },
     {
-      "id": "evt_be1dd2fb324667eb",
+      "id": "evt_1b53f12196cc7929",
+      "topic": "business",
+      "headline": "Hiroyuki Kurose, Chudenko Corp: Profile and Biography - Bloomberg.com",
+      "summary": "Hiroyuki Kurose, Chudenko Corp: Profile and Biography Bloomberg.com",
+      "published_at": "2026-07-26T03:41:19.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUGNiSWNMdTBjUlpzSzgyR1dXeEhRVDl1eGNRZG9xZFZKeE1LZ2tVZXJRWjF2bXNKTlh1LWQ1RlJ5aXZRMTlrTlFIc1ZHVm1Hb2xGTDFGeW40NWVwaXc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.756
+    },
+    {
+      "id": "evt_be56c27f44f41321",
+      "topic": "politics",
+      "headline": "Comic-Con 2026: David Jonsson is new Black Panther, Ryan Gosling joins Marvel as Ghost Rider - AP News",
+      "summary": "Comic-Con 2026: David Jonsson is new Black Panther, Ryan Gosling joins Marvel as Ghost Rider AP News",
+      "published_at": "2026-07-26T03:40:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEY0V3dRZDM4dWhzX1VhWW5nQ0lDQ05STHpTa3Y3bFdGS25aSU5pOXVtWDk2RDRKLUk1cl9uOG9GOVNCZmJVU0dydFZsNy1fZE52dzZ3LVdoS2Z0M2p4bk1HWDlIS2RYeTNoc1F5T0VYaW1Bc3hnTzlPSW94aWVmcHc2TWhBZktVMF9FVmdYYXBhcnNvTXNwVE9zWGRnQi1UTzhORHA2X0xXbmRIUnd2bw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_b561ac97a971498e",
       "topic": "finance",
-      "headline": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "summary": "U.S. pauses Iran air strikes as Trump signals push for deal",
-      "published_at": "2026-07-25T20:45:56.000Z",
+      "headline": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
+      "summary": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
+      "published_at": "2026-07-26T03:36:25.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/usiran-talks-continue-as-trump-warns-forces-are-ready-4812721",
+          "url": "https://investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.762
+      "weight": 0.755
+    },
+    {
+      "id": "evt_2570bd45f48d8f6d",
+      "topic": "business",
+      "headline": "FT BOARD DIRECTOR PROGRAMME NEWSLETTER - Financial Times Board Director Programme",
+      "summary": "FT BOARD DIRECTOR PROGRAMME NEWSLETTER Financial Times Board Director Programme",
+      "published_at": "2026-07-26T03:34:45.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQ2ZYS0N5blRqQk00VnM5ZTF5V09vaGFPMEJSSVBXX2gzM1hHVXR5c1RNSzZ0ZUZ0cGRTcWdpX1FXLWlveUZ3Vi00c3JrbmFSZGtaMVA1VDFCamE3aDlCVDR2d2Nkbk9kbUxubmFial8?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
     }
   ]
 }
