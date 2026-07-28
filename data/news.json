@@ -1,27 +1,140 @@
 {
-  "generated_at": "2026-07-28T02:32:03.746Z",
+  "generated_at": "2026-07-28T06:26:35.457Z",
   "clusters": [
     {
-      "id": "evt_29bb817a707bec9b",
-      "topic": "ai",
-      "headline": "Missing underscore sends man to prison",
-      "summary": "A missing underscore led to a man's imprisonment. The error caused bad results.",
-      "published_at": "2026-07-27T22:10:15.000Z",
+      "id": "evt_7beaa4e88387c897",
+      "topic": "politics",
+      "headline": "Shot fired at US consulate",
+      "summary": "A shot was fired at the US consulate. The suspect remains at large.",
+      "published_at": "2026-07-28T00:36:16.000Z",
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison",
-          "homepage": "https://news.ycombinator.com"
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison",
-          "homepage": "https://arstechnica.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ZkekJaWFBCLS1YUjZLNTZ2TmdzVE9PeEtQTG1tRi13NmdUMERzb19xNlZJcEx5NXNQSnk0NVl0aTdnc0dHNzlTNFpoSWZCeFN6Mk5MYzZsNnRuejRNcl9lRTBKQTJ3d3NlNXNjZ1lyU1VvXzE0eHF4THc5cnQ0LVVKYmFzOThPWmxBNERvVjQ1WFN2dDlrN0l1emJrQlAwT3dNYjRINjI3R2o2QWZWOVFn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 3,
+      "weight": 1,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bb/live/b02f9420-89da-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "evt_7e9a56beb57230eb",
+      "topic": "politics",
+      "headline": "Trump talks with Iran",
+      "summary": "Trump says talks with Iran are happening. Iran denies direct talks.",
+      "published_at": "2026-07-28T02:47:55.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 2,
-      "weight": 0.924,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg"
+      "weight": 0.93,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "id": "evt_5e2e56003cf3732e",
+      "topic": "politics",
+      "headline": "J&J settles lawsuits",
+      "summary": "J&J offers $5.5bn to settle lawsuits. The lawsuits claim talc products cause cancer.",
+      "published_at": "2026-07-28T01:53:58.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.922,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg"
+    },
+    {
+      "id": "evt_d0f4068ee0108664",
+      "topic": "politics",
+      "headline": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "summary": "Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.",
+      "published_at": "2026-07-28T00:51:50.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUENSU3cxZnhXQWVEQ0VlbUlCX2U4V05HS1RqcTNqSjN3dHhVc3duLW9lNzdMSWhsWHFXSWEybzhOOU1GVUxqeHBISVUzVUFVbE9DNmNqYS01SlV0bmtYTmQ3dXBIVXFKMWZJdkpua0xZUmxWd3NqcFBHSGtDM0tILVN6b2lDZzFnTk1tY1IwWFRpTElycEwwLVpGQ2I5WVhDdHhFN1NaMV9RMXdPbmxIYmFsbzRGSzlFNWZJ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.914
+    },
+    {
+      "id": "evt_dbf5c7a76011dbd1",
+      "topic": "politics",
+      "headline": "Savannah Guthrie makes an emotional plea to her mother’s kidnappers - AP News",
+      "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+      "published_at": "2026-07-27T22:03:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWhUNWhtbUM1LWJQalUtZzk3ZWhLVlR1NnJUcnFhWVl5VXJVNDRYV0tvbjBNajRWcjBzbnlGSXNOR2hlUzd5cHVUWU1lRmNrcjVmMVlXdkdYWHZxWFA5aEZQUUl3SGQ3ejlLSFpBcW1MaUg1dUVHX1RiNm1WVjBnRjZaSnNwRklnMXJhSWxXZlZrckZobE51cVhEb0twTTNCV1hqdlJvb1dCYmh1QlZoMFE0c3U?oc=5",
+          "homepage": "https://apnews.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.89,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/fa919fc0-89f0-11f1-8dc9-8d222ac753ff.jpg"
+    },
+    {
+      "id": "evt_40342128c340d48c",
+      "topic": "politics",
+      "headline": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "summary": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
+      "published_at": "2026-07-27T21:24:31.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVWam9GVkNmbGFsV0plOXlJbHY3WWxnVGJGR2tsTGJkblZQTUd0SzdLdXBtMEthYUN1Uk01eWpZNEl4SllCTUpYQVhCT2o0WE9vLUkwUWd0blB3QTVXY3FkbkdmUHFTUnJnMHJrUHdIdHlMQXNiWXd5R3pjNnRrQjBlbWlESlpVc19jWV9wVUhabGM1WS04Z0trcUl3Q2UxdzI4VHhaQmgteWhzc2pRN241dU1wQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.885
     },
     {
       "id": "evt_724adcff018ad9ce",
@@ -46,300 +159,481 @@
       "image_url": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube.jpg"
     },
     {
-      "id": "evt_97a75d64841ff141",
-      "topic": "crypto",
-      "headline": "South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report",
-      "summary": "The largest bank in South Korea plans to launch a blockchain-based cross-border corporate payments service next month, according to Yonhap.",
-      "published_at": "2026-07-27T06:38:09.000Z",
+      "id": "evt_c10fbc887f148e4b",
+      "topic": "politics",
+      "headline": "‘Body Worlds’ anatomist Gunther von Hagens dies at 81 - AP News",
+      "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
+      "published_at": "2026-07-27T13:45:24.000Z",
       "sources": [
         {
-          "name": "The Block",
-          "url": "https://theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys",
-          "homepage": "https://www.theblock.co"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODR3WDRlWGNxY21WVU1GV25xSE4xNkwwRGFjUVMyOS1taFY4R2dEQU5XclNybDRfT0lEMWJuSGY5WnY1LWFDTHZ1dEFLZGVKRXVkNmc5Y0lYYlNKbl9CR1kyMDYzd2RUT0N5Z1lWNk9MaDQ4TWFXT01kVEdjWVc5MUtqRFpMTkM5X2lJeXVkZUh0TGhsSWk0YmlVX0tjQVZLTDduU3d6clo?oc=5",
+          "homepage": "https://apnews.com"
         },
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys",
-          "homepage": "https://cointelegraph.com"
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 2,
-      "weight": 0.894,
-      "image_url": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-800x450.jpg"
+      "weight": 0.821,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8271/live/5b88c0c0-89b9-11f1-ba35-adcc7c70146e.jpg"
     },
     {
-      "id": "evt_2a7f0b6f9ca4f346",
-      "topic": "crypto",
-      "headline": "Hong Kong prepares for quantum threats",
-      "summary": "Hong Kong prepares banks for quantum threats. The city expands tokenized finance.",
-      "published_at": "2026-07-28T02:21:04.000Z",
+      "id": "evt_564d021f000c0a3a",
+      "topic": "business",
+      "headline": "Orange Lifts Guidance on Growth in Africa and Middle East and Europe - WSJ",
+      "summary": "Orange Lifts Guidance on Growth in Africa and Middle East and Europe WSJ",
+      "published_at": "2026-07-28T06:10:00.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg"
-    },
-    {
-      "id": "evt_a6ffec967e6a9b63",
-      "topic": "finance",
-      "headline": "Director sells Actelis stock",
-      "summary": "A director sold stock. The sale was for $14,739.",
-      "published_at": "2026-07-28T02:16:53.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/insider-trading-news/white-lion-capital-director-sells-14739-of-actelis-networks-stock-93CH-4815395",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "evt_093da2fde4c92cc6",
-      "topic": "finance",
-      "headline": "Form 4 Sharplink Gaming Ltd For: 27 July",
-      "summary": "Form 4 Sharplink Gaming Ltd For: 27 July",
-      "published_at": "2026-07-28T02:15:20.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-4-sharplink-gaming-ltd-for-27-july-93CH-4815394",
-          "homepage": "https://www.investing.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcm02QjI4VGhRUHFmYVFoNWFNRVljTEJ0R25mVlNna3h2RjViR0Mxb2ZieWdjYnZRNmEyekNBRVlaM2x6YUhuaUpCdDNIR0Q0djV1NXNyMDVfbUR1RG9jSU4tOTlYVkFORGlaOUZTYVF0N2RCeFFLN3BSX2VPUDdaN1VuTnM0QUM4SGZadVhuLVZINm9BT3ExVnlOSHNTVktOdkwzOXZfY2lrNWw4OWw0WXFEMUhUN094?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778
     },
     {
-      "id": "evt_bd80bb15a420417f",
+      "id": "evt_86abd047d78ec3cb",
+      "topic": "business",
+      "headline": "Canada Producer Prices Decline in June After Short-Lived U.S.-Iran Pact - WSJ",
+      "summary": "Canada Producer Prices Decline in June After Short-Lived U.S.-Iran Pact WSJ",
+      "published_at": "2026-07-28T06:09:14.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmkxN3RxYlJ0dGRwdmVNM3J3dFgtSUNnR0ZUOFBRWUdxeXp0ZC1DRU43eVItcHZEbmxENHhfUlBYRnhLQzdMRWJSejBuZGk3SjZOLWJ4T0oxelN3OTJKQ2sxNG1XUGNwaEhFWmgzSnZYVjR3dnplWUcteHVGejdCWi1PeEdkS0czdy1TSDRmVTBTZUVtSGZLZUhQdTZ0ajJqeWJWNHJhY3pDNTZOQy10aTk2STFTLUZqa0xJSjlUYjk?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_f907b4d2a05bfe4d",
+      "topic": "business",
+      "headline": "One of the Busiest Shipping Ports Wants to Go Nuclear - WSJ",
+      "summary": "One of the Busiest Shipping Ports Wants to Go Nuclear WSJ",
+      "published_at": "2026-07-28T06:09:06.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjZ2cE5iWEw0Z08zbE1kbmNJSk00bUJHbmhHbjU5b1B5QXNvQ2tMRTZ6SUJQR3Nma3ZRYk9MWGJmMG9jM01LV0ZVbnRTcWh6Y0xQWjRVdXFCeXhqeC1FckRnek1mOEJ0QzRoSnlqT1JRbG5pTHl1cFozMzFZWFBiRjJrSkdUZkhYdHhSdFJfdkhhSWVxay1mTGZSVnduYXU4WnZJ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_d7ed9fa63a0bfd90",
+      "topic": "business",
+      "headline": "Cheap, Accurate and Lethal: Iran’s Best Missile Is Getting More Dangerous - WSJ",
+      "summary": "Cheap, Accurate and Lethal: Iran’s Best Missile Is Getting More Dangerous WSJ",
+      "published_at": "2026-07-28T06:08:59.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZTQ5emFoUm9DTHZ3bXNMb0hEUDFfTWMxNm9hRGt1eTAtMW1pLW52RVZiZ0lwRkozYmdUT2pFN09RM09sbjlUamVPUzA2RG8tVW5UeVJZbUgzVE9GTmNaQk42anF2QTQ3Nk1QcGgxQmpxRjhEQlFEN3BJYXdxZUU?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_e7150b59a2da2981",
       "topic": "finance",
-      "headline": "Earnings call transcript: IGO posts stronger FY 2026 finish as lithium recovers",
-      "summary": "Earnings call transcript: IGO posts stronger FY 2026 finish as lithium recovers",
-      "published_at": "2026-07-28T02:13:37.000Z",
+      "headline": "Chesterfield Special Cylinders announces CEO departure, board changes",
+      "summary": "Chesterfield Special Cylinders announces CEO departure, board changes",
+      "published_at": "2026-07-28T06:06:38.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-igo-posts-stronger-fy-2026-finish-as-lithium-recovers-93CH-4815390",
+          "url": "https://investing.com/news/company-news/chesterfield-special-cylinders-announces-ceo-departure-board-changes-93CH-4815482",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM1P0JL_M.jpg"
     },
     {
-      "id": "evt_9147881f9aea7db4",
+      "id": "evt_e0b90e892e4251c0",
       "topic": "finance",
-      "headline": "S. Korea stocks slump over 9% as AI spending fears hammer chip stocks",
-      "summary": "S. Korea stocks slump over 9% as AI spending fears hammer chip stocks",
-      "published_at": "2026-07-28T02:11:00.000Z",
+      "headline": "Safran raises guidance above consensus after strong H1 results",
+      "summary": "Safran raises guidance above consensus after strong H1 results",
+      "published_at": "2026-07-28T06:05:35.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/s-korea-stocks-slump-over-9-as-ai-spending-fears-hammer-chip-stocks-4815389",
+          "url": "https://investing.com/news/earnings/safran-raises-guidance-above-consensus-after-strong-h1-results-4815481",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
     },
     {
-      "id": "evt_d5b8a65789e176a0",
+      "id": "evt_4d349eee519a38ed",
+      "topic": "finance",
+      "headline": "Medincell proposes Elisabeth Svanberg for board of directors",
+      "summary": "Medincell proposes Elisabeth Svanberg for board of directors",
+      "published_at": "2026-07-28T06:04:42.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/medincell-proposes-elisabeth-svanberg-for-board-of-directors-93CH-4815480",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM4D1J3_M.jpg"
+    },
+    {
+      "id": "evt_03372d70147856fa",
+      "topic": "finance",
+      "headline": "Water well drilling begins at Georgina Energy’s Hussar site",
+      "summary": "Water well drilling begins at Georgina Energy’s Hussar site",
+      "published_at": "2026-07-28T06:02:58.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/water-well-drilling-begins-at-georgina-energys-hussar-site-93CH-4815478",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM4K17E_M.jpg"
+    },
+    {
+      "id": "evt_b4e7d36a32e25966",
+      "topic": "finance",
+      "headline": "Happiest Minds Q1 FY27 slides: 14% growth, AI-first strategy gains",
+      "summary": "Happiest Minds Q1 FY27 slides: 14% growth, AI-first strategy gains",
+      "published_at": "2026-07-28T06:02:30.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/happiest-minds-q1-fy27-slides-14-growth-aifirst-strategy-gains-93CH-4815477",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://csv-storage.forexpros.com/slides/a24ae2b197cee8b4b44a3795bb7965b9fff7f6167031049115c2e26dd660fdc7.png"
+    },
+    {
+      "id": "evt_2dbecebdc2c9561d",
+      "topic": "crypto",
+      "headline": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "summary": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
+      "published_at": "2026-07-28T06:00:54.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-cz-vs-eu.png"
+    },
+    {
+      "id": "evt_d9256bb02c50fe88",
+      "topic": "finance",
+      "headline": "Three killed, four wounded in Seattle food festival shooting, police say",
+      "summary": "Three killed, four wounded in Seattle food festival shooting, police say",
+      "published_at": "2026-07-28T06:00:28.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/world-news/three-killed-four-wounded-in-seattle-food-festival-shooting-police-say-4815475",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg"
+    },
+    {
+      "id": "evt_cd2b3ace06aed7bd",
+      "topic": "finance",
+      "headline": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.05%",
+      "summary": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.05%",
+      "published_at": "2026-07-28T06:00:05.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-005-4815474",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEE0O0L4_M.jpg"
+    },
+    {
+      "id": "evt_f224994064710333",
+      "topic": "finance",
+      "headline": "Basic-Fit swings to H1 profit as membership growth lifts earnings",
+      "summary": "Basic-Fit swings to H1 profit as membership growth lifts earnings",
+      "published_at": "2026-07-28T05:59:27.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/earnings/basicfit-swings-to-h1-profit-as-membership-growth-lifts-earnings-4815473",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_546824ad42d9c399",
       "topic": "politics",
-      "headline": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
-      "summary": "Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.",
-      "published_at": "2026-07-28T02:08:54.000Z",
+      "headline": "Palestine weekly: West Bank in flames after Tal killings",
+      "summary": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
+      "published_at": "2026-07-28T05:58:22.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_12fcef5230883114",
-      "topic": "finance",
-      "headline": "Form 4 United Therapeutics Corporation For: 27 July",
-      "summary": "Form 4 United Therapeutics Corporation For: 27 July",
-      "published_at": "2026-07-28T02:05:44.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-4-united-therapeutics-corporation-for-27-july-93CH-4815388",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
       "weight": 0.776
     },
     {
-      "id": "evt_b2d24de4b17aa389",
+      "id": "evt_454b92455ae3794a",
       "topic": "finance",
-      "headline": "United Therapeutics CEO Rothblatt sells $5 million in shares",
-      "summary": "United Therapeutics CEO Rothblatt sells $5 million in shares",
-      "published_at": "2026-07-28T02:02:10.000Z",
+      "headline": "Sulzer confirms guidance despite mixed first-half results",
+      "summary": "Sulzer confirms guidance despite mixed first-half results",
+      "published_at": "2026-07-28T05:54:08.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/insider-trading-news/united-therapeutics-ceo-rothblatt-sells-5-million-in-shares-93CH-4815387",
+          "url": "https://investing.com/news/earnings/sulzer-confirms-guidance-despite-mixed-firsthalf-results-4815472",
           "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_73a8ba7f6e00c48a",
-      "topic": "finance",
-      "headline": "Form 4 5C Lending Partners Corp. For: 27 July",
-      "summary": "Form 4 5C Lending Partners Corp. For: 27 July",
-      "published_at": "2026-07-28T02:00:51.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/filings/form-4-5c-lending-partners-corp-for-27-july-93CH-4815386",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_29fda5673a556d80",
-      "topic": "crypto",
-      "headline": "What Is a Digital Commodity?",
-      "summary": "A digital commodity is an onchain asset that draws its value from open-market supply and demand rather than from the work of a company or central issuer. Assets in this category are freely transferable and traded on public markets, which makes them behave more like traditional co",
-      "published_at": "2026-07-28T01:55:46.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/learn/409682/what-is-a-digital-commodity",
-          "homepage": "https://www.theblock.co"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://www.tbstat.com/wp/uploads/2026/07/Digital-Commodity-716x450.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
     },
     {
-      "id": "evt_a34977f87a75b0a7",
+      "id": "evt_2a7703723e0818ad",
       "topic": "finance",
-      "headline": "Shares of SK Hynix plunge 10% in Seoul as semiconductor selloff deepens",
-      "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
-      "published_at": "2026-07-28T01:48:30.000Z",
+      "headline": "Bitcoin slips to 10-day low near $63k as tech sell-off, Fed uncertainty weigh",
+      "summary": "Bitcoin slips to 10-day low near $63k as tech sell-off, Fed uncertainty weigh",
+      "published_at": "2026-07-28T05:53:30.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/cryptocurrency-news/bitcoin-slips-to-10day-low-near-63k-as-tech-selloff-fed-uncertainty-weigh-4815471",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774
+      "weight": 0.775
     },
     {
-      "id": "evt_0d4b5f7dd0f8f01b",
-      "topic": "politics",
-      "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "published_at": "2026-07-28T01:39:50.000Z",
+      "id": "evt_f27704465c58f91c",
+      "topic": "business",
+      "headline": "Tractor Supply Cuts Outlook Following Tough Quarter - WSJ",
+      "summary": "Tractor Supply Cuts Outlook Following Tough Quarter WSJ",
+      "published_at": "2026-07-28T05:39:03.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDJlY2FxVXZCSlV0THZ0SGRIRUs3amtOY09XV3pXSXRLN3JTWTNMd2JET3pIcy0xSkpxMGVvc0w5YUhPMXY2cmRmRE9IYThaT3RaYzRSU0ZCdm5EVXIzcVFqLXk2QUdicEhZWG4xVDZLbGNNS1lyWV9tU0tZaFVVeC0yNUxMd00xM1dwQWZRcV9nTV9LZ3BLOHFVS25UelE?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbf/live/f36d2c30-8a24-11f1-b2ab-0dd01740f9f6.jpg"
+      "weight": 0.773
     },
     {
-      "id": "evt_86b7f3f64a3913b3",
-      "topic": "finance",
-      "headline": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
-      "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
-      "published_at": "2026-07-28T01:34:28.000Z",
+      "id": "evt_f944e46299295962",
+      "topic": "business",
+      "headline": "The unexpected winners from China’s blockbuster CXMT IPO - Financial Times",
+      "summary": "The unexpected winners from China’s blockbuster CXMT IPO Financial Times",
+      "published_at": "2026-07-28T05:37:46.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFZfVTU5OHQxbjZWNzFjM1FrWWc5bnlORzFocHhPd0FtWmNkYUs0V0pDMjczM3YzUldwM1p6bXFpQktQTWVNSFJpZGZiZW5oWExLSVpmVVVzRXhoQ0JKZ1RIZUlXUlkzQzlWdnpURXdDaGtIcTEtRU8tbGhBV29PSWZVeWo?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_c47b45ddd9e9a7a4",
+      "topic": "ai",
+      "headline": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "summary": "Article URL: https://arsastronomica.com/ Comments URL: https://news.ycombinator.com/item?id=49079727 Points: 15 # Comments: 0",
+      "published_at": "2026-07-28T05:25:34.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arsastronomica.com",
+          "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
       "weight": 0.772
     },
     {
-      "id": "evt_483039238f5b833f",
-      "topic": "crypto",
-      "headline": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
-      "summary": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
-      "published_at": "2026-07-28T01:23:07.000Z",
+      "id": "evt_7498ecbeed856e7d",
+      "topic": "business",
+      "headline": "AI stock sell-off deepens as investors dump chipmakers - Financial Times",
+      "summary": "AI stock sell-off deepens as investors dump chipmakers Financial Times",
+      "published_at": "2026-07-28T05:19:33.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express",
-          "homepage": "https://cointelegraph.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg"
+      "weight": 0.771
     },
     {
-      "id": "evt_7adcd11f3011d7fd",
-      "topic": "finance",
-      "headline": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
-      "published_at": "2026-07-28T01:19:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://images.mktw.net/im-69899727"
-    },
-    {
-      "id": "evt_20906f5135b98640",
+      "id": "evt_41fc9f93252a7e71",
       "topic": "politics",
-      "headline": "Former senior ICE official says rush for numbers is causing deaths",
-      "summary": "Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.",
-      "published_at": "2026-07-28T01:18:24.000Z",
+      "headline": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages - Reuters",
+      "summary": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages Reuters",
+      "published_at": "2026-07-28T05:18:27.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_former-ice-official-rush-for-numbers-causing-deaths-270726?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29yMTU1THpKbENSbHlzS1ZVQW9XY0p1d3dZSk1sWFFtRmljaFNwUGl3Q0JqMTV3X1Rib28zQi0xOHdZMDZoOWRiNU40QThuVDhIZ1FZNERlMTYtQk01dnUyYUtnOC03VjhnbndITDNQNzFwdjZpUWsyaGdJLS10d0lKMmJrakh5S1hKS2xWcGZxcFV0WUZTT2Rjay1ZdzQ4cl9Uc25kaEJqMUwxRTMtUGVMU25Hdw?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_30e0d34572666af8",
+      "topic": "politics",
+      "headline": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
+      "summary": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related AP News",
+      "published_at": "2026-07-28T05:18:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTy11bk81UWJnWVdhRWR0cXRBRzVfYW5WUE9CdlJIelBZdkVaR2hBVE9uTF9YakRDSElFWG95LXRDTWhvR0RLZ0hpejNKbTZuNHdjS3RwSVFCZ3k2VlBrMlRFa214MllRQVRSUkN5b1lOaTFhQzhSTF9QTkZvWVM1YzhFRi03VzI0ZUlIU242T0hkb0hlYVpGV1ppSWRGYWNwSWNjNFJHVmd2M29ic0JF?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.77
     },
     {
-      "id": "evt_5e45ca07a85daf6f",
+      "id": "evt_53d8d6e0e8999ae2",
+      "topic": "crypto",
+      "headline": "What Is KuCoin?",
+      "summary": "KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, and manage digital assets. Founded in 2017, the platform is now one of the most popular CEXs, serving more than 45 million users across over 200 countries and regions. These range from first-time crypt",
+      "published_at": "2026-07-28T05:14:22.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/learn/409571/what-is-kucoin",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://www.tbstat.com/wp/uploads/2026/07/Kucoin-Learn-800x450.jpg"
+    },
+    {
+      "id": "evt_cb8ebf73ac5534e0",
+      "topic": "business",
+      "headline": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing - Bloomberg",
+      "summary": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing Bloomberg",
+      "published_at": "2026-07-28T05:10:00.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTVnc1A0RXVTS01BaHM2ajhVRFpCcWF2a1A0WC0yRWhFcWFwRno0T0NZNUEtM2doVHRmZ2NFM3RFZHk1VHFxQ3paT3NaeHhTd0JhbkZlTVlUX3V0NzJ5N21saFJUam5Tc3haUmYwVHlGZkU3UGpaMTBKUjNOMHVJeFMxanByWG1JV1ZlWDdiYUFpUnhXdWZpMlZPU1AtTXo0Y002NWRfNFBlV2UzWmpmVkpnNmo?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_ee7a2c429aa5957b",
+      "topic": "finance",
+      "headline": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+      "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+      "published_at": "2026-07-28T05:06:22.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_5fc07286dd4e9271",
       "topic": "politics",
-      "headline": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer",
-      "summary": "Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.",
-      "published_at": "2026-07-28T01:07:09.000Z",
+      "headline": "Confronting gang members at the heart of Ecuador's drug battle",
+      "summary": "Orla Guerin speaks to a gang leader about violence, drugs and infiltrating the police.",
+      "published_at": "2026-07-28T05:01:35.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e5/live/dc9fec70-8a49-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "evt_52b26c36919b73da",
+      "topic": "politics",
+      "headline": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "published_at": "2026-07-28T05:01:19.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg"
+    },
+    {
+      "id": "evt_e3a49e00fb0e9c4f",
+      "topic": "politics",
+      "headline": "Mamdani tackles cost of living crisis in New York with 30% discounts",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new plan to sell discounted grocery baskets at city-run stores.",
+      "published_at": "2026-07-28T05:00:05.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
@@ -347,15 +641,63 @@
       "weight": 0.768
     },
     {
-      "id": "evt_3371c869b562a8ff",
+      "id": "evt_42bcd25b718d3238",
       "topic": "politics",
-      "headline": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-      "summary": "Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.",
-      "published_at": "2026-07-28T00:51:50.000Z",
+      "headline": "Morning Bid: Chips jolted as momentum shifts in AI - Reuters",
+      "summary": "Morning Bid: Chips jolted as momentum shifts in AI Reuters",
+      "published_at": "2026-07-28T04:56:25.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVy1XbVhGMXRaZW9fV25CUDU0VHZJejBJQzFDYlN4ZGdMQXFxbmxTSUptLTFjTEhON1Z3QXhPWU9kdnRXT3pFNEtxZHU5UVZCTXUyYXNEdXkzemtpYWthQXVWQUZrVUo0c3lWd2RjNmdrUk5MbDJCU0t0czdsdDBMNGhXWjB0RklhSmhlZHlkaE4?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_d9775f8c85254839",
+      "topic": "politics",
+      "headline": "Malaysia detains more than 100 Rohingya seeking help from the UN",
+      "summary": "Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.",
+      "published_at": "2026-07-28T04:51:42.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_f00592511d9a4a54",
+      "topic": "ai",
+      "headline": "Neutrino-1 8B",
+      "summary": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/ Comments URL: https://news.ycombinator.com/item?id=49079490 Points: 29 # Comments: 4",
+      "published_at": "2026-07-28T04:49:54.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://fermionresearch.com/models/neutrino-8b",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_f8e178d9ec9bf2b9",
+      "topic": "politics",
+      "headline": "Trump calls protester ‘communist’ after Michigan speech interruption",
+      "summary": "A protester was removed after interrupting US President Donald Trump’s remarks at a Michigan auto event.",
+      "published_at": "2026-07-28T04:48:01.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
@@ -363,647 +705,326 @@
       "weight": 0.766
     },
     {
-      "id": "evt_424b806728a26b0c",
-      "topic": "politics",
-      "headline": "Shots fired at US consulate in Toronto for a second time this year",
-      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-      "published_at": "2026-07-28T00:36:16.000Z",
+      "id": "evt_1fec2bb77373f2a8",
+      "topic": "business",
+      "headline": "Nvidia Employee Detained by Taiwan in China Chip Smuggling Probe - Bloomberg",
+      "summary": "Nvidia Employee Detained by Taiwan in China Chip Smuggling Probe Bloomberg",
+      "published_at": "2026-07-28T04:48:00.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtDQjNDTzYxbGFhVXNfOFVCcFFLZnZyc2hoUTdjdkpPVU1FeG9VVnNvVEhXTTVEV050OXprbnZoX3FMangzWFV3U1owR2QwT01LenFLNGZQRjB1MS1XM2NlTlpvd2lHZjU1aGIydmpiZ3BXQWJwd1NJVk9BcTdRVVZYcGtoNVA2RzlHU3VXLW93VVd5SF9tdWxxNm5jb05BSGZMT0lORTF5bnhab09URw?oc=5",
+          "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.764,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bb/live/b02f9420-89da-11f1-a7ab-8b30adf0800a.jpg"
+      "weight": 0.766
     },
     {
-      "id": "evt_1b90638ad0e17d96",
-      "topic": "politics",
-      "headline": "What to expect from Zelensky and Netanyahu's visit to Washington",
-      "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-      "published_at": "2026-07-28T00:30:11.000Z",
+      "id": "evt_ca564cd9c3d7e9f1",
+      "topic": "ai",
+      "headline": "PyTorch: A Reference Language",
+      "summary": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/ Comments URL: https://news.ycombinator.com/item?id=49079454 Points: 12 # Comments: 0",
+      "published_at": "2026-07-28T04:46:00.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Hacker News",
+          "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language",
+          "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.763,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abf/live/3a7f1ae0-8a19-11f1-b8ee-9b3c26ad07bb.jpg"
+      "weight": 0.766
     },
     {
-      "id": "evt_fda9633aa00b41bf",
+      "id": "evt_494c3d3455361515",
       "topic": "politics",
-      "headline": "Savannah Guthrie pleads for help to find missing mother",
-      "summary": "Journalist Savannah Guthrie has made an emotional public appeal for information about her missing mother.",
-      "published_at": "2026-07-28T00:22:36.000Z",
+      "headline": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+      "summary": "Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.",
+      "published_at": "2026-07-28T04:43:53.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.762
+      "weight": 0.766
     },
     {
-      "id": "evt_287e1596aea7848d",
+      "id": "evt_d778cd406cd4d177",
+      "topic": "business",
+      "headline": "Oil Prices Ease Pressure on Treasury Yields - WSJ",
+      "summary": "Oil Prices Ease Pressure on Treasury Yields WSJ",
+      "published_at": "2026-07-28T04:40:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUktfOW5wS2M0Vmp3bGp5TVdzenRlcHBxSEdVWE9neWpNajhrVlJ1WnQ2WGVFN0V3VWxQRkRiaDJSbEF3M2xNYXJWY2VUT0Q2dDlGdlNZYmotZ1VOOEdUbWxGckZ6M1VROXVPZlM2UHpfMGhRYWpPNm5felJVamY1YnY0TDRGcFFGWG9zUHpBbG45azF2cTlNS1VOOHdwQQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_3f2f8cf1c2a9f017",
+      "topic": "crypto",
+      "headline": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "summary": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "published_at": "2026-07-28T04:32:39.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_40ec7a28c7a1f75f",
       "topic": "ai",
-      "headline": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "published_at": "2026-07-28T00:13:33.000Z",
+      "headline": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "published_at": "2026-07-28T04:30:00.000Z",
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
           "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_91ac27afa54caf23",
+      "topic": "crypto",
+      "headline": "US judge temporarily blocks Minnesota prediction market ban",
+      "summary": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
+      "published_at": "2026-07-28T04:28:10.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png"
+    },
+    {
+      "id": "evt_ef9bb0e5610f7e2a",
+      "topic": "politics",
+      "headline": "Taiwan drills to test relocating arms production under Chinese attack - Reuters",
+      "summary": "Taiwan drills to test relocating arms production under Chinese attack Reuters",
+      "published_at": "2026-07-28T04:25:00.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjhIdUNGamJpdkF5S25rVkZCb3JXbmVhMXRCRWswemdaa3Q1b0J3Vlk2cVN0eW5QTHFBbTQ2R1ZkWnZMZzZCUE91T0xSMEhkdHdfbHpRMXkwbVU3bTZEOTM0MDdOZVlCbGZHRjhxMWlMUF9ZNXRhM2l5aEJhaWlFU3prUGlZbDN1MWE1Z2hmSURjTVB1OUpFc0VtaVVzZ2JQaktLUGw3aVBKSHF1Q3hDNmhvd0w?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_7cd1fa587acd6957",
+      "topic": "politics",
+      "headline": "Nvidia behind $50 billion lease on Texas data center, FT reports - Reuters",
+      "summary": "Nvidia behind $50 billion lease on Texas data center, FT reports Reuters",
+      "published_at": "2026-07-28T04:13:00.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3hhTXBGOGJuOHRPd29ITFU3Y29ndDNjNWU4LTNNRzA2cE0wcm96dEFnNmcyM2xqUnQyb3hyT2sxQjNMUVQzTWF0b3Z5Njd5eXNxY2pnanRYWmxrQXAtY3RXcHVOSDNWRTRzOWZmQ0huSmFYa3Y1TFNwWElvdVI0a1RUajY0aXhqUGQ2R0lKRmtLdTlXUzZBUnZIM3duWG9DM1NJVDBkVkRvZw?oc=5",
+          "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
       "weight": 0.761
     },
     {
-      "id": "evt_ac68b31a7553e81b",
-      "topic": "politics",
-      "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-      "summary": "US President Donald Trump called Turkiye 'a great ally' when asked about selling F-35 fighter jets to Ankara.",
-      "published_at": "2026-07-28T00:00:42.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_4ffc190568e07936",
-      "topic": "politics",
-      "headline": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
-      "summary": "Iran says US 'struggling' to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
-      "published_at": "2026-07-28T00:00:00.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.759
-    },
-    {
-      "id": "evt_dd391ce594123ec7",
-      "topic": "crypto",
-      "headline": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-      "summary": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
-      "published_at": "2026-07-27T23:55:16.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.758,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_38c038958dcdaf28",
+      "id": "evt_ef59f949c4d2f364",
       "topic": "ai",
-      "headline": "The Burau representation of the braid group is faithful for n = 4",
-      "summary": "Article URL: https://arxiv.org/abs/2607.05283 Comments URL: https://news.ycombinator.com/item?id=49077209 Points: 17 # Comments: 5",
-      "published_at": "2026-07-27T23:46:15.000Z",
+      "headline": "Show HN: A 6M-token movable window on a single 46GB GPU",
+      "summary": "Article URL: https://arxiv.org/abs/2607.23806 Comments URL: https://news.ycombinator.com/item?id=49079247 Points: 4 # Comments: 1",
+      "published_at": "2026-07-28T04:11:45.000Z",
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2607.05283",
+          "url": "https://arxiv.org/abs/2607.23806",
           "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.757
+      "weight": 0.761
     },
     {
-      "id": "evt_9a553ffde15654b7",
-      "topic": "finance",
-      "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-      "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
-      "published_at": "2026-07-27T23:43:50.000Z",
+      "id": "evt_2f7e932c7890a33a",
+      "topic": "business",
+      "headline": "China needs a new growth model - Financial Times",
+      "summary": "China needs a new growth model Financial Times",
+      "published_at": "2026-07-28T04:06:36.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IdHRqY2QzVVNWdjdEclVHY0xsR3NkQ0UteXEyeHNZSjhZLWJyZnVXaVRaOWFKTzVYWmZBM1dodkNCVkhDZTJCdkhDU1FhVGNCR21pbGtRYkZ2Q3BIOC1DZTNEeEdOVVQ0LWE5U2kyT24?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.757
+      "weight": 0.761
     },
     {
-      "id": "evt_835301e02e7ab64f",
-      "topic": "politics",
-      "headline": "Seattle Shooting",
-      "summary": "A shooting occurred at a food festival. One suspect is in custody.",
-      "published_at": "2026-07-27T19:23:08.000Z",
+      "id": "evt_5166f22d1582be33",
+      "topic": "business",
+      "headline": "Don’t underestimate the economic power of a UK vibe shift - Financial Times",
+      "summary": "Don’t underestimate the economic power of a UK vibe shift Financial Times",
+      "published_at": "2026-07-28T04:02:33.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVNGUzYtZXMtVGFpUFRSRTR2ZFdDRTY2OVJaRXM3WVlDZTQwYzNvQVpSZkRQZ1IteDFCZkVScTdDS0phSnNXNUszM29hMXpxY2I2c1dGLVVHZkdFeElzd1dHZ1lnS3p3WTBrRjlqTDhWOGFaalh5T1U1N2ZpVDJnbE9la3I?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949c/live/55d94ab0-89d1-11f1-8d60-2d725522f827.jpg"
+      "weight": 0.76
     },
     {
-      "id": "evt_a361db9ad5c3b0c3",
-      "topic": "crypto",
-      "headline": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-      "summary": "A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.",
-      "published_at": "2026-07-27T23:29:38.000Z",
+      "id": "evt_4e805c3410882c73",
+      "topic": "business",
+      "headline": "Investors snap up bundles of UK properties as housebuilders offer discounts - Financial Times",
+      "summary": "Investors snap up bundles of UK properties as housebuilders offer discounts Financial Times",
+      "published_at": "2026-07-28T04:01:36.000Z",
       "sources": [
         {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-          "homepage": "https://www.coindesk.com"
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlEtOEh2MmktVUpOU29VeFJPRGdXcDJFNkx0ME0tMTI3aXJ5ZFBsSzdvS2VuWGh2bTlMeGRCWDRyY0R3NTA0NHNwLVg2elhEOXZxXzVUMEN1ektVOXdjbVFtOFp6LWlNRHVfVXFiM3dqTi1wRVNzdjhrcmdmUU92RVdieWM?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.755,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "weight": 0.76
     },
     {
-      "id": "evt_31c4bff20b757c9c",
+      "id": "evt_e41f9572d0e0b0c9",
+      "topic": "business",
+      "headline": "TotalEnergies benefits from EU sanctions reprieve on Russian gas - Financial Times",
+      "summary": "TotalEnergies benefits from EU sanctions reprieve on Russian gas Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTlHSTV6eWJTbDU4NTB5b2x1aHlVVDhFVXdaZklHWnhkSlFTRGdJUU5Fa1pQWkZ2Rmt6Y1hlZ0p0dGtWRG1uamcxX2lDTE1uSjc4RWxUT0NGc2haaVZWbzViRi04RzBLdFc4UU9yNGhwZmFMT19pUlBvLXNSd0l4S0t3ZkU?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_96d45c1594a29c24",
+      "topic": "business",
+      "headline": "The UAE’s bold gambit on Iran - Financial Times",
+      "summary": "The UAE’s bold gambit on Iran Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVE4yeGs4YmhvOW1uTklMLVVCd2ZRdlY5V0xtclpJQmtkd2hxaUNYWVdsRE5fTGd6YmNXQ1dmZUJKajU5YXIzcVNkX0c4cVhnRVc1c0hZR1ZDYmlEMTJyN1R0VVdMOVFDb1ZXNEhNVERWYmxLZlZvYUdYV3p6OUhpVWZRZEQ?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_62f5bccc71a9ef88",
+      "topic": "business",
+      "headline": "‘Unpredictable and extremely dangerous’: France hit by rare fire thunderstorms - Financial Times",
+      "summary": "‘Unpredictable and extremely dangerous’: France hit by rare fire thunderstorms Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXFVd0M4LXVzemJqYlRfc3ZWYXJWZmxVTXZvcWtVUGRWQ3NmMmZFMGNHWFl3UW42Mk9XcmdZTUZQZjVER1VSUkR6UXVjLXVYV0Y2Vk5wWFItcVlaR29lOWRXUVBVSndkUnBSZjVHZElfanV6VGhyTWxUd0FBeDNmdDlYb28?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_f0fafb8b55b97cc3",
+      "topic": "business",
+      "headline": "Funding gaps hobble western critical mineral objectives, report says - Financial Times",
+      "summary": "Funding gaps hobble western critical mineral objectives, report says Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzh6ZVRYODJuRi1HRlZQMjV0ZDkxLTh4Ny1xRFI1ODRiaDRIWGdoaXlBYmY5cS0zRm9kaFNXRXdVSnFkaG5nS0NYLWhmOTlkVXZ6bVFTZU1iTkZVMjRsZ1ZnejV5VXljeTVXN2VGQWtwLXhPYU5KanBVQ3l4WW5idVZLVnM?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_24b9e3f5d7e3fca7",
+      "topic": "business",
+      "headline": "To create wealth, Europe must reap the dividends of radio spectrum - Financial Times",
+      "summary": "To create wealth, Europe must reap the dividends of radio spectrum Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zR20zRDFkcExCNmc3SzRLU19BU1ZoSWkxemR5YmM0WHdYWklhVkl5QkdLNjFUaFNUWlVfTXdWN1JBajk0dlRNal9IVlZ5ZEtkTzJUclozSGVCUU0tUGFQSWg0UUd1VUI5cmNzRXlybXo?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_8da358aecc44ea8b",
+      "topic": "business",
+      "headline": "Hungary’s thawing relations with EU provide lucrative trade for foreign funds - Financial Times",
+      "summary": "Hungary’s thawing relations with EU provide lucrative trade for foreign funds Financial Times",
+      "published_at": "2026-07-28T04:01:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFYNGRGdFBvMUJaT3VGanFWcjd1anhzSXpUS2pCMDBxdTA1bjFmTkNfZmZyeW9GdzdLM2tiRWMwTjNURWZJRTB3VWJvNHhCVGxYdXlUVkZuS0NYNHVWNGhFcFNxMHFQUjgyNlNpWGhvakV6eHRVYlh3cm9oQUxDeGFYTFc?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_5ba00bf11ab73c5b",
       "topic": "ai",
-      "headline": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
-      "summary": "Article URL: https://trylle.com/home Comments URL: https://news.ycombinator.com/item?id=49076978 Points: 7 # Comments: 2",
-      "published_at": "2026-07-27T23:26:15.000Z",
+      "headline": "Why do we think we understand the world more than we actually do?",
+      "summary": "Article URL: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth Comments URL: https://news.ycombinator.com/item?id=49079175 Points: 33 # Comments: 24",
+      "published_at": "2026-07-28T04:00:41.000Z",
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://trylle.com/home",
+          "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
           "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.754
-    },
-    {
-      "id": "evt_10d209617d8035e6",
-      "topic": "ai",
-      "headline": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "summary": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/ Comments URL: https://news.ycombinator.com/item?id=49076900",
-      "published_at": "2026-07-27T23:19:19.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.753
-    },
-    {
-      "id": "evt_86999a5f19dd2f12",
-      "topic": "ai",
-      "headline": "DConf 2026 in London",
-      "summary": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 47 # Comments: 18",
-      "published_at": "2026-07-27T23:14:19.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://dconf.org/2026/index.html",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.753
-    },
-    {
-      "id": "evt_0c4f8525923cee45",
-      "topic": "ai",
-      "headline": "C/C++ projects packaged for Zig",
-      "summary": "Article URL: https://github.com/allyourcodebase Comments URL: https://news.ycombinator.com/item?id=49076791 Points: 30 # Comments: 21",
-      "published_at": "2026-07-27T23:09:50.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/allyourcodebase",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.752
-    },
-    {
-      "id": "evt_300a0513036bb9cb",
-      "topic": "politics",
-      "headline": "US diplomats walk out as France addresses UN Security Council",
-      "summary": "US diplomats walk out of UN meeting during France's speech amid tensions over human rights chief's reappointment.",
-      "published_at": "2026-07-27T23:07:55.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.752
-    },
-    {
-      "id": "evt_2fb1650307e178db",
-      "topic": "crypto",
-      "headline": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-      "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-      "published_at": "2026-07-27T23:00:04.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.751,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png"
-    },
-    {
-      "id": "evt_b16ba36bdbe9a5a6",
-      "topic": "finance",
-      "headline": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
-      "summary": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
-      "published_at": "2026-07-27T23:00:02.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.751
-    },
-    {
-      "id": "evt_c59ef1c116579879",
-      "topic": "crypto",
-      "headline": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-      "summary": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
-      "published_at": "2026-07-27T22:55:44.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.75,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-why-us-regulated-bitcoin-perpetuals-could-change-crypto-trading.png"
-    },
-    {
-      "id": "evt_387bce16f0ee9ac8",
-      "topic": "ai",
-      "headline": "Kimi K3 Now Available via Telnyx Inference API",
-      "summary": "Article URL: https://telnyx.com/release-notes/kimi-k3-telnyx-inference Comments URL: https://news.ycombinator.com/item?id=49076505 Points: 18 # Comments: 5",
-      "published_at": "2026-07-27T22:46:28.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.749
-    },
-    {
-      "id": "evt_6e826bcb66ff2fb9",
-      "topic": "ai",
-      "headline": "Benchmarking Opus 5 on SlopCodeBench",
-      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 137 # Comments: 34",
-      "published_at": "2026-07-27T22:37:52.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.747
-    },
-    {
-      "id": "evt_5098c1b989a104b6",
-      "topic": "ai",
-      "headline": "Hard Road – A beautiful procedural post-apocalyptic game",
-      "summary": "Article URL: https://hardroad.xyz/ Comments URL: https://news.ycombinator.com/item?id=49076382 Points: 34 # Comments: 12",
-      "published_at": "2026-07-27T22:36:55.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://hardroad.xyz",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.747
-    },
-    {
-      "id": "evt_a238d92dc3bdee32",
-      "topic": "politics",
-      "headline": "Shot fired outside US consulate in Canada for second time this year",
-      "summary": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.",
-      "published_at": "2026-07-27T22:34:38.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.747
-    },
-    {
-      "id": "evt_f3dc45e61c620dc9",
-      "topic": "crypto",
-      "headline": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-      "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-      "published_at": "2026-07-27T22:31:03.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.747,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png"
-    },
-    {
-      "id": "evt_b242eaf77f93e8f8",
-      "topic": "finance",
-      "headline": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "published_at": "2026-07-27T22:30:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.746,
-      "image_url": "https://images.mktw.net/im-88578279"
-    },
-    {
-      "id": "evt_6f6cf40131edb43f",
-      "topic": "finance",
-      "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
-      "published_at": "2026-07-27T22:23:50.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.746
-    },
-    {
-      "id": "evt_c55b8ac543689141",
-      "topic": "finance",
-      "headline": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
-      "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
-      "published_at": "2026-07-27T22:20:01.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.745
-    },
-    {
-      "id": "evt_a1032e0acfe76a8e",
-      "topic": "ai",
-      "headline": "X Money is launching in the US starting today",
-      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X us",
-      "published_at": "2026-07-27T22:10:18.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/tech/971649/x-money-launch-elon-musk",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.744,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_433cde6920cdb81a",
-      "topic": "politics",
-      "headline": "A Japanese town wrestles with identity after protests over its first mosque",
-      "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-      "published_at": "2026-07-27T22:08:21.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.743,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ab/live/e671d390-89a3-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "evt_5108c38c57078679",
-      "topic": "politics",
-      "headline": "China's new challenge as natural disasters strike - fake AI videos",
-      "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-      "published_at": "2026-07-27T22:07:23.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.743,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"
-    },
-    {
-      "id": "evt_d7c22247e11146ec",
-      "topic": "ai",
-      "headline": "Our position on open-weights models",
-      "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 480 # Comments: 671",
-      "published_at": "2026-07-27T22:03:49.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://anthropic.com/news/position-open-weights-models",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.743
-    },
-    {
-      "id": "evt_9d19839ce36dfc17",
-      "topic": "finance",
-      "headline": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
-      "published_at": "2026-07-27T22:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.742,
-      "image_url": "https://images.mktw.net/im-22873977"
-    },
-    {
-      "id": "evt_3c54ca87b58b00f2",
-      "topic": "crypto",
-      "headline": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
-      "summary": "The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.",
-      "published_at": "2026-07-27T21:57:24.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.742,
-      "image_url": "https://www.tbstat.com/wp/uploads/2022/03/621e4e41dfcf311335ccaefc_NFL-x6-1920-1080-1-800x450.jpg"
-    },
-    {
-      "id": "evt_4c0cf868cb3276ca",
-      "topic": "ai",
-      "headline": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "published_at": "2026-07-27T21:56:14.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.742,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
-    },
-    {
-      "id": "evt_31815d70f9d822f6",
-      "topic": "finance",
-      "headline": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-      "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
-      "published_at": "2026-07-27T21:46:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.74,
-      "image_url": "https://images.mktw.net/im-33239683"
-    },
-    {
-      "id": "evt_9b92f0f32c1caf3a",
-      "topic": "ai",
-      "headline": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
-      "published_at": "2026-07-27T21:40:27.000Z",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us",
-          "homepage": "https://arstechnica.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.739,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg"
-    },
-    {
-      "id": "evt_534f30b835656514",
-      "topic": "finance",
-      "headline": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
-      "summary": "A new study found cognitive improvements for shorter durations of eating",
-      "published_at": "2026-07-27T21:37:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.739,
-      "image_url": "https://images.mktw.net/im-45122965"
-    },
-    {
-      "id": "evt_aea9729ac24e3b7b",
-      "topic": "finance",
-      "headline": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-      "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
-      "published_at": "2026-07-27T21:35:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.739,
-      "image_url": "https://images.mktw.net/im-62652088"
-    },
-    {
-      "id": "evt_e6153a5aaf75c963",
-      "topic": "finance",
-      "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-      "published_at": "2026-07-27T21:29:50.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.738
+      "weight": 0.76
     }
   ]
 }
