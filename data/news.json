@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-08-04T17:48:37.659Z",
+  "generated_at": "2026-08-04T23:03:30.049Z",
   "clusters": [
+    {
+      "id": "evt_2215f679653346b2",
+      "topic": "politics",
+      "headline": "Guatemala Volcano Erupts",
+      "summary": "Guatemala's Fuego volcano erupted. Evacuations were ordered.",
+      "published_at": "2026-08-04T19:41:17.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.932,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd76/live/e4b36b80-9016-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "evt_071055c5aa63a0b6",
+      "topic": "politics",
+      "headline": "Telegram Suspended",
+      "summary": "Telegram was suspended by Apple. A user violated content norms.",
+      "published_at": "2026-08-04T19:35:12.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.931
+    },
     {
       "id": "evt_11325a902f00a9e6",
       "topic": "ai",
@@ -67,359 +110,568 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png"
     },
     {
-      "id": "evt_a3097f33e24a5dc8",
-      "topic": "ai",
-      "headline": "OpenAI Influencer Trip",
-      "summary": "Influencer trip backfired. Caused hard feelings.",
-      "published_at": "2026-08-04T17:46:41.000Z",
+      "id": "evt_b06f1f40480ed89e",
+      "topic": "science",
+      "headline": "Flea Treatments Risk",
+      "summary": "Flea treatments may harm wildlife. New evidence is emerging.",
+      "published_at": "2026-08-04T23:01:00.000Z",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "homepage": "https://www.theverge.com"
+          "name": "New Scientist",
+          "url": "https://newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets",
+          "homepage": "https://www.newscientist.com"
         }
       ],
       "source_count": 1,
       "weight": 0.78,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg"
     },
     {
-      "id": "evt_f91554029528c058",
+      "id": "evt_b2c39f50ede9b831",
+      "topic": "science",
+      "headline": "AI-written stories preferred",
+      "summary": "People prefer AI-written stories. They can't tell them apart from human-written ones.",
+      "published_at": "2026-08-04T23:01:00.000Z",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work",
+          "homepage": "https://www.newscientist.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78,
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg"
+    },
+    {
+      "id": "evt_fb266b25f405f1f1",
       "topic": "finance",
-      "headline": "eBay Downgraded",
-      "summary": "Citizens downgrades eBay. Depop spending and competition are concerns.",
-      "published_at": "2026-08-04T17:44:26.000Z",
+      "headline": "Pinterest revenue growth slows",
+      "summary": "Pinterest expects slower revenue growth. Ad competition is increasing.",
+      "published_at": "2026-08-04T22:54:25.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/citizens-downgrades-ebay-as-depop-spending-rising-competition-cloud-outlook-4835452",
+          "url": "https://investing.com/news/stock-market-news/pinterest-expects-slower-quarterly-revenue-growth-as-ad-competition-heats-up-4835825",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://content-media.investing.com/news/LYNXMPED5K1EC_M.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg"
     },
     {
-      "id": "evt_4318f9cd8cdd49e4",
+      "id": "evt_394250c3475f8edb",
       "topic": "finance",
-      "headline": "Freshworks Earnings",
-      "summary": "Freshworks earnings are upcoming. AI risk is a concern.",
-      "published_at": "2026-08-04T17:43:57.000Z",
+      "headline": "ACADIA Q2 results",
+      "summary": "ACADIA reports Q2 results. DAYBUE beats expectations.",
+      "published_at": "2026-08-04T22:53:23.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/freshworks-earnings-up-next-can-upmarket-push-overcome-ai-risk-93CH-4835450",
+          "url": "https://investing.com/news/company-news/acadia-q2-2026-slides-daybue-beats-remlifanserin-data-nears-93CH-4836156",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg"
     },
     {
-      "id": "evt_cffc63f12b5640b4",
+      "id": "evt_88521cd11bcd423b",
       "topic": "finance",
-      "headline": "Chipotle Recall",
-      "summary": "Chipotle pulls jalapenos. Salmonella outbreak is being investigated.",
-      "published_at": "2026-08-04T17:43:16.000Z",
+      "headline": "Earnings call transcript: Fortune Brands beats on EPS in Q2 2026 as sales slip",
+      "summary": "Earnings call transcript: Fortune Brands beats on EPS in Q2 2026 as sales slip",
+      "published_at": "2026-08-04T22:51:50.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/chipotle-mexican-grill-pulls-jalapenos-linked-to-minnesota-salmonella-cases-bloomberg-news-reports-4835423",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-fortune-brands-beats-on-eps-in-q2-2026-as-sales-slip-93CH-4836155",
           "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-    },
-    {
-      "id": "evt_180be8f035ff1740",
-      "topic": "finance",
-      "headline": "Renasant Stock Hits High",
-      "summary": "Renasant stock reached a high. The price is 44.52 USD.",
-      "published_at": "2026-08-04T17:43:08.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/renasant-corporation-stock-hits-52week-high-at-4452-usd-93CH-4835449",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM350U8_1200_L.jpg"
-    },
-    {
-      "id": "evt_e7d623ae9110474e",
-      "topic": "finance",
-      "headline": "Adient Earnings Preview",
-      "summary": "Adient earnings are due. Margin progress is expected.",
-      "published_at": "2026-08-04T17:43:03.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/adient-earnings-on-deck-margin-progress-faces-commodity-test-93CH-4835448",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg"
-    },
-    {
-      "id": "evt_f52f9e1ab4c41c57",
-      "topic": "finance",
-      "headline": "US Considers Solar Tariffs",
-      "summary": "US may impose tariffs. The goal is to counter China.",
-      "published_at": "2026-08-04T17:42:58.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/us-weighs-polysilicon-price-floor-tariffs-to-counter-china-in-solar-and-chips-4835200",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
-    },
-    {
-      "id": "evt_454bb5da7d1bccdc",
-      "topic": "finance",
-      "headline": "P&G Buys Thorne",
-      "summary": "P&G buys Thorne. Expands health products.",
-      "published_at": "2026-08-04T17:42:43.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/pg-is-acquiring-supplements-maker-thorne-ceo-jejurikar-tells-cnbc-4835146",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA701DT_M.jpg"
-    },
-    {
-      "id": "evt_dca107515d9079f2",
-      "topic": "finance",
-      "headline": "Teradata Revenue Down",
-      "summary": "Teradata faces pressure. Lower revenue forecast.",
-      "published_at": "2026-08-04T17:42:10.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/teradata-under-pressure-as-earnings-loom-with-lower-revenue-forecast-93CH-4835447",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-    },
-    {
-      "id": "evt_fc98af16226883ca",
-      "topic": "finance",
-      "headline": "Voyxact Kidney Data",
-      "summary": "Voyxact shows improvement. Kidney function improved.",
-      "published_at": "2026-08-04T17:41:19.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/voyxact-24month-data-shows-kidney-function-improvement-in-igan-btig-comments-93CH-4835446",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-    },
-    {
-      "id": "evt_98aaaa9f54d1ff45",
-      "topic": "finance",
-      "headline": "Trinity Capital Earnings",
-      "summary": "Trinity Capital faces earnings test. Venture debt shift impacts company.",
-      "published_at": "2026-08-04T17:41:16.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/trinity-capital-faces-earnings-test-amid-venture-debt-shift-93CH-4835445",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-    },
-    {
-      "id": "evt_11b0efe4ad60e1a7",
-      "topic": "finance",
-      "headline": "Chery International Milestone",
-      "summary": "Chery International hits milestone. 20m achieved by company.",
-      "published_at": "2026-08-04T17:39:40.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chery-international-hits-20m-milestone-173940374.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/just_auto_187/38dffa3c7ae6243fe4c86dc953ff234f"
-    },
-    {
-      "id": "evt_5c2481a0bf30db89",
-      "topic": "finance",
-      "headline": "Stablecoin Earns $1.5 Billion",
-      "summary": "Stablecoin made $1.5 billion. Earned in Q2 amid crypto turmoil.",
-      "published_at": "2026-08-04T17:37:08.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/amid-crypto-turmoil-stablecoin-quietly-173708633.html",
-          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/aaee4f3209089310dc0328a7b036befb"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
     },
     {
-      "id": "evt_f0ee440439dc56f6",
-      "topic": "ai",
-      "headline": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-      "summary": "Lenovo’s Legion Go S with SteamOS. | Photo by Sean Hollister / The Verge Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processo",
-      "published_at": "2026-08-04T17:35:04.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_a51c38aa508b6e4f",
-      "topic": "ai",
-      "headline": "‘Not healthy’ LLM use is more common than you think",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of ",
-      "published_at": "2026-08-04T17:33:46.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_f93d62a5ad45572f",
+      "id": "evt_db8f97996adf317a",
       "topic": "finance",
-      "headline": "Palantir Soars 27% and Caterpillar Helps Lift the Dow 800 Points",
-      "summary": "Palantir Soars 27% and Caterpillar Helps Lift the Dow 800 Points",
-      "published_at": "2026-08-04T17:33:43.000Z",
+      "headline": "Amgen Q2 2026 slides: six growth drivers fuel 10% revenue beat",
+      "summary": "Amgen Q2 2026 slides: six growth drivers fuel 10% revenue beat",
+      "published_at": "2026-08-04T22:51:41.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-soars-27-caterpillar-helps-173343429.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/amgen-q2-2026-slides-six-growth-drivers-fuel-10-revenue-beat-93CH-4836154",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/107d15baee6cb70e0f6b04e21b06caf6"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM3J15O_1200_L.jpg"
     },
     {
-      "id": "evt_5b1426ee9f4cd9e5",
+      "id": "evt_a4a32f09ed669105",
       "topic": "finance",
-      "headline": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
-      "summary": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
-      "published_at": "2026-08-04T17:32:00.000Z",
+      "headline": "Hinge Health Q2 2026 slides: margins expand, GI expansion unveiled",
+      "summary": "Hinge Health Q2 2026 slides: margins expand, GI expansion unveiled",
+      "published_at": "2026-08-04T22:51:18.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-stock-aug-26-173200031.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/hinge-health-q2-2026-slides-margins-expand-gi-expansion-unveiled-93CH-4836152",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/119fabaae63b6c65e7ffa19ef3f62ef3"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM1118Q_1200_L.jpg"
     },
     {
-      "id": "evt_b2c08f8e5999e68f",
-      "topic": "ai",
-      "headline": "Waymo opens up robotaxi service in Dallas to everyone",
-      "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
-      "published_at": "2026-08-04T17:31:01.000Z",
+      "id": "evt_5f4e94862666a2d3",
+      "topic": "finance",
+      "headline": "ATEC Q2 2026 slides: profitability growth outpaces revenue gains",
+      "summary": "ATEC Q2 2026 slides: profitability growth outpaces revenue gains",
+      "published_at": "2026-08-04T22:51:17.000Z",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone",
-          "homepage": "https://techcrunch.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/atec-q2-2026-slides-profitability-growth-outpaces-revenue-gains-93CH-4836153",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM5L113_1200_L.jpg"
+    },
+    {
+      "id": "evt_9dabfa4bae160ea2",
+      "topic": "finance",
+      "headline": "Earnings call transcript: Qualys tops Q2 2026 estimates and lifts outlook",
+      "summary": "Earnings call transcript: Qualys tops Q2 2026 estimates and lifts outlook",
+      "published_at": "2026-08-04T22:50:11.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-qualys-tops-q2-2026-estimates-and-lifts-outlook-93CH-4836151",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+    },
+    {
+      "id": "evt_700b4f081a47e6a7",
+      "topic": "business",
+      "headline": "Meta Stumbles as Tech Investors Demand Better Answers on AI Spending - wsj.com",
+      "summary": "Meta Stumbles as Tech Investors Demand Better Answers on AI Spending wsj.com",
+      "published_at": "2026-08-04T22:49:02.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTllMU19iczlpck1RN2NreDEySFdYcGpmZlI5SWVUd0VlN2RWaGRvZm1NSUFhLUtYQVJNR3NITzYwVFpsUFdEa3JjQ2lNYS1nZF92d0Jwa2FwSGFhRjBSNjdLVFJCczd2WTBPMFJnNFgtTHhfdkhXQnU2ajNGZ1RWU3lRWHhXYThtSG1hbllHVExkakRDcjVKVU9XY3N4ZWRxamJ6cVB0OEI?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778
     },
     {
-      "id": "evt_3169d766f6a4761a",
+      "id": "evt_7daef290b682b6b6",
       "topic": "finance",
-      "headline": "Stocks jump to records after upbeat company forecasts; oil, yen weaken",
-      "summary": "Stocks jump to records after upbeat company forecasts; oil, yen weaken",
-      "published_at": "2026-08-04T17:30:57.000Z",
+      "headline": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
+      "published_at": "2026-08-04T22:47:49.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_a14d88067c5d7b72",
+      "topic": "finance",
+      "headline": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+      "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
+      "published_at": "2026-08-04T22:47:43.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_4d7f3ca93a6b6ad5",
+      "topic": "finance",
+      "headline": "Cricut Q2 2026 slides: profit surge masks revenue decline",
+      "summary": "Cricut Q2 2026 slides: profit surge masks revenue decline",
+      "published_at": "2026-08-04T22:47:26.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/cricut-q2-2026-slides-profit-surge-masks-revenue-decline-93CH-4836150",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/reuters.com/367c0cc30691b21fcd11960114f4dfe7"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg"
     },
     {
-      "id": "evt_90a139220764e715",
-      "topic": "politics",
-      "headline": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-      "summary": "The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.",
-      "published_at": "2026-08-04T17:27:26.000Z",
+      "id": "evt_4f12ff170bded0a9",
+      "topic": "finance",
+      "headline": "Booking Q2 2026 slides: record buyback, earnings beat expectations",
+      "summary": "Booking Q2 2026 slides: record buyback, earnings beat expectations",
+      "published_at": "2026-08-04T22:46:32.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/booking-q2-2026-slides-record-buyback-earnings-beat-expectations-93CH-4836149",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/Bookingcom_800x533_L_1522663237.jpg"
+    },
+    {
+      "id": "evt_8afb454e763ac70d",
+      "topic": "finance",
+      "headline": "ACADIA Q2 2026 slides: DAYBUE rises 30%, pipeline readouts ahead",
+      "summary": "ACADIA Q2 2026 slides: DAYBUE rises 30%, pipeline readouts ahead",
+      "published_at": "2026-08-04T22:46:24.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/acadia-q2-2026-slides-daybue-rises-30-pipeline-readouts-ahead-93CH-4836148",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg"
+    },
+    {
+      "id": "evt_cddec289bb98838f",
+      "topic": "crypto",
+      "headline": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+      "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+      "published_at": "2026-08-04T22:46:03.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg"
+    },
+    {
+      "id": "evt_24ce7596b2a5ffc4",
+      "topic": "finance",
+      "headline": "Pinterest shares fall on lukewarm sales guidance",
+      "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
+      "published_at": "2026-08-04T22:45:26.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777
     },
     {
-      "id": "evt_53ff35a5d83f9cb7",
-      "topic": "politics",
-      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-      "published_at": "2026-08-04T17:26:06.000Z",
+      "id": "evt_342c0dd6aed9e12a",
+      "topic": "finance",
+      "headline": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "summary": "The S&P 500 booked its 25th record close of 2026, after a 42-day break.",
+      "published_at": "2026-08-04T22:40:00.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg"
+      "image_url": "https://images.mktw.net/im-51646007"
+    },
+    {
+      "id": "evt_b058faf275d9de1f",
+      "topic": "politics",
+      "headline": "Arson suspect in court as wildfires rage around Spokane, Washington - Reuters",
+      "summary": "Arson suspect in court as wildfires rage around Spokane, Washington Reuters",
+      "published_at": "2026-08-04T22:37:29.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9FeUtRVXBkaFZ6TVRocHA0Z2UzclVnMWJqT1Axb1pqVEdPbTFnRWc1N2R4SW42ckFUd3I0SENOOC1tWFl3VTliVjQ3ZG1XTDdfNVRFZGp3M1JLc3VmbkJBYUwyeUZrQzRXTEZzTENYMGtwR0xRbTlPdXNRcnZkM1F1aDlYNExTaDU5a0lqVW9LcGVnNUdjN0R3ZWY2a19OLXJ2b2tLM1pVWTlL?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_cae9eaa96d0bad39",
+      "topic": "ai",
+      "headline": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+      "published_at": "2026-08-04T22:30:58.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_3ef49740faa19252",
+      "topic": "politics",
+      "headline": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+      "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
+      "published_at": "2026-08-04T22:28:30.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d2/live/c97a13f0-8fcb-11f1-a999-eb18d79411a9.jpg"
+    },
+    {
+      "id": "evt_912d3c6999ba18f0",
+      "topic": "ai",
+      "headline": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+      "published_at": "2026-08-04T22:24:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_7237c47424c228b9",
+      "topic": "finance",
+      "headline": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
+      "published_at": "2026-08-04T22:22:22.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_224c6a10a976eb95",
+      "topic": "finance",
+      "headline": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+      "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
+      "published_at": "2026-08-04T22:22:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://images.mktw.net/im-36097024"
+    },
+    {
+      "id": "evt_1e2e847766ac82de",
+      "topic": "ai",
+      "headline": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "published_at": "2026-08-04T22:18:30.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_6363d398863de5f5",
+      "topic": "crypto",
+      "headline": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+      "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+      "published_at": "2026-08-04T22:16:03.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png"
+    },
+    {
+      "id": "evt_f34c564b54ddc92c",
+      "topic": "crypto",
+      "headline": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+      "summary": "Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.",
+      "published_at": "2026-08-04T22:15:26.000Z",
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act",
+          "homepage": "https://www.theblock.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
+    },
+    {
+      "id": "evt_9a49edabcf8ee711",
+      "topic": "politics",
+      "headline": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
+      "summary": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak AP News",
+      "published_at": "2026-08-04T22:13:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_1fd3d614acc0132f",
+      "topic": "politics",
+      "headline": "Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts - AP News",
+      "summary": "Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts AP News",
+      "published_at": "2026-08-04T22:12:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWlaZ3dTTm9IdGNxNVBNTFByZWU2ODRvWXgyTGRsTVJEazFoU1JNZHpEX1BMU1QyS1p3cjQ1TVk1MUU2UzI1Z19YbzNERlVzMEdEeWc5eVNtdkNMRnRXaUdoZkdrWmEyZnI4dDBJeHByaFJwcFRxN09lU0Ewb2R4TVBZZUVNSmV1UGZ0UzF2RlplNWpucExxRU5uTDIxRlJTT29jb0J5Y2w1eHBCSHc?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_5ac80b00bc0e82bc",
+      "topic": "politics",
+      "headline": "US judge grants DOJ request to dismiss January 6 cases against Oath Keepers - Reuters",
+      "summary": "US judge grants DOJ request to dismiss January 6 cases against Oath Keepers Reuters",
+      "published_at": "2026-08-04T22:11:46.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEpqQ3JvcDZjUGlMQU1tOFZSbTZJMW9JUGI5ZDdmbU9fczJ6cWEyQ1NpT2RSUXFQSkxMS1FXbE5VSkp2N01TZGZyYm5abEpzNUFKWndTRzFHU3IzMDJhZXNkdW51bkJ0cGlJWWktWTFDNlRLR1VteGREVjFRRE1BMXZPWHVBN1dWQURFNzI0NFlvZkNWVFhad2F5QnlpUHV3bDNsOTU1Q1owY0p2c3hvOU9TdXo?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_adc46829cd19d538",
+      "topic": "politics",
+      "headline": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+      "published_at": "2026-08-04T22:10:00.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg"
+    },
+    {
+      "id": "evt_6dbf1271d7d04efb",
+      "topic": "politics",
+      "headline": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+      "published_at": "2026-08-04T22:09:50.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8945/live/5bb99010-8fe0-11f1-bb3b-43bf44dc94d9.jpg"
+    },
+    {
+      "id": "evt_99675fa433c6ef00",
+      "topic": "ai",
+      "headline": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 8 # Comments: 0",
+      "published_at": "2026-08-04T22:09:43.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://techascent.com/blog/just-ducking-around.html",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_04acf07928bfb9e0",
+      "topic": "finance",
+      "headline": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
+      "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
+      "published_at": "2026-08-04T22:09:17.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
     },
     {
       "id": "evt_c8c201cded10f1d8",
@@ -438,585 +690,330 @@
       "weight": 0.777
     },
     {
-      "id": "evt_250a7c7a8ddfc54b",
+      "id": "evt_f1ccd4c3ff657ae2",
       "topic": "politics",
-      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
-      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-      "published_at": "2026-08-04T17:25:41.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d785/live/d18261f0-9012-11f1-aabc-c3c7aa714117.jpg"
-    },
-    {
-      "id": "evt_dc04758deacecd8e",
-      "topic": "finance",
-      "headline": "Here's 1 High-Upside Cryptocurrency That Investors Keep Underestimating",
-      "summary": "Here's 1 High-Upside Cryptocurrency That Investors Keep Underestimating",
-      "published_at": "2026-08-04T17:25:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/heres-1-high-upside-cryptocurrency-172500534.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/d02e0f0f8c0d5a78aacc72151943122e"
-    },
-    {
-      "id": "evt_fae82b39dd33f72d",
-      "topic": "finance",
-      "headline": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
-      "summary": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
-      "published_at": "2026-08-04T17:24:55.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/ibd.com/95e1a494437081b2e68e9d7e9156e4cc"
-    },
-    {
-      "id": "evt_dcaef9e5ec926839",
-      "topic": "finance",
-      "headline": "Dow hits record as Bessent says Hormuz deal could come soon",
-      "summary": "Dow hits record as Bessent says Hormuz deal could come soon",
-      "published_at": "2026-08-04T17:23:15.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-bessent-says-171041540.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/quartz_855/ed31f8f189857bdcb374dea9afb27bcb"
-    },
-    {
-      "id": "evt_5f599bedf073cefb",
-      "topic": "finance",
-      "headline": "Is Oklo Stock a No-Brainer Buy at Less Than $50?",
-      "summary": "Is Oklo Stock a No-Brainer Buy at Less Than $50?",
-      "published_at": "2026-08-04T17:22:45.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-no-brainer-buy-172245867.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/38fa453a5e0e3afa668f9f02865f1dc6"
-    },
-    {
-      "id": "evt_86cb5a6e0f0f7b0d",
-      "topic": "finance",
-      "headline": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-      "summary": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-      "published_at": "2026-08-04T17:22:16.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/L4n_oBmda9Myk8Vun42HcA--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/3808064e-df48-4137-b0f1-fb45f910445d"
-    },
-    {
-      "id": "evt_b754b267beddc21d",
-      "topic": "finance",
-      "headline": "Snap second quarter results lifted by improving advertising trends",
-      "summary": "Snap second quarter results lifted by improving advertising trends",
-      "published_at": "2026-08-04T17:22:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/media-advertising/articles/snap-second-quarter-results-lifted-172200653.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/proactive_us_504/51a3e6e8e8bd2f1225fbb88e14852713"
-    },
-    {
-      "id": "evt_da34c079b62dc70b",
-      "topic": "business",
-      "headline": "Print Edition | Wall Street Journal - WSJ",
-      "summary": "Print Edition | Wall Street Journal WSJ",
-      "published_at": "2026-08-04T17:21:27.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93cEFYWkNCem9IcGg1LXpjb0twM3d1YUZXbzlKZUJpQ2dkLUFPRFB3Zlg2cnZabGlEMHhPN1JvaUhsOEQ3bmc4Mm4tQkJzTnVmTlVDcDVFU0dZNVlUUEpmYlZ3?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_2e0c2fbdda87f663",
-      "topic": "ai",
-      "headline": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "published_at": "2026-08-04T17:20:54.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_4eaf545746d77aab",
-      "topic": "finance",
-      "headline": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-      "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-      "published_at": "2026-08-04T17:19:55.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centre-race-builds-171955454.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/reuters-finance.com/b40e3b68c3d0dce866dee8b74bb33298"
-    },
-    {
-      "id": "evt_d9f447803377e382",
-      "topic": "finance",
-      "headline": "Analysis-Oracle Corp goes for high-stakes ratings gamble in AI strategy",
-      "summary": "Analysis-Oracle Corp goes for high-stakes ratings gamble in AI strategy",
-      "published_at": "2026-08-04T17:19:18.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/analysis-oracle-corp-goes-high-171918690.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/reuters-finance.com/ae7e0a451ffd6ac93e0649bf1fffb818"
-    },
-    {
-      "id": "evt_fe76571e771c6dd5",
-      "topic": "politics",
-      "headline": "P&G buys supplements maker Thorne as health and wellness push intensifies - reuters.com",
-      "summary": "P&G buys supplements maker Thorne as health and wellness push intensifies reuters.com",
-      "published_at": "2026-08-04T17:19:14.000Z",
+      "headline": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters",
+      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models Reuters",
+      "published_at": "2026-08-04T22:08:30.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGY5U2dRaE45WDVMbjVOb2NFNGN0WmpiYlQ5R0lRbGxtM1VWMk4taWIxdmN6WXJ0a0pRUGgwdllaaGNFUWNRU04tN05ZSFU5ZVBwTkxRdFVMOGZPNlh5S1Qxa2dGNlZUSVRPQldxY0E5WlNMeHBrUjNfQnc5UjlOeFNscjBoelpBNnE0V0RDVUtVX0p4U2ZCamVhZVp1RHUyYVdOcEU4TFFsc25WYnlia0s3NTlDVGNDOXdHSFZB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.772
     },
     {
-      "id": "evt_b08c355092a42b20",
-      "topic": "politics",
-      "headline": "Man charged with setting Spokane’s largest wildfire went to prison for killing his father - AP News",
-      "summary": "Man charged with setting Spokane’s largest wildfire went to prison for killing his father AP News",
-      "published_at": "2026-08-04T17:19:00.000Z",
+      "id": "evt_bcccabb89af669d9",
+      "topic": "business",
+      "headline": "Antitrust Trial Over Paramount-Warner Merger Set for March - wsj.com",
+      "summary": "Antitrust Trial Over Paramount-Warner Merger Set for March wsj.com",
+      "published_at": "2026-08-04T22:08:00.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTU3bi1UZjI5WVJkYl9mN2R3bVlSZGF5OGc3YnpBUkVhRFRNQTdQTVA0MEx6azB2V3RpZVM5SUJfVHBMekRsclZ3R0p3dkgwZTZTWW1uWjJZT1JZZndRTEZFUVRnNWpfdzU4bXdnSXhNckNTXzdVV3NlMXFxbFp4aW91Y216c0ZGNEVQTks0NFFSSkhnMWlLTm9vZDF0RzJ1YnFYcA?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776
+      "weight": 0.772
     },
     {
-      "id": "evt_4b0d14dfcc7b40c4",
+      "id": "evt_2847ec10c7297de7",
+      "topic": "politics",
+      "headline": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
+      "summary": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips Reuters",
+      "published_at": "2026-08-04T22:07:29.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_56844915736469c7",
       "topic": "ai",
-      "headline": "BMW’s in-car Spider-Man ad is villain behavior",
-      "summary": "With great power comes great responsibility… to not justify ads in the name of movie promotions. | Image: BMW / Sony Pictures When a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercia",
-      "published_at": "2026-08-04T17:17:14.000Z",
+      "headline": "Now you can securely link multiple phones to one Signal account",
+      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked de",
+      "published_at": "2026-08-04T22:02:46.000Z",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
+          "url": "https://theverge.com/tech/975407/signal-linked-devices-sync",
           "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BMW-Spider-Man-promotional-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "weight": 0.772,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_0c94ff0641b3076f",
+      "id": "evt_1c6749c1d4384cce",
       "topic": "politics",
-      "headline": "Options market braces for $225 billion swing in SpaceX's value as earnings loom - reuters.com",
-      "summary": "Options market braces for $225 billion swing in SpaceX's value as earnings loom reuters.com",
-      "published_at": "2026-08-04T17:16:54.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1YMWVjM1o2YkdjUXFWbUl2OTg1cXBvRkN3VHRmcmN1Mk0wemtyRGw5ZDJaQzEzaXBPVHUtZkJxM1Q5Q3VxV1l3WUVmS1NjLXYwVDhJRWFBeWQxU2JZb181R25zSmFIT1RvMWNvVG5EaW1ZanFtbFRVei1jaUcyZHhRcTRkTnNITVdsbUxCZlE5eWVod0xsZHhZZ1dyNS1RN25HdlNxMTNCUF9xRzA1SkdaVlR5UUphT185OU9aaFQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_ad61f80e8944948f",
-      "topic": "crypto",
-      "headline": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-      "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-      "published_at": "2026-08-04T17:16:49.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png"
-    },
-    {
-      "id": "evt_73420c8f847c0b70",
-      "topic": "business",
-      "headline": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress - WSJ",
-      "summary": "Trump Calls Off Planned Attack on Iran, Citing Diplomatic Progress WSJ",
-      "published_at": "2026-08-04T17:16:01.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXdkU0hHU25adjh1bERoVU5VWkZldHVyUW9Sek5oRlU5LXRULXREcWtCZ3duWVgwcHJoZS12a180alJkWHhTcXJaNjJmYTgxelB5d0ZyN2RHdmtlUFRGVEwtYVFEanRzSFRnSG84Q2x6RlBkdXIzaGo4UC0tZk5WbElnT0NaaG1NMGViSzBmejV5ZlpFM25CLTZqUXcwdmVCZ285Z0lOb2dvUXM?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_dac978a02403b569",
-      "topic": "crypto",
-      "headline": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-      "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
-      "published_at": "2026-08-04T17:14:13.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/8ffb119f24565b1ba8025dd612346b51fd6b5dc3-6000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_77a5e92be109bac0",
-      "topic": "finance",
-      "headline": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
-      "summary": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
-      "published_at": "2026-08-04T17:12:39.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/research/nvidia-nvda-stock-buy-now-august-2026/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/ibd.com/588b93993da412f536b5c4b6f8fee8fa"
-    },
-    {
-      "id": "evt_063876066ebb4f00",
-      "topic": "finance",
-      "headline": "Did Palantir's Big Q2 Beat Slay Worries Over OpenAI, Anthropic?",
-      "summary": "Did Palantir's Big Q2 Beat Slay Worries Over OpenAI, Anthropic?",
-      "published_at": "2026-08-04T13:35:28.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/ibd.com/71e1f04368adb7b9af762c4036d7ae57"
-    },
-    {
-      "id": "evt_e2ee29e24dcf09b0",
-      "topic": "crypto",
-      "headline": "Senators seek SEC probe of President Trump’s memecoin as crypto bill enters into a pivotal week",
-      "summary": "Sens. Warren and Blumenthal are calling on the Securities and Exchange Commission to investigate President Donald Trump's memecoin.",
-      "published_at": "2026-08-04T17:11:17.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://www.tbstat.com/wp/uploads/2021/09/20210927_Elizabeth_Warren_Generic-800x450.jpg"
-    },
-    {
-      "id": "evt_e74f377350ac2060",
-      "topic": "finance",
-      "headline": "Shein’s Sobering Valuation Asks If an IPO is Necessary",
-      "summary": "Shein’s Sobering Valuation Asks If an IPO is Necessary",
-      "published_at": "2026-08-04T17:10:24.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shein-sobering-valuation-asks-ipo-171024885.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/moby_896/cc58240e46eef38fd8f79cad4bfbc44e"
-    },
-    {
-      "id": "evt_88b51a2936909fd7",
-      "topic": "crypto",
-      "headline": "BNY to offer institutional crypto staking through Galaxy partnership",
-      "summary": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
-      "published_at": "2026-08-04T17:10:04.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg"
-    },
-    {
-      "id": "evt_84c49df3fc35e52b",
-      "topic": "finance",
-      "headline": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-      "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
-      "published_at": "2026-08-04T17:09:37.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_04b556be7d8482e4",
-      "topic": "finance",
-      "headline": "The richest 20% are buying most of the new cars sold in the U.S.",
-      "summary": "The AI-fueled bull market in stocks has shifted U.S. car sales into a higher gear — and the richest Americans are doing most of the buying.",
-      "published_at": "2026-08-04T17:09:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://images.mktw.net/im-67052385"
-    },
-    {
-      "id": "evt_c441b1387da83f73",
-      "topic": "politics",
-      "headline": "Ohio Rep. Max Miller requests US House probe into domestic abuse allegations made against him - AP News",
-      "summary": "Ohio Rep. Max Miller requests US House probe into domestic abuse allegations made against him AP News",
-      "published_at": "2026-08-04T17:09:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_31505ef15c9327c7",
-      "topic": "ai",
-      "headline": "First Came the DOGE Cuts, Then Came the Wildfires",
-      "summary": "Article URL: https://www.outdoorlife.com/conservation/doge-cuts-forest-service-wildfires/ Comments URL: https://news.ycombinator.com/item?id=49171748 Points: 10 # Comments: 2",
-      "published_at": "2026-08-04T17:07:23.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://outdoorlife.com/conservation/doge-cuts-forest-service-wildfires",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_01cc97f4f636bd95",
-      "topic": "finance",
-      "headline": "Mondelez’s (MDLZ) Earnings Beat May Matter Less Than Its 2027 Growth Bet",
-      "summary": "Mondelez’s (MDLZ) Earnings Beat May Matter Less Than Its 2027 Growth Bet",
-      "published_at": "2026-08-04T17:06:45.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mondelez-mdlz-earnings-beat-may-170645190.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/dcdfa47e1876156ae71ece16a5b9215b"
-    },
-    {
-      "id": "evt_719d70f5aec35dd4",
-      "topic": "politics",
-      "headline": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "published_at": "2026-08-04T17:06:17.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg"
-    },
-    {
-      "id": "evt_31d4cf6c642087a5",
-      "topic": "ai",
-      "headline": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-      "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
-      "published_at": "2026-08-04T17:05:48.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_28b91c528d1cde54",
-      "topic": "crypto",
-      "headline": "Republicans Continue To Blame Democrats Over Stalled Crypto Clarity Act",
-      "summary": "Bitcoin Magazine Republicans Continue To Blame Democrats Over Stalled Crypto Clarity Act Senators have just days before they go to recess and Republicans are urging lawmakers to get the crypto market structure bill over the line. This post Republicans Continue To Blame Democrats ",
-      "published_at": "2026-08-04T17:04:09.000Z",
-      "sources": [
-        {
-          "name": "Bitcoin Magazine",
-          "url": "https://bitcoinmagazine.com/news/republicans-blame-democrats-clarity-act",
-          "homepage": "https://bitcoinmagazine.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Republicans-Continue-To-Blame-Democrats-Over-Stalled-Crypto-Clarity-Act.jpg"
-    },
-    {
-      "id": "evt_3060e7cdaa7fb428",
-      "topic": "politics",
-      "headline": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-      "summary": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
-      "published_at": "2026-08-04T17:03:24.000Z",
+      "headline": "Elon Musk’s SpaceX reports losses but less than expected",
+      "summary": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+      "published_at": "2026-08-04T22:02:09.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+          "url": "https://aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774
+      "weight": 0.771
     },
     {
-      "id": "evt_865a398ba44752a2",
+      "id": "evt_d49e0aa3b887ad2c",
+      "topic": "ai",
+      "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 50 # Comments: 19",
+      "published_at": "2026-08-04T22:01:41.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_6c429c47115530c5",
       "topic": "business",
-      "headline": "Wegovy Maker Novo Nordisk Lifts Guidance After Second-Quarter Boost - WSJ",
-      "summary": "Wegovy Maker Novo Nordisk Lifts Guidance After Second-Quarter Boost WSJ",
-      "published_at": "2026-08-04T17:03:00.000Z",
+      "headline": "Kevin Warsh’s ‘Bear Steepener’ Is No Goldilocks Moment for Stocks - wsj.com",
+      "summary": "Kevin Warsh’s ‘Bear Steepener’ Is No Goldilocks Moment for Stocks wsj.com",
+      "published_at": "2026-08-04T21:58:10.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm1XT1dKU0pPek93QzZtNUsySzdmQ1VEUWE1bFhoeHp4M3Y2MUN3MXcyQ3M0S3JockM4Qk42OFdYMTY1V0YxQUExVktrSlphbFc5VmEyY3NNYXE1eVdJVWNwa3dwUzhvbXJLMUNxM09JUE8teW1BNnlGNVZXNVNyMUNjT0g0cVN2ZGRLNXN2NTFXTmczNXJXa0piSmZ1Vk56bkFZTE1FUTRHLXJRRzNN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTFzaHNqUVVRQkw4TTd3Xy1nNUVBYXh6QVZaWWdNMzc0dW1wQllwSEZ4dHVNR1ZVbFhTODR3WWJtVnZ1N190QkI4T3JONFkwQlN6VjJDWUNDYTZYRVI0Y0ZVb0s5V2tvTGIzTjZEZkRqSkdkWHpPTjJCUlRURE1BOUVDVUYxYzFBMDczZloyY1ZhVmpXb1VpTmpGSzE4Y1FobjJEYkZYQWIxdw?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774
+      "weight": 0.771
     },
     {
-      "id": "evt_0fbfbffe100b74d7",
+      "id": "evt_43c887a09561a9db",
+      "topic": "business",
+      "headline": "New Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages - wsj.com",
+      "summary": "New Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages wsj.com",
+      "published_at": "2026-08-04T21:56:54.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUZiaWVrTzhGX0FsZ04xRmZxak96QjRfN1hfMWJUOHdQS0ZZVE5tRkI0NUdOQWMxd3hLc05WR0NrYzAzRkF6T0t0LTJOOVpwcF9lb08wOGdsXzhmSFJ4bGZ3cFNyanAtbHpzaG15TkFrczlTNVFhLU9PckRyTVNIXzV0M1ByODZ1dTdCSldBZTVhUDZEZ1lFUjRUSXhVemd5QXZtQUxnN0lxbGNIU094bGV2Yw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_4e84b972fc402a72",
       "topic": "finance",
-      "headline": "Abdul El-Sayed, Haley Stevens square off Tuesday in Michigan Democratic primary",
-      "summary": "Michigan's Senate Democratic primary between Abdul El-Sayed and Rep. Haley Stevens is one of the most closely watched races of the midterm election.",
-      "published_at": "2026-08-04T17:02:31.000Z",
+      "headline": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+      "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
+      "published_at": "2026-08-04T21:54:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://images.mktw.net/im-77547915"
+    },
+    {
+      "id": "evt_00632e3db767515e",
+      "topic": "business",
+      "headline": "Opinion | Learning to Live With AI - wsj.com",
+      "summary": "Opinion | Learning to Live With AI wsj.com",
+      "published_at": "2026-08-04T21:53:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbGFld2RJa09JMjk0NkxUS1JrMll2VGhMQXlqLTRCVWVrX1JxN1M3Ry1CaU1lVWtLUDQzdDJoR0N2WUxtdFN4UmlQWjl2S05TaU5SMThianZINlJURDQ3YlRHcWNqUDlPN2w3dG9n?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_1bf9ab19aafa6765",
+      "topic": "ai",
+      "headline": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "summary": "Fire experts warn such markets could incentivize arson.",
+      "published_at": "2026-08-04T21:52:31.000Z",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets",
+          "homepage": "https://arstechnica.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
+    },
+    {
+      "id": "evt_671a8ffdb7f67767",
+      "topic": "business",
+      "headline": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - ft.com",
+      "summary": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says ft.com",
+      "published_at": "2026-08-04T21:46:13.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_f2e1ef8873e7b5f3",
+      "topic": "business",
+      "headline": "News Quiz for Aug. 1, 2026 - wsj.com",
+      "summary": "News Quiz for Aug. 1, 2026 wsj.com",
+      "published_at": "2026-08-04T21:46:05.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tR1FSTUpTZDhDdkEycVEyQ1BHOWR5TU1LSlEtV1MyUjRYajRjNlV1cEFURGMzTjNWTGNYYXhmSVJyLUg3dFk4SDk5M2trR1pqVXRYeFRyY1NxOU5KZHJIdW8zOHZMbTFDeFI0RlgzSHBUWjZHZFZpeFZpcVE?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_eef5ed97c45942d7",
+      "topic": "crypto",
+      "headline": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+      "published_at": "2026-08-04T21:46:03.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png"
+    },
+    {
+      "id": "evt_3ee0cbca67e2b93c",
+      "topic": "politics",
+      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "published_at": "2026-08-04T21:45:20.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde3/live/82720620-9020-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "evt_b6092e77f7e1ca4c",
+      "topic": "politics",
+      "headline": "Michigan Democrats pick between moderate and progressive in high-profile Senate primary - AP News",
+      "summary": "Michigan Democrats pick between moderate and progressive in high-profile Senate primary AP News",
+      "published_at": "2026-08-04T21:45:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVBtQW1SWUtxVzJWZTV3VWFpUTF2azcwZWZrdGRmVHN0dE9jeHJlVHZfYWpKV2lQN0tIelhNdnN4a0UxRzRBb2lSa2xOR1J1eWE0VHIxMWdoRTVKSHg3anloa1gwU0pHQWd1Z3hfX3lGa1pjWk1xdzd4LWFNMXB6WDI5UGdvanpzNmVWbC15cG9KMHp2LUVhR2lIeVVINDQ3dGN0blVTZkVhZw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_f061413aac8529cf",
+      "topic": "politics",
+      "headline": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News",
+      "summary": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts AP News",
+      "published_at": "2026-08-04T21:45:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmxpOTZGbk83LWxmWXZHNXh1QmN6bF92R1ZpOFpqMDlqT1ZvTVRoT1F4bUUyLVotTWtnaDVHTERuOFZJck9ULXM4eG5uNllCbEZNa2JYTEJjMF83MzduZWhFWXI5el83dVR5WVdocDYtWk5CMjdYcTdYSUgwNXhpOENXM1lqUVlsank5b2NJNGIyb0QyWF9vSENZblMxTG1RdG1qOTllcGNEMFV1b1ZlelhYalk4ZWxHZTlnMg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_10f7955bdb541b00",
+      "topic": "business",
+      "headline": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - wsj.com",
+      "summary": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX wsj.com",
+      "published_at": "2026-08-04T21:42:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_fb8a6a34bdd321e7",
+      "topic": "finance",
+      "headline": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+      "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
+      "published_at": "2026-08-04T21:39:30.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+          "url": "https://cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
           "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774
+      "weight": 0.768
     },
     {
-      "id": "evt_af61923f67d25b15",
-      "topic": "finance",
-      "headline": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-      "summary": "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-      "published_at": "2026-08-04T17:02:05.000Z",
+      "id": "evt_42b18aeae7807c44",
+      "topic": "crypto",
+      "headline": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+      "summary": "The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.",
+      "published_at": "2026-08-04T21:34:47.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "The Block",
+          "url": "https://theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october",
+          "homepage": "https://www.theblock.co"
         }
       ],
       "source_count": 1,
-      "weight": 0.774
+      "weight": 0.768,
+      "image_url": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
     }
   ]
 }
