@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-04T23:03:30.049Z",
+  "generated_at": "2026-08-05T02:30:27.267Z",
   "clusters": [
+    {
+      "id": "evt_b08b37e87e86ed2b",
+      "topic": "politics",
+      "headline": "Armed man arrested near Trump golf course",
+      "summary": "An armed man was arrested near Trump's golf course. He had a pistol and rifle.",
+      "published_at": "2026-08-05T01:29:01.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.951,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661a/live/99befec0-905f-11f1-b342-759a22dbd459.jpg"
+    },
     {
       "id": "evt_2215f679653346b2",
       "topic": "politics",
@@ -22,48 +44,6 @@
       "source_count": 2,
       "weight": 0.932,
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd76/live/e4b36b80-9016-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "evt_071055c5aa63a0b6",
-      "topic": "politics",
-      "headline": "Telegram Suspended",
-      "summary": "Telegram was suspended by Apple. A user violated content norms.",
-      "published_at": "2026-08-04T19:35:12.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.931
-    },
-    {
-      "id": "evt_11325a902f00a9e6",
-      "topic": "ai",
-      "headline": "Apple Ex-Employees Took Data",
-      "summary": "Apple says ex-employees took data. Investigation widened.",
-      "published_at": "2026-08-04T15:37:42.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-          "homepage": "https://news.ycombinator.com"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.942
     },
     {
       "id": "evt_304dd345a72a6edb",
@@ -110,829 +90,189 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png"
     },
     {
-      "id": "evt_b06f1f40480ed89e",
-      "topic": "science",
-      "headline": "Flea Treatments Risk",
-      "summary": "Flea treatments may harm wildlife. New evidence is emerging.",
-      "published_at": "2026-08-04T23:01:00.000Z",
-      "sources": [
-        {
-          "name": "New Scientist",
-          "url": "https://newscientist.com/article/2583235-should-you-stop-using-preventive-flea-treatments-on-your-pets",
-          "homepage": "https://www.newscientist.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78,
-      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307367735.jpg"
-    },
-    {
-      "id": "evt_b2c39f50ede9b831",
-      "topic": "science",
-      "headline": "AI-written stories preferred",
-      "summary": "People prefer AI-written stories. They can't tell them apart from human-written ones.",
-      "published_at": "2026-08-04T23:01:00.000Z",
-      "sources": [
-        {
-          "name": "New Scientist",
-          "url": "https://newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work",
-          "homepage": "https://www.newscientist.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78,
-      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307363975.jpg"
-    },
-    {
-      "id": "evt_fb266b25f405f1f1",
-      "topic": "finance",
-      "headline": "Pinterest revenue growth slows",
-      "summary": "Pinterest expects slower revenue growth. Ad competition is increasing.",
-      "published_at": "2026-08-04T22:54:25.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/pinterest-expects-slower-quarterly-revenue-growth-as-ad-competition-heats-up-4835825",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg"
-    },
-    {
-      "id": "evt_394250c3475f8edb",
-      "topic": "finance",
-      "headline": "ACADIA Q2 results",
-      "summary": "ACADIA reports Q2 results. DAYBUE beats expectations.",
-      "published_at": "2026-08-04T22:53:23.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/acadia-q2-2026-slides-daybue-beats-remlifanserin-data-nears-93CH-4836156",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg"
-    },
-    {
-      "id": "evt_88521cd11bcd423b",
-      "topic": "finance",
-      "headline": "Earnings call transcript: Fortune Brands beats on EPS in Q2 2026 as sales slip",
-      "summary": "Earnings call transcript: Fortune Brands beats on EPS in Q2 2026 as sales slip",
-      "published_at": "2026-08-04T22:51:50.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-fortune-brands-beats-on-eps-in-q2-2026-as-sales-slip-93CH-4836155",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg"
-    },
-    {
-      "id": "evt_db8f97996adf317a",
-      "topic": "finance",
-      "headline": "Amgen Q2 2026 slides: six growth drivers fuel 10% revenue beat",
-      "summary": "Amgen Q2 2026 slides: six growth drivers fuel 10% revenue beat",
-      "published_at": "2026-08-04T22:51:41.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/amgen-q2-2026-slides-six-growth-drivers-fuel-10-revenue-beat-93CH-4836154",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM3J15O_1200_L.jpg"
-    },
-    {
-      "id": "evt_a4a32f09ed669105",
-      "topic": "finance",
-      "headline": "Hinge Health Q2 2026 slides: margins expand, GI expansion unveiled",
-      "summary": "Hinge Health Q2 2026 slides: margins expand, GI expansion unveiled",
-      "published_at": "2026-08-04T22:51:18.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/hinge-health-q2-2026-slides-margins-expand-gi-expansion-unveiled-93CH-4836152",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM1118Q_1200_L.jpg"
-    },
-    {
-      "id": "evt_5f4e94862666a2d3",
-      "topic": "finance",
-      "headline": "ATEC Q2 2026 slides: profitability growth outpaces revenue gains",
-      "summary": "ATEC Q2 2026 slides: profitability growth outpaces revenue gains",
-      "published_at": "2026-08-04T22:51:17.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/atec-q2-2026-slides-profitability-growth-outpaces-revenue-gains-93CH-4836153",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM5L113_1200_L.jpg"
-    },
-    {
-      "id": "evt_9dabfa4bae160ea2",
-      "topic": "finance",
-      "headline": "Earnings call transcript: Qualys tops Q2 2026 estimates and lifts outlook",
-      "summary": "Earnings call transcript: Qualys tops Q2 2026 estimates and lifts outlook",
-      "published_at": "2026-08-04T22:50:11.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-qualys-tops-q2-2026-estimates-and-lifts-outlook-93CH-4836151",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-    },
-    {
-      "id": "evt_700b4f081a47e6a7",
+      "id": "evt_da34c079b62dc70b",
       "topic": "business",
-      "headline": "Meta Stumbles as Tech Investors Demand Better Answers on AI Spending - wsj.com",
-      "summary": "Meta Stumbles as Tech Investors Demand Better Answers on AI Spending wsj.com",
-      "published_at": "2026-08-04T22:49:02.000Z",
+      "headline": "Wall Street Journal",
+      "summary": "No event described. Print edition mentioned.",
+      "published_at": "2026-08-05T02:27:06.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTllMU19iczlpck1RN2NreDEySFdYcGpmZlI5SWVUd0VlN2RWaGRvZm1NSUFhLUtYQVJNR3NITzYwVFpsUFdEa3JjQ2lNYS1nZF92d0Jwa2FwSGFhRjBSNjdLVFJCczd2WTBPMFJnNFgtTHhfdkhXQnU2ajNGZ1RWU3lRWHhXYThtSG1hbllHVExkakRDcjVKVU9XY3N4ZWRxamJ6cVB0OEI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93cEFYWkNCem9IcGg1LXpjb0twM3d1YUZXbzlKZUJpQ2dkLUFPRFB3Zlg2cnZabGlEMHhPN1JvaUhsOEQ3bmc4Mm4tQkJzTnVmTlVDcDVFU0dZNVlUUEpmYlZ3?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778
+      "weight": 0.78
     },
     {
-      "id": "evt_7daef290b682b6b6",
+      "id": "evt_00f15d5b5fb96713",
       "topic": "finance",
-      "headline": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
-      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
-      "published_at": "2026-08-04T22:47:49.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_a14d88067c5d7b72",
-      "topic": "finance",
-      "headline": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
-      "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-      "published_at": "2026-08-04T22:47:43.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_4d7f3ca93a6b6ad5",
-      "topic": "finance",
-      "headline": "Cricut Q2 2026 slides: profit surge masks revenue decline",
-      "summary": "Cricut Q2 2026 slides: profit surge masks revenue decline",
-      "published_at": "2026-08-04T22:47:26.000Z",
+      "headline": "Shutterstock earnings missed",
+      "summary": "Shutterstock earnings missed by $4.13. Revenue topped estimates.",
+      "published_at": "2026-08-05T02:14:18.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/cricut-q2-2026-slides-profit-surge-masks-revenue-decline-93CH-4836150",
+          "url": "https://investing.com/news/earnings/shutterstock-earnings-missed-by-413-revenue-topped-estimates-4836342",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
     },
     {
-      "id": "evt_4f12ff170bded0a9",
+      "id": "evt_2cb7ad0c48f98710",
       "topic": "finance",
-      "headline": "Booking Q2 2026 slides: record buyback, earnings beat expectations",
-      "summary": "Booking Q2 2026 slides: record buyback, earnings beat expectations",
-      "published_at": "2026-08-04T22:46:32.000Z",
+      "headline": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
+      "summary": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
+      "published_at": "2026-08-05T02:13:45.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/booking-q2-2026-slides-record-buyback-earnings-beat-expectations-93CH-4836149",
+          "url": "https://investing.com/news/stock-market-news/china-ai-hardware-stocks-slump-after-news-us-plans-to-ban-imports-of-chinese-components-4836331",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/Bookingcom_800x533_L_1522663237.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
     },
     {
-      "id": "evt_8afb454e763ac70d",
+      "id": "evt_6af394853d8862d3",
       "topic": "finance",
-      "headline": "ACADIA Q2 2026 slides: DAYBUE rises 30%, pipeline readouts ahead",
-      "summary": "ACADIA Q2 2026 slides: DAYBUE rises 30%, pipeline readouts ahead",
-      "published_at": "2026-08-04T22:46:24.000Z",
+      "headline": "Exclusive-Sysco has stopped buying iceberg lettuce from Mexico amid US cyclosporiasis outbreak, CEO says",
+      "summary": "Exclusive-Sysco has stopped buying iceberg lettuce from Mexico amid US cyclosporiasis outbreak, CEO says",
+      "published_at": "2026-08-05T02:12:51.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/acadia-q2-2026-slides-daybue-rises-30-pipeline-readouts-ahead-93CH-4836148",
+          "url": "https://investing.com/news/stock-market-news/exclusivesysco-has-stopped-buying-iceberg-lettuce-from-taylor-farms-and-mexico-amid-us-cyclosporiasis-outbreak-ceo-says-4835925",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
     },
     {
-      "id": "evt_cddec289bb98838f",
-      "topic": "crypto",
-      "headline": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
-      "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-      "published_at": "2026-08-04T22:46:03.000Z",
+      "id": "evt_035d93dedd1280b3",
+      "topic": "finance",
+      "headline": "SpaceX revenue jumps in debut results as satellite, AI businesses surge",
+      "summary": "SpaceX revenue jumps in debut results as satellite, AI businesses surge",
+      "published_at": "2026-08-05T02:12:35.000Z",
       "sources": [
         {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
-          "homepage": "https://decrypt.co"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business-4835745",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg"
+      "image_url": "https://i-invdn-com.investing.com/news/tesla_x_M_1440050319.jpg"
     },
     {
-      "id": "evt_24ce7596b2a5ffc4",
-      "topic": "finance",
-      "headline": "Pinterest shares fall on lukewarm sales guidance",
-      "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
-      "published_at": "2026-08-04T22:45:26.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_342c0dd6aed9e12a",
-      "topic": "finance",
-      "headline": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-      "summary": "The S&P 500 booked its 25th record close of 2026, after a 42-day break.",
-      "published_at": "2026-08-04T22:40:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://images.mktw.net/im-51646007"
-    },
-    {
-      "id": "evt_b058faf275d9de1f",
+      "id": "evt_4aec049d1fea867b",
       "topic": "politics",
-      "headline": "Arson suspect in court as wildfires rage around Spokane, Washington - Reuters",
-      "summary": "Arson suspect in court as wildfires rage around Spokane, Washington Reuters",
-      "published_at": "2026-08-04T22:37:29.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9FeUtRVXBkaFZ6TVRocHA0Z2UzclVnMWJqT1Axb1pqVEdPbTFnRWc1N2R4SW42ckFUd3I0SENOOC1tWFl3VTliVjQ3ZG1XTDdfNVRFZGp3M1JLc3VmbkJBYUwyeUZrQzRXTEZzTENYMGtwR0xRbTlPdXNRcnZkM1F1aDlYNExTaDU5a0lqVW9LcGVnNUdjN0R3ZWY2a19OLXJ2b2tLM1pVWTlL?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_cae9eaa96d0bad39",
-      "topic": "ai",
-      "headline": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-      "published_at": "2026-08-04T22:30:58.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_3ef49740faa19252",
-      "topic": "politics",
-      "headline": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-      "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
-      "published_at": "2026-08-04T22:28:30.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d2/live/c97a13f0-8fcb-11f1-a999-eb18d79411a9.jpg"
-    },
-    {
-      "id": "evt_912d3c6999ba18f0",
-      "topic": "ai",
-      "headline": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "published_at": "2026-08-04T22:24:00.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_7237c47424c228b9",
-      "topic": "finance",
-      "headline": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
-      "published_at": "2026-08-04T22:22:22.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_224c6a10a976eb95",
-      "topic": "finance",
-      "headline": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-      "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
-      "published_at": "2026-08-04T22:22:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://images.mktw.net/im-36097024"
-    },
-    {
-      "id": "evt_1e2e847766ac82de",
-      "topic": "ai",
-      "headline": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "published_at": "2026-08-04T22:18:30.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_6363d398863de5f5",
-      "topic": "crypto",
-      "headline": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
-      "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-      "published_at": "2026-08-04T22:16:03.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2020/05/Screen-Shot-2020-05-07-at-10.11.20-PM-gID_4.png"
-    },
-    {
-      "id": "evt_f34c564b54ddc92c",
-      "topic": "crypto",
-      "headline": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
-      "summary": "Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.",
-      "published_at": "2026-08-04T22:15:26.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg"
-    },
-    {
-      "id": "evt_9a49edabcf8ee711",
-      "topic": "politics",
-      "headline": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
-      "summary": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak AP News",
-      "published_at": "2026-08-04T22:13:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_1fd3d614acc0132f",
-      "topic": "politics",
-      "headline": "Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts - AP News",
-      "summary": "Todd Blanche's nomination for attorney general clears critical hurdle after deal with GOP holdouts AP News",
-      "published_at": "2026-08-04T22:12:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWlaZ3dTTm9IdGNxNVBNTFByZWU2ODRvWXgyTGRsTVJEazFoU1JNZHpEX1BMU1QyS1p3cjQ1TVk1MUU2UzI1Z19YbzNERlVzMEdEeWc5eVNtdkNMRnRXaUdoZkdrWmEyZnI4dDBJeHByaFJwcFRxN09lU0Ewb2R4TVBZZUVNSmV1UGZ0UzF2RlplNWpucExxRU5uTDIxRlJTT29jb0J5Y2w1eHBCSHc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_5ac80b00bc0e82bc",
-      "topic": "politics",
-      "headline": "US judge grants DOJ request to dismiss January 6 cases against Oath Keepers - Reuters",
-      "summary": "US judge grants DOJ request to dismiss January 6 cases against Oath Keepers Reuters",
-      "published_at": "2026-08-04T22:11:46.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEpqQ3JvcDZjUGlMQU1tOFZSbTZJMW9JUGI5ZDdmbU9fczJ6cWEyQ1NpT2RSUXFQSkxMS1FXbE5VSkp2N01TZGZyYm5abEpzNUFKWndTRzFHU3IzMDJhZXNkdW51bkJ0cGlJWWktWTFDNlRLR1VteGREVjFRRE1BMXZPWHVBN1dWQURFNzI0NFlvZkNWVFhad2F5QnlpUHV3bDNsOTU1Q1owY0p2c3hvOU9TdXo?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_adc46829cd19d538",
-      "topic": "politics",
-      "headline": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-      "published_at": "2026-08-04T22:10:00.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg"
-    },
-    {
-      "id": "evt_6dbf1271d7d04efb",
-      "topic": "politics",
-      "headline": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
-      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-      "published_at": "2026-08-04T22:09:50.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8945/live/5bb99010-8fe0-11f1-bb3b-43bf44dc94d9.jpg"
-    },
-    {
-      "id": "evt_99675fa433c6ef00",
-      "topic": "ai",
-      "headline": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 8 # Comments: 0",
-      "published_at": "2026-08-04T22:09:43.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://techascent.com/blog/just-ducking-around.html",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_04acf07928bfb9e0",
-      "topic": "finance",
-      "headline": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
-      "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
-      "published_at": "2026-08-04T22:09:17.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_c8c201cded10f1d8",
-      "topic": "finance",
-      "headline": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-      "summary": "Attorney General nominee Todd Blanche will still need to receive 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-      "published_at": "2026-08-04T17:25:45.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_f1ccd4c3ff657ae2",
-      "topic": "politics",
-      "headline": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters",
-      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models Reuters",
-      "published_at": "2026-08-04T22:08:30.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_bcccabb89af669d9",
-      "topic": "business",
-      "headline": "Antitrust Trial Over Paramount-Warner Merger Set for March - wsj.com",
-      "summary": "Antitrust Trial Over Paramount-Warner Merger Set for March wsj.com",
-      "published_at": "2026-08-04T22:08:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTU3bi1UZjI5WVJkYl9mN2R3bVlSZGF5OGc3YnpBUkVhRFRNQTdQTVA0MEx6azB2V3RpZVM5SUJfVHBMekRsclZ3R0p3dkgwZTZTWW1uWjJZT1JZZndRTEZFUVRnNWpfdzU4bXdnSXhNckNTXzdVV3NlMXFxbFp4aW91Y216c0ZGNEVQTks0NFFSSkhnMWlLTm9vZDF0RzJ1YnFYcA?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_2847ec10c7297de7",
-      "topic": "politics",
-      "headline": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
-      "summary": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips Reuters",
-      "published_at": "2026-08-04T22:07:29.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_56844915736469c7",
-      "topic": "ai",
-      "headline": "Now you can securely link multiple phones to one Signal account",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked de",
-      "published_at": "2026-08-04T22:02:46.000Z",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/tech/975407/signal-linked-devices-sync",
-          "homepage": "https://www.theverge.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK459_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "evt_1c6749c1d4384cce",
-      "topic": "politics",
-      "headline": "Elon Musk’s SpaceX reports losses but less than expected",
-      "summary": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
-      "published_at": "2026-08-04T22:02:09.000Z",
+      "headline": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+      "summary": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
+      "published_at": "2026-08-05T02:09:06.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+          "url": "https://aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.771
+      "weight": 0.777
     },
     {
-      "id": "evt_d49e0aa3b887ad2c",
-      "topic": "ai",
-      "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 50 # Comments: 19",
-      "published_at": "2026-08-04T22:01:41.000Z",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol",
-          "homepage": "https://news.ycombinator.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_6c429c47115530c5",
-      "topic": "business",
-      "headline": "Kevin Warsh’s ‘Bear Steepener’ Is No Goldilocks Moment for Stocks - wsj.com",
-      "summary": "Kevin Warsh’s ‘Bear Steepener’ Is No Goldilocks Moment for Stocks wsj.com",
-      "published_at": "2026-08-04T21:58:10.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTFzaHNqUVVRQkw4TTd3Xy1nNUVBYXh6QVZaWWdNMzc0dW1wQllwSEZ4dHVNR1ZVbFhTODR3WWJtVnZ1N190QkI4T3JONFkwQlN6VjJDWUNDYTZYRVI0Y0ZVb0s5V2tvTGIzTjZEZkRqSkdkWHpPTjJCUlRURE1BOUVDVUYxYzFBMDczZloyY1ZhVmpXb1VpTmpGSzE4Y1FobjJEYkZYQWIxdw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_43c887a09561a9db",
-      "topic": "business",
-      "headline": "New Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages - wsj.com",
-      "summary": "New Jersey Sues Amazon, Alleging Delivery Network Illegally Suppresses Wages wsj.com",
-      "published_at": "2026-08-04T21:56:54.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUZiaWVrTzhGX0FsZ04xRmZxak96QjRfN1hfMWJUOHdQS0ZZVE5tRkI0NUdOQWMxd3hLc05WR0NrYzAzRkF6T0t0LTJOOVpwcF9lb08wOGdsXzhmSFJ4bGZ3cFNyanAtbHpzaG15TkFrczlTNVFhLU9PckRyTVNIXzV0M1ByODZ1dTdCSldBZTVhUDZEZ1lFUjRUSXhVemd5QXZtQUxnN0lxbGNIU094bGV2Yw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_4e84b972fc402a72",
+      "id": "evt_c422144ea8404929",
       "topic": "finance",
-      "headline": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-      "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
-      "published_at": "2026-08-04T21:54:00.000Z",
+      "headline": "KakaoBank Q2 2026 slides: record profit on 92% fee growth",
+      "summary": "KakaoBank Q2 2026 slides: record profit on 92% fee growth",
+      "published_at": "2026-08-05T02:07:51.000Z",
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/kakaobank-q2-2026-slides-record-profit-on-92-fee-growth-93CH-4836341",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://images.mktw.net/im-77547915"
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM310T5_1200_L.jpg"
     },
     {
-      "id": "evt_00632e3db767515e",
-      "topic": "business",
-      "headline": "Opinion | Learning to Live With AI - wsj.com",
-      "summary": "Opinion | Learning to Live With AI wsj.com",
-      "published_at": "2026-08-04T21:53:00.000Z",
+      "id": "evt_d9f7aefc7f46a058",
+      "topic": "finance",
+      "headline": "Exclusive-Samsung, SK Hynix test Chinese chip tools as hedge against US risks",
+      "summary": "Exclusive-Samsung, SK Hynix test Chinese chip tools as hedge against US risks",
+      "published_at": "2026-08-05T02:06:54.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbGFld2RJa09JMjk0NkxUS1JrMll2VGhMQXlqLTRCVWVrX1JxN1M3Ry1CaU1lVWtLUDQzdDJoR0N2WUxtdFN4UmlQWjl2S05TaU5SMThianZINlJURDQ3YlRHcWNqUDlPN2w3dG9n?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/exclusivesamsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-risks-4836340",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.77
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg"
     },
     {
-      "id": "evt_1bf9ab19aafa6765",
-      "topic": "ai",
-      "headline": "Senators demand crackdown on wildfire \"prediction markets\"",
-      "summary": "Fire experts warn such markets could incentivize arson.",
-      "published_at": "2026-08-04T21:52:31.000Z",
+      "id": "evt_aca72b2f007b16ed",
+      "topic": "finance",
+      "headline": "Bendigo Mining Company at Diggers & Dealers: permit path in focus",
+      "summary": "Bendigo Mining Company at Diggers & Dealers: permit path in focus",
+      "published_at": "2026-08-05T02:06:10.000Z",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets",
-          "homepage": "https://arstechnica.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/bendigo-mining-company-at-diggers--dealers-permit-path-in-focus-93CH-4836339",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
+      "weight": 0.777,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
     },
     {
-      "id": "evt_671a8ffdb7f67767",
-      "topic": "business",
-      "headline": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - ft.com",
-      "summary": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says ft.com",
-      "published_at": "2026-08-04T21:46:13.000Z",
+      "id": "evt_34e89c0fc3300b98",
+      "topic": "finance",
+      "headline": "Hang Seng trapped in double-top range: Hourly levels",
+      "summary": "Hang Seng trapped in double-top range: Hourly levels",
+      "published_at": "2026-08-05T02:02:18.000Z",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5",
-          "homepage": "https://www.ft.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/hang-seng-double-top-forms-at-26204-live-hourly-levels-93CH-4833092",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
     },
     {
-      "id": "evt_f2e1ef8873e7b5f3",
-      "topic": "business",
-      "headline": "News Quiz for Aug. 1, 2026 - wsj.com",
-      "summary": "News Quiz for Aug. 1, 2026 wsj.com",
-      "published_at": "2026-08-04T21:46:05.000Z",
+      "id": "evt_4b838589227e532c",
+      "topic": "finance",
+      "headline": "China services growth hits slowest since September 2024, private PMI shows",
+      "summary": "China services growth hits slowest since September 2024, private PMI shows",
+      "published_at": "2026-08-05T02:02:04.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tR1FSTUpTZDhDdkEycVEyQ1BHOWR5TU1LSlEtV1MyUjRYajRjNlV1cEFURGMzTjNWTGNYYXhmSVJyLUg3dFk4SDk5M2trR1pqVXRYeFRyY1NxOU5KZHJIdW8zOHZMbTFDeFI0RlgzSHBUWjZHZFZpeFZpcVE?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/china-services-growth-hits-slowest-since-september-2024-private-pmi-shows-4836338",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_eef5ed97c45942d7",
-      "topic": "crypto",
-      "headline": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-      "published_at": "2026-08-04T21:46:03.000Z",
-      "sources": [
-        {
-          "name": "Decrypt",
-          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-          "homepage": "https://decrypt.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png"
-    },
-    {
-      "id": "evt_3ee0cbca67e2b93c",
-      "topic": "politics",
-      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "published_at": "2026-08-04T21:45:20.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde3/live/82720620-9020-11f1-a7ab-8b30adf0800a.jpg"
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM3810S_1200_L.jpg"
     },
     {
       "id": "evt_b6092e77f7e1ca4c",
@@ -951,69 +291,712 @@
       "weight": 0.769
     },
     {
-      "id": "evt_f061413aac8529cf",
-      "topic": "politics",
-      "headline": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News",
-      "summary": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts AP News",
-      "published_at": "2026-08-04T21:45:00.000Z",
+      "id": "evt_1f84a7719414e0f8",
+      "topic": "finance",
+      "headline": "Yen finds footing after intervention, dollar near 6-week low on Mideast hopes",
+      "summary": "Yen finds footing after intervention, dollar near 6-week low on Mideast hopes",
+      "published_at": "2026-08-05T02:01:44.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmxpOTZGbk83LWxmWXZHNXh1QmN6bF92R1ZpOFpqMDlqT1ZvTVRoT1F4bUUyLVotTWtnaDVHTERuOFZJck9ULXM4eG5uNllCbEZNa2JYTEJjMF83MzduZWhFWXI5el83dVR5WVdocDYtWk5CMjdYcTdYSUgwNXhpOENXM1lqUVlsank5b2NJNGIyb0QyWF9vSENZblMxTG1RdG1qOTllcGNEMFV1b1ZlelhYalk4ZWxHZTlnMg?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Investing.com",
+          "url": "https://investing.com/news/economy-news/yen-finds-footing-after-intervention-dollar-near-6week-low-on-mideast-hopes-4836329",
+          "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg"
     },
     {
-      "id": "evt_10f7955bdb541b00",
+      "id": "evt_3a23fa2730f05d6e",
+      "topic": "finance",
+      "headline": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+      "summary": "In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.",
+      "published_at": "2026-08-05T01:43:06.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_de96e3fc39c26311",
       "topic": "business",
-      "headline": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - wsj.com",
-      "summary": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX wsj.com",
-      "published_at": "2026-08-04T21:42:00.000Z",
+      "headline": "Canada and the US Go Toe-to-Toe - Bloomberg.com",
+      "summary": "Canada and the US Go Toe-to-Toe Bloomberg.com",
+      "published_at": "2026-08-05T01:38:10.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTlIckxVZ1kzWktTRHlzU1cyM1FYMWRFWjktQmZVWGtDRkVGTXo2TE1WdlE1Si1ucUdHTnNqbWRMWXJoMGRoLVBPR04yOS15bzN1Njl3WmZlYnNXckhwTGN5TlNFVTJoOVhzZEY4LTE5VldIZWd0bVpZYXY3ZWh0eHRVRFZHOWFHY3dqY0lEay1hajlYb2YzOFFRcFg?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_66e7ca4da3b8b49f",
+      "topic": "politics",
+      "headline": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "published_at": "2026-08-05T01:35:29.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg"
+    },
+    {
+      "id": "evt_35c5c35c631cdb33",
+      "topic": "ai",
+      "headline": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "summary": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841 Comments URL: https://news.ycombinator.com/item?id=49177554 Points: 5 # Comments: 0",
+      "published_at": "2026-08-05T01:34:26.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://asiae.co.kr/en/article/2026080416131786841",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_7989748e6c0eeda8",
+      "topic": "business",
+      "headline": "Jordan Is Learning Its U.S. Alliance Has a Price in the Iran War - WSJ",
+      "summary": "Jordan Is Learning Its U.S. Alliance Has a Price in the Iran War WSJ",
+      "published_at": "2026-08-05T01:31:32.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazhtNVpaX0ZvaXRyaktDZ0J5alFORFp4d1FXb2FPYlpjYW4wN2l5NnJ1dnJIaFB6T1BENDBPVnlVSE5KX2lGVU5JdjFaYldUVC05YnhOdzF3dm5MSXVqOExDZjhhNWMxNllLYVlnUHN5c2g5TUhSNGNjbFctZVc1UFRzSG1aemd1ZzlyYjRyWVRtc2s0cWFlem5kZC1PLTlpVFY2UldwNWhJUmk4eTdB?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.772
     },
     {
-      "id": "evt_fb8a6a34bdd321e7",
+      "id": "evt_2cb60713f374a2d6",
       "topic": "finance",
-      "headline": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
-      "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
-      "published_at": "2026-08-04T21:39:30.000Z",
+      "headline": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+      "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+      "published_at": "2026-08-05T01:27:06.000Z",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+          "url": "https://cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
           "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_8057576554bb4120",
+      "topic": "finance",
+      "headline": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
+      "summary": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
+      "published_at": "2026-08-05T01:26:27.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_dff01d4a72a01106",
+      "topic": "politics",
+      "headline": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+      "summary": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+      "published_at": "2026-08-05T01:21:16.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_b2bede7fa60600bd",
+      "topic": "business",
+      "headline": "Exclusive | FAA Investigates Marine One Safety Incident in Washington - WSJ",
+      "summary": "Exclusive | FAA Investigates Marine One Safety Incident in Washington WSJ",
+      "published_at": "2026-08-05T01:19:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXp6aGVCUkNpR3BxcEFNcHVTR0xPQVZFLXhLcWNhWkxZWW5JUDAyZjVwc01QVDhtWWNSY0M5WVNVRHVMM3JHRlJ6VW5helJGU1lTQUh3WEhBQjJ1OHN6SlpfM25JYlZGdnNxRnRKRHlSTU5td29mRzNKUXZ1Yi0xVnU2NGVVNTdGN0g2WUVOd0gxcndtMFVuUkd1MnBpenZWQzNLMHZpR2NCZW8xWlZSaFdPUQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_719d70f5aec35dd4",
+      "topic": "politics",
+      "headline": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "published_at": "2026-08-05T01:05:21.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg"
+    },
+    {
+      "id": "evt_f444c419011d62be",
+      "topic": "business",
+      "headline": "The Race to Build an American Alternative to Cheap AI From China - WSJ",
+      "summary": "The Race to Build an American Alternative to Cheap AI From China WSJ",
+      "published_at": "2026-08-05T01:01:14.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.768
     },
     {
-      "id": "evt_42b18aeae7807c44",
-      "topic": "crypto",
-      "headline": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
-      "summary": "The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.",
-      "published_at": "2026-08-04T21:34:47.000Z",
+      "id": "evt_c9f2bb610e4c8ee2",
+      "topic": "politics",
+      "headline": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
+      "summary": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed AP News",
+      "published_at": "2026-08-05T00:58:00.000Z",
       "sources": [
         {
-          "name": "The Block",
-          "url": "https://theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october",
-          "homepage": "https://www.theblock.co"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock2-800x450.jpg"
+      "weight": 0.767
+    },
+    {
+      "id": "evt_a2e017f1a53a126f",
+      "topic": "politics",
+      "headline": "Ukrainian man chased by exploding drone recounts his terror",
+      "summary": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+      "published_at": "2026-08-05T00:56:23.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_4bc72353ee966c11",
+      "topic": "politics",
+      "headline": "Qatar says mediators make progress in efforts to end US-Iran war - reuters.com",
+      "summary": "Qatar says mediators make progress in efforts to end US-Iran war reuters.com",
+      "published_at": "2026-08-05T00:56:00.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_8820717f72528306",
+      "topic": "business",
+      "headline": "Donald Trump trapped between escalation and an Iran deal on Tehran’s terms - Financial Times",
+      "summary": "Donald Trump trapped between escalation and an Iran deal on Tehran’s terms Financial Times",
+      "published_at": "2026-08-05T00:50:16.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXRUQlhPU3VSOVdSa21YODRzZEdxMldFazFvQkVXblgwMlZSc3VUZi1BSkhnUldRbXRTbU1PUjVsME1lV1cxV3FUSjBDOTBWT1ZxemVBRVJfOVh4TDlNRS1HcjZDaE9iZE1IQ0h1eUk5OXdtTnJNSWl3bEI0b2N4VzNzNWY?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_a3a56af733514f55",
+      "topic": "politics",
+      "headline": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+      "summary": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
+      "published_at": "2026-08-05T00:40:23.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "evt_c4c46d852d142562",
+      "topic": "politics",
+      "headline": "Baseball - AP News",
+      "summary": "Baseball AP News",
+      "published_at": "2026-08-05T00:32:59.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zNldiT1p2dkhWMnhBcGJxUkZ6bXVZaTVOckNJX1ZZbE1rNUd1VkFLek9fS216ck84NVpYdXJ6emJpQ1ZHQ2c?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_1d7d0c718751d7d8",
+      "topic": "finance",
+      "headline": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+      "summary": "Beijing's move to tax offshore trusts, long used by China's ultra-rich to hold money, has set off a rush to lawyers and a scramble for cash.",
+      "published_at": "2026-08-05T00:32:29.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764
+    },
+    {
+      "id": "evt_74977adfa1b96b74",
+      "topic": "business",
+      "headline": "Fiery Democrat’s Comeback Bid Tests Limits of Progressive Momentum - WSJ",
+      "summary": "Fiery Democrat’s Comeback Bid Tests Limits of Progressive Momentum WSJ",
+      "published_at": "2026-08-05T00:31:02.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEZ1TWhFemVDNVhCODRGLXVoNzIyMFBnY0NRaGlSWXlOTG01WXFJQWNyOGxTOE10WmdHX0ZLZ3VqdU0ybkdPYm85aFoxU21MZ29icDF2d1FjSnhvNlVjUC13X2lIZTZ0Y2JsY3BoMG91T1kzSTFZYjUxNjBMWHppRG5hRmdtTFAxWWc?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_345f5fbe040f1e75",
+      "topic": "business",
+      "headline": "Scott Bessent Draws on Hedge Fund Instincts to Help Rescue Yen - Bloomberg.com",
+      "summary": "Scott Bessent Draws on Hedge Fund Instincts to Help Rescue Yen Bloomberg.com",
+      "published_at": "2026-08-05T00:27:00.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0JieHNfTDA3Mk1JOG9kUnlYU3lzNEZPdy1vWmE4dUFJN1h3V3E3RF9qcHJFeXZyNjdyYmEwNTBtTzk1b3ZVcG5VbThNOWRxa2ZVYmRQdFh0cDFnMEZpcHV4d3Z5Y0dELTUxMlFaS0RDcWVxZjVOLW85cjBuQWtEUS1HWXNHNTRJOWE4RTFqU3FQVm9Md21hb2NyOGI3bng2RmN1N3JUcFYwcDBMVlBHMXRHeW9HMzR2UGJfVE5fRnltaTl6QThQZUpB?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_e8c0d223d00dd9fa",
+      "topic": "politics",
+      "headline": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say - AP News",
+      "summary": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say AP News",
+      "published_at": "2026-08-05T00:25:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9xNGExM09EbEdnQ1lNMkZCOEM0TE1FeGxMbGJGZkExOW5YdkpGQlVUOWFuRTVhSF93cm5tcjd6QnZmVVNrMmdHY2dYUXpkRDhRNGhzU252THJCejdCZXcteThHRGptY05VOWtWYVJCRUFBZ3lvWnRXZ0J1cGRMSldmSnJwVzQxN045Y00yZnFhUlJkSzBoVWJqa0Z5ZFprY3daTg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_ac694666b36388f7",
+      "topic": "business",
+      "headline": "Oil Falls Amid Prospects of U.S.-Iran Deal to Reopen Strait of Hormuz - WSJ",
+      "summary": "Oil Falls Amid Prospects of U.S.-Iran Deal to Reopen Strait of Hormuz WSJ",
+      "published_at": "2026-08-05T00:25:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSURpcFVBT3o3LXBFN2VySEtETmVTdlRNc0ZHMFlGNjVZdjRXY21laGtycWJMZ21VTVlZQk9lMXJac2g4T0NSdFRlWm1TejdteC01VFBlQmNfa1Z5YTJoMFVEVVdQQjg5WmVPa0RVLUFua3o0Q285a2RfS0ZoamlRRkcxLWU2R3FZUjdoaGkyUV9VeXItRldMVGtoTWh2Vk1IUFQ2NFcteXdLclBtYmFJdzJJa01YOHk1MVN6UnBPNzBndWM?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_64505a7b57d5cf33",
+      "topic": "ai",
+      "headline": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 21 # Comments: 14",
+      "published_at": "2026-08-05T00:10:37.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2603.04221",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.761
+    },
+    {
+      "id": "evt_ba0f4da70df2a7cb",
+      "topic": "business",
+      "headline": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029 - WSJ",
+      "summary": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029 WSJ",
+      "published_at": "2026-08-05T00:09:34.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWRqaDJfcmp3YjlmODVzUkpOd1paOGRPZmJrWkhDeVFXTjdHUkZfbmNEYk9EbUNvVVpzYnRLdzBJUkR3VE9WMXg0YlY2YnZTc3ZsR2EzLTZsaVFiMlZ3dVRaeExndXZKaFZJd1ZqX1dxcHdDT3RuOEdubEtuaFliODYtMmt3VUtiY1NUYkdTZXM1UE55?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_5820f0c4ea206a30",
+      "topic": "ai",
+      "headline": "Bugtraq Is Back",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 19 # Comments: 3",
+      "published_at": "2026-08-05T00:05:49.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.76
+    },
+    {
+      "id": "evt_0779ce46143690f8",
+      "topic": "ai",
+      "headline": "Flowise Is Shutting Down",
+      "summary": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 15 # Comments: 6",
+      "published_at": "2026-08-05T00:02:40.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://flowiseai.com/sunset",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_3655e6e311056ade",
+      "topic": "politics",
+      "headline": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "summary": "Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.",
+      "published_at": "2026-08-05T00:00:00.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_26788c68a5674cd9",
+      "topic": "business",
+      "headline": "Michigan Senate Primary Puts Democratic Party’s Leftward Shift to the Test - WSJ",
+      "summary": "Michigan Senate Primary Puts Democratic Party’s Leftward Shift to the Test WSJ",
+      "published_at": "2026-08-05T00:00:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjZYdkY1UEVzOUFUX1lSTFJRM18yeGlPcnYzYk4zZTBZZEV6eVJ0Z25oWUN4UlRQR0lWUjBmTmxvQ2I2Qld6LTBsWmEyVElFaWU4QzhJbFBJeEI4WjMyZG02UlBUcThCNzhUeDhBZktFbG5SZWJOLXNYNVF6Y0NMQVlkdWEwcXFGSU10elJ2NA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_5b97e95fffa5f94f",
+      "topic": "politics",
+      "headline": "Trump is making a rare Western trip to to raise cash for Republicans and talk about the economy - AP News",
+      "summary": "Trump is making a rare Western trip to to raise cash for Republicans and talk about the economy AP News",
+      "published_at": "2026-08-04T23:56:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnpXN09IYUdmVUR1R2JFaW5UT2tQTmswV0l2Z3plU0JTUmt5aXZwRHlGb3NZVERfVVhIRmoyVkNWYmNQUTNOR3hlNVNPTmFVVlZFWW04bzBmNFg0SlFsdTNGc0xfZlJyYUNYbDJJWWFfY1pOdXRkc0RyZloyMTFmWnpOSE5mMGMxbjlLSUhYS1N6bUV3LUE?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.759
+    },
+    {
+      "id": "evt_c72aca18a5f951e8",
+      "topic": "politics",
+      "headline": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say - AP News",
+      "summary": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say AP News",
+      "published_at": "2026-08-04T23:55:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_abfcd641594130e1",
+      "topic": "business",
+      "headline": "Pirro’s About-Face in Pool Case Followed Prosecutors’ Private Concerns - WSJ",
+      "summary": "Pirro’s About-Face in Pool Case Followed Prosecutors’ Private Concerns WSJ",
+      "published_at": "2026-08-04T23:54:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm5EV0h6S1huMXNORm51Z281VmF2Q3NTc3Boc3VpT1NSdXQ2X3lpSzhCc1U4a3padm1BOVRBN3kxRnVKVlJsWmtrWG44TllIRDdyenk5UVo4TXIzUGRhcTgwbmhzVWpYdzRieFRGM1RKSWZHdkNVcjEyRnN0NjJYUWVOZVlScS0xZjAxWjBRa0lveFBHdU1yYVU1MmhURlBTVGFfOXl3QVA4R183R0E?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_1a7a590593f0665d",
+      "topic": "ai",
+      "headline": "Eight Myths on Software Engineering and GenAI",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 77 # Comments: 34",
+      "published_at": "2026-08-04T23:50:52.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://queue.acm.org/detail.cfm?id=3807963",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.758
+    },
+    {
+      "id": "evt_70c1de4b7d607c89",
+      "topic": "politics",
+      "headline": "AMD's AI-powered revenue forecast fails to wow investors - reuters.com",
+      "summary": "AMD's AI-powered revenue forecast fails to wow investors reuters.com",
+      "published_at": "2026-08-04T23:45:13.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.757
+    },
+    {
+      "id": "evt_f550d18081627f62",
+      "topic": "politics",
+      "headline": "Mattel maintains annual forecasts, misses quarterly profit estimate as higher costs squeeze margins - reuters.com",
+      "summary": "Mattel maintains annual forecasts, misses quarterly profit estimate as higher costs squeeze margins reuters.com",
+      "published_at": "2026-08-04T23:41:58.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmREU3FuZjJHU1dySXFuSHB0SzlwcFJfanF3Yjhwb3ZpeXNCeFMzcW9VcjQ3cjBfaDlXMFpoSmJwS3p5bUVNcWtrYnNTSzdYZkVOeU9RSFpRdW85anVZUHBmam5mUkxZblE2aG9WY3hSSHRmOERITzFUeVpHUEFMYnNFRDRkVUxITmdCUU5aLThQRFR2NzVLbmVIalF5clZoZFFMdERtZTR3RVlkX2h0cndVM2VuTlVhSG1HVQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.757
+    },
+    {
+      "id": "evt_6a4f98038b48707d",
+      "topic": "politics",
+      "headline": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "summary": "An official has indicated that the visa revocation does not mean Brazil's ambassador will be expelled from the US.",
+      "published_at": "2026-08-04T23:41:27.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.757
+    },
+    {
+      "id": "evt_f8af9b31ffd0c26c",
+      "topic": "politics",
+      "headline": "US revokes visa of Brazilian ambassador over diplomatic dispute - reuters.com",
+      "summary": "US revokes visa of Brazilian ambassador over diplomatic dispute reuters.com",
+      "published_at": "2026-08-04T23:37:51.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGswUzd6Zlg2REIyREhCUnEyNHJSNUdJelJudElYdkVlZ2FnRnBDdDIyTU81clNyM0RmcHpTTHFILVY0ZmItWXA1ZkVkcGFub1ktdFdLdlVSR0pIOXZ0MHB6YkxRdW5tb3NlY3JQd0RheUJ2Tm1JcE1yU2JtRFFESUNuaUhudkl5MGNaNGxFbTBwbC1OMTcyZW9IWjBzSzQxODhMZndxTVl6eTNSODB6dXkzT0xDX01OeDRNdzl3MkV3MkU?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.756
+    },
+    {
+      "id": "evt_67cdd024891c1a2f",
+      "topic": "politics",
+      "headline": "Former Rep. Elaine Luria wins Democratic nomination for battleground U.S. House seat in Virginia - AP News",
+      "summary": "Former Rep. Elaine Luria wins Democratic nomination for battleground U.S. House seat in Virginia AP News",
+      "published_at": "2026-08-04T23:32:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_9c421d11eff3a706",
+      "topic": "ai",
+      "headline": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 43 # Comments: 5",
+      "published_at": "2026-08-04T23:31:46.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_f3dc1cf5574a3df2",
+      "topic": "politics",
+      "headline": "US yen intervention signals perfect storm rising in FX and bond markets - reuters.com",
+      "summary": "US yen intervention signals perfect storm rising in FX and bond markets reuters.com",
+      "published_at": "2026-08-04T23:30:25.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_ec7c9e4f19fce2fa",
+      "topic": "finance",
+      "headline": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
+      "summary": "Asian travelers' appetite for Europe remains resilient despite record-breaking heat, with spending in Northern Europe projected to increase.",
+      "published_at": "2026-08-04T23:27:44.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/05/europe-heatwave-travel-demand-asia.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_c791dcb2f9f6d164",
+      "topic": "business",
+      "headline": "German Robotics Startup Agile Robots Set to Double Revenue This Year - WSJ",
+      "summary": "German Robotics Startup Agile Robots Set to Double Revenue This Year WSJ",
+      "published_at": "2026-08-04T23:27:20.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjVvZkVKbDRZaTBMYlBBRlNzb1FZdkhDRTRKQ25nTUU1ODVJMEx4Z3AwZnFCS1ZKc2Yyd0t3U3RCV3VNZUZJTzRzYzFkNFlzQ1NsellQT2EzMmR4X252dmk1U2QybEVja0F5WGo3VC1IM0JMdzJBZmdBRGhCbHNkQlBjR2xLU3gzb1RNMmcxMzl2aFcyLUJOakZlUnRRQXdiWDFoemF4aEE?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_1d8f3b7431bf6248",
+      "topic": "politics",
+      "headline": "Sri Lanka shuts schools as floods and mudslides kill 7",
+      "summary": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.",
+      "published_at": "2026-08-04T23:27:13.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.755
+    },
+    {
+      "id": "evt_787ef883f2db6f27",
+      "topic": "politics",
+      "headline": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
+      "summary": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+      "published_at": "2026-08-04T23:24:43.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.754
     }
   ]
 }
