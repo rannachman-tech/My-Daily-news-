@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-08T20:30:17.282Z",
+  "generated_at": "2026-08-08T22:28:23.558Z",
   "clusters": [
+    {
+      "id": "evt_4b9c85ef67de5057",
+      "topic": "ai",
+      "headline": "X Replaces Revenue Program",
+      "summary": "X ends revenue-sharing program. Replaces with Original Content Rewards.",
+      "published_at": "2026-08-08T21:15:12.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+          "homepage": "https://www.theverge.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.95,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
     {
       "id": "evt_a3f13611537c6ad0",
       "topic": "politics",
@@ -67,27 +89,6 @@
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg"
     },
     {
-      "id": "evt_0e02213b01aa48c0",
-      "topic": "politics",
-      "headline": "Justice Alito staying on Supreme Court",
-      "summary": "Justice Samuel Alito will stay on the Supreme Court. He confirmed his decision for another term.",
-      "published_at": "2026-08-07T23:23:08.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUFqU1p6WmdWcHFJOHhMME1YRTl6bE13N2hrNEJDYm1kRm9zT3hUTjI2clI5Z3A3UnB0ajY4RTBuVi1uNnRCS3BXNjdpN0lrbThSTVZFYmUtSUk1ZV9RSnNXQ2FkVUMxektVUDNqQWNIRHJGM0wxOTU3TjRueDRKVHlzRkgzZUdZWU94U0lMeWR1dmx0QlB1OTBXM3pwSk1McUhnWjNqUUFINkRjdlkxU0hn?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHYyOEdzeGlNamJvNW85bUpiN1Njc2ZkdWNKd1piVm9TNjhCV3Z5Tjk4bmVIWGVYRjF6YmxHcDRxY3hEZ05pbERmckZpVXJlQ3NibjY1dTlYcGlNNEQ2MjkyMk1KVTRMejliVENSY0pZSy1FR3puUVBMaFJWNDBJTllYV0g3Z3l3dnBTTlM5UktsMWYxRTRxQTJUMHktQWc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.834
-    },
-    {
       "id": "evt_44be5d79b6f1beb7",
       "topic": "crypto",
       "headline": "CLARITY Act Vote Delayed",
@@ -110,715 +111,322 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
     },
     {
-      "id": "evt_5bcc56bf54e093d6",
+      "id": "evt_0158a75570ad7da5",
+      "topic": "business",
+      "headline": "Flying Private Made Easy",
+      "summary": "Flying private is easier. No personal jet required.",
+      "published_at": "2026-08-08T22:24:46.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUtpcTlHSDEzb1J2MzYySVFFVHZ5ZXA4WUlZQ3p4UER0c1NmbDR4U1ozNHpHSHVmQ0lEcy1DV3hTeFRNeklWNXNtdHFCUDhiMmgtbUs0QXc1NmktRnFWN25INzRnUTRuYU9RUVluU0pvZGpydk55WFV3Z3VBY1RDeTU0YmpkY2x3T2tjazUwbkF0SmIzbVpQVEJNS0NSRnNLWU5YeA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_6736482f53637556",
+      "topic": "business",
+      "headline": "New Mexico Sues DOJ",
+      "summary": "New Mexico sues DOJ. Seeks Epstein files access.",
+      "published_at": "2026-08-08T22:24:45.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGpob09Dbzl5Wnh2enNnczB6a3k3SkktTWFkNkFJZ0JDSk9kR2tMYzVLYlQyZExQUnNMU1ZXT19vVDNfNjgxaExuR0NqQkJfdFM5VFdhV0tSbGxMa2xNREhxOXhHbWlHOU16cF8yZUdGa0FKUG9UM21xMHM0ZmhSdkxNa3hZdC1Mejl2Rjg5SVNYUVI3WFlOS0FYaWFGUWFJWVlpRE5pbk0?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_9b55772dc8596128",
+      "topic": "business",
+      "headline": "Five Things to Know About Michigan’s Abdul El-Sayed - WSJ",
+      "summary": "Five Things to Know About Michigan’s Abdul El-Sayed WSJ",
+      "published_at": "2026-08-08T22:24:31.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjhqQXNqUk9wQk1DSUR5VURwclI3X0ZLd2tINXpYU2V0ZF9MVEtya1AwamtxMVczcFI1ZHVwNlI0bl9iNWhUREpXZkJLR2ZGZHdENnZBb204Y0ZUbjRmNkdyRzZqRE5NVWtnTV9yeFpoaGRfWEZjcmZtMk1McGxXYkdMb2xGcl9RcVE5cVhvYWtJdw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_1264dd212d540b51",
       "topic": "finance",
-      "headline": "Where Will Dell Technologies Stock Be in 3 Years?",
-      "summary": "Where Will Dell Technologies Stock Be in 3 Years?",
-      "published_at": "2026-08-08T20:20:00.000Z",
+      "headline": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+      "summary": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+      "published_at": "2026-08-08T22:20:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/where-dell-technologies-stock-3-202000623.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/ede2583f2d9a6423816279cd3967d9d6"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/758dc861323678c663d9a0d6c6429c11"
     },
     {
-      "id": "evt_1fba0794ffb4bec2",
-      "topic": "politics",
-      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-      "published_at": "2026-08-08T20:18:28.000Z",
+      "id": "evt_4905c4874239b855",
+      "topic": "finance",
+      "headline": "Qorvo Insiders Keep Filing. But the Merger Is the Main Thing That Matters",
+      "summary": "Qorvo Insiders Keep Filing. But the Merger Is the Main Thing That Matters",
+      "published_at": "2026-08-08T22:14:39.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-insiders-keep-filing-merger-221439610.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/c5718b6096ba583eb5530856e9c08112"
     },
     {
-      "id": "evt_dd74db2466e81d47",
+      "id": "evt_16b52f239276fa69",
       "topic": "finance",
-      "headline": "Ivanhoe Electric earnings missed by $0.04, revenue topped estimates",
-      "summary": "Ivanhoe Electric earnings missed by $0.04, revenue topped estimates",
-      "published_at": "2026-08-08T20:13:34.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/ivanhoe-electric-earnings-missed-by-004-revenue-topped-estimates-4847685",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "id": "evt_52ebf744ca250286",
-      "topic": "finance",
-      "headline": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
-      "summary": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
-      "published_at": "2026-08-08T20:09:54.000Z",
+      "headline": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
+      "summary": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
+      "published_at": "2026-08-08T22:07:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/84c7631926174c0063fc11aab5b720ba"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/3bd1df3ce6a8955d3698499419a54255"
     },
     {
-      "id": "evt_cd2eedad785edde7",
-      "topic": "politics",
-      "headline": "Roger Craig reveals dementia diagnosis at Hall of Fame ceremony - Reuters",
-      "summary": "Roger Craig reveals dementia diagnosis at Hall of Fame ceremony Reuters",
-      "published_at": "2026-08-08T20:09:43.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHVuRFRjUXRXRmZsZ1lLc2dfdUY5SzB6YV9mYVdzSVFiZmpIVUgwV1p1R1FfU0ZQbVU4YWc4MkpZMUQ4ZWV5bk80WUhmaGhtV3lvTlJYSEhBNGp5V21TTG1zMEVrSFdLYVFEM0otejgwMzhWdi1McENzOXQyTUZaaWR3RXZMdi1jcFBKZXlEU1B3R2NTREpPbDlYbEk1aVl3NEhfd0JRQXA?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_a4291d87555345c4",
+      "id": "evt_91a1c75b865f3fd9",
       "topic": "finance",
-      "headline": "Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe (CBOE)",
-      "summary": "Jim Cramer Praises Exchange Duopoly CME Group (CME) and Cboe (CBOE)",
-      "published_at": "2026-08-08T20:09:24.000Z",
+      "headline": "AMD just made bold move to challenge Nvidia",
+      "summary": "AMD just made bold move to challenge Nvidia",
+      "published_at": "2026-08-08T22:07:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-praises-exchange-duopoly-200924789.html",
+          "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-made-bold-move-220700266.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be"
+      "image_url": "https://media.zenfs.com/en/thestreet_881/454099ffea1c18f2e41e11c6c454d7b1"
     },
     {
-      "id": "evt_1650db5d2d7dfbb6",
-      "topic": "finance",
-      "headline": "Caterpillar tariffs send major signal on margins",
-      "summary": "Caterpillar tariffs send major signal on margins",
-      "published_at": "2026-08-08T20:07:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-tariffs-send-major-signal-200700895.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/thestreet_881/c88283873b4013683744f2842af72c2d"
-    },
-    {
-      "id": "evt_01fbb2265bfc6ecc",
+      "id": "evt_03823fdef2b623c0",
       "topic": "crypto",
-      "headline": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "summary": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
-      "published_at": "2026-08-08T20:06:47.000Z",
+      "headline": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+      "summary": "BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.",
+      "published_at": "2026-08-08T22:05:44.000Z",
       "sources": [
         {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-          "homepage": "https://www.coindesk.com"
+          "name": "The Block",
+          "url": "https://theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213",
+          "homepage": "https://www.theblock.co"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/150bd8fd2754dee0949457a7279cad6ca896ec75-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "image_url": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-800x450.jpg"
     },
     {
-      "id": "evt_35b04e19f212a34e",
+      "id": "evt_f671eb1278ff9e88",
       "topic": "finance",
-      "headline": "Nexa Resources Q2 Earnings Call Highlights",
-      "summary": "Nexa Resources Q2 Earnings Call Highlights",
-      "published_at": "2026-08-08T20:03:55.000Z",
+      "headline": "Owens Corning Q2 Earnings Call Highlights",
+      "summary": "Owens Corning Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:53.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexa-resources-q2-earnings-call-200355699.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/owens-corning-q2-earnings-call-220353694.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/marketbeat_955/17cdc720815e67b2d1bf3e4c39053dbe"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/97258b7e67a606e0b6ddc6c0c2db3221"
     },
     {
-      "id": "evt_080f7c2e04390885",
+      "id": "evt_f9e1e35536dab34c",
       "topic": "finance",
-      "headline": "Natural Grocers by Vitamin Cottage Q3 Earnings Call Highlights",
-      "summary": "Natural Grocers by Vitamin Cottage Q3 Earnings Call Highlights",
-      "published_at": "2026-08-08T20:03:55.000Z",
+      "headline": "Once Upon A Farm Q2 Earnings Call Highlights",
+      "summary": "Once Upon A Farm Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:53.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/natural-grocers-vitamin-cottage-q3-200355769.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/once-upon-farm-q2-earnings-220353362.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/marketbeat_955/96730f73a2e2e692a4c53ca53a53c906"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/cc500c7220aa839182ff02d94abd9e30"
     },
     {
-      "id": "evt_dec71e891e4a1e9f",
+      "id": "evt_a0b3d03950643a38",
       "topic": "finance",
-      "headline": "Nuveen Churchill Direct Lending Q2 Earnings Call Highlights",
-      "summary": "Nuveen Churchill Direct Lending Q2 Earnings Call Highlights",
-      "published_at": "2026-08-08T20:03:54.000Z",
+      "headline": "Blue Owl Capital Q2 Earnings Call Highlights",
+      "summary": "Blue Owl Capital Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:52.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuveen-churchill-direct-lending-q2-200354167.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-q2-earnings-220352701.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/marketbeat_955/03bb5404ecfc2262bde92f46a0332e43"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/0f99b4e11e66ff85edcd31cb6e49c360"
     },
     {
-      "id": "evt_8bd78b2eb74b7be2",
+      "id": "evt_2a935d77819fb3d9",
       "topic": "finance",
-      "headline": "NACCO Industries Q2 Earnings Call Highlights",
-      "summary": "NACCO Industries Q2 Earnings Call Highlights",
-      "published_at": "2026-08-08T20:03:53.000Z",
+      "headline": "Realty Income Q2 Earnings Call Highlights",
+      "summary": "Realty Income Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:52.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nacco-industries-q2-earnings-call-200353300.html",
+          "url": "https://finance.yahoo.com/real-estate/articles/realty-income-q2-earnings-call-220352547.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/marketbeat_955/8e65245f5d8138b61b53d58c60a6f940"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/a921265945c431bf274411c315633ea9"
     },
     {
-      "id": "evt_f1faa9927f63fb26",
+      "id": "evt_6e5764ec92148545",
       "topic": "finance",
-      "headline": "Mueller Water Products Q3 Earnings Call Highlights",
-      "summary": "Mueller Water Products Q3 Earnings Call Highlights",
-      "published_at": "2026-08-08T20:03:52.000Z",
+      "headline": "New York Times Q2 Earnings Call Highlights",
+      "summary": "New York Times Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:52.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-products-q3-earnings-200352788.html",
+          "url": "https://finance.yahoo.com/media-advertising/articles/york-times-q2-earnings-call-220352118.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/marketbeat_955/838ca1833d166ff7e516ce2adbcc497c"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/3c68fcc21e7332e46cafeb5fe58e6286"
     },
     {
-      "id": "evt_f14d85abe7f8cd8d",
+      "id": "evt_c13048b5e559f545",
       "topic": "finance",
-      "headline": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-      "summary": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-      "published_at": "2026-08-08T20:02:18.000Z",
+      "headline": "NexGen Energy Q2 Earnings Call Highlights",
+      "summary": "NexGen Energy Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:51.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-telling-investors-accumulate-200218837.html",
+          "url": "https://finance.yahoo.com/energy/articles/nexgen-energy-q2-earnings-call-220351715.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/5c7bfda923c4a8d4af90e4ee6215fd0c"
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/54e0f7bde90f79150c429dc52cc7ff7c"
     },
     {
-      "id": "evt_71d47a80e3a9ad27",
+      "id": "evt_ef3f46a1511845e3",
+      "topic": "finance",
+      "headline": "Northwest Natural Gas Q2 Earnings Call Highlights",
+      "summary": "Northwest Natural Gas Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:51.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/northwest-natural-gas-q2-earnings-220351804.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/76f3cc31fa89ac34193a737779bfd961"
+    },
+    {
+      "id": "evt_19015b0a29b73bf4",
+      "topic": "finance",
+      "headline": "Novo Nordisk A/S Q2 Earnings Call Highlights",
+      "summary": "Novo Nordisk A/S Q2 Earnings Call Highlights",
+      "published_at": "2026-08-08T22:03:50.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-q2-earnings-call-220350961.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/marketbeat_955/15e760ff14de77173dc96c1f3b9361e3"
+    },
+    {
+      "id": "evt_7f01ff6e5f8982c4",
       "topic": "politics",
-      "headline": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
-      "summary": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news AP News",
-      "published_at": "2026-08-08T20:02:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_c9a803fd5498b698",
-      "topic": "business",
-      "headline": "NWL Group Ltd - Bloomberg.com",
-      "summary": "NWL Group Ltd Bloomberg.com",
-      "published_at": "2026-08-08T20:01:17.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxZ3hoeDU3SWdKZjdDOGN0UHN4V2JYLTBKUlV6UTk5VUh5aWRvRXNyV2NXQm1fZWFwQS1LRjJ6VDNlNldvWkEweS1OWS1fYnNkUno0LTI5OTUtQ0FTejlKWnRDNA?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_b590c7f799db2ade",
-      "topic": "politics",
-      "headline": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
-      "summary": "Thousands told to evacuate in British Columbia's wine region as wildfire grows Reuters",
-      "published_at": "2026-08-08T20:01:07.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_1c89c773c7861769",
-      "topic": "finance",
-      "headline": "Family Responsibility",
-      "summary": "A person faces family responsibilities. Their brother has cancer.",
-      "published_at": "2026-08-08T16:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://images.mktw.net/im-64488863"
-    },
-    {
-      "id": "evt_bd84afe1e16ac61c",
-      "topic": "business",
-      "headline": "US CPI to Show Inflationary Pressures Cooling Some - Bloomberg.com",
-      "summary": "US CPI to Show Inflationary Pressures Cooling Some Bloomberg.com",
-      "published_at": "2026-08-08T20:00:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS3UzdExfQkFwSk40MUlYQ1lNYnE5NHRIanI5bjFmLXpTZVNRU3k0dVRsRnU5YVA1RzE3MGdxYWg5b1FMcGVRRS1Bd1o1bzQ4UXpRYVZBNWNrcTVuM2o5c3N6Y0h2LW9vVGo4SXNsLTYzN200ZHZLV1RPRElkN0Fjb3dyN1BFYVBnNlk4NWJHRkIzcWl6T1FNRGNSMkxuR2dlMW0w?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_f3df46647a43c284",
-      "topic": "politics",
-      "headline": "WNBA commissioner says league will continue discussing issue of transgender participation - AP News",
-      "summary": "WNBA commissioner says league will continue discussing issue of transgender participation AP News",
-      "published_at": "2026-08-08T19:55:08.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2ZWdEdSQzNIY2dJaXQxWUk3YjJZTGUza2xUYVFhejBPVnpReENiMmZnb3MtZFVPVTJFS0JRVGFfaVJNTUtVOUNwSFRuZkx3dEFzUzNMQThrNjF5UVpsNmlxLVdXZ2t0N0tubHJFTVFFR2RlUGNZcm5fMFhYUGZIVzdkQmd4TTk4NHJxZllNN3ZGRGhMeEtlelVXakdfN1QwMWVvUlNKVWg5c1U3akhYMHJQMA?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_0e257dd102fb9419",
-      "topic": "politics",
-      "headline": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
-      "summary": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says Reuters",
-      "published_at": "2026-08-08T19:53:53.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_8f42921be2de03af",
-      "topic": "finance",
-      "headline": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
-      "summary": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
-      "published_at": "2026-08-08T19:51:41.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c"
-    },
-    {
-      "id": "evt_557d42a4f2d89fd6",
-      "topic": "politics",
-      "headline": "Car-bomb attack in Colombia",
-      "summary": "A car-bomb attack occurred in southwest Colombia. It happened a day after a new president took office.",
-      "published_at": "2026-08-08T19:51:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_9a3d8313908d4fb7",
-      "topic": "finance",
-      "headline": "Delta flight emergency",
-      "summary": "A Delta flight made an emergency landing. No injuries were reported.",
-      "published_at": "2026-08-08T19:48:07.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/delta-flight-makes-emergency-landing-in-atlanta-no-injuries-reported-4847682",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA6M0HI_M.jpg"
-    },
-    {
-      "id": "evt_9786b6cdbb66bd91",
-      "topic": "finance",
-      "headline": "AMD buys Taalas",
-      "summary": "AMD bought Taalas. The move may impact AI inference competition.",
-      "published_at": "2026-08-08T19:46:09.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/88650af920986c0fb926bba0cc6e7496"
-    },
-    {
-      "id": "evt_8bf73f3956e4de83",
-      "topic": "ai",
-      "headline": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
-      "published_at": "2026-08-08T19:41:13.000Z",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-          "homepage": "https://techcrunch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_94e3304776d7377e",
-      "topic": "finance",
-      "headline": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-      "summary": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-      "published_at": "2026-08-08T19:39:32.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/391b35cf2fa0b933db9ca36afb1bdd22"
-    },
-    {
-      "id": "evt_8792f00a7861fcd5",
-      "topic": "business",
-      "headline": "Three Things to Know About China’s Export Boom - WSJ",
-      "summary": "Three Things to Know About China’s Export Boom WSJ",
-      "published_at": "2026-08-08T19:39:08.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVp3cE0xNEZtODBTSTRWaHRyZXBKVzQ3eTZqNUtocmp2eDZBN0tuWVN4cld3N1c3Wko1WXNqVWd3dmM2b3Y2cHU1TmFhc252N2hIQkFlTVNlVTlwd25MLUJrWE0xcWNSc2I2RkpFZjI4X1FFSDFYT0Rxc1VuRmJ1c0cyajkwZWIyUzI5d1NucUhNSThDVnhCV1lHaU85czdabDhVWTU0U3BESG8?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_feb8572c5dc00984",
-      "topic": "business",
-      "headline": "How One Man’s Cure for Loneliness Started a Movement - WSJ",
-      "summary": "How One Man’s Cure for Loneliness Started a Movement WSJ",
-      "published_at": "2026-08-08T19:35:48.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUNjdW9JQS00X0Y0ZmZMZXMyQkhoRmVFY3Y2ZWtOLXM3M3puaENiZHZxUnNuaFZnRVc2MHRSOTcwazJWZUhPcmVqeVVrYnJLY3BsT18tNHZaV2NVZjRPTDFPaGNjM2VtTlVTemdOdklhb2xoQTk1OWhhbWRpS1VRZTlVc05veDdvNE4yVm1sN1V3dw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_7df3269003c15422",
-      "topic": "politics",
-      "headline": "Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters",
-      "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says Reuters",
-      "published_at": "2026-08-08T19:35:43.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_6d721528d60102c2",
-      "topic": "business",
-      "headline": "P&G Agrees to Buy Supplements Maker for $3.8 Billion - WSJ",
-      "summary": "P&G Agrees to Buy Supplements Maker for $3.8 Billion WSJ",
-      "published_at": "2026-08-08T19:34:07.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3hTZXV6Wk5vNUZOeFJSY0J2d0Rqd1p3cUJOR2R6UldRSUd5TkZ5TDZnYzRMUzk2Nm11M1U3c3ZFNnVWVlJGS3dFdzdmZ2JNc25VY1VJRjhZN0g4MGNCOG80UC1xNmJTMnBZUnJkenFfTWlfNmJBNFkweWZOR1ZOZDFWOWlEOC1nRG9TZTIxWlhoTEVieE9JcEVReDA?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_0f0fd70108dafb23",
-      "topic": "business",
-      "headline": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business - WSJ",
-      "summary": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business WSJ",
-      "published_at": "2026-08-08T19:28:56.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNyWDh1TTFxRm40QVZoSEVJVjRlTFFlLXNIZVp2S19tcmpNVkNpQWp3bW5OdWxfbC02VWo1WEJ4VENXME16SndiZ1VlR29LNWZUSHhUclJSSWJpc25BcUZ1N1VvaGg2cFExMUJsSU53UzFWR2Z6MUhiSWVtTnR6cnhXREVpY25KdjRYSlJpejZMVlRZTnQwbHg3RGRDaHZXbVk2aWs2ZDdkOEljSGRxWVNiaDBrSEI1a3RLNTE0UWJEQ2FsQ1ZZ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_0837d2fe6c9fcfc6",
-      "topic": "business",
-      "headline": "Brown University President to Step Down Next Year - WSJ",
-      "summary": "Brown University President to Step Down Next Year WSJ",
-      "published_at": "2026-08-08T19:24:43.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0NkaTZ4OU95WWk2QWlCTEZVN09IZkdFY2hwTElGS0VyTDlxTDZsVzd3dGlseXpUOTh4TVNaMS1GcTlzSF9IbWl5YVVtVW9fMENMdm12NXB1T0QzTW44cFhISkdFQ1FseEJvUHFXSVVlQ3NtSjhhV1hJYnJERzZFc3dXNVR5YlNwOWh1cDhGVVB4YVBkOG9OZjRwT3YzdDg?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_76cbcefc32198bfb",
-      "topic": "finance",
-      "headline": "US Senate advances landmark crypto bill before heading on August recess",
-      "summary": "US Senate advances landmark crypto bill before heading on August recess",
-      "published_at": "2026-08-08T19:24:30.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-    },
-    {
-      "id": "evt_c1810c2335b00783",
-      "topic": "business",
-      "headline": "SpaceX True Believers Propel Shares Past End of Epic Lockup - WSJ",
-      "summary": "SpaceX True Believers Propel Shares Past End of Epic Lockup WSJ",
-      "published_at": "2026-08-08T19:24:28.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGRjWXRjQllNb0EwQXdVdFVGUUhGUXJzX25nRXNNbU9hbjJNXzhlQndBdFhycG1JRDlqSlRWZElIaWtYOWpkOUlpZUZXVHlyb203ajQ4T1R3VzhONmJwN19lNzgxYU9oV0JuS1c2TXhNM3BlRWFGcS04ZWFXdjFuOVFONk44VkJtQmVrVVNlaE5lV1kyeEFrd1ZfeVg5Zw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_a13d1b8fc77e8633",
-      "topic": "business",
-      "headline": "Exclusive | Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases - WSJ",
-      "summary": "Exclusive | Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases WSJ",
-      "published_at": "2026-08-08T19:20:05.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWw2dGZOTFVwSzJmd3VjVkd0MXpSUUtzeERaUUJCbmhDLU5MbkJnZWxiLUJVVkFsc1JwVWpIdmo0RHJKcDlEb0MyY0p0TnlWUDZqWGVTWEo0MXlhM3h0a0VTUnkxOXk3VXJaZlNMcDFrUlVDeEtHQk1VOGpXRHh5cU5xNERlUTBER2RyeGVfYXFralJTc3lnYU11Y1k2QURUT01OYW9sT3RTWllqY3poQzdHU2JjR2l0YmRRUVlvNTR6QQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_c3390376ed8f75a3",
-      "topic": "politics",
-      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "published_at": "2026-08-08T19:18:57.000Z",
+      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "published_at": "2026-08-08T22:01:54.000Z",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "url": "https://bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
           "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.77,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg"
+      "weight": 0.776,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "evt_0bd727ba40ff1b12",
+      "id": "evt_e3f9c170827bb237",
+      "topic": "business",
+      "headline": "EQS-News: Club Offers for Travel Enthusiasts in Germany – Company Announcement - Financial Times",
+      "summary": "EQS-News: Club Offers for Travel Enthusiasts in Germany – Company Announcement Financial Times",
+      "published_at": "2026-08-08T22:01:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDJNbTlyNC01R1AyeGlGcWZRTGNSTE5vQnhmRXNiTHl1dTNRZlBVNXZhZHp0Y1UwYlJ5T09OclNkeFc3Tnh1b3p3QWNDdGVvZHcxVm9pODJKbmFzbXhJUG5OVlI4QzlickotckpEV0E0RWFTUVBUU3dEWXA0U1dKenI1NUdsRXhSX0g5S0l5X21XZ1BIczBmejJRSjFwZ20waFk4WnFpOS1GZw?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_7026078dabb5be87",
       "topic": "politics",
-      "headline": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
-      "summary": "US Senate advances landmark crypto bill before heading on August recess Reuters",
-      "published_at": "2026-08-08T19:18:35.000Z",
+      "headline": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win - Reuters",
+      "summary": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win Reuters",
+      "published_at": "2026-08-08T22:00:58.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NUaFI0UHV6VzhMMlhKSnlmU2F3Y3kyMFdPNE95U1FzZVFBd3lmUU9RNWp4TzJNcWdqSVY4bDR0RlFWTTVUcnI2ajZVZ1JMTGZFbU1FVEFqRkdOb2M1ZmFFSzVIM0I4MjFYZTVDdnJkcjhZV19KSWhHb3RPbG5oZEJNbnNGUXVjZkRGb2k0LVJzdnF3bzZvMTBJUjVTczhfUjI5ZGtWMTFkWXFadks4?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_19fd73218551e893",
-      "topic": "politics",
-      "headline": "Former P Tommy John in hospice care, pens farewell letter - Reuters",
-      "summary": "Former P Tommy John in hospice care, pens farewell letter Reuters",
-      "published_at": "2026-08-08T19:16:14.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDBVbjJWWDcxQVJFYzN5TDk2U3dhR0hnOW9WN0tmaUlsS0RlWVA0Vk9XaEhxdXVrcVlNbThDNVFEMlowcXBBTzVzcUhTQmxtOW5FdDF0aElKWmFGWU9yNHFvOHRxd0M5eFNEakN0UzA0RDZLOTFFcTFwMXMwYWpkNHVZQ0JoZ2d4NmNjbjMtSFJsYU96eWlQY213a3c5U1prUEdB?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_d6e5cff8ef14c02c",
-      "topic": "politics",
-      "headline": "At least 200 people evacuated as wildfire rages near Lake Garda",
-      "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
-      "published_at": "2026-08-08T19:13:03.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_59d60e8fd38c5045",
-      "topic": "finance",
-      "headline": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
-      "summary": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
-      "published_at": "2026-08-08T19:03:50.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e"
-    },
-    {
-      "id": "evt_d7d02cb8ab3114e5",
-      "topic": "finance",
-      "headline": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
-      "summary": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
-      "published_at": "2026-08-08T19:02:19.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHA40JZ_L.jpg"
-    },
-    {
-      "id": "evt_9df8d01f990b3033",
-      "topic": "finance",
-      "headline": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
-      "summary": "Bitcoin squeezed at $65,300 resistance: Hourly levels",
-      "published_at": "2026-08-08T19:01:29.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA7U0A9_M.jpg"
+      "weight": 0.776
     },
     {
       "id": "evt_ee6703a0775d7474",
@@ -837,15 +445,290 @@
       "weight": 0.769
     },
     {
-      "id": "evt_b86b645f20ff6fdc",
+      "id": "evt_ac4624c29f47b221",
+      "topic": "business",
+      "headline": "How Amazon Built a Data Center in a California Town Without Anyone Noticing - WSJ",
+      "summary": "How Amazon Built a Data Center in a California Town Without Anyone Noticing WSJ",
+      "published_at": "2026-08-08T22:00:36.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_4cf5bbf08c60dfe9",
+      "topic": "business",
+      "headline": "Washington, D.C., Is America’s Newest Billionaire Boomtown - WSJ",
+      "summary": "Washington, D.C., Is America’s Newest Billionaire Boomtown WSJ",
+      "published_at": "2026-08-08T21:52:23.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXZDYzNOU3VESGRDVVlLLW1nT3F2TTN2dHlBWUcwR0JYS2NaREVzaFBlUDRJc0FqYnMxOG0yV3dQWXFOaHR2MU5ITFR6QWQ1UUdHNUdhZkxfZkhTRzRQWUNLUE1JTlpEYXFwWUdDdXl5WEhWNDRRUDhmLWcwSHk3Zkp0TVpyN1E1QURFZm52b052bXc?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_00e48732f12cdeb3",
+      "topic": "business",
+      "headline": "Why Doesn't Europe Want Air Conditioning? - WSJ",
+      "summary": "Why Doesn't Europe Want Air Conditioning? WSJ",
+      "published_at": "2026-08-08T21:38:14.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0w3ZHpsaUxqaXpZZUZBb2ZCc3IyM1pTcElmRVVnNTBMWldWY05ETU9nOHdPZWFHNlF3ZUw4NUhGOU9Tb2NBM3NVQzA5VjhDcUlGLTRGaXZ3X1ozdG5kOHExZUhMcTQyQm5DVVBVTDd6azFkMnItU25yblVfT2JxcjhaWmZJeHJCR3F2UzR0b0t0cEl5MC00Y3A3bW5TMmRQekxabA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_8d0d132da1199097",
       "topic": "politics",
-      "headline": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-      "summary": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
-      "published_at": "2026-08-08T19:00:43.000Z",
+      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
+      "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway Reuters",
+      "published_at": "2026-08-08T21:37:45.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_bd3cd629f0f4fedb",
+      "topic": "business",
+      "headline": "Chang I-Li, Unicon Optical Co Ltd: Profile and Biography - Bloomberg.com",
+      "summary": "Chang I-Li, Unicon Optical Co Ltd: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-08T21:36:16.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VXzNNYUE2bGI1dVJxQlhEcG45VDlsbDFmV0VjSUI2ZXlUSkRycVlDQml1MWQ1QXhkUDIzWVRLTjRkQzZZeXZ2WkItcW9vSFdpSjU2UVpVcThza013RHc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_47854d3232005b13",
+      "topic": "business",
+      "headline": "Alexander Voldemarovich Gagen, Bashneftegeofizika: Profile and Biography - Bloomberg.com",
+      "summary": "Alexander Voldemarovich Gagen, Bashneftegeofizika: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-08T21:36:07.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NXhxNkJ0WlY1WGs3LXVXOWxtZTIyUUVHNUxhQllCeWF3TkJ5UXZROFVteFZUd0RhaEh6U2xuU2UyYWVWNHRuajYxR09IdWxvb1htS3JkcnIzdnY5cGc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_557d42a4f2d89fd6",
+      "topic": "politics",
+      "headline": "Car-bomb attack in Colombia",
+      "summary": "A car-bomb attack occurred in southwest Colombia. It happened a day after a new president took office.",
+      "published_at": "2026-08-08T19:51:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0E3NWhTMHdFczZGRndJTDREOWFZSWZjVUtmQnVid1VCWHZQcWpObTlmbnFCWTdnTjNDZXgzZXN4dW82QzZQVzM4aE9SOFJoUXFuYWd4cmpTQk1DMHQzeHpCWlprT0VmTGhUN2x3ekZoZDBDWDNWT3Q0a19VSEIzM3BVUFNtYXZIeVl1M1pPdGN6dUl1eW54WVQ4Sm5OOWhXX1Y1OFR4azFWWmpqZ2Rz?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_10607484b97d9b3b",
+      "topic": "politics",
+      "headline": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+      "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
+      "published_at": "2026-08-08T21:28:12.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+          "url": "https://aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.772
+    },
+    {
+      "id": "evt_c36c8de8383e9077",
+      "topic": "ai",
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "published_at": "2026-08-08T21:24:02.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_596b6d6453e89397",
+      "topic": "finance",
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "summary": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "published_at": "2026-08-08T21:20:03.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771,
+      "image_url": "https://i-invdn-com.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg"
+    },
+    {
+      "id": "evt_54dc771e358d1f4b",
+      "topic": "finance",
+      "headline": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "published_at": "2026-08-08T21:18:29.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+    },
+    {
+      "id": "evt_c859af69cb3ea4de",
+      "topic": "crypto",
+      "headline": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+      "published_at": "2026-08-08T21:17:08.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling",
+          "homepage": "https://cointelegraph.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png"
+    },
+    {
+      "id": "evt_83dafa2953e2b646",
+      "topic": "politics",
+      "headline": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary - AP News",
+      "summary": "Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary AP News",
+      "published_at": "2026-08-08T21:11:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXFjOGlGSWlVVFQtNW5CeDhLSGdXV3QyaFRVR0g4RkJGNFA2aktsd185WGRUN3FaZlRxMWxLcm40T3J5dUtiQ21jT3NsNFZWTW95X2Y2ejFLaW83d2tidFVXUTNzVDFzVWVwaWZXcm9XX0U3T3NWZThBUHR5VlpCOHJESWtQTnZ3TjJpVXJYYTRFa0NzVjlWZHZ6SlZsVlZMQklPaHExbms?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_bb4405b640b785ac",
+      "topic": "politics",
+      "headline": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+      "summary": "Russia-Ukraine | Breaking News & Live Updates AP News",
+      "published_at": "2026-08-08T21:08:23.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_0097153fd80f626a",
+      "topic": "ai",
+      "headline": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 31 # Comments: 11",
+      "published_at": "2026-08-08T21:07:10.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_b590c7f799db2ade",
+      "topic": "politics",
+      "headline": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
+      "summary": "Thousands told to evacuate in British Columbia's wine region as wildfire grows Reuters",
+      "published_at": "2026-08-08T20:01:07.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_650046d2e44582be",
+      "topic": "politics",
+      "headline": "Dangerous wildfire keeps crews from reaching helicopter crash in Utah - AP News",
+      "summary": "Dangerous wildfire keeps crews from reaching helicopter crash in Utah AP News",
+      "published_at": "2026-08-08T21:05:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_3059cb9bd7d9df3c",
+      "topic": "politics",
+      "headline": "Trump’s Former Lawyer Is Now Attorney General",
+      "summary": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
+      "published_at": "2026-08-08T21:04:54.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
@@ -853,169 +736,280 @@
       "weight": 0.768
     },
     {
-      "id": "evt_f808fca45622c68d",
-      "topic": "politics",
-      "headline": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "published_at": "2026-08-08T19:00:22.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png"
-    },
-    {
-      "id": "evt_f009f29bf6905c56",
-      "topic": "finance",
-      "headline": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-      "summary": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-      "published_at": "2026-08-08T19:00:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://media.zenfs.com/en/oilprice.com/7b90c1f8cf2f50786e18bb2c08ed9641"
-    },
-    {
-      "id": "evt_f153f61c5559c215",
-      "topic": "finance",
-      "headline": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
-      "published_at": "2026-08-08T19:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://images.mktw.net/im-45400458"
-    },
-    {
-      "id": "evt_4f11020353d24ae4",
-      "topic": "finance",
-      "headline": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-      "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
-      "published_at": "2026-08-08T19:00:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://images.mktw.net/im-76384451"
-    },
-    {
-      "id": "evt_e7b6c63a59edde62",
-      "topic": "finance",
-      "headline": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-      "summary": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-      "published_at": "2026-08-08T18:59:44.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767,
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/7c4683bc5bf0d16429583d1150991d9b"
-    },
-    {
-      "id": "evt_195a28e4b6f1fb56",
-      "topic": "politics",
-      "headline": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-      "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
-      "published_at": "2026-08-08T18:57:53.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_262977194dbd915d",
-      "topic": "politics",
-      "headline": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-      "summary": "The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.",
-      "published_at": "2026-08-08T18:55:20.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_28e4bc7e421138e2",
-      "topic": "politics",
-      "headline": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks - AP News",
-      "summary": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks AP News",
-      "published_at": "2026-08-08T18:55:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjQyZGM5S1VnU3NWQ0VMWkk3TkpRTGxySnBlQlRLRmNORHV0MnZMM0NXWFpKa1B6RjQ5OVVQNzdZcGRtZHBlaURzZTVmNXd5QzZVSXd6LWJ2UVlDbk9Tc0F6dk1PTzlOQWFHT0ZpTlh0YzRZa0toaVhzZndvazNWWTRoM1o0TTVNelBIMDA2OHIxZG1mLUlaX1lXbjRteE5BTlBB?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.767
-    },
-    {
-      "id": "evt_0fe3734165c309e9",
-      "topic": "politics",
-      "headline": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo - AP News",
-      "summary": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo AP News",
-      "published_at": "2026-08-08T18:53:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGNIY1BsR0JoQzRvbEZaeTRhYlNWZ20ySllCS2JCWTdza20wRFJ3Z3NSRUYzdmVONVBnMzJyUFh2NUs3THpxdGpoWVhPbTZQYUZocWZfUndLR3NZTllMNGtHTkFQTTlKa3R0SVQzMTlaUEdHVGpramp6T3dEdS1fWVM0SlpaLW82TVJWSjBtOG5BSmRsSEE?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.766
-    },
-    {
-      "id": "evt_162b34821b5b5d82",
+      "id": "evt_5c3b85aed9efffac",
       "topic": "business",
-      "headline": "Is This Radical New Jet the Future of Flying? - WSJ",
-      "summary": "Is This Radical New Jet the Future of Flying? WSJ",
-      "published_at": "2026-08-08T18:47:06.000Z",
+      "headline": "Nicholas Michael, GoldInxs Mining Corp: Profile and Biography - Bloomberg.com",
+      "summary": "Nicholas Michael, GoldInxs Mining Corp: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-08T21:00:32.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xVFlCSnUwd0xpVkdJTU5LRk1wUmRZc0ZUSVRMRGF5ZDk3V1hZa2hmc05kRGE5aGV5ZGJJQjdQVmNMc0dHTXpsTGlDNTFfeE9ZNkdtWUkzOU9TWHlLNWc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_41e5c5af1f8827f8",
+      "topic": "business",
+      "headline": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus - WSJ",
+      "summary": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus WSJ",
+      "published_at": "2026-08-08T20:54:37.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXVpOUtOTTc5WDJLckFkekM0ODd2Y3NfUlh1ZWdBbFhjdW9QNTBMeHZXN2c3T2tMcHRDWmw3NWxqU2hWdkhkSlIydGhBc2wyc25rM1ZpVExiQmkxc1FYT3c0cnoySzJEOTBLYUNCcUtfdS1BQ0NrT0FOYTBfWUE0dlEyZXBvemp4RkFBcFkyOTRHMW8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjFockNBNGMxMkZQQlNjdHQ4VWFzTFV2Z0Z0N1Eza2xiWjYyZjVxVnNZQ0FISmh4Y3hsSTVOaEZ6STV4WC0xLWludk1vWmNYQUZtVUdCSmZJcEdjMVdZcGs1cnB3dE1NUmxsMUN4dXZaODhEcWNwZnQzN3RKNHV4MktzVXN6dDFtZmdFQ0ZMTG1UbnY5czFyVw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_caeeb7390dcf5e78",
+      "topic": "politics",
+      "headline": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
+      "summary": "Wildfires force 20,000 to flee as British Columbia declares state of emergency AP News",
+      "published_at": "2026-08-08T20:54:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.767
+    },
+    {
+      "id": "evt_edc6b854075eb6e7",
+      "topic": "business",
+      "headline": "How Trump’s Financial Windfall Stiffened Opposition to Landmark Crypto Bill - WSJ",
+      "summary": "How Trump’s Financial Windfall Stiffened Opposition to Landmark Crypto Bill WSJ",
+      "published_at": "2026-08-08T20:50:27.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkQtaDlERFlMLTdfN0RRaEU5d0xXMUlsemJtV0RVVklOMjZTZzlwUmFnQlUwNk5GUlBkSkxMSklObkdJUTk1d1BYUVNUdVNVUUllakNiR1ljMXREZmx3Z3lYTl9SSmNMYUxBUjE2V00zUGl0MVJ6TjQ4ZXhCYU9aU3hxVklrbkZPM1l6SlpfdWxsTmFUR1JrcXJ5LXVlaTJ3NmhiX3pyMVZDSjVhR2o2ck1ORzZZQ1A5TC1J?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.766
+    },
+    {
+      "id": "evt_0f00cef659493942",
+      "topic": "finance",
+      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "summary": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "published_at": "2026-08-08T20:42:34.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/9acb7c00e0b826add3430717957e8def"
+    },
+    {
+      "id": "evt_ff445aef4900f6d6",
+      "topic": "politics",
+      "headline": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead - AP News",
+      "summary": "Ukraine honors its ‘collector of souls’ volunteer killed while recovering the war dead AP News",
+      "published_at": "2026-08-08T20:39:00.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_0f8edad0e3a1a48a",
+      "topic": "business",
+      "headline": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More - Bloomberg.com",
+      "summary": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More Bloomberg.com",
+      "published_at": "2026-08-08T20:37:56.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbElJRDVpdUtZazI2aVlObGZuaVg1dDFFcy1IempuZEk4bm5RQVJ4T29nNmJSTWVqT3NuaU03N09zVDRoeWJPbTJ5d3lCamhoYjRZa0tESkFCZE9BbVBjWHV2OGdwdnBZaEJ6d1VocEhkYk1YU2pzUmM1UUE3YWJtbW9iZC1jaDJrSVZWbnczQXRmSmVWMFU1N3dfV1ZBYk1fb1ZtLW9qMGhGZw?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_b48c036bf1617f17",
+      "topic": "ai",
+      "headline": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 8 # Comments: 0",
+      "published_at": "2026-08-08T20:37:24.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_8ade908c53b3e06c",
+      "topic": "finance",
+      "headline": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+      "summary": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+      "published_at": "2026-08-08T20:33:28.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/what-would-it-take-for-mercedes-benz-stock-to-rerate-higher-citi-weighs-in-4847687",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.764,
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA740HR_M.jpg"
+    },
+    {
+      "id": "evt_2afbcb99b5325fd0",
+      "topic": "business",
+      "headline": "Shiv Mishra, Sterling and Wilson Renewable Energy Ltd: Profile and Biography - Bloomberg.com",
+      "summary": "Shiv Mishra, Sterling and Wilson Renewable Energy Ltd: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-08T20:28:55.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPaXhVZUVXSk5aREk4Z3p1SkZrZ0hIRldjcGJNVXdMVU1Wbk9CRnpEdFdCSHZzcFhVcVRDUVlzcVdDNmJiLWxOamxlWE8wSlg5aHVsbUZHR2lENUk3UEE?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_7129039b71518a1b",
+      "topic": "politics",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News",
+      "published_at": "2026-08-08T20:28:25.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_ac5afda44cbe7567",
+      "topic": "politics",
+      "headline": "What are the challenges facing the Mecca agreement?",
+      "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
+      "published_at": "2026-08-08T20:25:43.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_0bd727ba40ff1b12",
+      "topic": "politics",
+      "headline": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+      "summary": "US Senate advances landmark crypto bill before heading on August recess Reuters",
+      "published_at": "2026-08-08T19:18:35.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_f93ec703afb92461",
+      "topic": "finance",
+      "headline": "Telecom Argentina ADR earnings missed by $0.05, revenue fell short of estimates",
+      "summary": "Telecom Argentina ADR earnings missed by $0.05, revenue fell short of estimates",
+      "published_at": "2026-08-08T20:24:11.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/earnings/telecom-argentina-adr-earnings-missed-by-005-revenue-fell-short-of-estimates-4847686",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763,
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+    },
+    {
+      "id": "evt_73c887d38c589612",
+      "topic": "business",
+      "headline": "The One Place Where Wine Still Rules: 30,000 Feet in the Air - WSJ",
+      "summary": "The One Place Where Wine Still Rules: 30,000 Feet in the Air WSJ",
+      "published_at": "2026-08-08T20:23:40.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00YlpucjZJMHM4bUtnV3h3YzFvRkd2ZnZ0b3pjMG8wZ3ptcmJzWjNQTTdwYjFQdTlJbTBwSW9UZjZNejhVdTdfSXpWTUdXVXlnZ1lmdklKaFMzLUhQSU94T3VwT1VFeUxqUzdjVlctZUVNX1NlaVBTbTg0VQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.763
+    },
+    {
+      "id": "evt_194e27b468f4ad35",
+      "topic": "politics",
+      "headline": "British Columbia declares provincial state of emergency as wildfires grow - Reuters",
+      "summary": "British Columbia declares provincial state of emergency as wildfires grow Reuters",
+      "published_at": "2026-08-08T20:21:43.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlJZmFSMlhEZDBYS2E3ejJZR1VxWkdEYjZQTm00NGVvemhMSjV1SUZTdkdIZTA4cFFLSXg5cHlsOGZPSjNlVjhSaXNDX09uZzYtaFN0TS1WZndRLVlIRktrdGtMVUszMWZIYklQYTJsbkZaLVN3ZXB1SGlTb05DY0RHa1VXUkFPMGN3STBSeVNHRl9Uc1RZVzZCaHdhbWJrQ29MQ0NsMkpOV0lfeGw0QWRERmFRbGNsQ0VkdnJxcDFfUQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.762
+    },
+    {
+      "id": "evt_1fba0794ffb4bec2",
+      "topic": "politics",
+      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "published_at": "2026-08-08T20:18:28.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg"
     }
   ]
 }
