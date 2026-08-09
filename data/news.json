@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-09T10:34:04.602Z",
+  "generated_at": "2026-08-09T12:49:40.223Z",
   "clusters": [
+    {
+      "id": "evt_7432f5c228debd5a",
+      "topic": "politics",
+      "headline": "Israel Rejects Trump Plan",
+      "summary": "Israel rejects Trump's plan. Netanyahu demands Hamas disarm.",
+      "published_at": "2026-08-09T12:12:10.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        },
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 3,
+      "weight": 1,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg"
+    },
+    {
+      "id": "evt_e285defc9a48d76b",
+      "topic": "politics",
+      "headline": "BC Wildfires",
+      "summary": "BC declares emergency. Wildfires force 20,000 to flee.",
+      "published_at": "2026-08-09T11:23:27.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWjVLRzZHczZEMWw5c2lYd1MxSHUzc0xWcG5VbDFGYURwS0RIUW9iMW1XdUllLWhETDJPSTYxN25fMDB3QzZ0YUMyQlRLN05yU0c1VzU1OTJYLTUxWTJDcWxDNXZWUjQ?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.948
+    },
     {
       "id": "evt_2893e5a277aa7fef",
       "topic": "politics",
@@ -21,27 +69,6 @@
       ],
       "source_count": 2,
       "weight": 0.944
-    },
-    {
-      "id": "evt_4cbf4e2151e06e94",
-      "topic": "politics",
-      "headline": "BC Declares Emergency",
-      "summary": "Wildfires force 20,000 to flee. BC declares state of emergency.",
-      "published_at": "2026-08-08T14:52:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
-          "homepage": "https://apnews.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.842
     },
     {
       "id": "evt_4b9c85ef67de5057",
@@ -66,50 +93,6 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_b20752a3cef224d6",
-      "topic": "politics",
-      "headline": "Todd Blanche confirmed",
-      "summary": "Todd Blanche is confirmed. He is Trump's former lawyer.",
-      "published_at": "2026-08-08T15:56:39.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.805,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg"
-    },
-    {
-      "id": "evt_a3f13611537c6ad0",
-      "topic": "politics",
-      "headline": "Jorge Messi dies",
-      "summary": "Jorge Messi dies at 68. He was Lionel Messi's father.",
-      "published_at": "2026-08-08T18:21:49.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.942,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg"
-    },
-    {
       "id": "evt_44be5d79b6f1beb7",
       "topic": "crypto",
       "headline": "CLARITY Act Vote Delayed",
@@ -132,47 +115,32 @@
       "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
     },
     {
-      "id": "evt_25aa1ae7b6e4ec01",
+      "id": "evt_7f01ff6e5f8982c4",
       "topic": "politics",
-      "headline": "Donald Trump",
-      "summary": "No info available. Donald Trump.",
-      "published_at": "2026-08-09T10:30:14.000Z",
+      "headline": "Canada Wildfire",
+      "summary": "Canada wildfire doubles. State of emergency declared.",
+      "published_at": "2026-08-09T12:41:40.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.779
+      "weight": 0.779,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "evt_fa5e9ea070967fc0",
-      "topic": "politics",
-      "headline": "Ukraine",
-      "summary": "No info available. Ukraine.",
-      "published_at": "2026-08-09T10:30:13.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_c7a4d78b304a1d89",
+      "id": "evt_5d2ec488ac1c3733",
       "topic": "business",
-      "headline": "Water Crisis Deepens on the Colorado River - WSJ",
-      "summary": "Water Crisis Deepens on the Colorado River WSJ",
-      "published_at": "2026-08-09T10:27:21.000Z",
+      "headline": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "summary": "Tech, Media & Telecom Roundup: Market Talk WSJ",
+      "published_at": "2026-08-09T12:41:09.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGNucWU0RFRnYWhfeC12anFRX2VSRWd6T0JjMXZFdGpMQWVnYUhJRjFXcVBCQ0hUOE9hMTlNSUZyU3p0MDY0aXdwNktEUXYzNmloOHJMUFpVN2pKaDVhT0JsMHVQbnR0NmNXdURJRk8wbVhBTlZnZVdTLXBjUXdyLUtZeklDSjFZajNiOHhjeTJwZF9kNjNYWUN3RHFDdFdz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGN3MjdPWlBWRnBCWlNNZGVBeWctOUZib3hoUVpCNTIyQVc3Q2lUME9Bd19pWS1pZjV2UFFJTWpNZmg0dWZZZ0dYcEYwUDJ5bFAzZTdwVENqb05VYU9DZGFjLTM0MGpvQ0FtNXNZTHlCcGVRdWNzWlA1dktXZzBEOTJ3?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
@@ -180,294 +148,36 @@
       "weight": 0.779
     },
     {
-      "id": "evt_3e5a3721b8b36378",
-      "topic": "politics",
-      "headline": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-      "summary": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today AP News",
-      "published_at": "2026-08-09T10:24:02.000Z",
+      "id": "evt_160514bbaafce314",
+      "topic": "science",
+      "headline": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+      "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using cannabis for stress relief might, over time, interfere with th",
+      "published_at": "2026-08-09T12:40:58.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/08/260808234953.htm",
+          "homepage": "https://www.sciencedaily.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779
     },
     {
-      "id": "evt_e220227e684a9e06",
-      "topic": "politics",
-      "headline": "Trending News - AP News",
-      "summary": "Trending News AP News",
-      "published_at": "2026-08-09T10:24:02.000Z",
+      "id": "evt_17c025d3881bbe86",
+      "topic": "business",
+      "headline": "U.K. Regulator Eases Listing Rules in Bid to Revive London Market - WSJ",
+      "summary": "U.K. Regulator Eases Listing Rules in Bid to Revive London Market WSJ",
+      "published_at": "2026-08-09T12:40:29.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42LVRfRE1VN3p6TWQtbjFtRG1EeEFPNHlxaVg5M0lSTmYtQkRqUi1iNEhBbXRtd09QYW1BUGt2R3lFQjVicmJRYUIwNko?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FWV2h2Q3R2QkhRdEI2MnZEUWpRejNOZ2Rqd0tsenhvMVlSUkdRb0tnQ3RaY1lwZ1lRX2ZEaW9Bd3lrSF9ZUzN6SmVGekEzQTF0TDh5d1JEdmFoejRRdUdPVjhkQ1liUlplM1hBTEp6QmJ5SDVnLXRLY041NmJaY1BDYnZkaUdkdFl1dkQzdU8xekJ3WmJvQVRXVFNmMDRsSUtpN0cyYWZtUEZJWDI0?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779
-    },
-    {
-      "id": "evt_66e64c629867f5ba",
-      "topic": "politics",
-      "headline": "Immigration - AP News",
-      "summary": "Immigration AP News",
-      "published_at": "2026-08-09T10:19:52.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_0d2557e3155c84b6",
-      "topic": "politics",
-      "headline": "Susan Collins - AP News",
-      "summary": "Susan Collins AP News",
-      "published_at": "2026-08-09T10:19:52.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaREx2ckVqWG9oVFZoLTY4X1RwNXg0WVB4VDBUTVVZQ010aE90RnlITXgwMnJQaC1ucnNPcGZtOWdVSmszaE1LWHQ1TTU?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_e98c40e99e566e69",
-      "topic": "business",
-      "headline": "How Much AI Can Thought Leadership Take? - WSJ",
-      "summary": "How Much AI Can Thought Leadership Take? WSJ",
-      "published_at": "2026-08-09T10:17:13.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWVTVEI2S180bWNJRjZuNkx2U1c0Vk5nZVNPbXJpUVZOZldrWDN6b0hnZmF6MmJleUQwSmJHNG8tQTF1bm1ra3VfaTdZeGtjbzBzMlR1SE4zT0kxYkNHMUt6MmN3LU93ZEhXSFBGVmo5YkszQWxleUF6a2ZXTjd4S29RWTA?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_2b363855b516d5d0",
-      "topic": "politics",
-      "headline": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
-      "summary": "The two North African nations become the first teams from the continent to qualify for next year's World Cup in Brazil.",
-      "published_at": "2026-08-09T10:15:10.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_89b1f6683a81c8af",
-      "topic": "politics",
-      "headline": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News",
-      "summary": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news AP News",
-      "published_at": "2026-08-09T10:14:00.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_386e6b686bab0263",
-      "topic": "business",
-      "headline": "The Kremlin Is Bullying More Russians Into Fighting in Ukraine - WSJ",
-      "summary": "The Kremlin Is Bullying More Russians Into Fighting in Ukraine WSJ",
-      "published_at": "2026-08-09T10:13:29.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzJVSWFQWFZXcHVITHRqdUE5QVdRdFJIZG1SNGRWQllVei00UEozRmVEU0l0V3VhYXpYRGtsQ3hONmhhQmpNRjlHdjYtZTJTSHg4UVM5b1JMSzNaejN1ZHlLMUhiblhNTF85RG1WVHJzX0lCSVpjYlI0cEFaajUtUzVPV21aUU5Da1VvY0V6Y3ZPZTktZzI2a2tzMFlqb1BfTTc2cHJYUQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_e2b6ab337e2fdd51",
-      "topic": "politics",
-      "headline": "California - AP News",
-      "summary": "California AP News",
-      "published_at": "2026-08-09T10:10:42.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_7129039b71518a1b",
-      "topic": "politics",
-      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "summary": "NFL Scores, News & Stats | Latest Super Bowl News AP News",
-      "published_at": "2026-08-09T10:06:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_943513abbf20aa16",
-      "topic": "finance",
-      "headline": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds",
-      "summary": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds",
-      "published_at": "2026-08-09T10:06:25.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/three-in-five-americans-favor-stronger-oversight-of-social-media-companies-reutersipsos-poll-finds-4847723",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg"
-    },
-    {
-      "id": "evt_7510320b0f3fa2b1",
-      "topic": "business",
-      "headline": "Homeowners Associations Are Foreclosing on More Residents - WSJ",
-      "summary": "Homeowners Associations Are Foreclosing on More Residents WSJ",
-      "published_at": "2026-08-09T10:05:28.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlhMVnVwaGVZMWtCc0lnOHo2NWEyU2NLbFlRZHFzYzBvZmJGR2xsYms3RDdnaENXYTNxaW0yWVBxSXdsdHN3TU43MXpfTmczVkdFWmFuRnZodVJQb0pwalhmMTRWaWkwRkFRX2N0V1g0UnpTc1pQWFRPN01HQkJOa3h1bjBHQ003MVZxd0pvVXRLQ1JidlhXVFN6SVU4QlE?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_577a333b93b72b89",
-      "topic": "finance",
-      "headline": "Street Calls of the Week",
-      "summary": "Street Calls of the Week",
-      "published_at": "2026-08-09T10:05:02.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/street-calls-of-the-week-4847676",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/LYNXMPECBJ04U_M.jpg"
-    },
-    {
-      "id": "evt_f9d478902ffa3b05",
-      "topic": "politics",
-      "headline": "THE ASSOCIATED PRESS - AP News",
-      "summary": "THE ASSOCIATED PRESS AP News",
-      "published_at": "2026-08-09T10:04:29.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_b7590336af6226d6",
-      "topic": "politics",
-      "headline": "Europe News | Breaking European News Today - AP News",
-      "summary": "Europe News | Breaking European News Today AP News",
-      "published_at": "2026-08-09T10:04:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_e744c463481ed4df",
-      "topic": "politics",
-      "headline": "Deportes - AP News",
-      "summary": "Deportes AP News",
-      "published_at": "2026-08-09T10:04:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_a7caa548a27bb0e8",
-      "topic": "business",
-      "headline": "The AI Therapist: A WSJ Podcast Series - WSJ",
-      "summary": "The AI Therapist: A WSJ Podcast Series WSJ",
-      "published_at": "2026-08-09T10:04:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oUWlRZDIyTHJkVldYMlFVb3NIZ3VON3VDOFV1MVkwSXNCcVd5aFZsbGNvWW52RnBHcWFoQkR6LU1yRFNsWUdqS3F1VHVrSlE5aURSSU92a3ZxV1BOamRtbjdta1hMY3hkRHlLcVgxc0E4X3JFSjRINC1UelZRdHM?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_3dea861288e48d5f",
-      "topic": "politics",
-      "headline": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "summary": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
-      "published_at": "2026-08-09T10:02:59.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
     },
     {
       "id": "evt_ffab562316bdbc22",
@@ -487,524 +197,816 @@
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg"
     },
     {
-      "id": "evt_ee6703a0775d7474",
+      "id": "evt_54955f167ca9e1d7",
       "topic": "business",
-      "headline": "How ICE Is Weaponizing Social Media Against Its Critics - WSJ",
-      "summary": "How ICE Is Weaponizing Social Media Against Its Critics WSJ",
-      "published_at": "2026-08-08T05:30:51.000Z",
+      "headline": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend - WSJ",
+      "summary": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend WSJ",
+      "published_at": "2026-08-09T12:31:55.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUdFX2F3eHVjX1huNS1NLWZ0dGZUSFBVWGtGbGN2S043UmJ3RVVVeG41N083amx3Zy1aYUlHNi1sRzlPNERKSXpQQ2o1TGUtVEFBOHlFTzJOVDRnV0lPMlJBVVFfNDZOallST191Y19WQ2lYa3owRE1ETzF0RkdKZ0pSYzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmJEdkNPbnFIaWIwci1ma1Qya3RudkQzWUtuLWlDSks5eTZIQVhCbjF1RkVEWllZLWVYUWlhRmV6UThmVzlaQUF4X1FzX2FiS1JQSldYb3NGU01zSkNUbXhRNERMVXYzNWlkRXRzLXR3VzhSM3JQNGdzZk5MTTdXWkktMzk?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.769
+      "weight": 0.778
     },
     {
-      "id": "evt_90f345e1509547b9",
+      "id": "evt_c1a8d93275c30339",
       "topic": "business",
-      "headline": "Asian carmakers cash in as high petrol prices lift US demand for hybrids - ft.com",
-      "summary": "Asian carmakers cash in as high petrol prices lift US demand for hybrids ft.com",
-      "published_at": "2026-08-09T10:00:09.000Z",
+      "headline": "U.S. Revokes Brazilian Ambassador’s Visa Amid Diplomatic Standoff - WSJ",
+      "summary": "U.S. Revokes Brazilian Ambassador’s Visa Amid Diplomatic Standoff WSJ",
+      "published_at": "2026-08-09T12:31:44.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS01UVmJHZGN4NzRCRndQV2VITGU1OHVCeEdiNXpFclRpdFh1NXlkVjNuQXBsanpwUDNGU2VFcnBoQTE1d1NQQ1E4ZlpMb20zaFdwaGo0SFJwWWhQQTRfMkhxYnlKR09sZFY4RjVmVlF4UllkeEpZRy01U1VxUzI4LTRzbFlobXE2MzNFckZyNXZYLUFOYkJtNlV3TXpTRjEyd1RXUGlnWXFKZm5B?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_5a55d2e19c0c1d1a",
+      "topic": "business",
+      "headline": "Essay | I Didn’t Realize How Addicted I Was to My Phone—Until I Went to Prison - WSJ",
+      "summary": "Essay | I Didn’t Realize How Addicted I Was to My Phone—Until I Went to Prison WSJ",
+      "published_at": "2026-08-09T12:31:24.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMmI0Z0ViRUhUVDJKWjN2cTJEM2JWc1F1MHk2S3VsTzBLRms3OEJ3cGVuU2E0clBOQVpSeDg3WWZVRjRyOE5uck1vSko1YU51UmNvQjdfY3RyR2VuZm9KX3pOTktBZTB3QURSb096aFRlVGNKR0VTVWdxXzlxREZVLVQ5Zw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_f6d93130d810bd81",
+      "topic": "finance",
+      "headline": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "published_at": "2026-08-09T12:30:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-02087591"
+    },
+    {
+      "id": "evt_97db90369b56e9ec",
+      "topic": "finance",
+      "headline": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "published_at": "2026-08-09T12:30:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-58472746"
+    },
+    {
+      "id": "evt_c109d43b3df7c1d2",
+      "topic": "politics",
+      "headline": "Ancient Roman shipwreck discovered off Sicily coast",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "published_at": "2026-08-09T12:27:26.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/d5346d20-93e6-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "evt_d786f0ecbd275787",
+      "topic": "finance",
+      "headline": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
+      "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
+      "published_at": "2026-08-09T12:23:54.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_68f5d9018fb93ebc",
+      "topic": "finance",
+      "headline": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
+      "summary": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
+      "published_at": "2026-08-09T12:18:27.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://i-invdn-com.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+    },
+    {
+      "id": "evt_86516a4b4e7d86e8",
+      "topic": "science",
+      "headline": "For decades, we were told to choose low-fat dairy. New research says otherwise",
+      "summary": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more ",
+      "published_at": "2026-08-09T12:12:46.000Z",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/08/260808234948.htm",
+          "homepage": "https://www.sciencedaily.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_b76c1da64d55e967",
+      "topic": "finance",
+      "headline": "Apple tests China’s CXMT memory chips for iPhones and MacBooks, WSJ reports",
+      "summary": "Apple tests China’s CXMT memory chips for iPhones and MacBooks, WSJ reports",
+      "published_at": "2026-08-09T12:12:30.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/apple-tests-chinas-cxmt-memory-chips-for-iphones-and-macbooks-wsj-reports-4847734",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEK9R099_L.jpg"
+    },
+    {
+      "id": "evt_b9064b9faf768b43",
+      "topic": "politics",
+      "headline": "Nigeria mass weddings ease financial burden for couples",
+      "summary": "For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.",
+      "published_at": "2026-08-09T12:07:51.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_ffad92071d273125",
+      "topic": "business",
+      "headline": "My Secret Diet Is a Trip to Europe - WSJ",
+      "summary": "My Secret Diet Is a Trip to Europe WSJ",
+      "published_at": "2026-08-09T12:01:58.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaFJjbFFVYzJ4ZGhNRUtaVUZXT3o1cUgxdXZObE9ILWNPeDNadTlxVEVoNnZiRHhOcEpfVTVzWHpycGxnVlI2RklobDdEcUhDQ1JmLU9IQVhNal9ieXo3eDg4cWREUkN2bXpTRjRqMkk1MENUTlJKeG5aT3hqcTkwci1leldabWs?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_a2f84daf54d8faf8",
+      "topic": "finance",
+      "headline": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "summary": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
+      "published_at": "2026-08-09T12:01:56.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_239764bc5c8f7df5",
+      "topic": "business",
+      "headline": "Organised crime suspect Daniel Kinahan extradited from Dubai - Financial Times",
+      "summary": "Organised crime suspect Daniel Kinahan extradited from Dubai Financial Times",
+      "published_at": "2026-08-09T12:01:48.000Z",
       "sources": [
         {
           "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVFVTjJMZjNfLWVhdHQ3LWZxcmJzY0NqQThsZnpQOXQtVGhudjNfb2ZIY05fUmNZVnRVRkp2Qk9FOXNSRno5Zk9uaVNxM1g2cWlqZWhsSmRzRmNNZGY3LU9BQUZkU0JuZEJFVUJYVERxYVB4MjZwOXJ5b1BJNldjRTQzaFA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zRllVTFNibWllNDg4ajFiUW1ZTnBzOGpnbXF2TURHY0Qwckl0bnhtZ250eGxZbVdQWk11N25XQkhITGtqZzh4X0VDaXJsdHo3dUIzZHhRaHItNHVjYi1sTlg4VHZpanBpcVZrSXpzY3A?oc=5",
           "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.773
     },
     {
-      "id": "evt_3c70bcb27a8ebfb9",
-      "topic": "finance",
-      "headline": "Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week",
-      "summary": "Mortgage and refinance interest rates today, Sunday, August 9, 2026: Rates mostly lower than last week",
-      "published_at": "2026-08-09T10:00:00.000Z",
+      "id": "evt_4b597babdf0f0d43",
+      "topic": "business",
+      "headline": "NYC’s Pied-à-Terre Owners Hunt for Creative Ways to Dodge New Tax - WSJ",
+      "summary": "NYC’s Pied-à-Terre Owners Hunt for Creative Ways to Dodge New Tax WSJ",
+      "published_at": "2026-08-09T12:01:42.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-9-2026-rates-mostly-lower-than-last-week-100000935.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjFEbE41VEkxb2NIbHRXTGllMjJ6aHgyZkJWZV9fZ05RZFh2WVRSN0RqVVZCd3c5SnJPZWszQS1vOWNmS0I5YUtKSlFUNUVHSnZ3YXcyelVWME1BMnRPTjJRd1c3X3VoSEVDTlo2el94cjZwd3psQXltMWd6eUlTOXMxM2JHZW5pTTNuNVZJVzFRN3RQaURsLTFFaXEyMno4SzhaVk9xUDFldWQtVDZmWnRBWmlwQmplWXc?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3"
+      "weight": 0.773
     },
     {
-      "id": "evt_d6403f97c496d473",
+      "id": "evt_a8de8b57754ffe45",
       "topic": "finance",
-      "headline": "Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY",
-      "summary": "Best CD rates today, Sunday, August 9, 2026: Lock in up to 4.35% APY",
-      "published_at": "2026-08-09T10:00:00.000Z",
+      "headline": "Abel puts a big chunk of Berkshire's cash to work",
+      "summary": "In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.",
+      "published_at": "2026-08-09T12:00:33.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-9-2026-lock-in-up-to-435-apy-100000411.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0"
+      "weight": 0.773
     },
     {
-      "id": "evt_204dc8996ce112e7",
+      "id": "evt_482ccd285e1cbb9c",
       "topic": "finance",
-      "headline": "European stocks draw investors as earnings and growth strengthen",
-      "summary": "European stocks draw investors as earnings and growth strengthen",
-      "published_at": "2026-08-09T09:58:30.000Z",
+      "headline": "Why the upcoming CPI report is a bigger event than last week’s jobs data",
+      "summary": "Why the upcoming CPI report is a bigger event than last week’s jobs data",
+      "published_at": "2026-08-09T12:00:01.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/european-stocks-draw-investors-as-earnings-and-growth-strengthen-4847722",
+          "url": "https://investing.com/news/economy-news/why-the-upcoming-cpi-report-is-a-bigger-event-than-last-weeks-jobs-data-4847733",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://content-media.investing.com/news/EuropeanUnion_800x533_L_1744805884.jpg"
+      "weight": 0.773,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXNPEL1J0NY_L.jpg"
     },
     {
-      "id": "evt_80cd7abf968d1ca5",
+      "id": "evt_f37c153f19df6b8d",
+      "topic": "business",
+      "headline": "The Enduring Power of 1930s Beach Architecture - Bloomberg.com",
+      "summary": "The Enduring Power of 1930s Beach Architecture Bloomberg.com",
+      "published_at": "2026-08-09T12:00:01.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTVrUXVkNDhOdXBLbENNYmFvMjFRb0VqV2t1RHBTZE9xLV9aSk80QlZDWWV3S29NR1g1QWQwb2cwdHFIclJlZjJLLWxCekVwR3ZoNHZOa3U3TmtDTi04bFNlQkJMRFJWLWgzYnpyOXFpalFhTmhVQnhVNTlNT1RDV1ZWS28xWWNVaGMxMmhKX0FaM2NTYWxROGpER292enRvSkE?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_8e8e0e1b23779662",
+      "topic": "ai",
+      "headline": "AI detectors are creating a new era of distrust",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long",
+      "published_at": "2026-08-09T12:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_1a78dbcdfc1be47b",
+      "topic": "business",
+      "headline": "Why NBA Stars Are Giving Up Millions Under the League’s Baffling New Salary Math - WSJ",
+      "summary": "Why NBA Stars Are Giving Up Millions Under the League’s Baffling New Salary Math WSJ",
+      "published_at": "2026-08-09T12:00:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmdsMjgyWnFDZFIxcG5BSXNvSU9GTTJ3cjJuQ1AxSjFKczdZOFhVMnVQOTNFS1dYalltMzhQSWZmUVE5NzltR28wVlJCbUFFMXEwRnFmako0dFJtVWNaM0NVcmw3enl0OXRJeGJuRjY0dVliNTl6UWZUUXhJOW1EdWpTU2dpUzZa?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_57fbf4e965cd88c9",
       "topic": "politics",
-      "headline": "Soccer - AP News",
-      "summary": "Soccer AP News",
-      "published_at": "2026-08-09T09:56:25.000Z",
+      "headline": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
+      "summary": "While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.",
+      "published_at": "2026-08-09T11:59:59.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_018bf4dc725802ca",
+      "topic": "politics",
+      "headline": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle - AP News",
+      "summary": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle AP News",
+      "published_at": "2026-08-09T11:58:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlRFbnhjM2FtSUhnMDRaN0NtRHhOVGFrNU9zU2N5Zkt0aVl2QVRmUWJ5UmVxMkd2Y1dqaUlCTTNVMjFxTGYtNDFFVDlscDR5aTJBODJFQnoxRWs2VHV4NVVqQVA4UlRsM2l0TXBTU0I4RkYwRGxlaHotRm9kVmhVellYRjJNN05TRkEybU5FekdkZWNoSVFiNFFFTEZBU1hu?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
+      "weight": 0.773
     },
     {
-      "id": "evt_843343a5c1fbf274",
+      "id": "evt_373501a17e3367ad",
+      "topic": "business",
+      "headline": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com",
+      "summary": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears Bloomberg.com",
+      "published_at": "2026-08-09T11:56:40.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGxEalhEb0dRZ2drRUFYR3JDTUptRWd6dlJKU2ZjR25sZ20yc3Bib0JQMjVhVUlMUDdDSTdBSmh5OGQ5RzZZUjFxUUVFSkFsRUlNVzc2bjViZEllRHNWcU9XWk5MNnAwZEI2Zm9mb29wcXduTVdDODI5ZVZpTGxkZTBWWHlmRzJJeHl6MWZGRVhGMENCdE0tZUZfVXc4MnhNZ3IyckdCNUpRNUtOVVlzeXBySVc?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_307830ae19c1af5e",
       "topic": "politics",
-      "headline": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
-      "summary": "German trade deficit with China grows as Beijing relies less on European industry Reuters",
-      "published_at": "2026-08-09T09:55:36.000Z",
+      "headline": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
+      "summary": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say Reuters",
+      "published_at": "2026-08-09T11:55:43.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
       "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_c4c46d852d142562",
-      "topic": "politics",
-      "headline": "Baseball - AP News",
-      "summary": "Baseball AP News",
-      "published_at": "2026-08-09T09:54:29.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zNldiT1p2dkhWMnhBcGJxUkZ6bXVZaTVOckNJX1ZZbE1rNUd1VkFLek9fS216ck84NVpYdXJ6emJpQ1ZHQ2c?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_c92eda8ed01b8683",
-      "topic": "politics",
-      "headline": "New York City - AP News",
-      "summary": "New York City AP News",
-      "published_at": "2026-08-09T09:54:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_4146e5997a98e97a",
-      "topic": "politics",
-      "headline": "MLB | Latest News, Stats, and Scores - AP News",
-      "summary": "MLB | Latest News, Stats, and Scores AP News",
-      "published_at": "2026-08-09T09:50:24.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_3f35b4b9148d89b3",
-      "topic": "politics",
-      "headline": "Minnesota - AP News",
-      "summary": "Minnesota AP News",
-      "published_at": "2026-08-09T09:49:32.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xN09ZUnVnbW1ScFVDRkt2TmFyM1VvV3hiVEJxMmwwZmlXLV9mTktrS3p0Mi1CVHBTSTZneEdsbWtCb3NUclJF?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_9258a833ab662ffb",
-      "topic": "politics",
-      "headline": "Latin American News | Latest Latin American News - AP News",
-      "summary": "Latin American News | Latest Latin American News AP News",
-      "published_at": "2026-08-09T09:49:31.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_07652bb593c6e716",
-      "topic": "business",
-      "headline": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
-      "summary": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion WSJ",
-      "published_at": "2026-08-09T09:42:29.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUpfSFV4Q1h5WXR1aUFxV2JzZy1TSExNNEZSS2cwbDdpVmtxZjdtSmZsaEFyWXNDeXJPaDZQY0tjRzV2U3d6UXBIOVF5RU8tMk5zaFBKSWFOaFBTUG82SmNCRzhuTXdZcUg3RVVMaHdFemRncUszb3VGY0hVQmdiQUZyOVJjTmV5Z1l1bUdHdGhuUlNqa0l6T0lxOGYxLURDeUxDaUpUNm9Sam9UTmNxNQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
       "weight": 0.773
     },
     {
-      "id": "evt_9013840687923148",
-      "topic": "business",
-      "headline": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished - bloomberg.com",
-      "summary": "Saudi Says Fire at Aramco Refinery in Jazan Was Extinguished bloomberg.com",
-      "published_at": "2026-08-09T09:42:27.000Z",
+      "id": "evt_0d22e24a232166b3",
+      "topic": "politics",
+      "headline": "‘US and Iran are talking past each other’ in indirect negotiations",
+      "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
+      "published_at": "2026-08-09T11:53:03.000Z",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR005Q2RVZFgxYU12d0ZqT3Zqd0JHeXZ3Y1NjT0JZVnNSQlZ1VXpTSENxZEJ4UVVNUzlhU2ptbms0QngydVZZOWZDZlhhR2ZwUlp1a18wOVR1NGhNZzNucnR1dHZNM3hCSUwyaDJ6ZkRtUnFzRWhQbFFFYW5qWHRZdWdoaGJneW12a3EtemdXM2k0X2VuVnJaMzJMeFE0V2FiN3FuSDlGNngwQkRlLXFiVWVYVTJ1NXR3cTd0SQ?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_ed1065de021db1e0",
-      "topic": "business",
-      "headline": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus - WSJ",
-      "summary": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus WSJ",
-      "published_at": "2026-08-09T09:40:22.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFU4TzBJT1J6VWhxb3kzVGlxZ0pWaWxBQ1JzUWNfX05aeHd2U0VTVTE5aUtfc2xCVXBnMjhEVnBwem05b3d2bm9DeXUxZGxMSVR1TURVOVdaOFVGcF94ZDdDVkdBTGZNQXktLVdMLVpXdXB6a3ZtUENhVzBqMFhMYmp6bWUzaGdDTldnMHdpQV96QQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_c82178e1ad1438a0",
-      "topic": "business",
-      "headline": "China AI Chip Designer Moore Threads Plans Hong Kong Listing - bloomberg.com",
-      "summary": "China AI Chip Designer Moore Threads Plans Hong Kong Listing bloomberg.com",
-      "published_at": "2026-08-09T09:39:56.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGhaajNuWXdVelQyN0ZBNzQ3eGhUVkNfVEZxRzNXM1V2WjhKaGYzUFRtUHdFSElOVThVMWphbjZBZGVjNEhwRHJEdHM4QVdvdXJ3dDZza2xLcllFNE1MN1NNWTNKY1I1X012TXJheTlSTjE4VllpWlhHR2ZuOWljQ094MnR5bzFZWGc0TTlCaFRuMjA0cHlVVkFCekV0VWRUeU5NZ04xZXBuS2U3d3JuWA?oc=5",
-          "homepage": "https://www.bloomberg.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
       "weight": 0.772
     },
     {
-      "id": "evt_9ad986a182a6f082",
-      "topic": "politics",
-      "headline": "Africa News Reports | Latest News in Africa - AP News",
-      "summary": "Africa News Reports | Latest News in Africa AP News",
-      "published_at": "2026-08-09T09:33:51.000Z",
+      "id": "evt_8412e71fa979e21e",
+      "topic": "science",
+      "headline": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the d",
+      "published_at": "2026-08-09T11:51:37.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/08/260808235013.htm",
+          "homepage": "https://www.sciencedaily.com"
         }
       ],
       "source_count": 1,
       "weight": 0.772
     },
     {
-      "id": "evt_c9e120c279cf8ea8",
-      "topic": "business",
-      "headline": "Iran Is Staking Everything on Controlling the Strait of Hormuz - WSJ",
-      "summary": "Iran Is Staking Everything on Controlling the Strait of Hormuz WSJ",
-      "published_at": "2026-08-09T09:32:49.000Z",
+      "id": "evt_bd5f6c57f204d3f8",
+      "topic": "ai",
+      "headline": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+      "summary": "Article URL: https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model Comments URL: https://news.ycombinator.com/item?id=49230550 Points: 5 # Comments: 2",
+      "published_at": "2026-08-09T11:46:28.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDJBSWlPX25nbTdzRVlVeU5ESHE2WXdVeXVXVi1wRU9DUGdnWGZTN2xOMVhGUWlWZEZkWXZXeTMwdEFXa05qdkMxWkpJWG5BWVFTWGs4c2htNXRLVkpPTC1adGNfalBTb19UamdNSldPVlRKbDVQMEpGTTJRbkI3V0NBZEd2aEU?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Hacker News",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
       "weight": 0.771
     },
     {
-      "id": "evt_d15725e1001ddf24",
-      "topic": "business",
-      "headline": "This Fashion IPO’s Growth Story Looks Flimsy - WSJ",
-      "summary": "This Fashion IPO’s Growth Story Looks Flimsy WSJ",
-      "published_at": "2026-08-09T09:31:45.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlFRbVdKTW5PNUMyaUYwVjNUSlJ0Ui01S1lXZmI3QUdXaHQ2QXBreGFqU1BIc20zMFZSR0MtOEJtTWtXcTdXdUwyQjQxT1IxeXl4SFU1VWI3dE9RemR2MUYwZm1pWEZGR0ZuQXJWNVFQOWE5N0lna0Vsc3lES1l2cXNCMXNKTU5XdjBudmZvYU9mZw?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_d1f48b6ff0e7d143",
-      "topic": "business",
-      "headline": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story - WSJ",
-      "summary": "A Lost Civilization Is Baffling Experts and Rewriting China’s Origin Story WSJ",
-      "published_at": "2026-08-09T09:31:18.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUJsUEhnUXM1TTJ4UVJwSXR2cVY5YlJHbEVfU2lNTVJrUUFGTkxFMlJ6VzVpazI2RVJwVVNTWTRNd2xpLUljb24xWVhkVUFvbnVyckEyQmh5RmdXZkNVYWFzSXRMQXJTS0VFSWNfVWpHT0RtQXRIM1F2T2Z1TV9LRW1qbU5WMFN0aXRGRFZCczhiQ2NDc0lMbTM2cWdpWlNEQVMxUVc2RDRhVUZkc3JQVHNfY18?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_ba53e8b0ab343162",
-      "topic": "business",
-      "headline": "The Full-Contact Sport of Estate-Sale Shopping - WSJ",
-      "summary": "The Full-Contact Sport of Estate-Sale Shopping WSJ",
-      "published_at": "2026-08-09T09:30:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEtJRWtBZGdWLThiQWZjYjhZM0otbW96RXlSZFdpS2dKMWJkLW1yVnhCaGRwMUJqd1JoOXltMGVEaGlYbnVVc0VISTJlc0NDaWpXclE4WVJEYjBaQlJ4aFVqMllCeVpqd1hzRzZiQk9CcVVoc1Q3aV9zQUM1R1Y2cWFaT0FWZTMxSzdxV29RZUg?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_a550443267b03919",
-      "topic": "business",
-      "headline": "This City May Be the South’s Most Underrated Getaway - WSJ",
-      "summary": "This City May Be the South’s Most Underrated Getaway WSJ",
-      "published_at": "2026-08-09T09:30:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGlmdXFoOENZLVlweGxKbHA3S0ZQY2RfZFh4SmcwYkVsTHNGckdPT0pkRVdLdmtsMEpsRnd2MlpsSkxrOHNsd2piWTJ0bVpHN1JseTlpNTZFTnBSLXJzUllPTWROZ3NTdjVXQmhJUHB5dDhjMnlnd0UwUFdJRVRLdEZB?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_a98b352d7250b552",
-      "topic": "business",
-      "headline": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’ - WSJ",
-      "summary": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’ WSJ",
-      "published_at": "2026-08-09T09:30:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTE14U1Znd0pxV3BLbWZOYm16TkJEc3MzcmF1TTBuYkVYWmxwUi1HVk5KbWg3alZXOHFPTFA5TkdFWXVZWHhlbjN3Nm9YNXdTNGJkaE9yZGdSRXNwTWFGakNUZEtya1NzU1ZWVjNZQk12RzBEVXBTX0Z2OHJ5c0h5NFZmeU12MG1NMFZ3aU9SQThaaV9ObnZrUUxqNVVsOFNFZlhjcjNLQlB2SGVYd2c?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_80e088ac14fdb601",
+      "id": "evt_d7d1b3a0e88ef1b2",
       "topic": "finance",
-      "headline": "Fire at Saudi Aramco’s Jazan refinery extinguished, no injuries reported",
-      "summary": "Fire at Saudi Aramco’s Jazan refinery extinguished, no injuries reported",
-      "published_at": "2026-08-09T04:03:50.000Z",
+      "headline": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "published_at": "2026-08-09T11:45:00.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703",
-          "homepage": "https://www.investing.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://content-media.investing.com/news/LYNXNPED4G0W4_M.jpg"
+      "weight": 0.771,
+      "image_url": "https://images.mktw.net/im-90698990"
     },
     {
-      "id": "evt_8d3613ff7b3bae07",
-      "topic": "politics",
-      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
-      "summary": "Middle East News | Latest News From The Middle East Today AP News",
-      "published_at": "2026-08-09T09:20:56.000Z",
+      "id": "evt_5543bc4fcfc4f4fd",
+      "topic": "business",
+      "headline": "Ariana Grande’s Body Is Sparking Debate. What Do Experts Have to Say? - WSJ",
+      "summary": "Ariana Grande’s Body Is Sparking Debate. What Do Experts Have to Say? WSJ",
+      "published_at": "2026-08-09T11:44:05.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzFTZURQcWNQbi1BU0IwVDgxcWsyb0tPblo0N21LWExOV3FTMnB0UTBkT3psRHFuV19NWEN4aXRsSWF5M1ZtRFFPN0pYYjR3SzQ5QWM0WnpxbF9uV3RkNl9obDBpMTNrclJMMWdsNW43ZjBwZVp3VVVGVzZmTzNQQ2pMYjNiVVktOGdHVTJULWp0WXZpcTV1S2lPUnZtTHE1YmJDT0dYQURTRTZkSUx6MA?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_e4f0e6b6f14fd40f",
+      "topic": "business",
+      "headline": "Allianz Posts Lower Net Profit Amid Portfolio Reshuffle - WSJ",
+      "summary": "Allianz Posts Lower Net Profit Amid Portfolio Reshuffle WSJ",
+      "published_at": "2026-08-09T11:42:45.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkpZTXo1VzQySXRSeDVGbGtTRlRXajJBLVBlZURyMzMyZldaWWp4dUJZTWV1V3NJaXVQQ3Frb3FBZ3BieEFXWDhKb2NQYVIwZmNpNWQ2aG9zREw2clloNzFkYnFBQ0ZuYnZYanBQVWFiV3U5Xy1MeVhfNVpLZzY3MXhRRXVNcGhGWlBNRmpsc2JFYWd1VU41R3RLdnRCWElWRFZnX0lQdGJJdF8zbVViYlpVQ2FKdw?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_5d8b3702a60c5ce5",
+      "topic": "business",
+      "headline": "AI and the Blurring of Reality - WSJ",
+      "summary": "AI and the Blurring of Reality WSJ",
+      "published_at": "2026-08-09T11:42:09.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sTHdYaklsZE1LbFQ2cG1mby0tQkxXZ1pOV1BXbW4zWUltZTg2RUUzVjNpZHdiZ2xubEVtRFdjejd2NzBfNzlFeDJVQkl3Tm5HdUZ2WjdCcWs0M0Y5SVo4QW5fUU1VY2tBUDBmaDc3RzJfcDQtQnc?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.771
+    },
+    {
+      "id": "evt_5497fec4f9249717",
+      "topic": "ai",
+      "headline": "Reviving a four year old reMarkable 2",
+      "summary": "Article URL: https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html Comments URL: https://news.ycombinator.com/item?id=49230514 Points: 8 # Comments: 3",
+      "published_at": "2026-08-09T11:39:25.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+          "homepage": "https://news.ycombinator.com"
         }
       ],
       "source_count": 1,
       "weight": 0.77
     },
     {
-      "id": "evt_abc3f8971d10540f",
-      "topic": "finance",
-      "headline": "India’s Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
-      "summary": "India’s Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
-      "published_at": "2026-08-09T09:12:30.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/indias-maruti-sees-passenger-vehicle-market-rising-to-up-to-63-million-units-by-2031-4847721",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB4A0BR_M.jpg"
-    },
-    {
-      "id": "evt_7ec42d753ff6de3f",
-      "topic": "crypto",
-      "headline": "Brazil targets crypto fraud with up to 24-hour transfer hold",
-      "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
-      "published_at": "2026-08-09T09:10:39.000Z",
-      "sources": [
-        {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-blockchain-2.jpg"
-    },
-    {
-      "id": "evt_8900e314a0659fde",
-      "topic": "finance",
-      "headline": "Taiwan’s 2027 defence spending to rise 16%, official media reports",
-      "summary": "Taiwan’s 2027 defence spending to rise 16%, official media reports",
-      "published_at": "2026-08-09T09:06:29.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports-4847720",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEM521G9_1200_L.jpg"
-    },
-    {
-      "id": "evt_0f9f880f2cf20cc5",
+      "id": "evt_84bfeb0b40bd1388",
       "topic": "politics",
-      "headline": "It won’t be Trump who kills the ICC",
-      "summary": "It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.",
-      "published_at": "2026-08-09T09:05:47.000Z",
+      "headline": "UAE extradites alleged Irish crime gang boss Kinahan - Reuters",
+      "summary": "UAE extradites alleged Irish crime gang boss Kinahan Reuters",
+      "published_at": "2026-08-09T11:39:11.000Z",
+      "sources": [
+        {
+          "name": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzl5TEZoallFdF9oRFpZcHRETGZPXzRmYnNwRGU5eXBweFRkTFVEU0lSb2VDLVg0dFBueFhEeWc5YVlCdUJtckVvcXdVWndxMDRSdmREeGc3YzBkQUZLU2dmX2EwRVc3cmdXamhYRUhoTExqeklKZDhoaU9RM0NKNl90RkEwRGc1R1JMZ1BxWFU3VVBoZjBtaVl3U1J5YnZ1MTJv?oc=5",
+          "homepage": "https://www.reuters.com/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77
+    },
+    {
+      "id": "evt_3cb5d46ba733f80a",
+      "topic": "finance",
+      "headline": "AI-driven tech volatility reaches dot-com era extremes: UBS",
+      "summary": "AI-driven tech volatility reaches dot-com era extremes: UBS",
+      "published_at": "2026-08-09T11:35:17.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/aidriven-tech-volatility-reaches-dotcom-era-extremes-ubs-4847730",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.77,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg"
+    },
+    {
+      "id": "evt_ebc6203f45519a8b",
+      "topic": "politics",
+      "headline": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+      "summary": "Around 300 residents camp on Rome streets amid crackdown on squatted buildings.",
+      "published_at": "2026-08-09T11:31:54.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.768
+      "weight": 0.769
     },
     {
-      "id": "evt_7a25bad7a7a6c29d",
+      "id": "evt_687f2ba7cf8c396e",
       "topic": "finance",
-      "headline": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
-      "summary": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
-      "published_at": "2026-08-09T09:05:02.000Z",
+      "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "published_at": "2026-08-09T11:31:42.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661",
-          "homepage": "https://www.investing.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.768,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM5L0PE_L.jpg"
+      "weight": 0.769
     },
     {
-      "id": "evt_ac4624c29f47b221",
-      "topic": "business",
-      "headline": "How Amazon Built a Data Center in a California Town Without Anyone Noticing - WSJ",
-      "summary": "How Amazon Built a Data Center in a California Town Without Anyone Noticing WSJ",
-      "published_at": "2026-08-09T05:32:01.000Z",
+      "id": "evt_afe0929fc8a491cc",
+      "topic": "ai",
+      "headline": "Everything You Do Is Being Recorded",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/ Comments URL: https://news.ycombinator.com/item?id=49230477 Points: 33 # Comments: 16",
+      "published_at": "2026-08-09T11:30:48.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "Hacker News",
+          "url": "https://theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_533ba24226cb191e",
+      "topic": "science",
+      "headline": "Scientists discover bacteria that lock toxic uranium into a stable form",
+      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped c",
+      "published_at": "2026-08-09T11:30:17.000Z",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/08/260807035149.htm",
+          "homepage": "https://www.sciencedaily.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_03749f2499e60acb",
+      "topic": "business",
+      "headline": "Could AI create a ‘permanent underclass’? - Financial Times",
+      "summary": "Could AI create a ‘permanent underclass’? Financial Times",
+      "published_at": "2026-08-09T11:30:10.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanFJZkN4eXNOakNBOUNDc1ZoRFZtZ2d0YmVWbmpQTGVkZGlNU2FBOEF4Tl9kdmFiOWlYeFhoMDd2Nzh2eEM5QW1pc2hzUWlGQVR4TUxSZlFJbEtpZk1STE9ZR0RoQXM3YURZTUdIYXNpMnlGZlREN0x6WThNZnVTcENVMWI?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.769
+    },
+    {
+      "id": "evt_57e2b91ded16c13e",
+      "topic": "business",
+      "headline": "- Financial Times",
+      "summary": "Financial Times",
+      "published_at": "2026-08-09T11:24:49.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rS3dpRDMtYmh0aHFrRUVwNnZ6NkR1eC0zTE9NYmZ3MkpqNlhhUkh5SDFqak9ka2N3cEVOaFZwSVI2OVd3bG5vbl80WHBSMDRkaXdQc3ZjUHE?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
       "weight": 0.768
     },
     {
-      "id": "evt_bec6d584e50c4ffc",
-      "topic": "business",
-      "headline": "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ",
-      "summary": "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash WSJ",
-      "published_at": "2026-08-09T09:02:47.000Z",
+      "id": "evt_d8c77b4bd8201ad2",
+      "topic": "finance",
+      "headline": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "published_at": "2026-08-09T11:23:00.000Z",
       "sources": [
         {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5",
-          "homepage": "https://www.wsj.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.768
+    },
+    {
+      "id": "evt_6de561e5c67cb374",
+      "topic": "business",
+      "headline": "Danielle Lee, Metro Bank Holdings PLC: Profile and Biography - Bloomberg.com",
+      "summary": "Danielle Lee, Metro Bank Holdings PLC: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-09T11:12:45.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3aFRud2lsR0R4N3lrLVZTRnRZd2JwWDV1cFRmcS1wZ3J3cjlGR2xmeUZqV080bVlHVVd2WGotR3BCSnJ0emltMGJKWUgwYmVocWpPdXlhQ28wd1hyWGc?oc=5",
+          "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
       "weight": 0.767
+    },
+    {
+      "id": "evt_b4f69390b7563852",
+      "topic": "finance",
+      "headline": "Apple tests memory chips from China’s CXMT to ease AI-driven supply crunch - WSJ",
+      "summary": "Apple tests memory chips from China’s CXMT to ease AI-driven supply crunch - WSJ",
+      "published_at": "2026-08-09T11:10:53.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/apple-tests-memory-chips-from-chinas-cxmt-to-ease-aidriven-supply-crunch--wsj-4847728",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEL410N8_L.jpg"
+    },
+    {
+      "id": "evt_2a8988db6cba9c92",
+      "topic": "business",
+      "headline": "Victims Are Losing Thousands of Dollars on the ‘Jury Duty’ Scam - WSJ",
+      "summary": "Victims Are Losing Thousands of Dollars on the ‘Jury Duty’ Scam WSJ",
+      "published_at": "2026-08-09T11:10:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0JBMGdBek5zQXJESzFSc1pxb256ZTlzNnF5enFfYnpkc3JPVzhHcWNQbkgxMTRFTlpMcjhjWkdtX3NyVWdnS0VoVU5idlhwZEg5OHBLTWgydUdpM0tzaVBvOHAwUG5JRXg3a1VrUmxVUmg4MTV3THdlWEFoZzhPLS1YX0FRYl9sUy1RWXdQakFUMEFGd3RyZ2lpUQ?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_659bfd77608a75f0",
+      "topic": "finance",
+      "headline": "Columbus McKinnon delivers 66% return after Fair Value call",
+      "summary": "Columbus McKinnon delivers 66% return after Fair Value call",
+      "published_at": "2026-08-09T11:09:21.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/investment-ideas/columbus-mckinnon-delivers-66-return-after-fair-value-call-93CH-4847727",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766,
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+    },
+    {
+      "id": "evt_1d69c8a560b0bef5",
+      "topic": "business",
+      "headline": "Opinion | The Federal Reserve Status Quo vs. Kevin Warsh - WSJ",
+      "summary": "Opinion | The Federal Reserve Status Quo vs. Kevin Warsh WSJ",
+      "published_at": "2026-08-09T11:05:56.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY21fMUFpVVpNM1lXZHZxVzJkT0F6ZnlWZWJsb3B6QnVHZU5YZkdNR3k2dlBVV24tMFc5Zk9oUUFfaTlyenpJb0ttc1htYVlGbHZOcE9uLXA1Z293emJXRnVLeEhiY2o5SVlDZ1BxZmFNVmhpeVlvVU80Z19UbU1TZEVTZ2hSOGFiVEYzWjB1RHI0U0JuWXpB?oc=5",
+          "homepage": "https://www.wsj.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.766
+    },
+    {
+      "id": "evt_a0c60f365b9e9c02",
+      "topic": "business",
+      "headline": "Leisure Lumber Ltd - Bloomberg.com",
+      "summary": "Leisure Lumber Ltd Bloomberg.com",
+      "published_at": "2026-08-09T11:03:31.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOMWxPVFBUT21NVUtzc2pTUGRWTUpMTTVoVWNMSDd6ZW53MU8zOTFzYktnS0pGY3VxaHhFcEVRcmtpTmlwMXlPVEdBYmkxVFQ1MjRWcWRHcldzeTdOVVVPUnhXRQ?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_fa16cbc3f93666c5",
+      "topic": "finance",
+      "headline": "InvestingPro’s Fair Value flagged SSII as overvalued before 55% drop",
+      "summary": "InvestingPro’s Fair Value flagged SSII as overvalued before 55% drop",
+      "published_at": "2026-08-09T11:02:22.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/investment-ideas/investingpros-fair-value-flagged-ssii-as-overvalued-before-55-drop-93CH-4847726",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765,
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+    },
+    {
+      "id": "evt_6a6325462434531d",
+      "topic": "science",
+      "headline": "Chemists set electrons free and break a decades-old chemistry barrier",
+      "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously",
+      "published_at": "2026-08-09T11:02:03.000Z",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://sciencedaily.com/releases/2026/08/260807035147.htm",
+          "homepage": "https://www.sciencedaily.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.765
+    },
+    {
+      "id": "evt_f9d478902ffa3b05",
+      "topic": "politics",
+      "headline": "THE ASSOCIATED PRESS - AP News",
+      "summary": "THE ASSOCIATED PRESS AP News",
+      "published_at": "2026-08-09T10:04:29.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
     }
   ]
 }
