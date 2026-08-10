@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-10T07:41:24.312Z",
+  "generated_at": "2026-08-10T09:20:51.495Z",
   "clusters": [
+    {
+      "id": "evt_be9eb438f85d65d0",
+      "topic": "politics",
+      "headline": "China Evacuates 1M",
+      "summary": "China evacuates 1 million. Typhoon Dolphin brings strong winds.",
+      "published_at": "2026-08-10T08:44:34.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 2,
+      "weight": 0.955,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg"
+    },
     {
       "id": "evt_9b5b913f99f61fbc",
       "topic": "politics",
@@ -66,15 +88,31 @@
       "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_2af46fb9dd381f08",
+      "id": "evt_66e64c629867f5ba",
       "topic": "politics",
-      "headline": "Florida News",
-      "summary": "News from Florida. AP News reports.",
-      "published_at": "2026-08-10T07:38:09.000Z",
+      "headline": "Immigration - AP News",
+      "summary": "Immigration AP News",
+      "published_at": "2026-08-10T07:36:13.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VR1BZZDhWRnBHb3hncWNPQ2VyMUx0QU9XU0dEbTdtOTdicnJTbEZyTUNkV3NTMlZ0TVJKMWc4QjFMaFRB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_1e3fe08f2d8616b8",
+      "topic": "politics",
+      "headline": "Wisconsin News",
+      "summary": "No details. Wisconsin news.",
+      "published_at": "2026-08-10T09:19:30.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNWVXNWR0Yzdoay1BdVRkLXFNcktSU0RyWU9xR1pFWlJCc1V5bGpBUG1aWXMwTE1ERzlzZ0FBNlJGRjBwbGVN?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -82,52 +120,37 @@
       "weight": 0.78
     },
     {
-      "id": "evt_a00725d8e1934914",
-      "topic": "politics",
-      "headline": "North Carolina",
-      "summary": "News from North. Carolina AP News.",
-      "published_at": "2026-08-10T07:38:08.000Z",
+      "id": "evt_a0b61706e79b6cd4",
+      "topic": "finance",
+      "headline": "JPMorgan Raises Target",
+      "summary": "JPMorgan raises target. S&P 500 target increased.",
+      "published_at": "2026-08-10T09:19:00.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56M3ptMjJ4OGlvUjl6dVY3TTI0eEozUWN6SXFJMmhtQ2ZnSmhDcm9LVDFpb25FQm5fSGRtLTJVR3luaU56UXdZM1pGZ01uZw?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/wall-streets-biggest-bank-just-raised-its-expectations-for-the-stock-market-cac6d311?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
+      "weight": 0.78,
+      "image_url": "https://images.mktw.net/im-11053012"
     },
     {
-      "id": "evt_dbf06332b3db4c15",
-      "topic": "politics",
-      "headline": "Ohio News",
-      "summary": "News from Ohio. AP News.",
-      "published_at": "2026-08-10T07:38:05.000Z",
+      "id": "evt_289f28b9c4159903",
+      "topic": "finance",
+      "headline": "Oil prices rise",
+      "summary": "Oil prices are rising. Traders are assessing mixed signals.",
+      "published_at": "2026-08-10T09:16:00.000Z",
       "sources": [
         {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xOXluQWtwTGprc2dkRnBmUEJuU1BmWjlsNFNmb1pZRF9NYTJySnF0WTVnTDZDZEZETXZHQkpZdWU?oc=5",
-          "homepage": "https://apnews.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_e00fa8ac76dd50a8",
-      "topic": "politics",
-      "headline": "Texas News",
-      "summary": "Texas news. AP News reported.",
-      "published_at": "2026-08-10T07:38:05.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10bnA2UDhzd2JCUU9oNUNpSDhhSlhZcmUwYko1ckxUeHA0NjZ5TE55Q0VVSURBc1NOVmd1YVJNRG5PQQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
+      "weight": 0.779
     },
     {
       "id": "evt_80cd7abf968d1ca5",
@@ -146,116 +169,20 @@
       "weight": 0.78
     },
     {
-      "id": "evt_3f35b4b9148d89b3",
+      "id": "evt_7dfff7a362420b5c",
       "topic": "politics",
-      "headline": "Minnesota News",
-      "summary": "Minnesota news. AP News reported.",
-      "published_at": "2026-08-10T07:38:04.000Z",
+      "headline": "New Jersey",
+      "summary": "New Jersey news. No details available.",
+      "published_at": "2026-08-10T09:15:17.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xN09ZUnVnbW1ScFVDRkt2TmFyM1VvV3hiVEJxMmwwZmlXLV9mTktrS3p0Mi1CVHBTSTZneEdsbWtCb3NUclJF?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_f8ba0a5b1b221cc9",
-      "topic": "business",
-      "headline": "Apple Smartwatch Update",
-      "summary": "Apple explores smartwatch update. New features are expected.",
-      "published_at": "2026-08-10T03:50:49.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmNGaUxwdTdIcTlOQ1lGUTdvREQ5bDNtekVZcGxFakhST0s2ODNaSFRWbTNnbDFHNVpLUzdDZmtmeHBwQnlwamxnYXhhMGkxTnVrdm9qOGNjbzRIeUw1Ni1nM3h5SXpLc1Zidk8tM0ZDcWxZOTIyVWphei1kdlpKcDh6SjRZMmozWXVTdkcyaW5WNERza1pFenJSWEZSSF90c0czZUZRd1A4dlZDODVEX1Jzd2JVb2xCekZWZ3BfcXJJNHNmTFVzMmc0Vngwdw?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_863bab07e5929c9b",
-      "topic": "business",
-      "headline": "Bunq's US License Rejected",
-      "summary": "Bunq's US banking license rejected. US regulator denies application.",
-      "published_at": "2026-08-10T07:37:00.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLW1HOG90ZVFhTzJRQ19ZQ2NNX2RyX1oyQ29uOHE3ek00aElsanowaS1QRUV2QXkzUlh1cVhaS0NxRm9zRmhRYWNRaDVpSWtDTFl2Z1FNRWRCVEhRdTVOQnE0YnRKcnNCUDhoSjAwdnBLUENaaW9BbWVrVG50OTdWbm56aElBRnhSQzU5S1QyYWwzZnZuY2FhQU5fX2xUMW5sR2hfMzF0RFdsbGFKZ3h6VVp5RVJTWEdN?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_abf09a52162e65db",
-      "topic": "politics",
-      "headline": "Golf News",
-      "summary": "Golf news. No details available.",
-      "published_at": "2026-08-10T07:36:17.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GOWlXdFd1M3Byd0VFWkVhODlFQm1EQTFhZHpTaVJlYktTZ1g4V2dIOUFYTVZOdTZlbGJUZjU1ZmhQZnZrSERiSQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779
-    },
-    {
-      "id": "evt_44ba60124c7d9469",
-      "topic": "politics",
-      "headline": "Maryland News",
-      "summary": "Maryland news. No details available.",
-      "published_at": "2026-08-10T07:36:16.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZRGdzVEt5MGozbEdfX3ZFZ0dObnBUQmctdWtPeDB1dGhaUkhOeTBkQ2FlbktvTk5zN1JxWWNuTk9ydUp3NHc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_66e64c629867f5ba",
-      "topic": "politics",
-      "headline": "Immigration - AP News",
-      "summary": "Immigration AP News",
-      "published_at": "2026-08-10T07:36:13.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.779
-    },
-    {
-      "id": "evt_25aa1ae7b6e4ec01",
-      "topic": "politics",
-      "headline": "Donald Trump - AP News",
-      "summary": "Donald Trump AP News",
-      "published_at": "2026-08-10T04:18:34.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
     },
     {
       "id": "evt_3e5a3721b8b36378",
@@ -274,64 +201,181 @@
       "weight": 0.778
     },
     {
-      "id": "evt_5b817ac67534b0c2",
+      "id": "evt_5feb168eebc26972",
       "topic": "business",
-      "headline": "Indonesia Names Destry Damayanti as Sole Candidate to Lead Central Bank - WSJ",
-      "summary": "Indonesia Names Destry Damayanti as Sole Candidate to Lead Central Bank WSJ",
-      "published_at": "2026-08-10T07:28:00.000Z",
+      "headline": "Cathay Pacific",
+      "summary": "Cathay Pacific posts strong half. Flags fuel risks.",
+      "published_at": "2026-08-10T09:15:04.000Z",
       "sources": [
         {
           "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEUtaFhocVg4RDhTYXE0S2d6bG56bDFEeC10N282VXNpN3VYQzkxTWZZWGlMVVFBVUFCT3B2N2pUZzhsME1iZEo5ZG1paGxQbS1LRjRIbE1LWXkzUW9NU1VaNUMxYjA0Qk9oODVrV2NhOFhZNldBd2lGdnlVeDdWZzBYZUFCdjZzbXhHVi1oQWdTSlJ0ZGJLZ1FjZjBXQVhBMkRHU0JCRGIwTFFnYkpRa0w4VEJBQjV3Umx0am5xV1gyQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3R0RnlOY0xRV1RTcXNGT2Y5ZlhlT1JCZzM5VXB1SUh6cENhVE0wLWZmUXFyVEhTZllhUEMyS0hqdzZ3eGgtdnBqQURQZUtLSkotekIybG1vbHBGQmRwSGEyS2xoREtYUTFsaGt6Uzg4UDl5b0NsVThwTDVZUEJaSnRLVDBJRmhOSnNwd18yN2dmQ3RuLXR5bkpjVzYya0pLSzFsczVZS1pHSU01V25aVE5ncmlDZWpieXNZ?oc=5",
           "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778
+      "weight": 0.779
     },
     {
-      "id": "evt_1a000e5fd23ab16e",
+      "id": "evt_cc7b123a3e2844c1",
+      "topic": "finance",
+      "headline": "Inheriting $20,000",
+      "summary": "A person inherited $20,000. They want to access the funds easily.",
+      "published_at": "2026-08-10T09:15:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://images.mktw.net/im-07222794"
+    },
+    {
+      "id": "evt_f3b821fdae3dfa8d",
+      "topic": "finance",
+      "headline": "Frasers Bids",
+      "summary": "Frasers Group bids for Harvey Nichols. A takeover is reported.",
+      "published_at": "2026-08-10T09:13:49.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/frasers-group-emerges-frontrunner-harvey-091349472.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/retail_insight_network_724/e492a4f1e25d6b27ff20e9d09377c2f9"
+    },
+    {
+      "id": "evt_1753f66586ed5a3a",
       "topic": "business",
-      "headline": "Euro Zone Growth",
-      "summary": "Euro zone sees growth. Iran shifts stance.",
-      "published_at": "2026-08-10T07:26:21.000Z",
+      "headline": "Stock Movers",
+      "summary": "Stocks are moving. Infineon, Aryzta, Hays are mentioned.",
+      "published_at": "2026-08-10T09:12:36.000Z",
       "sources": [
         {
           "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1lPY1ZKTXlhOUlUR0MxajljSDJjZXcyUC1YSXFRWnBTb1hmMWdhcnNpSG92OHVGVlVsNFlkRmdRb2xJVHJSQjlMbzRVVC0wUi1mUmpJRmVRQmFIZ3V4cE1RR1hDWS1LLVk2NE9SX19Bemk2Vm9EMnlROWJyd0xXaFl1TTZEYXNfSWk0enRFZkdJRnFSQUJjd0JLbENpdlYzVUROUg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTDk0WHhULW10S2FoWEdlVjV0ZnNIcHRUVkh6a3MxVW9IbTIwREYxTUN5NjU1N1VQRk1yUmFPU1FyMzByT0t5R192by1EMkgyVXdkbHI3UkdhTE9rLUViQVI0VmtfM3VuNFlWTUM4V2w3d0d5TXZYYTZueUhhSkNWUGxoOG9tdndQakg3RWJjVEhjNEU?oc=5",
           "homepage": "https://www.bloomberg.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.778
+      "weight": 0.779
     },
     {
-      "id": "evt_f03b2a7d1f5343e5",
-      "topic": "crypto",
-      "headline": "UK Tokenized Gold",
-      "summary": "UK prepares tokenized gold framework. For use as collateral assets.",
-      "published_at": "2026-08-10T07:25:45.000Z",
+      "id": "evt_cebc3262c975a761",
+      "topic": "finance",
+      "headline": "Tariffs Impact Retail",
+      "summary": "Tariffs affect retail calendar. Peak season is changing.",
+      "published_at": "2026-08-10T09:12:13.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report",
-          "homepage": "https://cointelegraph.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/tariffs-rewriting-us-retail-peak-091213901.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/retail_insight_network_724/476b6f133eb3223ddcefe5c011c5c8aa"
+    },
+    {
+      "id": "evt_d72bdeaa881996f1",
+      "topic": "finance",
+      "headline": "Trump Pressures Retailers",
+      "summary": "Trump pressures retailers. Cost of living is a concern.",
+      "published_at": "2026-08-10T09:12:06.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-pressures-retailers-over-cost-091206331.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/retail_insight_network_724/d29643df8e1c2c7af24628af08ae2c25"
+    },
+    {
+      "id": "evt_9c07f57a1541427d",
+      "topic": "finance",
+      "headline": "Reusable Packaging Issues",
+      "summary": "Reusable packaging has issues. Returning containers is a problem.",
+      "published_at": "2026-08-10T09:12:01.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/reusable-packaging-biggest-hurdle-getting-091201698.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/packaging_gateway_559/bab88c0fee6e4f51dda247eaff4f37d7"
+    },
+    {
+      "id": "evt_7fa3d0db199256c8",
+      "topic": "business",
+      "headline": "Naser Muhammad Ali Al-Mansoori, Qatar & Oman Investment Co: Profile and Biography - Bloomberg.com",
+      "summary": "Naser Muhammad Ali Al-Mansoori, Qatar & Oman Investment Co: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-10T09:11:25.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUFlleWduaDM4N3BUTU1YZE11TlhSRktsbzlmVFZIS0VvWGFvQ2RleUkzVmZmS0xHdlJBMlNsTWNHT0VvLVZJYm96M3VsbGRBYTZGMXdScGtSTm1mQ2c?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_4f878985f1e53657",
+      "topic": "crypto",
+      "headline": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "summary": "CME leveraged funds turn net long as weak futures yields undermine the once-popular basis trade.",
+      "published_at": "2026-08-10T09:09:32.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+          "homepage": "https://www.coindesk.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto-fca.jpg"
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/96665eee3aaf5f2e4c6a8be5b5698ad14f60cfd5-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "id": "evt_07b2ebd35334b1d5",
+      "id": "evt_f8ba0a5b1b221cc9",
+      "topic": "business",
+      "headline": "Apple Smartwatch Update",
+      "summary": "Apple explores smartwatch update. New features are expected.",
+      "published_at": "2026-08-10T03:50:49.000Z",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmNGaUxwdTdIcTlOQ1lGUTdvREQ5bDNtekVZcGxFakhST0s2ODNaSFRWbTNnbDFHNVpLUzdDZmtmeHBwQnlwamxnYXhhMGkxTnVrdm9qOGNjbzRIeUw1Ni1nM3h5SXpLc1Zidk8tM0ZDcWxZOTIyVWphei1kdlpKcDh6SjRZMmozWXVTdkcyaW5WNERza1pFenJSWEZSSF90c0czZUZRd1A4dlZDODVEX1Jzd2JVb2xCekZWZ3BfcXJJNHNmTFVzMmc0Vngwdw?oc=5",
+          "homepage": "https://www.bloomberg.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_a5d81d8ed670113e",
       "topic": "politics",
-      "headline": "Washington News",
-      "summary": "News from Washington. No details available.",
-      "published_at": "2026-08-10T07:25:15.000Z",
+      "headline": "Nevada - AP News",
+      "summary": "Nevada AP News",
+      "published_at": "2026-08-10T09:09:14.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR3huWGxwNU5TM3lzQ2VHTXc0UWR5VURxMmNIQjlsQkRfeklWc21VazJCYkQ1UHRmOEhENEVJdW9COUt3WGdMTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wVVFia2pKcU15MFRWOGR2ZXgyVko2WWxDUTUxaTI4aVlNWWFjdDBjdGhDaGhjSUJCXzFfdkkwdmhuNlE?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -339,48 +383,363 @@
       "weight": 0.778
     },
     {
-      "id": "evt_43ae9167b31ca5d3",
-      "topic": "business",
-      "headline": "InBio OU - Bloomberg.com",
-      "summary": "InBio OU Bloomberg.com",
-      "published_at": "2026-08-10T07:23:59.000Z",
+      "id": "evt_6cc4a3ca8ea3a345",
+      "topic": "finance",
+      "headline": "UK’s consumer watchdog proposes new land restrictions for Aldi and Lidl",
+      "summary": "UK’s consumer watchdog proposes new land restrictions for Aldi and Lidl",
+      "published_at": "2026-08-10T09:08:34.000Z",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BQWoyV08wOU1qRC1OZy0xN0pYY3BMa0xQZ19IUkJUMzFKZklaZjR3d0Q2XzR0U0FHdEtVdXZmUFRVRzFwWmtWLTZtdkZXemZ5X2lXXzE0NmRYaEtpMWRoekt3cw?oc=5",
-          "homepage": "https://www.bloomberg.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/uk-consumer-watchdog-proposes-land-090834779.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/retail_insight_network_724/a45f89bd957b735187e99dcee3c47d8c"
+    },
+    {
+      "id": "evt_e166c99c81b7f3e7",
+      "topic": "business",
+      "headline": "Temple Bar Investment Trust Plc - Director Declaration – Company Announcement - Financial Times",
+      "summary": "Temple Bar Investment Trust Plc - Director Declaration – Company Announcement Financial Times",
+      "published_at": "2026-08-10T09:08:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUsxYThmaU5yRjJVTzVwX2RvcG5LWEdublNMbXE5WVZ1c2d4T1VaZU1QUjZWQkctWTBoX1ozUjJhQ250UmdoUEI2aHZfcDI2TjJBWjJTM1Z1Q1hXSWdUM3lDbnZrek53cnl6dmpjSGdGWmp0ZlJ3YVRtTUwxWkl5REVpY2Uxak5CQ3o5VVVhYW9laVQw?oc=5",
+          "homepage": "https://www.ft.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778
     },
     {
-      "id": "evt_8508e52e81338ad2",
+      "id": "evt_ed1ad5930e931686",
+      "topic": "business",
+      "headline": "Aberforth Smaller Companies Trust Plc - Net Asset Value(s) - Financial Times",
+      "summary": "Aberforth Smaller Companies Trust Plc - Net Asset Value(s) Financial Times",
+      "published_at": "2026-08-10T09:06:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTm9kckdkY0JZSlYxMVJNb3o0aVdNZENTZHNKUG9vSEZKNUhrckxaS0ttSDNHX25nRWdDY3F6VER4ZUV6SXM5RUptVV9IRmpGODVINVJyVTF4cnFoZnpNMHQyUkRIODlxSURFNUs3cWRub2FVWXFUSXZhS1BrTTdjTmRLNE42YUNOMzVuakVLZEtSbl9x?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778
+    },
+    {
+      "id": "evt_51cc27c5506daa6a",
       "topic": "finance",
-      "headline": "European shares drift as traders weigh Hormuz conditions and upcoming U.S. data",
-      "summary": "European shares drift as traders weigh Hormuz conditions and upcoming U.S. data",
-      "published_at": "2026-08-10T07:20:30.000Z",
+      "headline": "How ‘Ted Lasso’ turned an affluent London neighborhood into a tourist hotspot",
+      "summary": "One of London’s most charming residential enclaves has recently gained international renown thanks to Jason Sudeikis’ fictional soccer coach character Ted Lasso.",
+      "published_at": "2026-08-10T09:04:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/how-ted-lasso-turned-an-affluent-london-neighborhood-into-a-tourist-hotspot-a7cbf0eb?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://images.mktw.net/im-55215332"
+    },
+    {
+      "id": "evt_3d0375a8655675c7",
+      "topic": "crypto",
+      "headline": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+      "summary": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
+      "published_at": "2026-08-10T09:04:00.000Z",
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg"
+    },
+    {
+      "id": "evt_6010879fb90aa5d2",
+      "topic": "finance",
+      "headline": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "summary": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "published_at": "2026-08-10T09:03:02.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/kalshi-ties-nasdaq-bolster-trade-090302425.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/reuters.com/e5fdf45ed589a945bef28e5bde1b76d0"
+    },
+    {
+      "id": "evt_a3deeb3eb0bd12fc",
+      "topic": "finance",
+      "headline": "As GTA VI pre-orders break records, investors still need one answer",
+      "summary": "As GTA VI pre-orders break records, investors still need one answer",
+      "published_at": "2026-08-10T09:03:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gta-vi-pre-orders-break-090300140.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/thestreet_881/b4843c5ec61b3f66112adf29eb360bd8"
+    },
+    {
+      "id": "evt_030fa972e2002625",
+      "topic": "finance",
+      "headline": "He Retired From the Oil Fields but Took $30,000 to Stay on Call. Social Security Counted It Before the Phone Rang.",
+      "summary": "He Retired From the Oil Fields but Took $30,000 to Stay on Call. Social Security Counted It Before the Phone Rang.",
+      "published_at": "2026-08-10T09:02:14.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/retired-oil-fields-took-30-090214042.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/ada545bb51e6b945dba36211a5dd414d"
+    },
+    {
+      "id": "evt_09807ca36b83e3c1",
+      "topic": "finance",
+      "headline": "From ‘Billionaire Bunker’ to Beverly Hills: The properties that make up Jeff Bezos’ $500 million real estate empire",
+      "summary": "As Amazon soars, nowhere is Bezos’ astronomical wealth more tangibly displayed than in his $500 million real estate empire.",
+      "published_at": "2026-08-10T09:02:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/from-billionaire-bunker-to-beverly-hills-the-properties-that-make-up-jeff-bezos-500-million-real-estate-empire-5aec38c3?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://images.mktw.net/im-10000696"
+    },
+    {
+      "id": "evt_80a3925e40f9cb66",
+      "topic": "finance",
+      "headline": "Port of Tallinn Q2 2026 slides: revenue rises but profit falls 59%",
+      "summary": "Port of Tallinn Q2 2026 slides: revenue rises but profit falls 59%",
+      "published_at": "2026-08-10T09:01:23.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/european-shares-drift-as-traders-weigh-hormuz-conditions-and-upcoming-us-data-4847846",
+          "url": "https://investing.com/news/company-news/port-of-tallinn-q2-2026-slides-revenue-rises-but-profit-falls-59-93CH-4848123",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/LYNXNPEB610J1_M.jpg"
+      "image_url": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg"
     },
     {
-      "id": "evt_47fef55e3ba5befe",
+      "id": "evt_d63ef0094c4c34df",
+      "topic": "finance",
+      "headline": "Base Markets Appoints Nazim Moussaoui as Head of Premium Clients and Partnerships",
+      "summary": "Base Markets Appoints Nazim Moussaoui as Head of Premium Clients and Partnerships",
+      "published_at": "2026-08-10T09:00:45.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/base-markets-appoints-nazim-moussaoui-as-head-of-premium-clients-and-partnerships-4848120",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg"
+    },
+    {
+      "id": "evt_6f9482882454f9bf",
+      "topic": "finance",
+      "headline": "Rakuten Q2 2026 slides: record revenue, FinTech drives profit surge",
+      "summary": "Rakuten Q2 2026 slides: record revenue, FinTech drives profit surge",
+      "published_at": "2026-08-10T09:00:07.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/company-news/rakuten-q2-2026-slides-record-revenue-fintech-drives-profit-surge-93CH-4848119",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg"
+    },
+    {
+      "id": "evt_31a653a3cd9368ab",
+      "topic": "ai",
+      "headline": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the en",
+      "published_at": "2026-08-10T09:00:00.000Z",
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "url": "https://technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+          "homepage": "https://www.technologyreview.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_be5444e70a003243",
+      "topic": "ai",
+      "headline": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in",
+      "published_at": "2026-08-10T09:00:00.000Z",
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "url": "https://technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms",
+          "homepage": "https://www.technologyreview.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_181f6f38ce9448d3",
+      "topic": "finance",
+      "headline": "Goldman Sachs notes European banks trail US peers in equities",
+      "summary": "Goldman Sachs notes European banks trail US peers in equities",
+      "published_at": "2026-08-10T08:59:46.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/goldman-sachs-notes-european-banks-trail-us-peers-in-equities-93CH-4848117",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM4E1KB_L.jpg"
+    },
+    {
+      "id": "evt_fe1e9f2782818f96",
+      "topic": "finance",
+      "headline": "Firmus raises $2bn to accelerate Project Southgate rollout",
+      "summary": "Firmus raises $2bn to accelerate Project Southgate rollout",
+      "published_at": "2026-08-10T08:59:05.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/firmus-raises-2bn-accelerate-project-085905786.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/verdict_626/cace49e56ef04e3a1fdbfacb145bf338"
+    },
+    {
+      "id": "evt_4146e5997a98e97a",
+      "topic": "politics",
+      "headline": "MLB | Latest News, Stats, and Scores - AP News",
+      "summary": "MLB | Latest News, Stats, and Scores AP News",
+      "published_at": "2026-08-10T08:58:45.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_4b82061337b5b4c3",
+      "topic": "politics",
+      "headline": "New York - AP News",
+      "summary": "New York AP News",
+      "published_at": "2026-08-10T08:58:45.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rcktUOGcwZkc4MnZkNHpWdFZsRzBQeDVSVXNiRzBqblc5eWdvTWV4bWxDaUN0aDZva3VtSzdxMjlmRVpCTUE?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_f9d478902ffa3b05",
+      "topic": "politics",
+      "headline": "THE ASSOCIATED PRESS - AP News",
+      "summary": "THE ASSOCIATED PRESS AP News",
+      "published_at": "2026-08-10T08:58:44.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_b7590336af6226d6",
+      "topic": "politics",
+      "headline": "Europe News | Breaking European News Today - AP News",
+      "summary": "Europe News | Breaking European News Today AP News",
+      "published_at": "2026-08-10T08:58:44.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_230a3be572d10a30",
+      "topic": "politics",
+      "headline": "Illinois - AP News",
+      "summary": "Illinois AP News",
+      "published_at": "2026-08-10T08:58:44.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51N1ZxZXlfd1NxZlZtRGI1LXBtd2dOUmQwY29icXRoVjZiWDNqdHFxcDRGcTd1SDh1VTlRaFZhZ2N5cnI1RkE?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_a674ec98e9f707d2",
       "topic": "business",
-      "headline": "Gold Holds Gain After Soft US Jobs Data Eases Rate-Hike Concerns - Bloomberg.com",
-      "summary": "Gold Holds Gain After Soft US Jobs Data Eases Rate-Hike Concerns Bloomberg.com",
-      "published_at": "2026-08-10T07:19:22.000Z",
+      "headline": "Chu Chin-Cheng, Taiwan AI Cloud Corp: Profile and Biography - Bloomberg.com",
+      "summary": "Chu Chin-Cheng, Taiwan AI Cloud Corp: Profile and Biography Bloomberg.com",
+      "published_at": "2026-08-10T08:57:23.000Z",
       "sources": [
         {
           "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDJabmFpWkNzNjlKMl9mbndQYW1nRVJDNkhobllYTktyZmYtZEotRjlzUUxmZnpxTHFGUlN4amJxTFhjMDkwUVR0Y21qaGR6Qmo2UktGdGNia2QzdE1HdGNVTnVYYVBhX0xQMF9zUWhURkhpTWNuc1A4WGdkdmptXzFPWnVHU1BnZThwNW1jMjlsTi1yUGlFaUd3V1liTWlrd3ZsczBPZ0haeDNwemxpOWtZdXFfQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DLS1XbU5lTEhldTJ3bl8yTUdUOUhCTFYtNVZaemdkRWpuU2lUbjdqbThLQ1NvYnBhamFBVW1EZ0NUa0VNYk9keTlHWXJjRjF4cEZVMEFQVmVBN2JmY0E?oc=5",
           "homepage": "https://www.bloomberg.com"
         }
       ],
@@ -388,15 +747,133 @@
       "weight": 0.777
     },
     {
-      "id": "evt_e2b6ab337e2fdd51",
+      "id": "evt_a7a7fe95d4dcc0f0",
+      "topic": "finance",
+      "headline": "Morgan Stanley reviews Indian June earnings performance",
+      "summary": "Morgan Stanley reviews Indian June earnings performance",
+      "published_at": "2026-08-10T08:57:17.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/stock-market-news/morgan-stanley-reviews-indian-june-earnings-performance-93CH-4848116",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXNPEK3G0HA_L.jpg"
+    },
+    {
+      "id": "evt_c9bab3b08cc1e97b",
+      "topic": "crypto",
+      "headline": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 10",
+      "published_at": "2026-08-10T08:57:04.000Z",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+          "homepage": "https://www.coindesk.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "id": "evt_ce613e8d8f62c3a9",
+      "topic": "finance",
+      "headline": "Raymond James downgrades Arko stock rating on retail challenges",
+      "summary": "Raymond James downgrades Arko stock rating on retail challenges",
+      "published_at": "2026-08-10T08:57:03.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/raymond-james-downgrades-arko-stock-rating-on-retail-challenges-93CH-4848115",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
+    },
+    {
+      "id": "evt_6b69bbccb13fb2a3",
+      "topic": "finance",
+      "headline": "Microchip's Data Center Revenue Grew 98% Last Quarter. Here's Why It's Guiding to $1 Billion for the Year.",
+      "summary": "Microchip's Data Center Revenue Grew 98% Last Quarter. Here's Why It's Guiding to $1 Billion for the Year.",
+      "published_at": "2026-08-10T08:57:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microchips-data-center-revenue-grew-085700522.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/6014827e17b46769b4e4b0cd61f20783"
+    },
+    {
+      "id": "evt_ebc69e148b6bbffc",
+      "topic": "finance",
+      "headline": "Citizens raises Nationwide Health Properties price target on strong Q2 results",
+      "summary": "Citizens raises Nationwide Health Properties price target on strong Q2 results",
+      "published_at": "2026-08-10T08:57:00.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/analyst-ratings/citizens-raises-nationwide-health-properties-price-target-on-strong-q2-results-93CH-4848114",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+    },
+    {
+      "id": "evt_af036fedc363aed2",
       "topic": "politics",
-      "headline": "California News",
-      "summary": "California news. AP News reported.",
-      "published_at": "2026-08-10T07:15:58.000Z",
+      "headline": "Wildfires - AP News",
+      "summary": "Wildfires AP News",
+      "published_at": "2026-08-10T08:56:47.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XNkpfcFJnQjhBMTM1V1NKWWx5SDA2Q2xwMHRJOGRSS25rTGxOaTNFUmhybHdBVzJXOC15M2trTFBHWFQxNTVF?oc=5",
+          "homepage": "https://apnews.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777
+    },
+    {
+      "id": "evt_25786606ae8646ec",
+      "topic": "finance",
+      "headline": "Gold Holds Above $4,400 Ahead of U.S. Inflation Data",
+      "summary": "Gold Holds Above $4,400 Ahead of U.S. Inflation Data",
+      "published_at": "2026-08-10T08:55:29.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://barrons.com/livecoverage/stock-market-news-today-081026/card/gold-holds-above-4-400-ahead-of-u-s-inflation-data-4FtdN1zTz6R0xpsPJItE?siteid=yhoof2&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e"
+    },
+    {
+      "id": "evt_c4c46d852d142562",
+      "topic": "politics",
+      "headline": "Baseball - AP News",
+      "summary": "Baseball AP News",
+      "published_at": "2026-08-10T08:54:45.000Z",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zNldiT1p2dkhWMnhBcGJxUkZ6bXVZaTVOckNJX1ZZbE1rNUd1VkFLek9fS216ck84NVpYdXJ6emJpQ1ZHQ2c?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -404,593 +881,137 @@
       "weight": 0.776
     },
     {
-      "id": "evt_f793301e078f5cd7",
-      "topic": "finance",
-      "headline": "ARYZTA Sales Fall",
-      "summary": "ARYZTA H1 sales fall. Germany impacts results.",
-      "published_at": "2026-08-10T07:15:47.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-aryzta-h1-2026-sales-fall-as-germany-weighs-on-results-93CH-4847951",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
-    },
-    {
-      "id": "evt_b49d14e4a15687cd",
-      "topic": "finance",
-      "headline": "Plus500 Stock Rises",
-      "summary": "Plus500 stock rallies. Reason unknown.",
-      "published_at": "2026-08-10T07:13:01.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/why-is-plus500-stock-rallying-today-93CH-4847949",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/DavidZruiaCEOofPlus500_800x533_L_1618921237.jpg"
-    },
-    {
-      "id": "evt_c97253f6af178469",
-      "topic": "finance",
-      "headline": "Take five: Markets aren’t going on a summer holiday",
-      "summary": "Take five: Markets aren’t going on a summer holiday",
-      "published_at": "2026-08-10T07:12:27.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/economy-news/take-five-markets-arent-going-on-a-summer-holiday-4847948",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/7-Eleven_800x533_L_1673420630.jpg"
-    },
-    {
-      "id": "evt_d878a0f51b877666",
-      "topic": "finance",
-      "headline": "RBC Capital cuts Amrize stock rating on Q2 miss and guidance cut",
-      "summary": "RBC Capital cuts Amrize stock rating on Q2 miss and guidance cut",
-      "published_at": "2026-08-10T07:10:56.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/rbc-capital-cuts-amrize-stock-rating-on-q2-miss-and-guidance-cut-93CH-4847946",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-    },
-    {
-      "id": "evt_72e7c5bece72bfb2",
-      "topic": "finance",
-      "headline": "JPMorgan downgrades Compass Minerals stock rating on volume concerns",
-      "summary": "JPMorgan downgrades Compass Minerals stock rating on volume concerns",
-      "published_at": "2026-08-10T07:10:53.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/analyst-ratings/jpmorgan-downgrades-compass-minerals-stock-rating-on-volume-concerns-93CH-4847945",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
-    },
-    {
-      "id": "evt_c711983b82c82117",
+      "id": "evt_c92eda8ed01b8683",
       "topic": "politics",
-      "headline": "Solar eclipse tracker: What time will it hit your location on August 12?",
-      "summary": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.",
-      "published_at": "2026-08-10T07:10:32.000Z",
+      "headline": "New York City - AP News",
+      "summary": "New York City AP News",
+      "published_at": "2026-08-10T08:54:44.000Z",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776
     },
     {
-      "id": "evt_4268d493feddc028",
-      "topic": "finance",
-      "headline": "Gold steady near highs",
-      "summary": "Gold prices are steady. Traders weigh Iran uncertainty.",
-      "published_at": "2026-08-10T04:29:54.000Z",
+      "id": "evt_17a2ffdd289b0da9",
+      "topic": "politics",
+      "headline": "Arizona - AP News",
+      "summary": "Arizona AP News",
+      "published_at": "2026-08-10T08:54:43.000Z",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/commodities-news/gold-steady-near-7wk-highs-as-traders-weigh-iran-uncertainty-fed-outlook-4847814",
-          "homepage": "https://www.investing.com"
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBnczZhTnZEWEFqUXdKY3FjQTl4Z1B1SXg1cDNRVlVtTDMtZFRYNTJ3REFBdzF6SlhrQWZQbTZFcE9aTS0z?oc=5",
+          "homepage": "https://apnews.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.772,
-      "image_url": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
+      "weight": 0.776
     },
     {
-      "id": "evt_04e80e44a4eb0d50",
+      "id": "evt_6c0d32404a82dfd5",
       "topic": "finance",
-      "headline": "Greenlam Q1 FY27 slides: revenue rises 18% but earnings miss forecast",
-      "summary": "Greenlam Q1 FY27 slides: revenue rises 18% but earnings miss forecast",
-      "published_at": "2026-08-10T07:09:20.000Z",
+      "headline": "Abacus Worldwide adds Bolivian firm Horady into global alliance",
+      "summary": "Abacus Worldwide adds Bolivian firm Horady into global alliance",
+      "published_at": "2026-08-10T08:54:28.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/abacus-worldwide-adds-bolivian-firm-085428889.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/international_accounting_bulletin_542/0a2fd3a5aa48445b3ef9e316258b5151"
+    },
+    {
+      "id": "evt_292f5fc0d217e824",
+      "topic": "finance",
+      "headline": "Citi sees industrial growth at 6.9% in second quarter 2026",
+      "summary": "Citi sees industrial growth at 6.9% in second quarter 2026",
+      "published_at": "2026-08-10T08:53:11.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/greenlam-q1-fy27-slides-revenue-rises-18-but-earnings-miss-forecast-93CH-4847944",
+          "url": "https://investing.com/news/stock-market-news/citi-sees-industrial-growth-at-69-in-second-quarter-2026-93CH-4848100",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.776,
-      "image_url": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg"
+      "image_url": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
     },
     {
-      "id": "evt_0e649154088878de",
+      "id": "evt_d0ca5caf176eb5cf",
+      "topic": "business",
+      "headline": "Rightmove Plc - Holding(s) in Company - Financial Times",
+      "summary": "Rightmove Plc - Holding(s) in Company Financial Times",
+      "published_at": "2026-08-10T08:53:00.000Z",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTRQTERHd2h2VU9RbVBndGh6bV9ybkpFb3hyZUMzZjQ0UUVhLXdNZGtMNE9pV25mdEJVb0xQclR2M2lLVGF2alFTU1JZTXNiRExiYVBPT19FRHY4ZlpCZ3M0SklZeWhMWFFfZll2N0xmQUYwQWs0MHRzb1pMSDlqUmpGQkNqWXgxX0pocWJtS1RYX0dx?oc=5",
+          "homepage": "https://www.ft.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_2b58eb7afd9050c8",
+      "topic": "politics",
+      "headline": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "published_at": "2026-08-10T08:50:02.000Z",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "homepage": "https://www.bbc.com/news/world"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg"
+    },
+    {
+      "id": "evt_bbdc3b3efacad666",
       "topic": "finance",
-      "headline": "Afcons Q1 FY27 slides: order book hits ₹43,290 Cr despite weak quarter",
-      "summary": "Afcons Q1 FY27 slides: order book hits ₹43,290 Cr despite weak quarter",
-      "published_at": "2026-08-10T07:08:50.000Z",
+      "headline": "Resolution Copper awards $110m contracts for Arizona mine",
+      "summary": "Resolution Copper awards $110m contracts for Arizona mine",
+      "published_at": "2026-08-10T08:49:47.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/resolution-copper-awards-110m-contracts-084947347.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/mining_technology_700/1f1036bd82be05f4679d994465ee4159"
+    },
+    {
+      "id": "evt_4c021059c181b2ee",
+      "topic": "finance",
+      "headline": "Jefferies downgrades Ibstock as housing recovery catalysts fade",
+      "summary": "Jefferies downgrades Ibstock as housing recovery catalysts fade",
+      "published_at": "2026-08-10T08:49:13.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/company-news/afcons-q1-fy27-slides-order-book-hits-43290-cr-despite-weak-quarter-93CH-4847943",
+          "url": "https://investing.com/news/stock-market-news/jefferies-downgrades-ibstock-as-housing-recovery-catalysts-fade-4848092",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg"
-    },
-    {
-      "id": "evt_a550443267b03919",
-      "topic": "business",
-      "headline": "This City May Be the South’s Most Underrated Getaway - WSJ",
-      "summary": "This City May Be the South’s Most Underrated Getaway WSJ",
-      "published_at": "2026-08-10T07:08:22.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGlmdXFoOENZLVlweGxKbHA3S0ZQY2RfZFh4SmcwYkVsTHNGckdPT0pkRVdLdmtsMEpsRnd2MlpsSkxrOHNsd2piWTJ0bVpHN1JseTlpNTZFTnBSLXJzUllPTWROZ3NTdjVXQmhJUHB5dDhjMnlnd0UwUFdJRVRLdEZB?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_000fcbe9795416d8",
-      "topic": "finance",
-      "headline": "RadNet earnings beat by $0.09, revenue topped estimates",
-      "summary": "RadNet earnings beat by $0.09, revenue topped estimates",
-      "published_at": "2026-08-10T07:07:37.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/radnet-earnings-beat-by-009-revenue-topped-estimates-4847941",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
-    },
-    {
-      "id": "evt_5d8bdd913e1c21ba",
-      "topic": "finance",
-      "headline": "Australian rare earth miner surges as much as 29% after U.S. Department of War investment",
-      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
-      "published_at": "2026-08-10T07:03:25.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_79621d6b97759f28",
-      "topic": "business",
-      "headline": "South Korea Growth Seen Accelerating to 3.3% on Chip Boom - Bloomberg.com",
-      "summary": "South Korea Growth Seen Accelerating to 3.3% on Chip Boom Bloomberg.com",
-      "published_at": "2026-08-10T07:03:17.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkFMM3ZTLWFiUVpCeTdEc1hWQTRBSjZpS0xrRmI1Si1aZjBacTEzMHdIbWFnZDZPbVNFcnpzeEl3RklPSW9vdlAxOEFvVkJHZG5WcHZxUWdkSE9UdXVYSFlpbklBQzJHTW5ELXJkdy1CcWNnc0c4cUt4Z2RaT25hLWQtTHYxOTZFYm1SdmhIa083S0ZyNDRwelpvZi03bE91YUJKaE91elY3U2M?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_ee6703a0775d7474",
-      "topic": "business",
-      "headline": "How ICE Is Weaponizing Social Media Against Its Critics - WSJ",
-      "summary": "How ICE Is Weaponizing Social Media Against Its Critics WSJ",
-      "published_at": "2026-08-10T07:01:01.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUdFX2F3eHVjX1huNS1NLWZ0dGZUSFBVWGtGbGN2S043UmJ3RVVVeG41N083amx3Zy1aYUlHNi1sRzlPNERKSXpQQ2o1TGUtVEFBOHlFTzJOVDRnV0lPMlJBVVFfNDZOallST191Y19WQ2lYa3owRE1ETzF0RkdKZ0pSYzQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_366968ac7a0ae451",
-      "topic": "business",
-      "headline": "Transaction in Own Shares – Company Announcement - Financial Times",
-      "summary": "Transaction in Own Shares – Company Announcement Financial Times",
-      "published_at": "2026-08-10T07:00:05.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZJYllhS3VrNzlBS3VLX1MzSHVCc1BCSml0aThLSkRUTktTd2o4N0M4bld4NV92aWtUQzRqYlhiOHhvTGRuU0hJWXlOWERxSndZcDZ1U0pzblpRQ2M1ZTdFaHZEOFBkNHkwcHdyZlZnV28zQU1kRS1ncGtfWUFJTnhaYW1SSVdEeWlxQ2xhOE1RWmFBNkE?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_d35e0e92c2b2246f",
-      "topic": "business",
-      "headline": "Â£3m+ contract win – Company Announcement - Financial Times",
-      "summary": "Â£3m+ contract win – Company Announcement Financial Times",
-      "published_at": "2026-08-10T07:00:05.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2lxb0t5elZqT0dDUU9YZFRkMDk0djFfVDBPQkZFZ0RhaXRDQXNnQjBpLU9pM3FzaEJ2SHlJenVTMGZuUTVnbjN2cVJQNmtfR082dFhzVzh1MlI5SVBjc0NQYVZTV0NzNEZzYmpXaFE0R3U4NndOektpR1hwRWxyc1FsZ1VxaE5nS0N6SklPR1czT0tZcWc?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_e686254992d2aac6",
-      "topic": "business",
-      "headline": "Teufelskuppe â€“ New Drill Results – Company Announcement - Financial Times",
-      "summary": "Teufelskuppe â€“ New Drill Results – Company Announcement Financial Times",
-      "published_at": "2026-08-10T07:00:04.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE9NU1FnNGItWDIzblFZSjViQ205Z19EX2lZb0VUdFFnVFNkaDVHVnY5NnhaQ2tlYzNwS2E5U1MwSG9USHRQQ011UkdxUUI0UlFTc2twV3U0bHRnZW1meWYtSU1QZi05bWRoNXhZZi1jem9kalQ0N2k4blUzcnUzeGRtaC1TalJKa0ZkeUpJWGszQ3BLSlE?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_a2bbebe8b08be0f1",
-      "topic": "crypto",
-      "headline": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "summary": "The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
-      "published_at": "2026-08-10T07:00:00.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_c437e06bb18d0544",
-      "topic": "crypto",
-      "headline": "Robinhood brings crypto trading to main UK app through Bitstamp",
-      "summary": "The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.",
-      "published_at": "2026-08-10T07:00:00.000Z",
-      "sources": [
-        {
-          "name": "The Block",
-          "url": "https://theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140",
-          "homepage": "https://www.theblock.co"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-800x450.jpg"
-    },
-    {
-      "id": "evt_fa2eb4e391bba552",
-      "topic": "business",
-      "headline": "How to cure an ailing antibiotics business? | FT Rethink - Financial Times",
-      "summary": "How to cure an ailing antibiotics business? | FT Rethink Financial Times",
-      "published_at": "2026-08-10T07:00:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWduYzQyZmFub3pJVjY5LWRQQklrd0Z2LTZOTVRwUGc1ZWZpSFI2N0l4NWpWZFZYQ0RIQkpoUkhGRy1ObDJLUlpaZWxVVnJ0eGFTZy11LW9MbFduMG5lOGV6UDFGUUtHRC15OENvSFNjbW9nSFlPaFlHVGZpX0hpQ2R3?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774
-    },
-    {
-      "id": "evt_38298308b53b6ff7",
-      "topic": "crypto",
-      "headline": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
-      "published_at": "2026-08-10T06:56:50.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/5a1494a3b2a1af72346af846f04df0d718a1bccb-2912x1716.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_69caa61745d97c8e",
-      "topic": "business",
-      "headline": "Adnoc Gas Exploring New LNG Export Plant to Avoid Hormuz Strait - Bloomberg.com",
-      "summary": "Adnoc Gas Exploring New LNG Export Plant to Avoid Hormuz Strait Bloomberg.com",
-      "published_at": "2026-08-10T06:49:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBIWnpTUGgxU19wSmxLT1JTeDltOWhpYkl3T0NHdUVkQkxadUNGMVpSUWYwVmpuSWxoc1RpSXNOZGVYd0c1ekYwSGVHY28tNHNsY1dxNWpxN3Nhc1huVkZzNXpiV2ZPa3pKRUxvSGVOeVBMQ0dzejRocEZzaFh3b0lJeWQ3clRkbTM3OFllOXN5THEzejZBQUREYS0zWkdmUWx1TWV3cjJ6bGlVMmcxSmk4LWo?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.773
-    },
-    {
-      "id": "evt_6f89245a3457f653",
-      "topic": "business",
-      "headline": "Financial Services Roundup: Market Talk - WSJ",
-      "summary": "Financial Services Roundup: Market Talk WSJ",
-      "published_at": "2026-08-10T06:45:29.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnZNMHpuYzVsQ0dfWUpVRVBvVEdvb1RQYlhHUTRSV1YtU0RLNUIyd1FmVG9lRUtFOXY1c0dtb2lQQS0tSHh3bWkzaVpaMEZ2STdGZTlfdnBjck5GeWFjWTZOdGdwc002OFJPdGZWSk5seUJfSWxJVEFjSm45TnZXcV93?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_bea183e2efdb1641",
-      "topic": "politics",
-      "headline": "Ukrainians find relief at Kyiv music festival amid war - Reuters",
-      "summary": "Ukrainians find relief at Kyiv music festival amid war Reuters",
-      "published_at": "2026-08-10T06:42:37.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdnM3RkZsYktLbDdQRU9PWWFZRVd1Vzk0Njh6ZVhjUUpjV0Z0c0VVM3FvVF9TTjlHMVM2ckljSjdfajJSdzZvbm80VU5fb3IwMlZ6UEFWMlQ5d3RoNjNvS0pFVE9sUQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_7af0911fb7e8d702",
-      "topic": "business",
-      "headline": "Albert Zinevic, Novaturas: Profile and Biography - Bloomberg.com",
-      "summary": "Albert Zinevic, Novaturas: Profile and Biography Bloomberg.com",
-      "published_at": "2026-08-10T06:39:51.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OLXJnT2NqRnB1WVVxdUZZaUNRWFNLTDZJcDc3anQzRWhOZ3VjN1NrWDNvazZRZW1jLUNkdzNEVFRlWE02Y2xQUlF6a1dNTUd1VmFIVEFVY3IxcmhPb2c?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_d786f0ecbd275787",
-      "topic": "finance",
-      "headline": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
-      "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
-      "published_at": "2026-08-10T06:34:04.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_e1eed37b31beb57b",
-      "topic": "business",
-      "headline": "Destination wedding dress",
-      "summary": "Destination weddings have dress codes. Crack the dress code.",
-      "published_at": "2026-08-10T04:29:15.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUVZREpmMS0yVjIyUk1xTUVtVEV6SHFKeXlQa1JBbTNnaGMtRTdhUjlZSDJZU0k0eXlNY0xkMU85Q3VFVElHWWRiNm9ZUHZ4dmdfcW1TZDA4RXMyMmJ1dWJqUllrWmNkdldFN3NTRUlveVhtbk1zRFFMc0Z5ME5HUjBTSVBsRWF5cjNPU2pHTkczUTJrenBXQ09xLVJKbUwwcXNRbjRZX0hzMXpBd0sxY2NPQXpKcTQ5N3c?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.772
-    },
-    {
-      "id": "evt_b8192e2c44e79432",
-      "topic": "business",
-      "headline": "Janus Henderson ICAV - Net Asset Value(s) – Company Announcement - Financial Times",
-      "summary": "Janus Henderson ICAV - Net Asset Value(s) – Company Announcement Financial Times",
-      "published_at": "2026-08-10T06:32:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnp5U3l3QVcyUV90T3dZc3lWV3VMcERJZ1pZMWJXYkttLUxvcXRlLW9uQUlzNi11WXRmaWJUVF9PV3Zva1FwSlNjWUFNc0htZEtWNHVNazIxd3R5VjE0RExCTkVvR3RGUzhLVENVS2lTS1pDcm8wUUJILUhiOUJid25jNy1oaVNlcVAyVm1YaVNJMV9P?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_751fc8898ccff094",
-      "topic": "politics",
-      "headline": "What’s driving unrest in Pakistan-administered Kashmir?",
-      "summary": "What's driving unrest in Pakistan-administered Kashmir?",
-      "published_at": "2026-08-10T06:26:04.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.77
-    },
-    {
-      "id": "evt_610b014dfe54fb92",
-      "topic": "crypto",
-      "headline": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-      "summary": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for themselves and went the other way.",
-      "published_at": "2026-08-10T06:25:17.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_85d665069b77d5f0",
-      "topic": "politics",
-      "headline": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - Reuters",
-      "summary": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength Reuters",
-      "published_at": "2026-08-10T06:21:44.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_c8317a646fdbfa1f",
-      "topic": "business",
-      "headline": "Pictet AI Enhanced US Equity UCITS ETF USD Acc, PQUD:GER summary - Financial Times",
-      "summary": "Pictet AI Enhanced US Equity UCITS ETF USD Acc, PQUD:GER summary Financial Times",
-      "published_at": "2026-08-10T06:20:18.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca0ppLWZNQjlmblNQMW1fczBubmdqMnd5WVJ0eWFTOW5HdUlHZ3BOYWpCNjJfWWp1ZUltdnZXOXJ3T0c3TXFobGhXdjlKSVVWd25PbWJnUHRHZ2ZnQTdIOFBmeWhqQUZwbERlVFJn?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_a1eb0d4d6aee2db7",
-      "topic": "business",
-      "headline": "Allianz Smart US Equity Active UCITS ETF USD Acc, AZFQ:FRA summary - Financial Times",
-      "summary": "Allianz Smart US Equity Active UCITS ETF USD Acc, AZFQ:FRA summary Financial Times",
-      "published_at": "2026-08-10T06:20:18.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Y2RQV0s3bDlMRm9hOVNnVHhVVkRwLTRBbkZIRG1DWl9Qczh4UmNDdmwwVkI3dTBKOWVDdWZFcnNndGJZOU1zWTAxa29SRVBkRjZUMjRGMFdST0JUd3ZQUjMyRUFqZVBmN195RjZ3?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_3ccbe9ed06c54964",
-      "topic": "business",
-      "headline": "Pictet AI Enhanced World ex US Eqt UCITS ETF USD A, PQXU:DUS summary - Financial Times",
-      "summary": "Pictet AI Enhanced World ex US Eqt UCITS ETF USD A, PQXU:DUS summary Financial Times",
-      "published_at": "2026-08-10T06:20:18.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WaVZaNkxSVEw5QXVjYlN3cXFLWE1DYTY2eUduMTRwaU94N0NPNjhZQ1YxR2d2SjI5YThCQXNqaXA2cjlsT0xSMGUyM2hhaTZTcHZwYVRINmJydm5zRzZFQ0xfSTY0aHNsRTYzMUFn?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.769
-    },
-    {
-      "id": "evt_ad22cc4ec7d29a7b",
-      "topic": "business",
-      "headline": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com",
-      "summary": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap Bloomberg.com",
-      "published_at": "2026-08-10T02:50:00.000Z",
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9CeWQ3UUhJR3ZMYjlnV1JmT0ZYV3NLWUc2UG82SnNwS0ZtelczaFNDa25xaDB1cG5FTWdfdl8yVEFLOUc0RnBCbjBkTURvcEs3SUloSHRaemE0c0gxbTdtZlNvT2lnY1dQSTctWVY2V1E1RHZZZEhTUDNIRUs4bFFIUWNtWTdkRklJdWZvcWJiS1pN?oc=5",
-          "homepage": "https://www.bloomberg.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.771
-    },
-    {
-      "id": "evt_be7c3828996b1ab7",
-      "topic": "politics",
-      "headline": "China is balancing Asia's crude oil demand by itself - Reuters",
-      "summary": "China is balancing Asia's crude oil demand by itself Reuters",
-      "published_at": "2026-08-10T06:18:34.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.768
+      "weight": 0.776,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXNPEK3I0BD_L.jpg"
     }
   ]
 }
