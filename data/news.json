@@ -1,136 +1,233 @@
 {
-  "generated_at": "2026-08-11T10:50:29.559Z",
+  "generated_at": "2026-08-11T13:04:29.808Z",
   "clusters": [
     {
-      "id": "evt_0d22eec947695cc5",
-      "topic": "politics",
-      "headline": "Russian attacks kill six",
-      "summary": "Russian attacks killed six in Ukraine. A children's hospital was also struck.",
-      "published_at": "2026-08-11T07:07:51.000Z",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-          "homepage": "https://www.aljazeera.com"
-        },
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnFkSFBRMEJfaHlFS3NOdmZoMUNnOWtXUDYtWU9UamZGLWhkQUl6ME5vbEpOZzAzcFBEdzYzbWUyckZsQ2toNkFHOHM0UUpzT1dXMmRlZWg2ZkVMMzNzNHJ3QWQwTmZoZUIyM1lKZDBvM1YzMmhNVFdPS1NBU1ZQaW9qTkN2NHFDSGFwN1BBdWs1Znhs?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 2,
-      "weight": 0.929
-    },
-    {
-      "id": "evt_65a2c04dc6663f69",
-      "topic": "business",
-      "headline": "Trump misjudged Iran",
-      "summary": "Trump thought Iran would open the Strait of Hormuz. Iran had other plans.",
-      "published_at": "2026-08-11T10:49:11.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjBPMlROTlJtRUlMdW1nVEZJYVNPWERpM0JfM0U2M3lMU0hMbUctb24xVlozZGdGTXZqdy1LdkVDcm90TU5KejhlZDAxNDJmTEFHa0pWa0tiNDdNVE5PdDJqMkJlcEEyaFVhTmpKWlVKczNsVDBGcW5tWXhRLWdOdXdKeUNQRjZzbXZEQ3BYT0g2ZnhPRE9fVlk2TQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_ba9940163d6c374e",
-      "topic": "crypto",
-      "headline": "Bitcoin price stagnant",
-      "summary": "Bitcoin is stuck below $65,000. Crypto and equities are unchanged.",
-      "published_at": "2026-08-11T10:48:08.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_6db87951cfa77402",
-      "topic": "politics",
-      "headline": "Colombia News",
-      "summary": "Colombia news. AP News reports.",
-      "published_at": "2026-08-11T10:48:06.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CZnhuUDQ2YTRjeGVsaC0zQlhlNmZ4WnR5OVM4dUdyd0YwZXNJLTk5elUzb0J2RXExRWxEUjZaeUNieGtlZHc?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_c615b057f9942106",
-      "topic": "politics",
-      "headline": "Earthquakes",
-      "summary": "Earthquakes occur. AP News reports.",
-      "published_at": "2026-08-11T10:48:02.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lUnh2Z2xsMnhjUVhQRWtfYWtCUFhPeFVNTklKNXk1QU9fcFZNZXBMaEpFeHQ0R3k1WkJTNWR6emplMUR1cW1vaUpR?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.78
-    },
-    {
-      "id": "evt_49ca659ee9c12e3b",
+      "id": "evt_09c62153d47f6af8",
       "topic": "finance",
-      "headline": "Covestro Research",
-      "summary": "Covestro joins research. Circular economy project.",
-      "published_at": "2026-08-11T10:46:04.000Z",
+      "headline": "Stock Position Started",
+      "summary": "A position in a memory maker was started. The stock is volatile.",
+      "published_at": "2026-08-11T13:03:26.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/11/were-starting-a-position-in-a-memory-maker-that-was-just-put-in-the-bullpen.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.78
+    },
+    {
+      "id": "evt_b68be4613c8b244a",
+      "topic": "finance",
+      "headline": "401(k) Fully Vests",
+      "summary": "A 401(k) fully vests this month. Companies contribute to employee accounts.",
+      "published_at": "2026-08-11T13:00:01.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_5753088d68495afd",
+      "topic": "ai",
+      "headline": "Spotify Labels AI Music",
+      "summary": "Spotify labels AI-generated music. AI music is excluded from recommendations.",
+      "published_at": "2026-08-11T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_b92bcd667dd611ea",
+      "topic": "ai",
+      "headline": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
+      "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max is more expensive tha",
+      "published_at": "2026-08-11T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_5d33ff8ad0078e06",
+      "topic": "ai",
+      "headline": "Bumble now lets men make the first move",
+      "summary": "Bumble backtracks on “women make the first move.” | Image: The Verge Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app. Today, ",
+      "published_at": "2026-08-11T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24349708/STK144_Bumble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_19e7b1253496c435",
+      "topic": "ai",
+      "headline": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streami",
+      "published_at": "2026-08-11T13:00:00.000Z",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+          "homepage": "https://www.theverge.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "id": "evt_0c97520fb845abe2",
+      "topic": "finance",
+      "headline": "Put options explained: How trading puts pays off and when it doesn't",
+      "summary": "Put options explained: How trading puts pays off and when it doesn't",
+      "published_at": "2026-08-11T13:00:00.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/covestro-joins-bmw-forvia-circular-104604797.html",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/put-option-130000345.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://media.zenfs.com/en/just_auto_187/a0bf39ab512ba5548a87429851e58f14"
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/f6Uwb5dgghnr.W6qb8EjnQ--~B/aD02MzM2O3c9OTUwNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/23725bcf-4195-4e72-ab79-7b56df1ef8fa"
     },
     {
-      "id": "evt_49eaa0b17ed9f4ba",
-      "topic": "politics",
-      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "published_at": "2026-08-11T10:43:07.000Z",
+      "id": "evt_44cd677ce8228bff",
+      "topic": "finance",
+      "headline": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
+      "summary": "”We don’t live lavishly, and sometimes we both think maybe we could upgrade a few things.”",
+      "published_at": "2026-08-11T13:00:00.000Z",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
       "weight": 0.779,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg"
+      "image_url": "https://images.mktw.net/im-34189112"
     },
     {
-      "id": "evt_8d3613ff7b3bae07",
+      "id": "evt_de63472a79e39cd7",
+      "topic": "finance",
+      "headline": "Cardinal Health Ticks Higher Despite Medical Wholesaler's Mixed Quarter",
+      "summary": "Cardinal Health Ticks Higher Despite Medical Wholesaler's Mixed Quarter",
+      "published_at": "2026-08-11T12:58:05.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/technology/cardinal-health-stock-cardinal-health-earnings-q4-2026/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/ibd.com/4ebeee4159af64ef255c78aa61b932d1"
+    },
+    {
+      "id": "evt_9940176b7fc4b718",
+      "topic": "finance",
+      "headline": "Hindustan Copper plans supply of Chilean copper to Hindalco and Adani",
+      "summary": "Hindustan Copper plans supply of Chilean copper to Hindalco and Adani",
+      "published_at": "2026-08-11T12:56:46.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/hindustan-copper-plans-supply-chilean-125646416.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779,
+      "image_url": "https://media.zenfs.com/en/mining_technology_700/84a72132674a6f16118f5ac66fe79a45"
+    },
+    {
+      "id": "evt_7f463ff18163ceea",
+      "topic": "finance",
+      "headline": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+      "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
+      "published_at": "2026-08-11T12:55:25.000Z",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+          "homepage": "https://www.cnbc.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.779
+    },
+    {
+      "id": "evt_7fa130da879e66d5",
+      "topic": "finance",
+      "headline": "Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Rocket Lab Dives On Earnings News (Live Coverage)",
+      "summary": "Stock Market Today: Dow Rises On Iran Claim; SpaceX Rival Rocket Lab Dives On Earnings News (Live Coverage)",
+      "published_at": "2026-08-11T12:52:38.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/ibd.com/431d4f16d31a37901c8a211c70d4b91e"
+    },
+    {
+      "id": "evt_7a682539ccb208cf",
+      "topic": "finance",
+      "headline": "ARK Invest buys Nvidia, Broadcom stock dips, sells Deere",
+      "summary": "ARK Invest buys Nvidia, Broadcom stock dips, sells Deere",
+      "published_at": "2026-08-11T12:50:02.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ark-invest-buys-nvidia-broadcom-125002528.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/quartz_855/513b1d29892d7782b85ab7931386d042"
+    },
+    {
+      "id": "evt_192f2c6d26e0480c",
       "topic": "politics",
-      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
-      "summary": "Middle East News | Latest News From The Middle East Today AP News",
-      "published_at": "2026-08-11T10:37:43.000Z",
+      "headline": "Russian attacks kill 9 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles - AP News",
+      "summary": "Russian attacks kill 9 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles AP News",
+      "published_at": "2026-08-11T12:50:00.000Z",
       "sources": [
         {
           "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVotMUdKMG1abkZ1TVBVLXZnck0tRnFMenNzM3pYblBwR0cyd1A2M0FQMnhkWWhPM3RBcjRHcDU1MjdwdDkxRTMzN2ZISVF5VDJyRXhjM28wZkdsdmF3N0w0SGU5cVA4UVkyTUxsS3R1bkFXMGJiaExtb0MzY1IzX0Zkbm5ZaXdxWlYyX1N5TnpaT3BNVERHaVFERlZUNHRBOEota204WlV4UQ?oc=5",
           "homepage": "https://apnews.com"
         }
       ],
@@ -138,217 +235,202 @@
       "weight": 0.778
     },
     {
-      "id": "evt_b94c66ca4938cf0b",
+      "id": "evt_aa2b76022681404c",
       "topic": "finance",
-      "headline": "Amazon, Microsoft, and Alphabet: 2 Winners and 1 Loser in the Cloud Computing Arena",
-      "summary": "Amazon, Microsoft, and Alphabet: 2 Winners and 1 Loser in the Cloud Computing Arena",
-      "published_at": "2026-08-11T10:35:00.000Z",
+      "headline": "Curreen Capital: TriNet (TNET) is a “Crazy-Cheap” Turnaround",
+      "summary": "Curreen Capital: TriNet (TNET) is a “Crazy-Cheap” Turnaround",
+      "published_at": "2026-08-11T12:48:14.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/amazon-microsoft-alphabet-2-winners-103500113.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/curreen-capital-trinet-tnet-crazy-124814202.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.778,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/182a0da86aa11e325bf93dd3e4e49ebb"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/6573f47988c5012888d00bc916d6febf"
     },
     {
-      "id": "evt_8037063dc68bdf02",
-      "topic": "crypto",
-      "headline": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
-      "summary": "FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.",
-      "published_at": "2026-08-11T10:34:52.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/4ef8d303f7969904e5e1ae76f9c06eaf7e4ea513-2856x1448.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_66951e8b13be14ca",
-      "topic": "crypto",
-      "headline": "FlightAware sues Kalshi over bets on flight cancellations",
-      "summary": "The flight-tracking company alleges Kalshi used its data and trademark without permission to settle contracts on canceled flights.",
-      "published_at": "2026-08-11T10:34:17.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/bc7f3e9169bf9107fc03d78e5c94a7e1d9d83488-4062x2708.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_b4a9ff2e79ca8020",
-      "topic": "business",
-      "headline": "Hunter Biden Sheds Light on His Dad’s Cancer and the Ex-President’s Life - WSJ",
-      "summary": "Hunter Biden Sheds Light on His Dad’s Cancer and the Ex-President’s Life WSJ",
-      "published_at": "2026-08-11T10:33:12.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWlDZmRCVDlyR1kybzVCLXFGaHhJZmFYS1ZQOFlLWk5QMk8zaGFFcVkzRTl3MVJsc04tRVlmVVlEWGlEUGVjWWpYVWliQU1TbUd4aVZXQ2R0elhtd1lZY3dBZzRHbm9VcnRlLXVmNi14UzlsSU84bllrckRYRUJGT0F6c3ByLXcwWG5LSWxhTkoybm5zV1cySnlBSWwxWDlEcUJRa3BxeEFhWUNGRldCY19R?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.778
-    },
-    {
-      "id": "evt_dd1796c79c567f58",
+      "id": "evt_5308a012f9cf3e1a",
       "topic": "finance",
-      "headline": "Grupo Supervielle earnings missed by $0.02, revenue was in line with estimates",
-      "summary": "Grupo Supervielle earnings missed by $0.02, revenue was in line with estimates",
-      "published_at": "2026-08-11T10:32:19.000Z",
+      "headline": "Earnings call transcript: ECARX Q2 2026 revenue jumps 45% as margin improves",
+      "summary": "Earnings call transcript: ECARX Q2 2026 revenue jumps 45% as margin improves",
+      "published_at": "2026-08-11T12:47:04.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/grupo-supervielle-earnings-missed-by-002-revenue-was-in-line-with-estimates-4851139",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-ecarx-q2-2026-revenue-jumps-45-as-margin-improves-93CH-4851648",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      "weight": 0.778,
+      "image_url": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
     },
     {
-      "id": "evt_5811f98b37025bb1",
+      "id": "evt_eb84dc59aadac970",
       "topic": "finance",
-      "headline": "WhiteHorse Finance earnings missed, revenue fell short of estimates",
-      "summary": "WhiteHorse Finance earnings missed, revenue fell short of estimates",
-      "published_at": "2026-08-11T10:32:08.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/whitehorse-finance-earnings-missed-revenue-fell-short-of-estimates-4851137",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
-    },
-    {
-      "id": "evt_e5b1800b18649b44",
-      "topic": "finance",
-      "headline": "Hong Kong considers widening tax reforms to proprietary trading firms",
-      "summary": "Hong Kong considers widening tax reforms to proprietary trading firms",
-      "published_at": "2026-08-11T10:32:05.000Z",
+      "headline": "SEG Solar opens second PV module factory, lifting US capacity to 6GW",
+      "summary": "SEG Solar opens second PV module factory, lifting US capacity to 6GW",
+      "published_at": "2026-08-11T12:46:50.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/hong-kong-considers-widening-tax-103205026.html",
+          "url": "https://finance.yahoo.com/energy/articles/seg-solar-opens-second-pv-124650942.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://media.zenfs.com/en/power_technology_866/387ba4e1372d6122627060bce57ce8cb"
+    },
+    {
+      "id": "evt_854a3016ade30918",
+      "topic": "finance",
+      "headline": "Earnings call transcript: Manappuram Finance posts strong Q1 2026 growth, shares slip",
+      "summary": "Earnings call transcript: Manappuram Finance posts strong Q1 2026 growth, shares slip",
+      "published_at": "2026-08-11T12:46:31.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-manappuram-finance-posts-strong-q1-2026-growth-shares-slip-93CH-4851645",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.778,
+      "image_url": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+    },
+    {
+      "id": "evt_3457be66cb9516ae",
+      "topic": "finance",
+      "headline": "Earnings call transcript: Flowco tops on cash flow, misses Q2 EPS in 2026",
+      "summary": "Earnings call transcript: Flowco tops on cash flow, misses Q2 EPS in 2026",
+      "published_at": "2026-08-11T12:46:28.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-flowco-tops-on-cash-flow-misses-q2-eps-in-2026-93CH-4851644",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+    },
+    {
+      "id": "evt_5ece1fbe02179b54",
+      "topic": "finance",
+      "headline": "Team Inc director Michael Stewart acquires 1.6 million shares",
+      "summary": "Team Inc director Michael Stewart acquires 1.6 million shares",
+      "published_at": "2026-08-11T12:46:12.000Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://investing.com/news/insider-trading-news/team-inc-director-michael-stewart-acquires-16-million-shares-93CH-4851643",
+          "homepage": "https://www.investing.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+    },
+    {
+      "id": "evt_25580a6475392079",
+      "topic": "finance",
+      "headline": "Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week",
+      "summary": "Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week",
+      "published_at": "2026-08-11T12:46:08.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/private_banker_international_938/4b435c54ef278da4afb75ae06887dcdf"
+      "image_url": "https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg"
     },
     {
-      "id": "evt_c38331c9384f50fd",
+      "id": "evt_176199dbcd091848",
       "topic": "finance",
-      "headline": "Goldman Sachs raises alternative asset manager stock outlook on fee growth",
-      "summary": "Goldman Sachs raises alternative asset manager stock outlook on fee growth",
-      "published_at": "2026-08-11T10:31:52.000Z",
+      "headline": "Citizens Community Bancorp CEO buys $20,500 in company stock",
+      "summary": "Citizens Community Bancorp CEO buys $20,500 in company stock",
+      "published_at": "2026-08-11T12:46:02.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/goldman-sachs-raises-alternative-asset-manager-stock-outlook-on-fee-growth-93CH-4851135",
+          "url": "https://investing.com/news/insider-trading-news/citizens-community-bancorp-ceo-buys-20500-in-company-stock-93CH-4851641",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM2M04W_L.jpg"
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
     },
     {
-      "id": "evt_dd3cc9c64a264f3d",
+      "id": "evt_1d0c60de6a827392",
       "topic": "finance",
-      "headline": "European stocks drift as Hormuz impasse and energy spike test AI rally",
-      "summary": "European stocks drift as Hormuz impasse and energy spike test AI rally",
-      "published_at": "2026-08-11T10:31:50.000Z",
+      "headline": "What to Do With Microsoft is a Very Simple Question Now",
+      "summary": "What to Do With Microsoft is a Very Simple Question Now",
+      "published_at": "2026-08-11T12:46:00.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-very-simple-now-124600789.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/90acd2e095afd345e0ea78954344b05c"
+    },
+    {
+      "id": "evt_9756be76ad6cff5c",
+      "topic": "finance",
+      "headline": "Viavi solutions EVP Paul McNab sells $59,605 in stock",
+      "summary": "Viavi solutions EVP Paul McNab sells $59,605 in stock",
+      "published_at": "2026-08-11T12:45:57.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799",
+          "url": "https://investing.com/news/insider-trading-news/viavi-solutions-evp-paul-mcnab-sells-59605-in-stock-93CH-4851640",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/LYNXNPEAB10O6_M.jpg"
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
     },
     {
-      "id": "evt_3e5a3721b8b36378",
-      "topic": "politics",
-      "headline": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-      "summary": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today AP News",
-      "published_at": "2026-08-11T10:31:27.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_1943e362fa5732cd",
-      "topic": "crypto",
-      "headline": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
-      "summary": "IGV’s rebound is reshaping a relationship it held with bitcoin for years, but history suggests bitcoin could still catch up.",
-      "published_at": "2026-08-11T10:31:26.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
-          "homepage": "https://www.coindesk.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/fdf51ced1e9ffbb8c0b1d7b79ae3a125caf2fb88-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "id": "evt_7ab7994c9b97570f",
+      "id": "evt_49f4e6fb4190d794",
       "topic": "finance",
-      "headline": "Earnings call transcript: Siili Solutions posts weaker H1 2026 as AI demand grows",
-      "summary": "Earnings call transcript: Siili Solutions posts weaker H1 2026 as AI demand grows",
-      "published_at": "2026-08-11T10:31:22.000Z",
+      "headline": "Will AI fix the U.S. federal debt? Wolfe Research weighs in.",
+      "summary": "Will AI fix the U.S. federal debt? Wolfe Research weighs in.",
+      "published_at": "2026-08-11T12:45:27.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/transcripts/earnings-call-transcript-siili-solutions-posts-weaker-h1-2026-as-ai-demand-grows-93CH-4851134",
+          "url": "https://investing.com/news/economy-news/will-ai-fix-the-us-federal-debt-wolfe-research-weighs-in-4851639",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
+      "image_url": "https://content-media.investing.com/news/moved_LYNXNPEL380VZ_L.jpg"
     },
     {
-      "id": "evt_e24fd9dc664bc2b9",
+      "id": "evt_f4a926098c50e549",
       "topic": "finance",
-      "headline": "Silence Therapeutics earnings beat by $0.05, revenue fell short of estimates",
-      "summary": "Silence Therapeutics earnings beat by $0.05, revenue fell short of estimates",
-      "published_at": "2026-08-11T10:31:09.000Z",
+      "headline": "Earnings call transcript: DiaMedica Q2 2026 loss matches forecast as trials advance",
+      "summary": "Earnings call transcript: DiaMedica Q2 2026 loss matches forecast as trials advance",
+      "published_at": "2026-08-11T12:45:14.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/earnings/silence-therapeutics-earnings-beat-by-005-revenue-fell-short-of-estimates-4851128",
+          "url": "https://investing.com/news/transcripts/earnings-call-transcript-diamedica-q2-2026-loss-matches-forecast-as-trials-advance-93CH-4851638",
           "homepage": "https://www.investing.com"
         }
       ],
@@ -357,371 +439,156 @@
       "image_url": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
     },
     {
-      "id": "evt_92a46f1573f47bda",
+      "id": "evt_87b33753682858f4",
       "topic": "finance",
-      "headline": "Par Pacific SVP Mattiussi sells $220k in shares",
-      "summary": "Par Pacific SVP Mattiussi sells $220k in shares",
-      "published_at": "2026-08-11T10:31:09.000Z",
+      "headline": "Why is Rapid7 stock rallying today?",
+      "summary": "Why is Rapid7 stock rallying today?",
+      "published_at": "2026-08-11T12:45:12.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/insider-trading-news/par-pacific-svp-mattiussi-sells-220k-in-shares-93CH-4851129",
+          "url": "https://investing.com/news/stock-market-news/why-is-rapid7-stock-rallying-today-93CH-4851637",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+      "image_url": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
     },
     {
-      "id": "evt_adb57d0b9dbb9ca1",
+      "id": "evt_163fc407ccd1e714",
       "topic": "finance",
-      "headline": "MEXC Upgrades RealStocks With Three New Features to Enhance U.S. Stock Trading Experience",
-      "summary": "MEXC Upgrades RealStocks With Three New Features to Enhance U.S. Stock Trading Experience",
-      "published_at": "2026-08-11T10:30:56.000Z",
+      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.11%",
+      "summary": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.11%",
+      "published_at": "2026-08-11T12:45:03.000Z",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://investing.com/news/press-releases/mexc-upgrades-realstocks-with-three-new-features-to-enhance-us-stock-trading-experience-4851125",
+          "url": "https://investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-011-4851636",
           "homepage": "https://www.investing.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/1200_6_800x533_L_1783516494.jpg"
+      "image_url": "https://content-media.investing.com/news/LYNXNPEC470BW_M.jpg"
     },
     {
-      "id": "evt_361817bab99878ea",
+      "id": "evt_3f8f23227fe96d4f",
       "topic": "finance",
-      "headline": "MEXC Lists DAPPOS (DOS) With $60,000 Worth of DOS and 10,000 USDT in Airdrop+ Rewards",
-      "summary": "MEXC Lists DAPPOS (DOS) With $60,000 Worth of DOS and 10,000 USDT in Airdrop+ Rewards",
-      "published_at": "2026-08-11T10:30:56.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/press-releases/mexc-lists-dappos-dos-with-60000-worth-of-dos-and-10000-usdt-in-airdrop-rewards-4851126",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://content-media.investing.com/news/1200_6_800x533_L_1783516494.jpg"
-    },
-    {
-      "id": "evt_7510cf4ced740a29",
-      "topic": "finance",
-      "headline": "Sportswear brand On misses quarterly sales view as consumer demand weakens",
-      "summary": "Sportswear brand On misses quarterly sales view as consumer demand weakens",
-      "published_at": "2026-08-11T10:30:55.000Z",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://investing.com/news/stock-market-news/sportswear-brand-on-misses-quarterly-sales-view-as-consumers-cut-back-4850969",
-          "homepage": "https://www.investing.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0KG_L.jpg"
-    },
-    {
-      "id": "evt_c7a0e5fd4316bf87",
-      "topic": "finance",
-      "headline": "Is Berkshire Hathaway Stock a Buy as Warren Buffett Successor Greg Abel Starts to Deploy the Company's Cash Hoard?",
-      "summary": "Is Berkshire Hathaway Stock a Buy as Warren Buffett Successor Greg Abel Starts to Deploy the Company's Cash Hoard?",
-      "published_at": "2026-08-11T10:30:00.000Z",
+      "headline": "Eli Lilly and Company (LLY) vs. Novo Nordisk A/S (NVO): Is Lilly Pulling Ahead in the $100 Billion Obesity Market?",
+      "summary": "Eli Lilly and Company (LLY) vs. Novo Nordisk A/S (NVO): Is Lilly Pulling Ahead in the $100 Billion Obesity Market?",
+      "published_at": "2026-08-11T12:44:16.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-buy-warren-103000744.html",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-vs-124416743.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/d7060ec93e89a34c53ae39b8806b5d43"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/4b9ae3e820991409356264f5ee1180f1"
     },
     {
-      "id": "evt_bc05acdbeefc391d",
+      "id": "evt_2ffb52c02d551c64",
       "topic": "finance",
-      "headline": "These 11 midcaps are popular right now among investment newsletters but not because of their market valuations",
-      "summary": "Bigger than small caps. Smaller than large caps. Are they, as in the fairytale, “just right”?",
-      "published_at": "2026-08-11T10:30:00.000Z",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://marketwatch.com/story/these-11-midcaps-are-popular-right-now-among-investment-newsletters-but-not-because-of-their-market-valuations-a0bf0fbb?mod=mw_rss_topstories",
-          "homepage": "https://www.marketwatch.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://images.mktw.net/im-268382"
-    },
-    {
-      "id": "evt_d67a1de90085c384",
-      "topic": "business",
-      "headline": "Venture Global Reports Second Quarter 2026 Results – Company Announcement - Financial Times",
-      "summary": "Venture Global Reports Second Quarter 2026 Results – Company Announcement Financial Times",
-      "published_at": "2026-08-11T10:30:00.000Z",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHpMX0NkNFE1MGRNUms1a1oyNHNLWHNMMVBqR210T2tDNXA1V0pOU0lmUm1tdW8wVktITHNOLVo0LTNwZ1pqcTBZX1lsUFY1NWpfblpRLThUQkItY19Ua1JFUHJjeE83SUtjSllGSEZnX0N1Y0lrU2lIOUp3N0FvblE1RzRBckFmLUNJOUtVSUc3ZXowaGxPZnlpTEprbjQ4X1h6Vjdn?oc=5",
-          "homepage": "https://www.ft.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_6c80c2ff7bedb718",
-      "topic": "finance",
-      "headline": "Rémy Cointreau picks Monika Alcobev to distribute in India",
-      "summary": "Rémy Cointreau picks Monika Alcobev to distribute in India",
-      "published_at": "2026-08-11T10:29:55.000Z",
+      "headline": "Better (BETR) Q2 2026 Earnings Call Transcript",
+      "summary": "Better (BETR) Q2 2026 Earnings Call Transcript",
+      "published_at": "2026-08-11T12:43:35.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/r-cointreau-picks-monika-alcobev-102955223.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-betr-q2-2026-earnings-124335038.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/just_drinks_442/8fc652b6c96087d594383f14bfba14b7"
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73"
     },
     {
-      "id": "evt_c8f92c90960e0a8d",
-      "topic": "science",
-      "headline": "The proton is more quantum than we thought",
-      "summary": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
-      "published_at": "2026-08-11T10:29:49.000Z",
-      "sources": [
-        {
-          "name": "New Scientist",
-          "url": "https://newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought",
-          "homepage": "https://www.newscientist.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307888887.jpg"
-    },
-    {
-      "id": "evt_7a217b3f66fd4eee",
+      "id": "evt_aed83d9c7ac72b46",
       "topic": "finance",
-      "headline": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-      "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
-      "published_at": "2026-08-11T05:01:40.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.763
-    },
-    {
-      "id": "evt_7eb46c2bc1a7ea44",
-      "topic": "finance",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures waver as US, Iran harden stances",
-      "summary": "Stock market today: Dow, S&P 500, Nasdaq futures waver as US, Iran harden stances",
-      "published_at": "2026-08-11T10:28:27.000Z",
+      "headline": "Operational Recovery Positions Advance Auto Parts (AAP) for Gains",
+      "summary": "Operational Recovery Positions Advance Auto Parts (AAP) for Gains",
+      "published_at": "2026-08-11T12:43:10.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/operational-recovery-positions-advance-auto-124310032.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/2u362BNKJ7zdy1psI_AFKg--~B/aD0xOTgwO3c9MzAyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/462d5217-8fa6-4062-9a95-4c157a602cc2"
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/edbe356148e340e1dcf1012c1b578980"
     },
     {
-      "id": "evt_5d39f8a855fe7ec4",
-      "topic": "crypto",
-      "headline": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
-      "summary": "Dashjr said he is taking a sabbatical from his role as chair and chief technology officer of mining pool Ocean.",
-      "published_at": "2026-08-11T10:28:19.000Z",
+      "id": "evt_7aebd2581cc2d1a4",
+      "topic": "finance",
+      "headline": "Micron is Gaining Share. These Bulls See More Upside Ahead",
+      "summary": "Micron is Gaining Share. These Bulls See More Upside Ahead",
+      "published_at": "2026-08-11T12:42:59.000Z",
       "sources": [
         {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
-          "homepage": "https://www.coindesk.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-gaining-share-bulls-see-124259130.html",
+          "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/dc4c12877ab4eb63b5f44ae62d0347edcbabaa90-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/598eab9a726826d56d453faea2524623"
     },
     {
-      "id": "evt_4bcbd8a001206303",
+      "id": "evt_4ce6404eacd2212f",
+      "topic": "finance",
+      "headline": "Cleveland Fed's Beth Hammack says multiple rate hikes needed",
+      "summary": "Cleveland Fed's Beth Hammack says multiple rate hikes needed",
+      "published_at": "2026-08-11T12:41:46.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/cleveland-feds-beth-hammack-says-124146114.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/quartz_855/91ee35120561874d3ebb6b3394b8f08c"
+    },
+    {
+      "id": "evt_8ef949c3c8f94c6d",
+      "topic": "finance",
+      "headline": "5 Dividend Kings That Blew Away Q2 Earnings Are Sizzling Summer Bargains",
+      "summary": "5 Dividend Kings That Blew Away Q2 Earnings Are Sizzling Summer Bargains",
+      "published_at": "2026-08-11T12:40:40.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-kings-blew-away-124040570.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.777,
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/5b1f8164c492e4d31528edcb55470e66"
+    },
+    {
+      "id": "evt_3905828b03bba8bc",
       "topic": "politics",
-      "headline": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier - Reuters",
-      "summary": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier Reuters",
-      "published_at": "2026-08-11T10:25:55.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1UxVEpYQVpJc25ZUEVGRUZkcUFsc2lGb19aSjBuSjd4VzJUS0dfekJQanFuY1hndzVhV2pUeDFLZURtMU1Nc18tb1ZCQ2xDbnVxVi1lckltZ0ZvSzJiSTI2UUpqWkt1MW9oNExwNE1aLVhCeWk2RGpIbHR4cWNxV3hLM0RLMEpzUVVZNVBxdXpDYktjTm5jSUs4LTJTbVBTUzFVVWdJRGJKNThTS1FUU3hWSmVkdw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_af8b8ec69a8fd94d",
-      "topic": "finance",
-      "headline": "“The Bottleneck Isn’t the Chips Anymore”: Goldman Sachs Says These Are AI’s Next Big Winners",
-      "summary": "“The Bottleneck Isn’t the Chips Anymore”: Goldman Sachs Says These Are AI’s Next Big Winners",
-      "published_at": "2026-08-11T10:25:52.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/bottleneck-isn-t-chips-anymore-102552279.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777,
-      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/394819492ce2bd0fb33391e3ad11b577"
-    },
-    {
-      "id": "evt_a96ac6157438f7fc",
-      "topic": "politics",
-      "headline": "East Libya military intelligence chief killed in car bomb",
-      "summary": "Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
-      "published_at": "2026-08-11T10:25:50.000Z",
+      "headline": "Philippines sailors say they will work despite wartime risks",
+      "summary": "Philippines sailors say they will work despite wartime risks",
+      "published_at": "2026-08-11T12:40:11.000Z",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
           "homepage": "https://www.aljazeera.com"
         }
       ],
       "source_count": 1,
       "weight": 0.777
-    },
-    {
-      "id": "evt_2ca1ee91e11a736b",
-      "topic": "politics",
-      "headline": "Lindsey Graham - AP News",
-      "summary": "Lindsey Graham AP News",
-      "published_at": "2026-08-11T10:25:41.000Z",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zc0t4X3hEZ0lBVXZuQ0pTREFxcjZob2dqdWxlUVQ3TURrYkVtRlVUbWVDZmVsMGRzWTZsU0VGcEN5a21fZmFQMkFJaDNuUQ?oc=5",
-          "homepage": "https://apnews.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.777
-    },
-    {
-      "id": "evt_2ee467841ee5e2b6",
-      "topic": "finance",
-      "headline": "Robinhood Now Has 13 Separate Business Lines Above $100 Million in Annualized Revenue. Here's Why Crypto No Longer Decides the Quarter.",
-      "summary": "Robinhood Now Has 13 Separate Business Lines Above $100 Million in Annualized Revenue. Here's Why Crypto No Longer Decides the Quarter.",
-      "published_at": "2026-08-11T10:25:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-now-13-separate-business-102500849.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/e823fdb10ef70c0025db03ca9d8fcd1d"
-    },
-    {
-      "id": "evt_6736482f53637556",
-      "topic": "business",
-      "headline": "New Mexico Attorney General Sues DOJ for Access to Epstein Files - WSJ",
-      "summary": "New Mexico Attorney General Sues DOJ for Access to Epstein Files WSJ",
-      "published_at": "2026-08-11T10:24:52.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGpob09Dbzl5Wnh2enNnczB6a3k3SkktTWFkNkFJZ0JDSk9kR2tMYzVLYlQyZExQUnNMU1ZXT19vVDNfNjgxaExuR0NqQkJfdFM5VFdhV0tSbGxMa2xNREhxOXhHbWlHOU16cF8yZUdGa0FKUG9UM21xMHM0ZmhSdkxNa3hZdC1Mejl2Rjg5SVNYUVI3WFlOS0FYaWFGUWFJWVlpRE5pbk0?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_b930e2547ec32dc1",
-      "topic": "business",
-      "headline": "Airbnb Boosts Full-Year Forecast on Strong Demand as AI Bets Pay Off - WSJ",
-      "summary": "Airbnb Boosts Full-Year Forecast on Strong Demand as AI Bets Pay Off WSJ",
-      "published_at": "2026-08-11T10:24:48.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMG9mbWdpcjhsYTZHSGNmNzVjRmpqYlM2em9NR2JlQXRIVGQtakVFeHZkbm0tVDFDYV9uUGdfdWxfSWljS2tLRnl6QWZyQk1hV0Vpa1ZFQWFRTGE0TF9Kc3p6M0dGQWxMQmVON3pid2NpYVotYzJ1RVZoc1N2a2VLX2h3bGZ3MkYzU09pcmJIaTc0eFJSdWpnYndEei01U1B6bjZV?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776
-    },
-    {
-      "id": "evt_692e0a413b478a6d",
-      "topic": "finance",
-      "headline": "Samsung SDI takes full control of GM’s Indiana battery plant",
-      "summary": "Samsung SDI takes full control of GM’s Indiana battery plant",
-      "published_at": "2026-08-11T10:23:14.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/samsung-sdi-takes-full-control-102314096.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/just_auto_187/a2dbb7e8e8531c06dc18b9542f4e87a9"
-    },
-    {
-      "id": "evt_101328a2177dc0e5",
-      "topic": "finance",
-      "headline": "The Stock Market Is Doing Something Observed Only Once Before. History Is Clear About What Comes Next.",
-      "summary": "The Stock Market Is Doing Something Observed Only Once Before. History Is Clear About What Comes Next.",
-      "published_at": "2026-08-11T10:20:00.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-observed-102000976.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/3ede515f9a057e2a99af6e008463a09d"
-    },
-    {
-      "id": "evt_05d2e2b472b95b2a",
-      "topic": "finance",
-      "headline": "US fuel sales to Cuban business bring a glimpse of capitalism to Havana",
-      "summary": "US fuel sales to Cuban business bring a glimpse of capitalism to Havana",
-      "published_at": "2026-08-11T10:18:54.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.776,
-      "image_url": "https://media.zenfs.com/en/reuters.com/e487d4e6a532ce0f0426f765a05f62d1"
     },
     {
       "id": "evt_9f1c7ee81980953b",
@@ -740,31 +607,164 @@
       "weight": 0.776
     },
     {
-      "id": "evt_d093ed1605354041",
-      "topic": "finance",
-      "headline": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
-      "summary": "President Gianni Infantino pushed FIFA's commercialization drive, which culminated in the largest, most profitable World Cup on record",
-      "published_at": "2026-08-11T10:17:53.000Z",
+      "id": "evt_afbd0f4922033f6a",
+      "topic": "politics",
+      "headline": "Late snow blankets parts of southern Africa as winter nears its end",
+      "summary": "Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.",
+      "published_at": "2026-08-11T12:36:37.000Z",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-          "homepage": "https://www.cnbc.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776
+    },
+    {
+      "id": "evt_e24938ce54e3a669",
+      "topic": "finance",
+      "headline": "Israeli Defense Contractor Beats Earnings; Stock Sinks Over Iran War Renewal",
+      "summary": "Israeli Defense Contractor Beats Earnings; Stock Sinks Over Iran War Renewal",
+      "published_at": "2026-08-11T12:34:30.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://investors.com/news/elbit-systems-iran-war-israel-defense-aerospace/?src=A00220&yptr=yahoo",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.776,
+      "image_url": "https://media.zenfs.com/en/ibd.com/3e9d93f3bee2eb000f1952e3593669bc"
+    },
+    {
+      "id": "evt_54955f167ca9e1d7",
+      "topic": "business",
+      "headline": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend - WSJ",
+      "summary": "This Summer’s Hottest Arm Candy Is a Private Equity Boyfriend WSJ",
+      "published_at": "2026-08-11T12:31:56.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmJEdkNPbnFIaWIwci1ma1Qya3RudkQzWUtuLWlDSks5eTZIQVhCbjF1RkVEWllZLWVYUWlhRmV6UThmVzlaQUF4X1FzX2FiS1JQSldYb3NGU01zSkNUbXhRNERMVXYzNWlkRXRzLXR3VzhSM3JQNGdzZk5MTTdXWkktMzk?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775
     },
     {
-      "id": "evt_1da16d68ac8457b1",
+      "id": "evt_7b028417ac14e0ed",
       "topic": "politics",
-      "headline": "Oil climbs 2%, extending gains on dimming U.S.-Iran peace hopes - Reuters",
-      "summary": "Oil climbs 2%, extending gains on dimming U.S.-Iran peace hopes Reuters",
-      "published_at": "2026-08-11T10:16:09.000Z",
+      "headline": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
+      "summary": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
+      "published_at": "2026-08-11T12:31:49.000Z",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_1daaf7b74d4ff50e",
+      "topic": "finance",
+      "headline": "Oil firm as US-Iran impasse drags on; stocks edge up",
+      "summary": "Oil firm as US-Iran impasse drags on; stocks edge up",
+      "published_at": "2026-08-11T12:31:24.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/oil-prices-rise-asia-stocks-014100980.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/reuters.com/2ee3e6a3668c63a57516f3396effbf6e"
+    },
+    {
+      "id": "evt_af655aee096703db",
+      "topic": "finance",
+      "headline": "Pfizer Inc. (PFE) vs. BioNTech SE (BNTX): Which Pharma Giant Is Better Positioned for the Post-COVID Era?",
+      "summary": "Pfizer Inc. (PFE) vs. BioNTech SE (BNTX): Which Pharma Giant Is Better Positioned for the Post-COVID Era?",
+      "published_at": "2026-08-11T12:31:10.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-inc-pfe-vs-biontech-123110407.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/221ca71178ac98317518fd4db57e369e"
+    },
+    {
+      "id": "evt_6589bef99a26c4b4",
+      "topic": "finance",
+      "headline": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
+      "summary": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.",
+      "published_at": "2026-08-11T12:31:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://images.mktw.net/im-36642300"
+    },
+    {
+      "id": "evt_160490d49b1cd6ec",
+      "topic": "ai",
+      "headline": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
+      "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
+      "published_at": "2026-08-11T12:30:00.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_a19eb7961642d205",
+      "topic": "finance",
+      "headline": "Airbnb has added thousands of new hotel listings. Will that ruin its charm?",
+      "summary": "The home-rental company is leaning into hotels and third-party amenities to transform into a “one-stop shop” for travel.",
+      "published_at": "2026-08-11T12:29:00.000Z",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775,
+      "image_url": "https://images.mktw.net/im-29381509"
+    },
+    {
+      "id": "evt_9ff98e069eb67cb3",
+      "topic": "politics",
+      "headline": "Meta and TikTok agree to fact-check content on Spain border crossings after deadly rush - reuters.com",
+      "summary": "Meta and TikTok agree to fact-check content on Spain border crossings after deadly rush reuters.com",
+      "published_at": "2026-08-11T12:27:49.000Z",
       "sources": [
         {
           "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWl9feWhQdTVlYnFhSjgzSml1UEx5dTFuQ084SVp2UHdxVmIzX3RuU21FQXRFR1Ryeks4bllBRjUxR2g1OWl5OVJkVWE2OUtROVhEOWc4RUFpd1Jxek96aWlqSzV0dy1FcUdVaV9ZX1ZTN0J4VU81cVRuOHljaXVIWHpYQkhCQlZua0ZvZWpwTXV1d05GOElka1JncHRXbHZKRGhlbEU2dDJlSVMwQ0Q3dk9Ya1FubFhkNGdzLQ?oc=5",
           "homepage": "https://www.reuters.com/world"
         }
       ],
@@ -772,21 +772,87 @@
       "weight": 0.775
     },
     {
-      "id": "evt_135e6f2e3672692e",
-      "topic": "finance",
-      "headline": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
-      "summary": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
-      "published_at": "2026-08-11T10:15:00.000Z",
+      "id": "evt_789f22c5af44c465",
+      "topic": "politics",
+      "headline": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+      "summary": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
+      "published_at": "2026-08-11T12:27:15.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
+          "homepage": "https://www.aljazeera.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.775
+    },
+    {
+      "id": "evt_8a71b2bc5a9ded04",
+      "topic": "crypto",
+      "headline": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
+      "summary": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
+      "published_at": "2026-08-11T12:25:41.000Z",
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls",
+          "homepage": "https://cointelegraph.com"
         }
       ],
       "source_count": 1,
       "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/a8dbea9dd228075d46836459f9b4592e"
+      "image_url": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-on-etoro.jpg"
+    },
+    {
+      "id": "evt_c31364dd588e0151",
+      "topic": "finance",
+      "headline": "Fortrea (FTRE) Gains Traction in Turnaround",
+      "summary": "Fortrea (FTRE) Gains Traction in Turnaround",
+      "published_at": "2026-08-11T12:24:28.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fortrea-ftre-gains-traction-turnaround-122428153.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/61075bd784970f0041b086047d98d9e5"
+    },
+    {
+      "id": "evt_5493caa970e3de80",
+      "topic": "ai",
+      "headline": "OpenAI's Only Ethicist Reportedly Left Last Month",
+      "summary": "Article URL: https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883 Comments URL: https://news.ycombinator.com/item?id=49257160 Points: 15 # Comments: 12",
+      "published_at": "2026-08-11T12:23:07.000Z",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
+          "homepage": "https://news.ycombinator.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774
+    },
+    {
+      "id": "evt_1da92ece46f6057d",
+      "topic": "finance",
+      "headline": "Could Alkermes plc (ALKS) Stock Rebound After Investors Look Beyond Near-Term Profit Pressure?",
+      "summary": "Could Alkermes plc (ALKS) Stock Rebound After Investors Look Beyond Near-Term Profit Pressure?",
+      "published_at": "2026-08-11T12:22:45.000Z",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-alkermes-plc-alks-stock-122245907.html",
+          "homepage": "https://finance.yahoo.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/17e6f670a2b6aca261c30632abd05431"
     },
     {
       "id": "evt_a96d00d43ac3580f",
@@ -805,204 +871,137 @@
       "weight": 0.775
     },
     {
-      "id": "evt_fcacba238b842571",
-      "topic": "crypto",
-      "headline": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-      "summary": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.",
-      "published_at": "2026-08-11T10:14:39.000Z",
+      "id": "evt_b9b4044844eb7a04",
+      "topic": "ai",
+      "headline": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadat",
+      "published_at": "2026-08-11T12:22:20.000Z",
       "sources": [
         {
-          "name": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin",
-          "homepage": "https://cointelegraph.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://s3-images.ctmedia.io/media/article-covers/coldcard-screen-edit.png"
-    },
-    {
-      "id": "evt_9ad5b90f85a9c0b3",
-      "topic": "politics",
-      "headline": "China's car sales extend slide as shift accelerates to overseas markets - Reuters",
-      "summary": "China's car sales extend slide as shift accelerates to overseas markets Reuters",
-      "published_at": "2026-08-11T10:13:16.000Z",
-      "sources": [
-        {
-          "name": "Reuters World",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTYwb00xY1NfcjFuMXpQZ1lFWklIN0ZESEVoazVxR1dIbkRSR1NqQS1IM3JQNTI2LXgtcW5GYS1PeEN3VTlLLV9UWkFILXNJYjFPWThEU2FGdHZzZ3ljNHVGLUkwZnBlUElSZjVNTmlER1hmNWtXTF80ODZJTzRJT0FzRHdtanRsRnZaTHVFaG5IaEIwMkxDUVdUTlNHeHVTblN6LVNtN0JLTFRiaW9JVVg2YXkyVmNreTUw?oc=5",
-          "homepage": "https://www.reuters.com/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_6204debdfb74301e",
-      "topic": "politics",
-      "headline": "Watch: Family escapes home during Colombia earthquake",
-      "summary": "At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
-      "published_at": "2026-08-11T10:12:21.000Z",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-          "homepage": "https://www.bbc.com/news/world"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8697/live/519cdac0-955c-11f1-b96f-3d43158251d5.jpg"
-    },
-    {
-      "id": "evt_40bc5ec4ea85c789",
-      "topic": "finance",
-      "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-      "published_at": "2026-08-11T10:12:14.000Z",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-          "homepage": "https://www.cnbc.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_e9b8baa33a53aff6",
-      "topic": "finance",
-      "headline": "AST SpaceMobile Stock Falls After Q2 Revenue Miss and Wider-Than-Expected Loss",
-      "summary": "AST SpaceMobile Stock Falls After Q2 Revenue Miss and Wider-Than-Expected Loss",
-      "published_at": "2026-08-11T10:12:06.000Z",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-falls-q2-101206328.html",
-          "homepage": "https://finance.yahoo.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775,
-      "image_url": "https://media.zenfs.com/en/investorshub_458/b6be26132dac944b9b64df2152d3a513"
-    },
-    {
-      "id": "evt_cc9f225d66edf5db",
-      "topic": "business",
-      "headline": "War Is Helping Chinese EVs Upend the Global Car Market - WSJ",
-      "summary": "War Is Helping Chinese EVs Upend the Global Car Market WSJ",
-      "published_at": "2026-08-11T10:11:53.000Z",
-      "sources": [
-        {
-          "name": "Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0VYNHI0R1N6RUhRWGFRMlNDNGlickNVblpPX2hFbmdpd0dacEhrQ3hvYUJqYUt3OVhyUlEzT0VKRHF2S1dGUFc3N1hGZ1l5UHJoLUFKRnNMM3d3MUpWMURfRkNsMjNXQVQxUjdxRFR0NDE3TXEwWDFHZHlaTVJZNEtOQTBfeVhYYnJmaXVZUnRVbklDbzN5V1MxZDRPNzQ?oc=5",
-          "homepage": "https://www.wsj.com"
-        }
-      ],
-      "source_count": 1,
-      "weight": 0.775
-    },
-    {
-      "id": "evt_7c513809b4e6f365",
-      "topic": "crypto",
-      "headline": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-      "summary": "Nvidia has signed memorandums of understanding with six major Wall Street firms to establish \"AI compute\" as a bankable infrastructure asset.",
-      "published_at": "2026-08-11T10:10:36.000Z",
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
-          "homepage": "https://www.coindesk.com"
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+          "homepage": "https://www.theverge.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774,
-      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "id": "evt_397b311f6a3b0712",
-      "topic": "business",
-      "headline": "Resilient Europe Turns Into a Winning Bet for Money Managers - Bloomberg.com",
-      "summary": "Resilient Europe Turns Into a Winning Bet for Money Managers Bloomberg.com",
-      "published_at": "2026-08-11T10:10:18.000Z",
+      "id": "evt_cfd3ee865c3694fc",
+      "topic": "crypto",
+      "headline": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+      "summary": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
+      "published_at": "2026-08-11T12:22:13.000Z",
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclpXODhtOUE3UG0tNWxDQUVhamVnaENtT0ZZU2VvSDlzTUd6VUNZNjJyTDdzakpXRVdMQ29lYld3OG9FQ2F2N1Fmd2YtZGJtcVlPLWlqR2hEVk1vUTQxUUFJUnJYS0traW9OMHJfNXgta2dqNWdTZFFNa2N3TktRVFNFQW1CMUNUdWxIbGhKRXBvUGxhMmxxQnl3TTRkQ2RIMnM1ZjF0Y0w3cmlzY1NUbw?oc=5",
-          "homepage": "https://www.bloomberg.com"
+          "name": "Decrypt",
+          "url": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+          "homepage": "https://decrypt.co"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.774,
+      "image_url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg"
+    },
+    {
+      "id": "evt_ad5f690ac814f765",
+      "topic": "business",
+      "headline": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ",
+      "summary": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran WSJ",
+      "published_at": "2026-08-11T12:22:00.000Z",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB?oc=5",
+          "homepage": "https://www.wsj.com"
         }
       ],
       "source_count": 1,
       "weight": 0.774
     },
     {
-      "id": "evt_42a9a79348ae9b22",
+      "id": "evt_0801364bf861df18",
       "topic": "finance",
-      "headline": "Rocket Lab Stock Fell Nearly 50% From Its Record High. History Says Do This Next.",
-      "summary": "Rocket Lab Stock Fell Nearly 50% From Its Record High. History Says Do This Next.",
-      "published_at": "2026-08-11T10:10:00.000Z",
+      "headline": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
+      "summary": "Canada’s post-2008 playbook shows the volatility risks of Warsh’s no-guidance Fed.",
+      "published_at": "2026-08-11T12:16:00.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-fell-nearly-101000597.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/warshs-changes-to-forward-guidance-were-tried-by-one-central-bank-and-heres-what-happened-c7a5c743?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/2d384e4c6fee4d2156e6ae3ac7d697de"
+      "weight": 0.773,
+      "image_url": "https://images.mktw.net/im-82885926"
     },
     {
-      "id": "evt_91e76b9e63a5e0b3",
+      "id": "evt_21a57b2a38148758",
       "topic": "finance",
-      "headline": "Alcon Raises 2026 Profit Guidance as Expected U.S. Refund Reduces Tariff Impact",
-      "summary": "Alcon Raises 2026 Profit Guidance as Expected U.S. Refund Reduces Tariff Impact",
-      "published_at": "2026-08-11T10:09:55.000Z",
+      "headline": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal",
+      "summary": "U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.",
+      "published_at": "2026-08-11T12:15:44.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alcon-raises-2026-profit-guidance-100955469.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "CNBC",
+          "url": "https://cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+          "homepage": "https://www.cnbc.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/investorshub_458/9479c04c0b54582e6544766517eb4b4c"
+      "weight": 0.773
     },
     {
-      "id": "evt_44d863337179e703",
+      "id": "evt_e4203b56fc6cf233",
       "topic": "finance",
-      "headline": "Babcock & Wilcox Shares Surge 40.5% After Q2 Results Beat Expectations and Guidance Rises",
-      "summary": "Babcock & Wilcox Shares Surge 40.5% After Q2 Results Beat Expectations and Guidance Rises",
-      "published_at": "2026-08-11T10:08:26.000Z",
+      "headline": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "summary": "“I’m curious whether there’s a downside.”",
+      "published_at": "2026-08-11T12:15:00.000Z",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-shares-surge-40-100826188.html",
-          "homepage": "https://finance.yahoo.com"
+          "name": "MarketWatch",
+          "url": "https://marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+          "homepage": "https://www.marketwatch.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/investorshub_458/9c695a3d592f85108a48441de89d9a3c"
+      "weight": 0.773,
+      "image_url": "https://images.mktw.net/im-56530103"
     },
     {
-      "id": "evt_23846caf84ec9b6c",
+      "id": "evt_53c498c7722b4c14",
+      "topic": "ai",
+      "headline": "Anthropic says it will watermark text generated by its AI models",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "published_at": "2026-08-11T12:13:47.000Z",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+          "homepage": "https://techcrunch.com"
+        }
+      ],
+      "source_count": 1,
+      "weight": 0.773
+    },
+    {
+      "id": "evt_fd98f8c9b3263df6",
       "topic": "finance",
-      "headline": "Nvidia Targets Over $500 Billion for AI Infrastructure Financing with Global Financial Giants",
-      "summary": "Nvidia Targets Over $500 Billion for AI Infrastructure Financing with Global Financial Giants",
-      "published_at": "2026-08-11T10:07:09.000Z",
+      "headline": "Frontdoor’s (FTDR) Free Cash Flow Powers Upward Potential",
+      "summary": "Frontdoor’s (FTDR) Free Cash Flow Powers Upward Potential",
+      "published_at": "2026-08-11T12:13:24.000Z",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-targets-over-500-billion-100709208.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/frontdoor-ftdr-free-cash-flow-121324295.html",
           "homepage": "https://finance.yahoo.com"
         }
       ],
       "source_count": 1,
-      "weight": 0.774,
-      "image_url": "https://media.zenfs.com/en/investorshub_458/40decb3da26eb6d64ff7a97142425bd8"
+      "weight": 0.773,
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/515f8750e98b9cfe2ce2b7f2c6913441"
     }
   ]
 }
